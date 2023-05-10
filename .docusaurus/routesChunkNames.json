@@ -1,400 +1,378 @@
 {
   "/tech-blog/-cf4": {
-    "component": "component---site-src-pages-index-jsc-4-f-f99",
-    "config": "config---tech-blog-5-e-9-73c"
-  },
-  "/tech-blog/__docusaurus/debug-858": {
-    "component": "component---theme-debug-config-23-a-2ff"
-  },
-  "/tech-blog/__docusaurus/debug/config-762": {
-    "component": "component---theme-debug-config-23-a-2ff"
-  },
-  "/tech-blog/__docusaurus/debug/content-98d": {
-    "component": "component---theme-debug-contentba-8-ce7",
-    "allContent": "allContent---tech-blog-docusaurus-debug-content-246-59e"
-  },
-  "/tech-blog/__docusaurus/debug/globalData-c5e": {
-    "component": "component---theme-debug-global-dataede-0fa"
-  },
-  "/tech-blog/__docusaurus/debug/metadata-0b7": {
-    "component": "component---theme-debug-site-metadata-68-e-3d4"
-  },
-  "/tech-blog/__docusaurus/debug/registry-b5d": {
-    "component": "component---theme-debug-registry-679-501"
-  },
-  "/tech-blog/__docusaurus/debug/routes-8bb": {
-    "component": "component---theme-debug-routes-946-699"
+    "component": "c4f5d8e4",
+    "config": "5e9f5e1a"
   },
   "/tech-blog/blog-d34": {
-    "component": "component---theme-blog-list-pagea-6-a-7ba",
-    "sidebar": "sidebar---tech-blog-blog-814-d3a",
+    "component": "a6aa9e1f",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---tech-blog-blog-766-441"
+        "content": "7661071f"
       },
       {
-        "content": "content---tech-blog-blogf-4-f-ffb"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---tech-blog-blog-871-c99"
+        "content": "8717b14a"
       },
       {
-        "content": "content---tech-blog-blog-925-f8d"
+        "content": "925b3f96"
       }
     ],
-    "metadata": "metadata---tech-blog-blog-8-b-2-602"
+    "metadata": "8b2e9c18"
   },
   "/tech-blog/blog/archive-78e": {
-    "component": "component---theme-blog-archive-page-9-e-4-1d8",
-    "archive": "archive---tech-blog-blog-archive-3-da-f5d"
+    "component": "9e4087bc",
+    "archive": "3da288db"
   },
   "/tech-blog/blog/first-blog-post-124": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---tech-blog-blog-814-d3a",
-    "content": "content---tech-blog-blog-first-blog-poste-27-128"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "e273c56f"
   },
   "/tech-blog/blog/long-blog-post-4c1": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---tech-blog-blog-814-d3a",
-    "content": "content---tech-blog-blog-long-blog-post-736-9f7"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "73664a40"
   },
   "/tech-blog/blog/mdx-blog-post-8ac": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---tech-blog-blog-814-d3a",
-    "content": "content---tech-blog-blog-mdx-blog-post-593-b8b"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "59362658"
   },
   "/tech-blog/blog/tags-893": {
-    "component": "component---theme-blog-tags-list-page-01-a-d0b",
-    "sidebar": "sidebar---tech-blog-blog-814-d3a",
-    "tags": "tags---tech-blog-blog-tagsb-1-a-a31"
+    "component": "01a85c17",
+    "sidebar": "814f3328",
+    "tags": "b1ae0699"
   },
   "/tech-blog/blog/tags/docusaurus-551": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---tech-blog-blog-814-d3a",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---tech-blog-blog-766-441"
+        "content": "7661071f"
       },
       {
-        "content": "content---tech-blog-blogf-4-f-ffb"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---tech-blog-blog-871-c99"
+        "content": "8717b14a"
       },
       {
-        "content": "content---tech-blog-blog-925-f8d"
+        "content": "925b3f96"
       }
     ],
-    "metadata": "metadata---tech-blog-blog-tags-docusaurusd-40-762"
+    "metadata": "d401a2db"
   },
   "/tech-blog/blog/tags/facebook-bd9": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---tech-blog-blog-814-d3a",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---tech-blog-blog-766-441"
+        "content": "7661071f"
       }
     ],
-    "metadata": "metadata---tech-blog-blog-tags-facebook-938-a73"
+    "metadata": "938a33ac"
   },
   "/tech-blog/blog/tags/hello-0a6": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---tech-blog-blog-814-d3a",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---tech-blog-blog-766-441"
+        "content": "7661071f"
       },
       {
-        "content": "content---tech-blog-blog-871-c99"
+        "content": "8717b14a"
       }
     ],
-    "metadata": "metadata---tech-blog-blog-tags-hello-7-ee-fc8"
+    "metadata": "7eeb5342"
   },
   "/tech-blog/blog/tags/hola-248": {
-    "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---tech-blog-blog-814-d3a",
+    "component": "6875c492",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---tech-blog-blog-925-f8d"
+        "content": "925b3f96"
       }
     ],
-    "metadata": "metadata---tech-blog-blog-tags-hola-465-fdd"
+    "metadata": "4651462d"
   },
   "/tech-blog/blog/welcome-f90": {
-    "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---tech-blog-blog-814-d3a",
-    "content": "content---tech-blog-blog-welcomed-9-f-680"
+    "component": "ccc49370",
+    "sidebar": "814f3328",
+    "content": "d9f32620"
   },
   "/tech-blog/docs/tags-0ed": {
-    "component": "component---theme-doc-tags-list-page-372-89e",
-    "tags": "tags---tech-blog-docs-tags-559-13c"
+    "component": "3720c009",
+    "tags": "55960ee5"
   },
   "/tech-blog/docs/tags/메트릭-a54": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-메트릭c-59-e50"
+    "component": "df203c0f",
+    "tag": "c59eb804"
   },
   "/tech-blog/docs/tags/변수-384": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-변수-527-2da"
+    "component": "df203c0f",
+    "tag": "5275e324"
   },
   "/tech-blog/docs/tags/브랜치-전략-f2f": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-브랜치-전략-90-f-d1a"
+    "component": "df203c0f",
+    "tag": "90f445b0"
   },
   "/tech-blog/docs/tags/상수-8de": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-상수-5-ce-efd"
+    "component": "df203c0f",
+    "tag": "5cee16ba"
   },
   "/tech-blog/docs/tags/성능-649": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-성능-7-d-8-28f"
+    "component": "df203c0f",
+    "tag": "7d8f3fd8"
   },
   "/tech-blog/docs/tags/아보카도-에디션-라이트-7f9": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-아보카도-에디션-라이트d-83-258"
+    "component": "df203c0f",
+    "tag": "d83ad1b6"
   },
   "/tech-blog/docs/tags/이모티콘-829": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-이모티콘-109-31a"
+    "component": "df203c0f",
+    "tag": "10920c02"
   },
   "/tech-blog/docs/tags/최적화-1f6": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-최적화fa-3-d2b"
+    "component": "df203c0f",
+    "tag": "fa313b8a"
   },
   "/tech-blog/docs/tags/branch-d88": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-branch-05-a-edf"
+    "component": "df203c0f",
+    "tag": "05a5e91b"
   },
   "/tech-blog/docs/tags/cache-ddd": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-cache-320-a31"
+    "component": "df203c0f",
+    "tag": "320e4ab1"
   },
   "/tech-blog/docs/tags/const-2d8": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-const-8-e-2-4bf"
+    "component": "df203c0f",
+    "tag": "8e2cb933"
   },
   "/tech-blog/docs/tags/css-166": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-css-708-f7d"
+    "component": "df203c0f",
+    "tag": "70852dd4"
   },
   "/tech-blog/docs/tags/deep-copy-29a": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-deep-copy-277-1dd"
+    "component": "df203c0f",
+    "tag": "2770d864"
   },
   "/tech-blog/docs/tags/fork-d9e": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-fork-894-da7"
+    "component": "df203c0f",
+    "tag": "894aa53a"
   },
   "/tech-blog/docs/tags/git-ece": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-git-404-a8c"
+    "component": "df203c0f",
+    "tag": "404e69d6"
   },
   "/tech-blog/docs/tags/github-02e": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-github-127-4dc"
+    "component": "df203c0f",
+    "tag": "1276d17c"
   },
   "/tech-blog/docs/tags/gitlab-adf": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-gitlab-917-814"
+    "component": "df203c0f",
+    "tag": "917bd9f4"
   },
   "/tech-blog/docs/tags/hook-b56": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-hook-8-d-8-b24"
+    "component": "df203c0f",
+    "tag": "8d87e6f4"
   },
   "/tech-blog/docs/tags/lcp-d0c": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-lcp-294-d8c"
+    "component": "df203c0f",
+    "tag": "29475393"
   },
   "/tech-blog/docs/tags/let-59e": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-let-523-c10"
+    "component": "df203c0f",
+    "tag": "52366c60"
   },
   "/tech-blog/docs/tags/metrics-261": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-metrics-23-f-d9c"
+    "component": "df203c0f",
+    "tag": "23fce452"
   },
   "/tech-blog/docs/tags/nextjs-587": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-nextjs-000-13e"
+    "component": "df203c0f",
+    "tag": "00011b13"
   },
   "/tech-blog/docs/tags/object-freeze-aad": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-object-freeze-921-316"
+    "component": "df203c0f",
+    "tag": "9214f28a"
   },
   "/tech-blog/docs/tags/scrollbar-gutter-9fc": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-scrollbar-gutterd-88-264"
+    "component": "df203c0f",
+    "tag": "d8895b80"
   },
   "/tech-blog/docs/tags/stale-while-revalidate-260": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-stale-while-revalidate-803-270"
+    "component": "df203c0f",
+    "tag": "8032f8d1"
   },
   "/tech-blog/docs/tags/tbd-6de": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-tbd-192-b0a"
+    "component": "df203c0f",
+    "tag": "192e53ab"
   },
   "/tech-blog/docs/tags/trunk-based-development-075": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-trunk-based-developmenteaf-e97"
+    "component": "df203c0f",
+    "tag": "eafb9106"
   },
   "/tech-blog/docs/tags/variables-3a2": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-variables-49-a-e41"
+    "component": "df203c0f",
+    "tag": "49a7911a"
   },
   "/tech-blog/docs/tags/web-vital-cfb": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-web-vitalcf-6-1f5"
+    "component": "df203c0f",
+    "tag": "cf6236dc"
   },
   "/tech-blog/markdown-page-b92": {
-    "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---tech-blog-markdown-page-393-0ee"
+    "component": "1f391b9e",
+    "content": "393be207"
   },
   "/tech-blog/docs-8d0": {
-    "component": "component---theme-doc-page-1-be-9be",
-    "versionMetadata": "versionMetadata---tech-blog-docs-935-f43"
+    "component": "1be78505",
+    "versionMetadata": "935f2afb"
   },
   "/tech-blog/docs/books/-ed1": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---tech-blog-docs-books-f-54-d27"
+    "component": "17896441",
+    "content": "f5441367"
   },
   "/tech-blog/docs/books/effective-typescript/01-3a1": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---tech-blog-docs-books-effective-typescript-017-ae-f41"
+    "component": "17896441",
+    "content": "7ae66e7d"
   },
   "/tech-blog/docs/books/effective-typescript/02-205": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---tech-blog-docs-books-effective-typescript-02809-f5c"
+    "component": "17896441",
+    "content": "809f33a9"
   },
   "/tech-blog/docs/books/effective-typescript/introduction-0e4": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---tech-blog-docs-books-effective-typescript-introductionfe-7-906"
+    "component": "17896441",
+    "content": "fe75e1ad"
   },
   "/tech-blog/docs/books/frameworkless-front-end-development/01-8ec": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---tech-blog-docs-books-frameworkless-front-end-development-013-e-5-39e"
+    "component": "17896441",
+    "content": "3e581c2d"
   },
   "/tech-blog/docs/books/frameworkless-front-end-development/02-511": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---tech-blog-docs-books-frameworkless-front-end-development-02358-3f6"
+    "component": "17896441",
+    "content": "358b3780"
   },
   "/tech-blog/docs/books/frameworkless-front-end-development/03-020": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---tech-blog-docs-books-frameworkless-front-end-development-03-fa-7-b13"
+    "component": "17896441",
+    "content": "fa752013"
   },
   "/tech-blog/docs/books/frameworkless-front-end-development/04-c77": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---tech-blog-docs-books-frameworkless-front-end-development-041-d-1-852"
+    "component": "17896441",
+    "content": "1d160395"
   },
   "/tech-blog/docs/books/frameworkless-front-end-development/05-348": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---tech-blog-docs-books-frameworkless-front-end-development-05-f-16-90e"
+    "component": "17896441",
+    "content": "f16c4631"
   },
   "/tech-blog/docs/books/frameworkless-front-end-development/06-72f": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---tech-blog-docs-books-frameworkless-front-end-development-06-e-44-7b5"
+    "component": "17896441",
+    "content": "e4490c49"
   },
   "/tech-blog/docs/books/frameworkless-front-end-development/07-6e5": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---tech-blog-docs-books-frameworkless-front-end-development-071-de-94e"
+    "component": "17896441",
+    "content": "1deeca0b"
   },
   "/tech-blog/docs/books/frameworkless-front-end-development/introduction-a58": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---tech-blog-docs-books-frameworkless-front-end-development-introductionaf-2-038"
+    "component": "17896441",
+    "content": "af24faf6"
   },
   "/tech-blog/docs/books/learning-typescript/01-140": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---tech-blog-docs-books-learning-typescript-01-b-4-e-b9b"
+    "component": "17896441",
+    "content": "b4e59e3e"
   },
   "/tech-blog/docs/books/learning-typescript/02-d95": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---tech-blog-docs-books-learning-typescript-02606-316"
+    "component": "17896441",
+    "content": "606830a0"
   },
   "/tech-blog/docs/books/learning-typescript/introduction-5e0": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---tech-blog-docs-books-learning-typescript-introduction-926-969"
+    "component": "17896441",
+    "content": "9263cf4f"
   },
   "/tech-blog/docs/dev/-325": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---tech-blog-docs-dev-4-eb-6ff"
+    "component": "17896441",
+    "content": "4eb09955"
   },
   "/tech-blog/docs/dev/cs/lcp/index-774": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---tech-blog-docs-dev-cs-lcp-index-28-c-b15"
+    "component": "17896441",
+    "content": "28cbf14e"
   },
   "/tech-blog/docs/dev/cs/metrics/index-26a": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---tech-blog-docs-dev-cs-metrics-index-982-ada"
+    "component": "17896441",
+    "content": "982c2131"
   },
   "/tech-blog/docs/dev/cs/stale-while-revalidate/index-91c": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---tech-blog-docs-dev-cs-stale-while-revalidate-indexe-7-d-7eb"
+    "component": "17896441",
+    "content": "e7d05806"
   },
   "/tech-blog/docs/dev/git/another-branch-push-4d7": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---tech-blog-docs-dev-git-another-branch-push-6-f-7-4a6"
+    "component": "17896441",
+    "content": "6f7ee4c1"
   },
   "/tech-blog/docs/dev/git/sync-repository-46a": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---tech-blog-docs-dev-git-sync-repository-1-d-9-139"
+    "component": "17896441",
+    "content": "1d91c4b6"
   },
   "/tech-blog/docs/dev/git/trunk-based-development-5c1": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---tech-blog-docs-dev-git-trunk-based-development-7-b-1-b1a"
+    "component": "17896441",
+    "content": "7b124a6e"
   },
   "/tech-blog/docs/dev/htmlcss/scrollbar-gutter/index-b9f": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---tech-blog-docs-dev-htmlcss-scrollbar-gutter-index-58-f-bbe"
+    "component": "17896441",
+    "content": "58fec528"
   },
   "/tech-blog/docs/dev/jsts/variables/index-a1f": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---tech-blog-docs-dev-jsts-variables-index-247-3d6"
+    "component": "17896441",
+    "content": "2476f2c6"
   },
   "/tech-blog/docs/dev/php/avocadoedition-light-add-emoticon/index-06b": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---tech-blog-docs-dev-php-avocadoedition-light-add-emoticon-index-89-a-e02"
+    "component": "17896441",
+    "content": "89ad33fe"
   },
   "/tech-blog/docs/dev/react/hook/index-c1e": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---tech-blog-docs-dev-react-hook-indexf-92-ab2"
+    "component": "17896441",
+    "content": "f9249ff2"
   },
   "/tech-blog/docs/dev/react/nextjs-optimization/index-643": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---tech-blog-docs-dev-react-nextjs-optimization-index-032-b42"
+    "component": "17896441",
+    "content": "0325ce9c"
   },
   "/tech-blog/docs/intro-031": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---tech-blog-docs-intro-0-e-3-359"
+    "component": "17896441",
+    "content": "0e384e19"
   },
   "/tech-blog/docs/tutorial-basics/congratulations-0ef": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---tech-blog-docs-tutorial-basics-congratulations-822-6ff"
+    "component": "17896441",
+    "content": "822bd8ab"
   },
   "/tech-blog/docs/tutorial-basics/create-a-blog-post-989": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---tech-blog-docs-tutorial-basics-create-a-blog-post-533-b08"
+    "component": "17896441",
+    "content": "533a09ca"
   },
   "/tech-blog/docs/tutorial-basics/create-a-document-45a": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---tech-blog-docs-tutorial-basics-create-a-document-1-e-4-f46"
+    "component": "17896441",
+    "content": "1e4232ab"
   },
   "/tech-blog/docs/tutorial-basics/create-a-page-931": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---tech-blog-docs-tutorial-basics-create-a-page-5-c-8-d5d"
+    "component": "17896441",
+    "content": "5c868d36"
   },
   "/tech-blog/docs/tutorial-basics/deploy-your-site-269": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---tech-blog-docs-tutorial-basics-deploy-your-sitef-55-23a"
+    "component": "17896441",
+    "content": "f55d3e7a"
   },
   "/tech-blog/docs/tutorial-basics/markdown-features-3ec": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---tech-blog-docs-tutorial-basics-markdown-features-18-c-2bf"
+    "component": "17896441",
+    "content": "18c41134"
   },
   "/tech-blog/docs/tutorial-extras/manage-docs-versions-398": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---tech-blog-docs-tutorial-extras-manage-docs-versionsdff-31b"
+    "component": "17896441",
+    "content": "dff1c289"
   },
   "/tech-blog/docs/tutorial-extras/translate-your-site-481": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---tech-blog-docs-tutorial-extras-translate-your-sitee-44-70a"
+    "component": "17896441",
+    "content": "e44a2883"
   }
 }
