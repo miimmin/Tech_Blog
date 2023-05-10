@@ -1,0 +1,30 @@
+{
+  "unversionedId": "books/effective-typescript/02",
+  "id": "books/effective-typescript/02",
+  "isDocsHomePage": false,
+  "title": "02 타입스크립트의 타입 시스템",
+  "description": "타입이 값들의 집합이라고 생각하기",
+  "source": "@site/docs/books/effective-typescript/02.md",
+  "sourceDirName": "books/effective-typescript",
+  "slug": "/books/effective-typescript/02",
+  "permalink": "/tech-blog/docs/books/effective-typescript/02",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/effective-typescript/02.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "02 타입스크립트의 타입 시스템",
+    "last_update": {
+      "date": "2022-11-09"
+    },
+    "draft": true
+  },
+  "sidebar": "books",
+  "previous": {
+    "title": "01 타입스크립트 알아보기",
+    "permalink": "/tech-blog/docs/books/effective-typescript/01"
+  },
+  "next": {
+    "title": "책 소개",
+    "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/introduction"
+  }
+}

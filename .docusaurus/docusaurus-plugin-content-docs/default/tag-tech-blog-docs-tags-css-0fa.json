@@ -1,0 +1,13 @@
+{
+  "name": "css",
+  "permalink": "/tech-blog/docs/tags/css",
+  "docs": [
+    {
+      "id": "dev/htmlcss/scrollbar-gutter/index",
+      "title": "scrollbar-gutter",
+      "description": "scrollbar-gutter 로 스크롤바 여백 예약하기",
+      "permalink": "/tech-blog/docs/dev/htmlcss/scrollbar-gutter/index"
+    }
+  ],
+  "allTagsPath": "/tech-blog/docs/tags"
+}

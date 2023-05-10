@@ -1,0 +1,13 @@
+{
+  "name": "성능",
+  "permalink": "/tech-blog/docs/tags/성능",
+  "docs": [
+    {
+      "id": "dev/cs/metrics/index",
+      "title": "메트릭",
+      "description": "성능 및 사용자 경험 측정",
+      "permalink": "/tech-blog/docs/dev/cs/metrics/index"
+    }
+  ],
+  "allTagsPath": "/tech-blog/docs/tags"
+}

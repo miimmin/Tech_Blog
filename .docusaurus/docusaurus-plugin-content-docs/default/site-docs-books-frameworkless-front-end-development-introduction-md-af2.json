@@ -1,0 +1,29 @@
+{
+  "unversionedId": "books/frameworkless-front-end-development/introduction",
+  "id": "books/frameworkless-front-end-development/introduction",
+  "isDocsHomePage": false,
+  "title": "책 소개",
+  "description": "프레임워크 없는 프론트엔드 개발",
+  "source": "@site/docs/books/frameworkless-front-end-development/introduction.md",
+  "sourceDirName": "books/frameworkless-front-end-development",
+  "slug": "/books/frameworkless-front-end-development/introduction",
+  "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/introduction",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/frameworkless-front-end-development/introduction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "책 소개",
+    "last_update": {
+      "date": "2022-10-19"
+    }
+  },
+  "sidebar": "books",
+  "previous": {
+    "title": "02 타입스크립트의 타입 시스템",
+    "permalink": "/tech-blog/docs/books/effective-typescript/02"
+  },
+  "next": {
+    "title": "01 프레임워크에 대한 이야기",
+    "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/01"
+  }
+}

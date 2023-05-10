@@ -14,14 +14,5 @@
   "sidebarPosition": 1,
   "frontMatter": {
     "sidebar_position": 1
-  },
-  "sidebar": "tutorialSidebar",
-  "previous": {
-    "title": "Congratulations!",
-    "permalink": "/tech-blog/docs/tutorial-basics/congratulations"
-  },
-  "next": {
-    "title": "Translate your site",
-    "permalink": "/tech-blog/docs/tutorial-extras/translate-your-site"
   }
 }

@@ -1,0 +1,53 @@
+{
+  "unversionedId": "dev/git/sync-repository",
+  "id": "dev/git/sync-repository",
+  "isDocsHomePage": false,
+  "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
+  "description": "sync fork 하는 방법을 알아봅시다",
+  "source": "@site/docs/dev/git/sync-repository.md",
+  "sourceDirName": "dev/git",
+  "slug": "/dev/git/sync-repository",
+  "permalink": "/tech-blog/docs/dev/git/sync-repository",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/git/sync-repository.md",
+  "tags": [
+    {
+      "label": "git",
+      "permalink": "/tech-blog/docs/tags/git"
+    },
+    {
+      "label": "fork",
+      "permalink": "/tech-blog/docs/tags/fork"
+    },
+    {
+      "label": "gitlab",
+      "permalink": "/tech-blog/docs/tags/gitlab"
+    },
+    {
+      "label": "github",
+      "permalink": "/tech-blog/docs/tags/github"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
+    "description": "sync fork 하는 방법을 알아봅시다",
+    "tags": [
+      "git",
+      "fork",
+      "gitlab",
+      "github"
+    ],
+    "last_update": {
+      "date": "2022-10-13"
+    }
+  },
+  "sidebar": "dev",
+  "previous": {
+    "title": "LCP",
+    "permalink": "/tech-blog/docs/dev/cs/lcp/index"
+  },
+  "next": {
+    "title": "현재 작업한 브랜치를 다른 브랜치에 커밋하기",
+    "permalink": "/tech-blog/docs/dev/git/another-branch-push"
+  }
+}

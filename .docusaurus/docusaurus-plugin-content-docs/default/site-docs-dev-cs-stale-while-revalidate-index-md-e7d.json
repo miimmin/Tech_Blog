@@ -1,0 +1,43 @@
+{
+  "unversionedId": "dev/cs/stale-while-revalidate/index",
+  "id": "dev/cs/stale-while-revalidate/index",
+  "isDocsHomePage": false,
+  "title": "Stale While Revalidate",
+  "description": "stale-while-revalidate 이란?",
+  "source": "@site/docs/dev/cs/stale-while-revalidate/index.md",
+  "sourceDirName": "dev/cs/stale-while-revalidate",
+  "slug": "/dev/cs/stale-while-revalidate/index",
+  "permalink": "/tech-blog/docs/dev/cs/stale-while-revalidate/index",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/cs/stale-while-revalidate/index.md",
+  "tags": [
+    {
+      "label": "stale-while-revalidate",
+      "permalink": "/tech-blog/docs/tags/stale-while-revalidate"
+    },
+    {
+      "label": "cache",
+      "permalink": "/tech-blog/docs/tags/cache"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Stale While Revalidate",
+    "description": "stale-while-revalidate 이란?",
+    "tags": [
+      "stale-while-revalidate",
+      "cache"
+    ],
+    "last_update": {
+      "date": "2022-10-12"
+    }
+  },
+  "sidebar": "dev",
+  "previous": {
+    "title": "scrollbar-gutter",
+    "permalink": "/tech-blog/docs/dev/htmlcss/scrollbar-gutter/index"
+  },
+  "next": {
+    "title": "메트릭",
+    "permalink": "/tech-blog/docs/dev/cs/metrics/index"
+  }
+}

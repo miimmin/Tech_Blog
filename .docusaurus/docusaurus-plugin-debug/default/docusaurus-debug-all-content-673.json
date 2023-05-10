@@ -5,8 +5,8 @@
         {
           "versionName": "current",
           "versionLabel": "Next",
-          "versionPath": "/docs",
-          "tagsPath": "/docs/tags",
+          "versionPath": "/tech-blog/docs",
+          "tagsPath": "/tech-blog/docs/tags",
           "versionEditUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs",
           "versionEditUrlLocalized": "https://github.com/facebook/docusaurus/edit/main/website/i18n/en/docusaurus-plugin-content-docs/current",
           "versionBanner": null,
@@ -17,64 +17,1155 @@
           "sidebarFilePath": "/Users/sleeplessinwhat/Desktop/밈민/tech-blog/sidebars.js",
           "contentPath": "/Users/sleeplessinwhat/Desktop/밈민/tech-blog/docs",
           "contentPathLocalized": "/Users/sleeplessinwhat/Desktop/밈민/tech-blog/i18n/en/docusaurus-plugin-content-docs/current",
-          "mainDocId": "intro",
+          "mainDocId": "dev/index",
           "sidebars": {
-            "tutorialSidebar": [
+            "dev": [
               {
                 "type": "doc",
-                "id": "intro"
+                "id": "dev/index"
               },
               {
                 "type": "category",
-                "label": "Tutorial - Basics",
+                "label": "React",
                 "items": [
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-page"
+                    "id": "dev/react/nextjs-optimization/index"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-document"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/create-a-blog-post"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/markdown-features"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/deploy-your-site"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/congratulations"
+                    "id": "dev/react/hook/index"
                   }
                 ],
-                "collapsed": true,
-                "collapsible": true
+                "collapsible": true,
+                "collapsed": true
               },
               {
                 "type": "category",
-                "label": "Tutorial - Extras",
+                "label": "JS & TS",
                 "items": [
                   {
                     "type": "doc",
-                    "id": "tutorial-extras/manage-docs-versions"
+                    "id": "dev/jsts/variables/index"
+                  }
+                ],
+                "collapsible": true,
+                "collapsed": true
+              },
+              {
+                "type": "category",
+                "label": "HTML & CSS",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "dev/htmlcss/scrollbar-gutter/index"
+                  }
+                ],
+                "collapsible": true,
+                "collapsed": true
+              },
+              {
+                "type": "category",
+                "label": "CS",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "dev/cs/stale-while-revalidate/index"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-extras/translate-your-site"
+                    "id": "dev/cs/metrics/index"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "dev/cs/lcp/index"
                   }
                 ],
-                "collapsed": true,
-                "collapsible": true
+                "collapsible": true,
+                "collapsed": true
+              },
+              {
+                "type": "category",
+                "label": "Git",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "dev/git/sync-repository"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "dev/git/another-branch-push"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "dev/git/trunk-based-development"
+                  }
+                ],
+                "collapsible": true,
+                "collapsed": true
+              },
+              {
+                "type": "category",
+                "label": "PHP",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "dev/php/avocadoedition-light-add-emoticon/index"
+                  }
+                ],
+                "collapsible": true,
+                "collapsed": true
+              }
+            ],
+            "books": [
+              {
+                "type": "doc",
+                "id": "books/introduction"
+              },
+              {
+                "type": "category",
+                "label": "이펙티브 타입스크립트",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "books/effective-typescript/introduction"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "books/effective-typescript/01"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "books/effective-typescript/02"
+                  }
+                ],
+                "collapsible": true,
+                "collapsed": true
+              },
+              {
+                "type": "category",
+                "label": "프레임워크 없는 프론트엔드 개발",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "books/frameworkless-front-end-development/introduction"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "books/frameworkless-front-end-development/01"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "books/frameworkless-front-end-development/02"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "books/frameworkless-front-end-development/03"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "books/frameworkless-front-end-development/04"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "books/frameworkless-front-end-development/05"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "books/frameworkless-front-end-development/06"
+                  }
+                ],
+                "collapsible": true,
+                "collapsed": true
+              },
+              {
+                "type": "category",
+                "label": "러닝 타입스크립트",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "books/learning-typescript/introduction"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "books/learning-typescript/01"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "books/learning-typescript/02"
+                  }
+                ],
+                "collapsible": true,
+                "collapsed": true
               }
             ]
           },
           "docs": [
+            {
+              "unversionedId": "books/effective-typescript/01",
+              "id": "books/effective-typescript/01",
+              "isDocsHomePage": false,
+              "title": "01 타입스크립트 알아보기",
+              "description": "1 타입스크립트와 자바스크립트의 관계 이해하기",
+              "source": "@site/docs/books/effective-typescript/01.md",
+              "sourceDirName": "books/effective-typescript",
+              "slug": "/books/effective-typescript/01",
+              "permalink": "/tech-blog/docs/books/effective-typescript/01",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/effective-typescript/01.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "01 타입스크립트 알아보기",
+                "last_update": {
+                  "date": "2022-11-03"
+                }
+              },
+              "sidebar": "books",
+              "previous": {
+                "title": "책 소개",
+                "permalink": "/tech-blog/docs/books/effective-typescript/introduction"
+              },
+              "next": {
+                "title": "02 타입스크립트의 타입 시스템",
+                "permalink": "/tech-blog/docs/books/effective-typescript/02"
+              }
+            },
+            {
+              "unversionedId": "books/effective-typescript/02",
+              "id": "books/effective-typescript/02",
+              "isDocsHomePage": false,
+              "title": "02 타입스크립트의 타입 시스템",
+              "description": "타입이 값들의 집합이라고 생각하기",
+              "source": "@site/docs/books/effective-typescript/02.md",
+              "sourceDirName": "books/effective-typescript",
+              "slug": "/books/effective-typescript/02",
+              "permalink": "/tech-blog/docs/books/effective-typescript/02",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/effective-typescript/02.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "02 타입스크립트의 타입 시스템",
+                "last_update": {
+                  "date": "2022-11-09"
+                },
+                "draft": true
+              },
+              "sidebar": "books",
+              "previous": {
+                "title": "01 타입스크립트 알아보기",
+                "permalink": "/tech-blog/docs/books/effective-typescript/01"
+              },
+              "next": {
+                "title": "책 소개",
+                "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/introduction"
+              }
+            },
+            {
+              "unversionedId": "books/effective-typescript/introduction",
+              "id": "books/effective-typescript/introduction",
+              "isDocsHomePage": false,
+              "title": "책 소개",
+              "description": "이펙티드 타입스크립트",
+              "source": "@site/docs/books/effective-typescript/introduction.md",
+              "sourceDirName": "books/effective-typescript",
+              "slug": "/books/effective-typescript/introduction",
+              "permalink": "/tech-blog/docs/books/effective-typescript/introduction",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/effective-typescript/introduction.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "책 소개",
+                "last_update": {
+                  "date": "2022-11-03"
+                }
+              },
+              "sidebar": "books",
+              "previous": {
+                "title": "책 목록",
+                "permalink": "/tech-blog/docs/books/"
+              },
+              "next": {
+                "title": "01 타입스크립트 알아보기",
+                "permalink": "/tech-blog/docs/books/effective-typescript/01"
+              }
+            },
+            {
+              "unversionedId": "books/frameworkless-front-end-development/01",
+              "id": "books/frameworkless-front-end-development/01",
+              "isDocsHomePage": false,
+              "title": "01 프레임워크에 대한 이야기",
+              "description": "프레임워크는 필요 없다. 중요한 것은 그림이지 프레임(그림틀)이 아니다.",
+              "source": "@site/docs/books/frameworkless-front-end-development/01.md",
+              "sourceDirName": "books/frameworkless-front-end-development",
+              "slug": "/books/frameworkless-front-end-development/01",
+              "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/01",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/frameworkless-front-end-development/01.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "01 프레임워크에 대한 이야기",
+                "last_update": {
+                  "date": "2022-10-19"
+                }
+              },
+              "sidebar": "books",
+              "previous": {
+                "title": "책 소개",
+                "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/introduction"
+              },
+              "next": {
+                "title": "02 렌더링",
+                "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/02"
+              }
+            },
+            {
+              "unversionedId": "books/frameworkless-front-end-development/02",
+              "id": "books/frameworkless-front-end-development/02",
+              "isDocsHomePage": false,
+              "title": "02 렌더링",
+              "description": "데이터를 표시한다는 것은 요소를 화면이나 다른 출력 장치에 렌더링하는 것을 의미한다.",
+              "source": "@site/docs/books/frameworkless-front-end-development/02.md",
+              "sourceDirName": "books/frameworkless-front-end-development",
+              "slug": "/books/frameworkless-front-end-development/02",
+              "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/02",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/frameworkless-front-end-development/02.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "02 렌더링",
+                "last_update": {
+                  "date": "2022-10-24"
+                }
+              },
+              "sidebar": "books",
+              "previous": {
+                "title": "01 프레임워크에 대한 이야기",
+                "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/01"
+              },
+              "next": {
+                "title": "03 DOM 이벤트 관리",
+                "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/03"
+              }
+            },
+            {
+              "unversionedId": "books/frameworkless-front-end-development/03",
+              "id": "books/frameworkless-front-end-development/03",
+              "isDocsHomePage": false,
+              "title": "03 DOM 이벤트 관리",
+              "description": "3장의 목적은 프레임워크 없이 애플리케이션에서 이벤트 관리하는 방법을 이해한다.",
+              "source": "@site/docs/books/frameworkless-front-end-development/03.md",
+              "sourceDirName": "books/frameworkless-front-end-development",
+              "slug": "/books/frameworkless-front-end-development/03",
+              "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/03",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/frameworkless-front-end-development/03.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "03 DOM 이벤트 관리",
+                "last_update": {
+                  "date": "2022-10-25"
+                }
+              },
+              "sidebar": "books",
+              "previous": {
+                "title": "02 렌더링",
+                "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/02"
+              },
+              "next": {
+                "title": "04 웹 구성요소",
+                "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/04"
+              }
+            },
+            {
+              "unversionedId": "books/frameworkless-front-end-development/04",
+              "id": "books/frameworkless-front-end-development/04",
+              "isDocsHomePage": false,
+              "title": "04 웹 구성요소",
+              "description": "4장의 목적은 DOM 요소를 렌더링하고 시스템이나 사용자의 이벤트에 반응하는 방법에 대해 알아본다.",
+              "source": "@site/docs/books/frameworkless-front-end-development/04.md",
+              "sourceDirName": "books/frameworkless-front-end-development",
+              "slug": "/books/frameworkless-front-end-development/04",
+              "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/04",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/frameworkless-front-end-development/04.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "04 웹 구성요소",
+                "last_update": {
+                  "date": "2022-11-02"
+                }
+              },
+              "sidebar": "books",
+              "previous": {
+                "title": "03 DOM 이벤트 관리",
+                "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/03"
+              },
+              "next": {
+                "title": "05 HTTP 요청",
+                "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/05"
+              }
+            },
+            {
+              "unversionedId": "books/frameworkless-front-end-development/05",
+              "id": "books/frameworkless-front-end-development/05",
+              "isDocsHomePage": false,
+              "title": "05 HTTP 요청",
+              "description": "5장의 목적은 HTTP 클라이언트를 구축하는 방법을 알아본다.",
+              "source": "@site/docs/books/frameworkless-front-end-development/05.md",
+              "sourceDirName": "books/frameworkless-front-end-development",
+              "slug": "/books/frameworkless-front-end-development/05",
+              "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/05",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/frameworkless-front-end-development/05.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "05 HTTP 요청",
+                "last_update": {
+                  "date": "2022-11-02"
+                }
+              },
+              "sidebar": "books",
+              "previous": {
+                "title": "04 웹 구성요소",
+                "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/04"
+              },
+              "next": {
+                "title": "06 라우팅",
+                "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/06"
+              }
+            },
+            {
+              "unversionedId": "books/frameworkless-front-end-development/06",
+              "id": "books/frameworkless-front-end-development/06",
+              "isDocsHomePage": false,
+              "title": "06 라우팅",
+              "description": "6장의 목적은 클라이언트 측 라우팅 시스템 구축 방법을 알아본다.",
+              "source": "@site/docs/books/frameworkless-front-end-development/06.md",
+              "sourceDirName": "books/frameworkless-front-end-development",
+              "slug": "/books/frameworkless-front-end-development/06",
+              "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/06",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/frameworkless-front-end-development/06.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "06 라우팅",
+                "last_update": {
+                  "date": "2022-11-03"
+                }
+              },
+              "sidebar": "books",
+              "previous": {
+                "title": "05 HTTP 요청",
+                "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/05"
+              },
+              "next": {
+                "title": "책 소개",
+                "permalink": "/tech-blog/docs/books/learning-typescript/introduction"
+              }
+            },
+            {
+              "unversionedId": "books/frameworkless-front-end-development/07",
+              "id": "books/frameworkless-front-end-development/07",
+              "isDocsHomePage": false,
+              "title": "07 상태관리",
+              "description": "7장에서는 3가지 상태 관리 전략을 구축하고 비교해 장단점을 분석해본다.",
+              "source": "@site/docs/books/frameworkless-front-end-development/07.md",
+              "sourceDirName": "books/frameworkless-front-end-development",
+              "slug": "/books/frameworkless-front-end-development/07",
+              "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/07",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/frameworkless-front-end-development/07.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "07 상태관리",
+                "draft": true
+              }
+            },
+            {
+              "unversionedId": "books/frameworkless-front-end-development/introduction",
+              "id": "books/frameworkless-front-end-development/introduction",
+              "isDocsHomePage": false,
+              "title": "책 소개",
+              "description": "프레임워크 없는 프론트엔드 개발",
+              "source": "@site/docs/books/frameworkless-front-end-development/introduction.md",
+              "sourceDirName": "books/frameworkless-front-end-development",
+              "slug": "/books/frameworkless-front-end-development/introduction",
+              "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/introduction",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/frameworkless-front-end-development/introduction.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "책 소개",
+                "last_update": {
+                  "date": "2022-10-19"
+                }
+              },
+              "sidebar": "books",
+              "previous": {
+                "title": "02 타입스크립트의 타입 시스템",
+                "permalink": "/tech-blog/docs/books/effective-typescript/02"
+              },
+              "next": {
+                "title": "01 프레임워크에 대한 이야기",
+                "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/01"
+              }
+            },
+            {
+              "unversionedId": "books/introduction",
+              "id": "books/introduction",
+              "isDocsHomePage": false,
+              "title": "책 목록",
+              "description": "- 이펙티드 타입스크립트",
+              "source": "@site/docs/books/introduction.md",
+              "sourceDirName": "books",
+              "slug": "/books/",
+              "permalink": "/tech-blog/docs/books/",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/introduction.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "title": "책 목록",
+                "sidebar_position": 2,
+                "slug": "/books/",
+                "last_update": {
+                  "date": "2022-10-19"
+                }
+              },
+              "sidebar": "books",
+              "next": {
+                "title": "책 소개",
+                "permalink": "/tech-blog/docs/books/effective-typescript/introduction"
+              }
+            },
+            {
+              "unversionedId": "books/learning-typescript/01",
+              "id": "books/learning-typescript/01",
+              "isDocsHomePage": false,
+              "title": "01 개념",
+              "description": "1. 오류 종류",
+              "source": "@site/docs/books/learning-typescript/01.md",
+              "sourceDirName": "books/learning-typescript",
+              "slug": "/books/learning-typescript/01",
+              "permalink": "/tech-blog/docs/books/learning-typescript/01",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/learning-typescript/01.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "01 개념",
+                "last_update": {
+                  "date": "2023-04-03"
+                }
+              },
+              "sidebar": "books",
+              "previous": {
+                "title": "책 소개",
+                "permalink": "/tech-blog/docs/books/learning-typescript/introduction"
+              },
+              "next": {
+                "title": "02 특징",
+                "permalink": "/tech-blog/docs/books/learning-typescript/02"
+              }
+            },
+            {
+              "unversionedId": "books/learning-typescript/02",
+              "id": "books/learning-typescript/02",
+              "isDocsHomePage": false,
+              "title": "02 특징",
+              "description": "1. 튜플",
+              "source": "@site/docs/books/learning-typescript/02.md",
+              "sourceDirName": "books/learning-typescript",
+              "slug": "/books/learning-typescript/02",
+              "permalink": "/tech-blog/docs/books/learning-typescript/02",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/learning-typescript/02.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "02 특징",
+                "last_update": {
+                  "date": "2023-04-06"
+                },
+                "draft": true
+              },
+              "sidebar": "books",
+              "previous": {
+                "title": "01 개념",
+                "permalink": "/tech-blog/docs/books/learning-typescript/01"
+              }
+            },
+            {
+              "unversionedId": "books/learning-typescript/introduction",
+              "id": "books/learning-typescript/introduction",
+              "isDocsHomePage": false,
+              "title": "책 소개",
+              "description": "러닝 타입스크립트",
+              "source": "@site/docs/books/learning-typescript/introduction.md",
+              "sourceDirName": "books/learning-typescript",
+              "slug": "/books/learning-typescript/introduction",
+              "permalink": "/tech-blog/docs/books/learning-typescript/introduction",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/learning-typescript/introduction.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "책 소개",
+                "last_update": {
+                  "date": "2023-03-24"
+                }
+              },
+              "sidebar": "books",
+              "previous": {
+                "title": "06 라우팅",
+                "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/06"
+              },
+              "next": {
+                "title": "01 개념",
+                "permalink": "/tech-blog/docs/books/learning-typescript/01"
+              }
+            },
+            {
+              "unversionedId": "dev/cs/lcp/index",
+              "id": "dev/cs/lcp/index",
+              "isDocsHomePage": false,
+              "title": "LCP",
+              "description": "Largest Contentful Paint 알아보기",
+              "source": "@site/docs/dev/cs/lcp/index.md",
+              "sourceDirName": "dev/cs/lcp",
+              "slug": "/dev/cs/lcp/index",
+              "permalink": "/tech-blog/docs/dev/cs/lcp/index",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/cs/lcp/index.md",
+              "tags": [
+                {
+                  "label": "LCP",
+                  "permalink": "/tech-blog/docs/tags/lcp"
+                },
+                {
+                  "label": "web-vital",
+                  "permalink": "/tech-blog/docs/tags/web-vital"
+                },
+                {
+                  "label": "메트릭",
+                  "permalink": "/tech-blog/docs/tags/메트릭"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "title": "LCP",
+                "description": "Largest Contentful Paint 알아보기",
+                "tags": [
+                  "LCP",
+                  "web-vital",
+                  "메트릭"
+                ],
+                "last_update": {
+                  "date": "2022-10-21T13:00"
+                }
+              },
+              "sidebar": "dev",
+              "previous": {
+                "title": "메트릭",
+                "permalink": "/tech-blog/docs/dev/cs/metrics/index"
+              },
+              "next": {
+                "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
+                "permalink": "/tech-blog/docs/dev/git/sync-repository"
+              }
+            },
+            {
+              "unversionedId": "dev/cs/metrics/index",
+              "id": "dev/cs/metrics/index",
+              "isDocsHomePage": false,
+              "title": "메트릭",
+              "description": "성능 및 사용자 경험 측정",
+              "source": "@site/docs/dev/cs/metrics/index.md",
+              "sourceDirName": "dev/cs/metrics",
+              "slug": "/dev/cs/metrics/index",
+              "permalink": "/tech-blog/docs/dev/cs/metrics/index",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/cs/metrics/index.md",
+              "tags": [
+                {
+                  "label": "metrics",
+                  "permalink": "/tech-blog/docs/tags/metrics"
+                },
+                {
+                  "label": "성능",
+                  "permalink": "/tech-blog/docs/tags/성능"
+                },
+                {
+                  "label": "메트릭",
+                  "permalink": "/tech-blog/docs/tags/메트릭"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "title": "메트릭",
+                "description": "성능 및 사용자 경험 측정",
+                "tags": [
+                  "metrics",
+                  "성능",
+                  "메트릭"
+                ],
+                "last_update": {
+                  "date": "2022-10-21T10:00"
+                }
+              },
+              "sidebar": "dev",
+              "previous": {
+                "title": "Stale While Revalidate",
+                "permalink": "/tech-blog/docs/dev/cs/stale-while-revalidate/index"
+              },
+              "next": {
+                "title": "LCP",
+                "permalink": "/tech-blog/docs/dev/cs/lcp/index"
+              }
+            },
+            {
+              "unversionedId": "dev/cs/stale-while-revalidate/index",
+              "id": "dev/cs/stale-while-revalidate/index",
+              "isDocsHomePage": false,
+              "title": "Stale While Revalidate",
+              "description": "stale-while-revalidate 이란?",
+              "source": "@site/docs/dev/cs/stale-while-revalidate/index.md",
+              "sourceDirName": "dev/cs/stale-while-revalidate",
+              "slug": "/dev/cs/stale-while-revalidate/index",
+              "permalink": "/tech-blog/docs/dev/cs/stale-while-revalidate/index",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/cs/stale-while-revalidate/index.md",
+              "tags": [
+                {
+                  "label": "stale-while-revalidate",
+                  "permalink": "/tech-blog/docs/tags/stale-while-revalidate"
+                },
+                {
+                  "label": "cache",
+                  "permalink": "/tech-blog/docs/tags/cache"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "title": "Stale While Revalidate",
+                "description": "stale-while-revalidate 이란?",
+                "tags": [
+                  "stale-while-revalidate",
+                  "cache"
+                ],
+                "last_update": {
+                  "date": "2022-10-12"
+                }
+              },
+              "sidebar": "dev",
+              "previous": {
+                "title": "scrollbar-gutter",
+                "permalink": "/tech-blog/docs/dev/htmlcss/scrollbar-gutter/index"
+              },
+              "next": {
+                "title": "메트릭",
+                "permalink": "/tech-blog/docs/dev/cs/metrics/index"
+              }
+            },
+            {
+              "unversionedId": "dev/git/another-branch-push",
+              "id": "dev/git/another-branch-push",
+              "isDocsHomePage": false,
+              "title": "현재 작업한 브랜치를 다른 브랜치에 커밋하기",
+              "description": "다른 브랜치에서 작업하고 있었을 때 다른 브랜치에 push 하기",
+              "source": "@site/docs/dev/git/another-branch-push.md",
+              "sourceDirName": "dev/git",
+              "slug": "/dev/git/another-branch-push",
+              "permalink": "/tech-blog/docs/dev/git/another-branch-push",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/git/another-branch-push.md",
+              "tags": [
+                {
+                  "label": "github",
+                  "permalink": "/tech-blog/docs/tags/github"
+                },
+                {
+                  "label": "branch",
+                  "permalink": "/tech-blog/docs/tags/branch"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "title": "현재 작업한 브랜치를 다른 브랜치에 커밋하기",
+                "description": "다른 브랜치에서 작업하고 있었을 때 다른 브랜치에 push 하기",
+                "tags": [
+                  "github",
+                  "branch"
+                ],
+                "last_update": {
+                  "date": "2022-10-30"
+                }
+              },
+              "sidebar": "dev",
+              "previous": {
+                "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
+                "permalink": "/tech-blog/docs/dev/git/sync-repository"
+              },
+              "next": {
+                "title": "TBD 브랜치 전략",
+                "permalink": "/tech-blog/docs/dev/git/trunk-based-development"
+              }
+            },
+            {
+              "unversionedId": "dev/git/sync-repository",
+              "id": "dev/git/sync-repository",
+              "isDocsHomePage": false,
+              "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
+              "description": "sync fork 하는 방법을 알아봅시다",
+              "source": "@site/docs/dev/git/sync-repository.md",
+              "sourceDirName": "dev/git",
+              "slug": "/dev/git/sync-repository",
+              "permalink": "/tech-blog/docs/dev/git/sync-repository",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/git/sync-repository.md",
+              "tags": [
+                {
+                  "label": "git",
+                  "permalink": "/tech-blog/docs/tags/git"
+                },
+                {
+                  "label": "fork",
+                  "permalink": "/tech-blog/docs/tags/fork"
+                },
+                {
+                  "label": "gitlab",
+                  "permalink": "/tech-blog/docs/tags/gitlab"
+                },
+                {
+                  "label": "github",
+                  "permalink": "/tech-blog/docs/tags/github"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
+                "description": "sync fork 하는 방법을 알아봅시다",
+                "tags": [
+                  "git",
+                  "fork",
+                  "gitlab",
+                  "github"
+                ],
+                "last_update": {
+                  "date": "2022-10-13"
+                }
+              },
+              "sidebar": "dev",
+              "previous": {
+                "title": "LCP",
+                "permalink": "/tech-blog/docs/dev/cs/lcp/index"
+              },
+              "next": {
+                "title": "현재 작업한 브랜치를 다른 브랜치에 커밋하기",
+                "permalink": "/tech-blog/docs/dev/git/another-branch-push"
+              }
+            },
+            {
+              "unversionedId": "dev/git/trunk-based-development",
+              "id": "dev/git/trunk-based-development",
+              "isDocsHomePage": false,
+              "title": "TBD 브랜치 전략",
+              "description": "trunk-based-development 전략에 대해 알아보자",
+              "source": "@site/docs/dev/git/trunk-based-development.md",
+              "sourceDirName": "dev/git",
+              "slug": "/dev/git/trunk-based-development",
+              "permalink": "/tech-blog/docs/dev/git/trunk-based-development",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/git/trunk-based-development.md",
+              "tags": [
+                {
+                  "label": "git",
+                  "permalink": "/tech-blog/docs/tags/git"
+                },
+                {
+                  "label": "TBD",
+                  "permalink": "/tech-blog/docs/tags/tbd"
+                },
+                {
+                  "label": "trunk-based-development",
+                  "permalink": "/tech-blog/docs/tags/trunk-based-development"
+                },
+                {
+                  "label": "브랜치 전략",
+                  "permalink": "/tech-blog/docs/tags/브랜치-전략"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "title": "TBD 브랜치 전략",
+                "description": "trunk-based-development 전략에 대해 알아보자",
+                "tags": [
+                  "git",
+                  "TBD",
+                  "trunk-based-development",
+                  "브랜치 전략"
+                ],
+                "last_update": {
+                  "date": "2022-12-12"
+                }
+              },
+              "sidebar": "dev",
+              "previous": {
+                "title": "현재 작업한 브랜치를 다른 브랜치에 커밋하기",
+                "permalink": "/tech-blog/docs/dev/git/another-branch-push"
+              },
+              "next": {
+                "title": "아보카도 에디션 라이트에 이모티콘 기능 추가하기",
+                "permalink": "/tech-blog/docs/dev/php/avocadoedition-light-add-emoticon/index"
+              }
+            },
+            {
+              "unversionedId": "dev/htmlcss/scrollbar-gutter/index",
+              "id": "dev/htmlcss/scrollbar-gutter/index",
+              "isDocsHomePage": false,
+              "title": "scrollbar-gutter",
+              "description": "scrollbar-gutter 로 스크롤바 여백 예약하기",
+              "source": "@site/docs/dev/htmlcss/scrollbar-gutter/index.md",
+              "sourceDirName": "dev/htmlcss/scrollbar-gutter",
+              "slug": "/dev/htmlcss/scrollbar-gutter/index",
+              "permalink": "/tech-blog/docs/dev/htmlcss/scrollbar-gutter/index",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/htmlcss/scrollbar-gutter/index.md",
+              "tags": [
+                {
+                  "label": "css",
+                  "permalink": "/tech-blog/docs/tags/css"
+                },
+                {
+                  "label": "scrollbar-gutter",
+                  "permalink": "/tech-blog/docs/tags/scrollbar-gutter"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "title": "scrollbar-gutter",
+                "description": "scrollbar-gutter 로 스크롤바 여백 예약하기",
+                "tags": [
+                  "css",
+                  "scrollbar-gutter"
+                ],
+                "last_update": {
+                  "date": "2022-12-02"
+                }
+              },
+              "sidebar": "dev",
+              "previous": {
+                "title": "Block scoped variables",
+                "permalink": "/tech-blog/docs/dev/jsts/variables/index"
+              },
+              "next": {
+                "title": "Stale While Revalidate",
+                "permalink": "/tech-blog/docs/dev/cs/stale-while-revalidate/index"
+              }
+            },
+            {
+              "unversionedId": "dev/index",
+              "id": "dev/index",
+              "isDocsHomePage": false,
+              "title": "개발 이야기",
+              "description": "개발을 이야기 합니다.",
+              "source": "@site/docs/dev/index.md",
+              "sourceDirName": "dev",
+              "slug": "/dev/",
+              "permalink": "/tech-blog/docs/dev/",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "개발 이야기",
+                "sidebar_position": 1,
+                "slug": "/dev/"
+              },
+              "sidebar": "dev",
+              "next": {
+                "title": "NextJS 프로젝트 최적화 하기",
+                "permalink": "/tech-blog/docs/dev/react/nextjs-optimization/index"
+              }
+            },
+            {
+              "unversionedId": "dev/jsts/variables/index",
+              "id": "dev/jsts/variables/index",
+              "isDocsHomePage": false,
+              "title": "Block scoped variables",
+              "description": "블록 스코프를 갖는 변수들에 대해 알아봅시다.",
+              "source": "@site/docs/dev/jsts/variables/index.md",
+              "sourceDirName": "dev/jsts/variables",
+              "slug": "/dev/jsts/variables/index",
+              "permalink": "/tech-blog/docs/dev/jsts/variables/index",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/jsts/variables/index.md",
+              "tags": [
+                {
+                  "label": "let",
+                  "permalink": "/tech-blog/docs/tags/let"
+                },
+                {
+                  "label": "const",
+                  "permalink": "/tech-blog/docs/tags/const"
+                },
+                {
+                  "label": "variables",
+                  "permalink": "/tech-blog/docs/tags/variables"
+                },
+                {
+                  "label": "상수",
+                  "permalink": "/tech-blog/docs/tags/상수"
+                },
+                {
+                  "label": "변수",
+                  "permalink": "/tech-blog/docs/tags/변수"
+                },
+                {
+                  "label": "object-freeze",
+                  "permalink": "/tech-blog/docs/tags/object-freeze"
+                },
+                {
+                  "label": "deep-copy",
+                  "permalink": "/tech-blog/docs/tags/deep-copy"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "title": "Block scoped variables",
+                "description": "블록 스코프를 갖는 변수들에 대해 알아봅시다.",
+                "tags": [
+                  "let",
+                  "const",
+                  "variables",
+                  "상수",
+                  "변수",
+                  "object-freeze",
+                  "deep-copy"
+                ],
+                "last_update": {
+                  "date": "2022-11-07"
+                }
+              },
+              "sidebar": "dev",
+              "previous": {
+                "title": "React Hook 정리",
+                "permalink": "/tech-blog/docs/dev/react/hook/index"
+              },
+              "next": {
+                "title": "scrollbar-gutter",
+                "permalink": "/tech-blog/docs/dev/htmlcss/scrollbar-gutter/index"
+              }
+            },
+            {
+              "unversionedId": "dev/php/avocadoedition-light-add-emoticon/index",
+              "id": "dev/php/avocadoedition-light-add-emoticon/index",
+              "isDocsHomePage": false,
+              "title": "아보카도 에디션 라이트에 이모티콘 기능 추가하기",
+              "description": "아보카도 에디션 라이트에 이모티콘을 추가합니다",
+              "source": "@site/docs/dev/php/avocadoedition-light-add-emoticon/index.md",
+              "sourceDirName": "dev/php/avocadoedition-light-add-emoticon",
+              "slug": "/dev/php/avocadoedition-light-add-emoticon/index",
+              "permalink": "/tech-blog/docs/dev/php/avocadoedition-light-add-emoticon/index",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/php/avocadoedition-light-add-emoticon/index.md",
+              "tags": [
+                {
+                  "label": "아보카도 에디션 라이트",
+                  "permalink": "/tech-blog/docs/tags/아보카도-에디션-라이트"
+                },
+                {
+                  "label": "이모티콘",
+                  "permalink": "/tech-blog/docs/tags/이모티콘"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "title": "아보카도 에디션 라이트에 이모티콘 기능 추가하기",
+                "description": "아보카도 에디션 라이트에 이모티콘을 추가합니다",
+                "tags": [
+                  "아보카도 에디션 라이트",
+                  "이모티콘"
+                ],
+                "last_update": {
+                  "date": "2022-12-05"
+                }
+              },
+              "sidebar": "dev",
+              "previous": {
+                "title": "TBD 브랜치 전략",
+                "permalink": "/tech-blog/docs/dev/git/trunk-based-development"
+              }
+            },
+            {
+              "unversionedId": "dev/react/hook/index",
+              "id": "dev/react/hook/index",
+              "isDocsHomePage": false,
+              "title": "React Hook 정리",
+              "description": "공식문서 읽기",
+              "source": "@site/docs/dev/react/hook/index.md",
+              "sourceDirName": "dev/react/hook",
+              "slug": "/dev/react/hook/index",
+              "permalink": "/tech-blog/docs/dev/react/hook/index",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/react/hook/index.md",
+              "tags": [
+                {
+                  "label": "hook",
+                  "permalink": "/tech-blog/docs/tags/hook"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "title": "React Hook 정리",
+                "description": "공식문서 읽기",
+                "tags": [
+                  "hook"
+                ],
+                "last_update": {
+                  "date": "2023-04-24"
+                }
+              },
+              "sidebar": "dev",
+              "previous": {
+                "title": "NextJS 프로젝트 최적화 하기",
+                "permalink": "/tech-blog/docs/dev/react/nextjs-optimization/index"
+              },
+              "next": {
+                "title": "Block scoped variables",
+                "permalink": "/tech-blog/docs/dev/jsts/variables/index"
+              }
+            },
+            {
+              "unversionedId": "dev/react/nextjs-optimization/index",
+              "id": "dev/react/nextjs-optimization/index",
+              "isDocsHomePage": false,
+              "title": "NextJS 프로젝트 최적화 하기",
+              "description": "NextJS가 제공하는 기능으로 최적화합니다",
+              "source": "@site/docs/dev/react/nextjs-optimization/index.md",
+              "sourceDirName": "dev/react/nextjs-optimization",
+              "slug": "/dev/react/nextjs-optimization/index",
+              "permalink": "/tech-blog/docs/dev/react/nextjs-optimization/index",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/react/nextjs-optimization/index.md",
+              "tags": [
+                {
+                  "label": "최적화",
+                  "permalink": "/tech-blog/docs/tags/최적화"
+                },
+                {
+                  "label": "nextjs",
+                  "permalink": "/tech-blog/docs/tags/nextjs"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "title": "NextJS 프로젝트 최적화 하기",
+                "description": "NextJS가 제공하는 기능으로 최적화합니다",
+                "tags": [
+                  "최적화",
+                  "nextjs"
+                ],
+                "last_update": {
+                  "date": "2022-10-14"
+                }
+              },
+              "sidebar": "dev",
+              "previous": {
+                "title": "개발 이야기",
+                "permalink": "/tech-blog/docs/dev/"
+              },
+              "next": {
+                "title": "React Hook 정리",
+                "permalink": "/tech-blog/docs/dev/react/hook/index"
+              }
+            },
             {
               "unversionedId": "intro",
               "id": "intro",
@@ -84,18 +1175,13 @@
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/docs/intro",
+              "permalink": "/tech-blog/docs/intro",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/intro.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
                 "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "next": {
-                "title": "Create a Page",
-                "permalink": "/docs/tutorial-basics/create-a-page"
               }
             },
             {
@@ -107,22 +1193,13 @@
               "source": "@site/docs/tutorial-basics/congratulations.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/congratulations",
-              "permalink": "/docs/tutorial-basics/congratulations",
+              "permalink": "/tech-blog/docs/tutorial-basics/congratulations",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/congratulations.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
               "frontMatter": {
                 "sidebar_position": 6
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Deploy your site",
-                "permalink": "/docs/tutorial-basics/deploy-your-site"
-              },
-              "next": {
-                "title": "Manage Docs Versions",
-                "permalink": "/docs/tutorial-extras/manage-docs-versions"
               }
             },
             {
@@ -134,22 +1211,13 @@
               "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/create-a-blog-post",
-              "permalink": "/docs/tutorial-basics/create-a-blog-post",
+              "permalink": "/tech-blog/docs/tutorial-basics/create-a-blog-post",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/create-a-blog-post.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
               "frontMatter": {
                 "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Document",
-                "permalink": "/docs/tutorial-basics/create-a-document"
-              },
-              "next": {
-                "title": "Markdown Features",
-                "permalink": "/docs/tutorial-basics/markdown-features"
               }
             },
             {
@@ -161,22 +1229,13 @@
               "source": "@site/docs/tutorial-basics/create-a-document.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/create-a-document",
-              "permalink": "/docs/tutorial-basics/create-a-document",
+              "permalink": "/tech-blog/docs/tutorial-basics/create-a-document",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/create-a-document.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
               "frontMatter": {
                 "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Page",
-                "permalink": "/docs/tutorial-basics/create-a-page"
-              },
-              "next": {
-                "title": "Create a Blog Post",
-                "permalink": "/docs/tutorial-basics/create-a-blog-post"
               }
             },
             {
@@ -188,22 +1247,13 @@
               "source": "@site/docs/tutorial-basics/create-a-page.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/create-a-page",
-              "permalink": "/docs/tutorial-basics/create-a-page",
+              "permalink": "/tech-blog/docs/tutorial-basics/create-a-page",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/create-a-page.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
                 "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Tutorial Intro",
-                "permalink": "/docs/intro"
-              },
-              "next": {
-                "title": "Create a Document",
-                "permalink": "/docs/tutorial-basics/create-a-document"
               }
             },
             {
@@ -215,22 +1265,13 @@
               "source": "@site/docs/tutorial-basics/deploy-your-site.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/deploy-your-site",
-              "permalink": "/docs/tutorial-basics/deploy-your-site",
+              "permalink": "/tech-blog/docs/tutorial-basics/deploy-your-site",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/deploy-your-site.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
               "frontMatter": {
                 "sidebar_position": 5
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Markdown Features",
-                "permalink": "/docs/tutorial-basics/markdown-features"
-              },
-              "next": {
-                "title": "Congratulations!",
-                "permalink": "/docs/tutorial-basics/congratulations"
               }
             },
             {
@@ -242,22 +1283,13 @@
               "source": "@site/docs/tutorial-basics/markdown-features.mdx",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/markdown-features",
-              "permalink": "/docs/tutorial-basics/markdown-features",
+              "permalink": "/tech-blog/docs/tutorial-basics/markdown-features",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/markdown-features.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
               "frontMatter": {
                 "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Blog Post",
-                "permalink": "/docs/tutorial-basics/create-a-blog-post"
-              },
-              "next": {
-                "title": "Deploy your site",
-                "permalink": "/docs/tutorial-basics/deploy-your-site"
               }
             },
             {
@@ -269,22 +1301,13 @@
               "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/manage-docs-versions",
-              "permalink": "/docs/tutorial-extras/manage-docs-versions",
+              "permalink": "/tech-blog/docs/tutorial-extras/manage-docs-versions",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-extras/manage-docs-versions.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
                 "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Congratulations!",
-                "permalink": "/docs/tutorial-basics/congratulations"
-              },
-              "next": {
-                "title": "Translate your site",
-                "permalink": "/docs/tutorial-extras/translate-your-site"
               }
             },
             {
@@ -296,18 +1319,13 @@
               "source": "@site/docs/tutorial-extras/translate-your-site.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/translate-your-site",
-              "permalink": "/docs/tutorial-extras/translate-your-site",
+              "permalink": "/tech-blog/docs/tutorial-extras/translate-your-site",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-extras/translate-your-site.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
               "frontMatter": {
                 "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Manage Docs Versions",
-                "permalink": "/docs/tutorial-extras/manage-docs-versions"
               }
             }
           ]
@@ -322,7 +1340,7 @@
         {
           "id": "welcome",
           "metadata": {
-            "permalink": "/blog/welcome",
+            "permalink": "/tech-blog/blog/welcome",
             "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-08-26-welcome/index.md",
             "source": "@site/blog/2021-08-26-welcome/index.md",
             "title": "Welcome",
@@ -332,15 +1350,15 @@
             "tags": [
               {
                 "label": "facebook",
-                "permalink": "/blog/tags/facebook"
+                "permalink": "/tech-blog/blog/tags/facebook"
               },
               {
                 "label": "hello",
-                "permalink": "/blog/tags/hello"
+                "permalink": "/tech-blog/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/tech-blog/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.405,
@@ -363,14 +1381,14 @@
             ],
             "nextItem": {
               "title": "MDX Blog Post",
-              "permalink": "/blog/mdx-blog-post"
+              "permalink": "/tech-blog/blog/mdx-blog-post"
             }
           }
         },
         {
           "id": "mdx-blog-post",
           "metadata": {
-            "permalink": "/blog/mdx-blog-post",
+            "permalink": "/tech-blog/blog/mdx-blog-post",
             "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-08-01-mdx-blog-post.mdx",
             "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
             "title": "MDX Blog Post",
@@ -380,7 +1398,7 @@
             "tags": [
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/tech-blog/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.175,
@@ -396,18 +1414,18 @@
             ],
             "prevItem": {
               "title": "Welcome",
-              "permalink": "/blog/welcome"
+              "permalink": "/tech-blog/blog/welcome"
             },
             "nextItem": {
               "title": "Long Blog Post",
-              "permalink": "/blog/long-blog-post"
+              "permalink": "/tech-blog/blog/long-blog-post"
             }
           }
         },
         {
           "id": "long-blog-post",
           "metadata": {
-            "permalink": "/blog/long-blog-post",
+            "permalink": "/tech-blog/blog/long-blog-post",
             "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2019-05-29-long-blog-post.md",
             "source": "@site/blog/2019-05-29-long-blog-post.md",
             "title": "Long Blog Post",
@@ -417,11 +1435,11 @@
             "tags": [
               {
                 "label": "hello",
-                "permalink": "/blog/tags/hello"
+                "permalink": "/tech-blog/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/tech-blog/blog/tags/docusaurus"
               }
             ],
             "readingTime": 2.05,
@@ -437,18 +1455,18 @@
             ],
             "prevItem": {
               "title": "MDX Blog Post",
-              "permalink": "/blog/mdx-blog-post"
+              "permalink": "/tech-blog/blog/mdx-blog-post"
             },
             "nextItem": {
               "title": "First Blog Post",
-              "permalink": "/blog/first-blog-post"
+              "permalink": "/tech-blog/blog/first-blog-post"
             }
           }
         },
         {
           "id": "first-blog-post",
           "metadata": {
-            "permalink": "/blog/first-blog-post",
+            "permalink": "/tech-blog/blog/first-blog-post",
             "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2019-05-28-first-blog-post.md",
             "source": "@site/blog/2019-05-28-first-blog-post.md",
             "title": "First Blog Post",
@@ -458,11 +1476,11 @@
             "tags": [
               {
                 "label": "hola",
-                "permalink": "/blog/tags/hola"
+                "permalink": "/tech-blog/blog/tags/hola"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/tech-blog/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.12,
@@ -478,7 +1496,7 @@
             ],
             "prevItem": {
               "title": "Long Blog Post",
-              "permalink": "/blog/long-blog-post"
+              "permalink": "/tech-blog/blog/long-blog-post"
             }
           }
         }
@@ -486,7 +1504,7 @@
       "blogListPaginated": [
         {
           "metadata": {
-            "permalink": "/blog",
+            "permalink": "/tech-blog/blog",
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
@@ -505,22 +1523,22 @@
         }
       ],
       "blogTags": {
-        "/blog/tags/facebook": {
+        "/tech-blog/blog/tags/facebook": {
           "name": "facebook",
           "items": [
             "welcome"
           ],
-          "permalink": "/blog/tags/facebook"
+          "permalink": "/tech-blog/blog/tags/facebook"
         },
-        "/blog/tags/hello": {
+        "/tech-blog/blog/tags/hello": {
           "name": "hello",
           "items": [
             "welcome",
             "long-blog-post"
           ],
-          "permalink": "/blog/tags/hello"
+          "permalink": "/tech-blog/blog/tags/hello"
         },
-        "/blog/tags/docusaurus": {
+        "/tech-blog/blog/tags/docusaurus": {
           "name": "docusaurus",
           "items": [
             "welcome",
@@ -528,29 +1546,29 @@
             "long-blog-post",
             "first-blog-post"
           ],
-          "permalink": "/blog/tags/docusaurus"
+          "permalink": "/tech-blog/blog/tags/docusaurus"
         },
-        "/blog/tags/hola": {
+        "/tech-blog/blog/tags/hola": {
           "name": "hola",
           "items": [
             "first-blog-post"
           ],
-          "permalink": "/blog/tags/hola"
+          "permalink": "/tech-blog/blog/tags/hola"
         }
       },
-      "blogTagsListPath": "/blog/tags"
+      "blogTagsListPath": "/tech-blog/blog/tags"
     }
   },
   "docusaurus-plugin-content-pages": {
     "default": [
       {
         "type": "jsx",
-        "permalink": "/",
+        "permalink": "/tech-blog/",
         "source": "@site/src/pages/index.js"
       },
       {
         "type": "mdx",
-        "permalink": "/markdown-page",
+        "permalink": "/tech-blog/markdown-page",
         "source": "@site/src/pages/markdown-page.md"
       }
     ]

@@ -1,0 +1,29 @@
+{
+  "unversionedId": "books/frameworkless-front-end-development/03",
+  "id": "books/frameworkless-front-end-development/03",
+  "isDocsHomePage": false,
+  "title": "03 DOM 이벤트 관리",
+  "description": "3장의 목적은 프레임워크 없이 애플리케이션에서 이벤트 관리하는 방법을 이해한다.",
+  "source": "@site/docs/books/frameworkless-front-end-development/03.md",
+  "sourceDirName": "books/frameworkless-front-end-development",
+  "slug": "/books/frameworkless-front-end-development/03",
+  "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/03",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/frameworkless-front-end-development/03.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "03 DOM 이벤트 관리",
+    "last_update": {
+      "date": "2022-10-25"
+    }
+  },
+  "sidebar": "books",
+  "previous": {
+    "title": "02 렌더링",
+    "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/02"
+  },
+  "next": {
+    "title": "04 웹 구성요소",
+    "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/04"
+  }
+}

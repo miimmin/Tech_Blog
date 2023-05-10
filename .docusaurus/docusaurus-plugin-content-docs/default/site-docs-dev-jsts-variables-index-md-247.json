@@ -1,0 +1,68 @@
+{
+  "unversionedId": "dev/jsts/variables/index",
+  "id": "dev/jsts/variables/index",
+  "isDocsHomePage": false,
+  "title": "Block scoped variables",
+  "description": "블록 스코프를 갖는 변수들에 대해 알아봅시다.",
+  "source": "@site/docs/dev/jsts/variables/index.md",
+  "sourceDirName": "dev/jsts/variables",
+  "slug": "/dev/jsts/variables/index",
+  "permalink": "/tech-blog/docs/dev/jsts/variables/index",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/jsts/variables/index.md",
+  "tags": [
+    {
+      "label": "let",
+      "permalink": "/tech-blog/docs/tags/let"
+    },
+    {
+      "label": "const",
+      "permalink": "/tech-blog/docs/tags/const"
+    },
+    {
+      "label": "variables",
+      "permalink": "/tech-blog/docs/tags/variables"
+    },
+    {
+      "label": "상수",
+      "permalink": "/tech-blog/docs/tags/상수"
+    },
+    {
+      "label": "변수",
+      "permalink": "/tech-blog/docs/tags/변수"
+    },
+    {
+      "label": "object-freeze",
+      "permalink": "/tech-blog/docs/tags/object-freeze"
+    },
+    {
+      "label": "deep-copy",
+      "permalink": "/tech-blog/docs/tags/deep-copy"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Block scoped variables",
+    "description": "블록 스코프를 갖는 변수들에 대해 알아봅시다.",
+    "tags": [
+      "let",
+      "const",
+      "variables",
+      "상수",
+      "변수",
+      "object-freeze",
+      "deep-copy"
+    ],
+    "last_update": {
+      "date": "2022-11-07"
+    }
+  },
+  "sidebar": "dev",
+  "previous": {
+    "title": "React Hook 정리",
+    "permalink": "/tech-blog/docs/dev/react/hook/index"
+  },
+  "next": {
+    "title": "scrollbar-gutter",
+    "permalink": "/tech-blog/docs/dev/htmlcss/scrollbar-gutter/index"
+  }
+}

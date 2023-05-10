@@ -1,0 +1,43 @@
+{
+  "unversionedId": "dev/react/nextjs-optimization/index",
+  "id": "dev/react/nextjs-optimization/index",
+  "isDocsHomePage": false,
+  "title": "NextJS 프로젝트 최적화 하기",
+  "description": "NextJS가 제공하는 기능으로 최적화합니다",
+  "source": "@site/docs/dev/react/nextjs-optimization/index.md",
+  "sourceDirName": "dev/react/nextjs-optimization",
+  "slug": "/dev/react/nextjs-optimization/index",
+  "permalink": "/tech-blog/docs/dev/react/nextjs-optimization/index",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/react/nextjs-optimization/index.md",
+  "tags": [
+    {
+      "label": "최적화",
+      "permalink": "/tech-blog/docs/tags/최적화"
+    },
+    {
+      "label": "nextjs",
+      "permalink": "/tech-blog/docs/tags/nextjs"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "NextJS 프로젝트 최적화 하기",
+    "description": "NextJS가 제공하는 기능으로 최적화합니다",
+    "tags": [
+      "최적화",
+      "nextjs"
+    ],
+    "last_update": {
+      "date": "2022-10-14"
+    }
+  },
+  "sidebar": "dev",
+  "previous": {
+    "title": "개발 이야기",
+    "permalink": "/tech-blog/docs/dev/"
+  },
+  "next": {
+    "title": "React Hook 정리",
+    "permalink": "/tech-blog/docs/dev/react/hook/index"
+  }
+}

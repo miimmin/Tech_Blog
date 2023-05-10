@@ -1,0 +1,19 @@
+{
+  "name": "git",
+  "permalink": "/tech-blog/docs/tags/git",
+  "docs": [
+    {
+      "id": "dev/git/sync-repository",
+      "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
+      "description": "sync fork 하는 방법을 알아봅시다",
+      "permalink": "/tech-blog/docs/dev/git/sync-repository"
+    },
+    {
+      "id": "dev/git/trunk-based-development",
+      "title": "TBD 브랜치 전략",
+      "description": "trunk-based-development 전략에 대해 알아보자",
+      "permalink": "/tech-blog/docs/dev/git/trunk-based-development"
+    }
+  ],
+  "allTagsPath": "/tech-blog/docs/tags"
+}

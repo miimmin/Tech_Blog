@@ -1,0 +1,29 @@
+{
+  "unversionedId": "books/frameworkless-front-end-development/04",
+  "id": "books/frameworkless-front-end-development/04",
+  "isDocsHomePage": false,
+  "title": "04 웹 구성요소",
+  "description": "4장의 목적은 DOM 요소를 렌더링하고 시스템이나 사용자의 이벤트에 반응하는 방법에 대해 알아본다.",
+  "source": "@site/docs/books/frameworkless-front-end-development/04.md",
+  "sourceDirName": "books/frameworkless-front-end-development",
+  "slug": "/books/frameworkless-front-end-development/04",
+  "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/04",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/frameworkless-front-end-development/04.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "04 웹 구성요소",
+    "last_update": {
+      "date": "2022-11-02"
+    }
+  },
+  "sidebar": "books",
+  "previous": {
+    "title": "03 DOM 이벤트 관리",
+    "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/03"
+  },
+  "next": {
+    "title": "05 HTTP 요청",
+    "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/05"
+  }
+}

@@ -7,67 +7,210 @@
   "className": "docs-version-current",
   "isLast": true,
   "docsSidebars": {
-    "tutorialSidebar": [
+    "dev": [
       {
         "type": "link",
-        "label": "Tutorial Intro",
-        "href": "/tech-blog/docs/intro"
+        "label": "개발 이야기",
+        "href": "/tech-blog/docs/dev/"
       },
       {
         "type": "category",
-        "label": "Tutorial - Basics",
+        "label": "React",
         "items": [
           {
             "type": "link",
-            "label": "Create a Page",
-            "href": "/tech-blog/docs/tutorial-basics/create-a-page"
+            "label": "NextJS 프로젝트 최적화 하기",
+            "href": "/tech-blog/docs/dev/react/nextjs-optimization/index"
           },
           {
             "type": "link",
-            "label": "Create a Document",
-            "href": "/tech-blog/docs/tutorial-basics/create-a-document"
-          },
-          {
-            "type": "link",
-            "label": "Create a Blog Post",
-            "href": "/tech-blog/docs/tutorial-basics/create-a-blog-post"
-          },
-          {
-            "type": "link",
-            "label": "Markdown Features",
-            "href": "/tech-blog/docs/tutorial-basics/markdown-features"
-          },
-          {
-            "type": "link",
-            "label": "Deploy your site",
-            "href": "/tech-blog/docs/tutorial-basics/deploy-your-site"
-          },
-          {
-            "type": "link",
-            "label": "Congratulations!",
-            "href": "/tech-blog/docs/tutorial-basics/congratulations"
+            "label": "React Hook 정리",
+            "href": "/tech-blog/docs/dev/react/hook/index"
           }
         ],
-        "collapsed": true,
-        "collapsible": true
+        "collapsible": true,
+        "collapsed": true
       },
       {
         "type": "category",
-        "label": "Tutorial - Extras",
+        "label": "JS & TS",
         "items": [
           {
             "type": "link",
-            "label": "Manage Docs Versions",
-            "href": "/tech-blog/docs/tutorial-extras/manage-docs-versions"
+            "label": "Block scoped variables",
+            "href": "/tech-blog/docs/dev/jsts/variables/index"
+          }
+        ],
+        "collapsible": true,
+        "collapsed": true
+      },
+      {
+        "type": "category",
+        "label": "HTML & CSS",
+        "items": [
+          {
+            "type": "link",
+            "label": "scrollbar-gutter",
+            "href": "/tech-blog/docs/dev/htmlcss/scrollbar-gutter/index"
+          }
+        ],
+        "collapsible": true,
+        "collapsed": true
+      },
+      {
+        "type": "category",
+        "label": "CS",
+        "items": [
+          {
+            "type": "link",
+            "label": "Stale While Revalidate",
+            "href": "/tech-blog/docs/dev/cs/stale-while-revalidate/index"
           },
           {
             "type": "link",
-            "label": "Translate your site",
-            "href": "/tech-blog/docs/tutorial-extras/translate-your-site"
+            "label": "메트릭",
+            "href": "/tech-blog/docs/dev/cs/metrics/index"
+          },
+          {
+            "type": "link",
+            "label": "LCP",
+            "href": "/tech-blog/docs/dev/cs/lcp/index"
           }
         ],
-        "collapsed": true,
-        "collapsible": true
+        "collapsible": true,
+        "collapsed": true
+      },
+      {
+        "type": "category",
+        "label": "Git",
+        "items": [
+          {
+            "type": "link",
+            "label": "Fork 한 Repository를 원본 Repository와 동기화하기",
+            "href": "/tech-blog/docs/dev/git/sync-repository"
+          },
+          {
+            "type": "link",
+            "label": "현재 작업한 브랜치를 다른 브랜치에 커밋하기",
+            "href": "/tech-blog/docs/dev/git/another-branch-push"
+          },
+          {
+            "type": "link",
+            "label": "TBD 브랜치 전략",
+            "href": "/tech-blog/docs/dev/git/trunk-based-development"
+          }
+        ],
+        "collapsible": true,
+        "collapsed": true
+      },
+      {
+        "type": "category",
+        "label": "PHP",
+        "items": [
+          {
+            "type": "link",
+            "label": "아보카도 에디션 라이트에 이모티콘 기능 추가하기",
+            "href": "/tech-blog/docs/dev/php/avocadoedition-light-add-emoticon/index"
+          }
+        ],
+        "collapsible": true,
+        "collapsed": true
+      }
+    ],
+    "books": [
+      {
+        "type": "link",
+        "label": "책 목록",
+        "href": "/tech-blog/docs/books/"
+      },
+      {
+        "type": "category",
+        "label": "이펙티브 타입스크립트",
+        "items": [
+          {
+            "type": "link",
+            "label": "책 소개",
+            "href": "/tech-blog/docs/books/effective-typescript/introduction"
+          },
+          {
+            "type": "link",
+            "label": "01 타입스크립트 알아보기",
+            "href": "/tech-blog/docs/books/effective-typescript/01"
+          },
+          {
+            "type": "link",
+            "label": "02 타입스크립트의 타입 시스템",
+            "href": "/tech-blog/docs/books/effective-typescript/02"
+          }
+        ],
+        "collapsible": true,
+        "collapsed": true
+      },
+      {
+        "type": "category",
+        "label": "프레임워크 없는 프론트엔드 개발",
+        "items": [
+          {
+            "type": "link",
+            "label": "책 소개",
+            "href": "/tech-blog/docs/books/frameworkless-front-end-development/introduction"
+          },
+          {
+            "type": "link",
+            "label": "01 프레임워크에 대한 이야기",
+            "href": "/tech-blog/docs/books/frameworkless-front-end-development/01"
+          },
+          {
+            "type": "link",
+            "label": "02 렌더링",
+            "href": "/tech-blog/docs/books/frameworkless-front-end-development/02"
+          },
+          {
+            "type": "link",
+            "label": "03 DOM 이벤트 관리",
+            "href": "/tech-blog/docs/books/frameworkless-front-end-development/03"
+          },
+          {
+            "type": "link",
+            "label": "04 웹 구성요소",
+            "href": "/tech-blog/docs/books/frameworkless-front-end-development/04"
+          },
+          {
+            "type": "link",
+            "label": "05 HTTP 요청",
+            "href": "/tech-blog/docs/books/frameworkless-front-end-development/05"
+          },
+          {
+            "type": "link",
+            "label": "06 라우팅",
+            "href": "/tech-blog/docs/books/frameworkless-front-end-development/06"
+          }
+        ],
+        "collapsible": true,
+        "collapsed": true
+      },
+      {
+        "type": "category",
+        "label": "러닝 타입스크립트",
+        "items": [
+          {
+            "type": "link",
+            "label": "책 소개",
+            "href": "/tech-blog/docs/books/learning-typescript/introduction"
+          },
+          {
+            "type": "link",
+            "label": "01 개념",
+            "href": "/tech-blog/docs/books/learning-typescript/01"
+          },
+          {
+            "type": "link",
+            "label": "02 특징",
+            "href": "/tech-blog/docs/books/learning-typescript/02"
+          }
+        ],
+        "collapsible": true,
+        "collapsed": true
       }
     ]
   }

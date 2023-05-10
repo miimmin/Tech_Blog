@@ -1,0 +1,39 @@
+{
+  "unversionedId": "dev/php/avocadoedition-light-add-emoticon/index",
+  "id": "dev/php/avocadoedition-light-add-emoticon/index",
+  "isDocsHomePage": false,
+  "title": "아보카도 에디션 라이트에 이모티콘 기능 추가하기",
+  "description": "아보카도 에디션 라이트에 이모티콘을 추가합니다",
+  "source": "@site/docs/dev/php/avocadoedition-light-add-emoticon/index.md",
+  "sourceDirName": "dev/php/avocadoedition-light-add-emoticon",
+  "slug": "/dev/php/avocadoedition-light-add-emoticon/index",
+  "permalink": "/tech-blog/docs/dev/php/avocadoedition-light-add-emoticon/index",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/php/avocadoedition-light-add-emoticon/index.md",
+  "tags": [
+    {
+      "label": "아보카도 에디션 라이트",
+      "permalink": "/tech-blog/docs/tags/아보카도-에디션-라이트"
+    },
+    {
+      "label": "이모티콘",
+      "permalink": "/tech-blog/docs/tags/이모티콘"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "아보카도 에디션 라이트에 이모티콘 기능 추가하기",
+    "description": "아보카도 에디션 라이트에 이모티콘을 추가합니다",
+    "tags": [
+      "아보카도 에디션 라이트",
+      "이모티콘"
+    ],
+    "last_update": {
+      "date": "2022-12-05"
+    }
+  },
+  "sidebar": "dev",
+  "previous": {
+    "title": "TBD 브랜치 전략",
+    "permalink": "/tech-blog/docs/dev/git/trunk-based-development"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unversionedId": "books/effective-typescript/introduction",
+  "id": "books/effective-typescript/introduction",
+  "isDocsHomePage": false,
+  "title": "책 소개",
+  "description": "이펙티드 타입스크립트",
+  "source": "@site/docs/books/effective-typescript/introduction.md",
+  "sourceDirName": "books/effective-typescript",
+  "slug": "/books/effective-typescript/introduction",
+  "permalink": "/tech-blog/docs/books/effective-typescript/introduction",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/effective-typescript/introduction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "책 소개",
+    "last_update": {
+      "date": "2022-11-03"
+    }
+  },
+  "sidebar": "books",
+  "previous": {
+    "title": "책 목록",
+    "permalink": "/tech-blog/docs/books/"
+  },
+  "next": {
+    "title": "01 타입스크립트 알아보기",
+    "permalink": "/tech-blog/docs/books/effective-typescript/01"
+  }
+}

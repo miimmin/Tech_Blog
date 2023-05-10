@@ -1,0 +1,18 @@
+{
+  "unversionedId": "books/frameworkless-front-end-development/07",
+  "id": "books/frameworkless-front-end-development/07",
+  "isDocsHomePage": false,
+  "title": "07 상태관리",
+  "description": "7장에서는 3가지 상태 관리 전략을 구축하고 비교해 장단점을 분석해본다.",
+  "source": "@site/docs/books/frameworkless-front-end-development/07.md",
+  "sourceDirName": "books/frameworkless-front-end-development",
+  "slug": "/books/frameworkless-front-end-development/07",
+  "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/07",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/frameworkless-front-end-development/07.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "07 상태관리",
+    "draft": true
+  }
+}

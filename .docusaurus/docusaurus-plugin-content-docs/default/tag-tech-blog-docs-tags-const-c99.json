@@ -1,0 +1,13 @@
+{
+  "name": "const",
+  "permalink": "/tech-blog/docs/tags/const",
+  "docs": [
+    {
+      "id": "dev/jsts/variables/index",
+      "title": "Block scoped variables",
+      "description": "블록 스코프를 갖는 변수들에 대해 알아봅시다.",
+      "permalink": "/tech-blog/docs/dev/jsts/variables/index"
+    }
+  ],
+  "allTagsPath": "/tech-blog/docs/tags"
+}

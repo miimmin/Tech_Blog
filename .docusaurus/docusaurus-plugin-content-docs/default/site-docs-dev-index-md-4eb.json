@@ -1,0 +1,25 @@
+{
+  "unversionedId": "dev/index",
+  "id": "dev/index",
+  "isDocsHomePage": false,
+  "title": "개발 이야기",
+  "description": "개발을 이야기 합니다.",
+  "source": "@site/docs/dev/index.md",
+  "sourceDirName": "dev",
+  "slug": "/dev/",
+  "permalink": "/tech-blog/docs/dev/",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "개발 이야기",
+    "sidebar_position": 1,
+    "slug": "/dev/"
+  },
+  "sidebar": "dev",
+  "next": {
+    "title": "NextJS 프로젝트 최적화 하기",
+    "permalink": "/tech-blog/docs/dev/react/nextjs-optimization/index"
+  }
+}

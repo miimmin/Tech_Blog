@@ -1,0 +1,29 @@
+{
+  "unversionedId": "books/learning-typescript/introduction",
+  "id": "books/learning-typescript/introduction",
+  "isDocsHomePage": false,
+  "title": "책 소개",
+  "description": "러닝 타입스크립트",
+  "source": "@site/docs/books/learning-typescript/introduction.md",
+  "sourceDirName": "books/learning-typescript",
+  "slug": "/books/learning-typescript/introduction",
+  "permalink": "/tech-blog/docs/books/learning-typescript/introduction",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/learning-typescript/introduction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "책 소개",
+    "last_update": {
+      "date": "2023-03-24"
+    }
+  },
+  "sidebar": "books",
+  "previous": {
+    "title": "06 라우팅",
+    "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/06"
+  },
+  "next": {
+    "title": "01 개념",
+    "permalink": "/tech-blog/docs/books/learning-typescript/01"
+  }
+}

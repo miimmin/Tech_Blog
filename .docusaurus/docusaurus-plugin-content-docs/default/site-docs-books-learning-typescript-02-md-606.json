@@ -1,0 +1,26 @@
+{
+  "unversionedId": "books/learning-typescript/02",
+  "id": "books/learning-typescript/02",
+  "isDocsHomePage": false,
+  "title": "02 특징",
+  "description": "1. 튜플",
+  "source": "@site/docs/books/learning-typescript/02.md",
+  "sourceDirName": "books/learning-typescript",
+  "slug": "/books/learning-typescript/02",
+  "permalink": "/tech-blog/docs/books/learning-typescript/02",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/learning-typescript/02.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "02 특징",
+    "last_update": {
+      "date": "2023-04-06"
+    },
+    "draft": true
+  },
+  "sidebar": "books",
+  "previous": {
+    "title": "01 개념",
+    "permalink": "/tech-blog/docs/books/learning-typescript/01"
+  }
+}

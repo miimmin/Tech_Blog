@@ -1,0 +1,29 @@
+{
+  "unversionedId": "books/frameworkless-front-end-development/02",
+  "id": "books/frameworkless-front-end-development/02",
+  "isDocsHomePage": false,
+  "title": "02 렌더링",
+  "description": "데이터를 표시한다는 것은 요소를 화면이나 다른 출력 장치에 렌더링하는 것을 의미한다.",
+  "source": "@site/docs/books/frameworkless-front-end-development/02.md",
+  "sourceDirName": "books/frameworkless-front-end-development",
+  "slug": "/books/frameworkless-front-end-development/02",
+  "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/02",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/frameworkless-front-end-development/02.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "02 렌더링",
+    "last_update": {
+      "date": "2022-10-24"
+    }
+  },
+  "sidebar": "books",
+  "previous": {
+    "title": "01 프레임워크에 대한 이야기",
+    "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/01"
+  },
+  "next": {
+    "title": "03 DOM 이벤트 관리",
+    "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/03"
+  }
+}

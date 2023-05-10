@@ -1,0 +1,28 @@
+{
+  "unversionedId": "books/introduction",
+  "id": "books/introduction",
+  "isDocsHomePage": false,
+  "title": "책 목록",
+  "description": "- 이펙티드 타입스크립트",
+  "source": "@site/docs/books/introduction.md",
+  "sourceDirName": "books",
+  "slug": "/books/",
+  "permalink": "/tech-blog/docs/books/",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/introduction.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "책 목록",
+    "sidebar_position": 2,
+    "slug": "/books/",
+    "last_update": {
+      "date": "2022-10-19"
+    }
+  },
+  "sidebar": "books",
+  "next": {
+    "title": "책 소개",
+    "permalink": "/tech-blog/docs/books/effective-typescript/introduction"
+  }
+}

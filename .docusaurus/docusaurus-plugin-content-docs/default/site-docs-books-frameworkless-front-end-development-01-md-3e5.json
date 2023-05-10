@@ -1,0 +1,29 @@
+{
+  "unversionedId": "books/frameworkless-front-end-development/01",
+  "id": "books/frameworkless-front-end-development/01",
+  "isDocsHomePage": false,
+  "title": "01 프레임워크에 대한 이야기",
+  "description": "프레임워크는 필요 없다. 중요한 것은 그림이지 프레임(그림틀)이 아니다.",
+  "source": "@site/docs/books/frameworkless-front-end-development/01.md",
+  "sourceDirName": "books/frameworkless-front-end-development",
+  "slug": "/books/frameworkless-front-end-development/01",
+  "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/01",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/frameworkless-front-end-development/01.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "01 프레임워크에 대한 이야기",
+    "last_update": {
+      "date": "2022-10-19"
+    }
+  },
+  "sidebar": "books",
+  "previous": {
+    "title": "책 소개",
+    "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/introduction"
+  },
+  "next": {
+    "title": "02 렌더링",
+    "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/02"
+  }
+}

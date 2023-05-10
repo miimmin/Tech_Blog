@@ -1,0 +1,13 @@
+{
+  "name": "아보카도 에디션 라이트",
+  "permalink": "/tech-blog/docs/tags/아보카도-에디션-라이트",
+  "docs": [
+    {
+      "id": "dev/php/avocadoedition-light-add-emoticon/index",
+      "title": "아보카도 에디션 라이트에 이모티콘 기능 추가하기",
+      "description": "아보카도 에디션 라이트에 이모티콘을 추가합니다",
+      "permalink": "/tech-blog/docs/dev/php/avocadoedition-light-add-emoticon/index"
+    }
+  ],
+  "allTagsPath": "/tech-blog/docs/tags"
+}

@@ -1,0 +1,29 @@
+{
+  "unversionedId": "books/effective-typescript/01",
+  "id": "books/effective-typescript/01",
+  "isDocsHomePage": false,
+  "title": "01 타입스크립트 알아보기",
+  "description": "1 타입스크립트와 자바스크립트의 관계 이해하기",
+  "source": "@site/docs/books/effective-typescript/01.md",
+  "sourceDirName": "books/effective-typescript",
+  "slug": "/books/effective-typescript/01",
+  "permalink": "/tech-blog/docs/books/effective-typescript/01",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/effective-typescript/01.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "01 타입스크립트 알아보기",
+    "last_update": {
+      "date": "2022-11-03"
+    }
+  },
+  "sidebar": "books",
+  "previous": {
+    "title": "책 소개",
+    "permalink": "/tech-blog/docs/books/effective-typescript/introduction"
+  },
+  "next": {
+    "title": "02 타입스크립트의 타입 시스템",
+    "permalink": "/tech-blog/docs/books/effective-typescript/02"
+  }
+}
