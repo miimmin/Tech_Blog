@@ -7,7 +7,7 @@ export default {
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
   "organizationName": "miimmin",
-  "projectName": "technical-blog",
+  "projectName": "tech-blog",
   "presets": [
     [
       "@docusaurus/preset-classic",
