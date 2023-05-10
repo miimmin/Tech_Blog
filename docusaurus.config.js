@@ -44,7 +44,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         title: '상민!',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/chick.svg',
+          src: 'img/chick.png',
         },
         items: [
           { to: '/docs/dev/', label: '개발', position: 'left' },

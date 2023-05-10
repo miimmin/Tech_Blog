@@ -31,7 +31,7 @@ export default {
       "title": "상민!",
       "logo": {
         "alt": "My Site Logo",
-        "src": "img/chick.svg"
+        "src": "img/chick.png"
       },
       "items": [
         {
