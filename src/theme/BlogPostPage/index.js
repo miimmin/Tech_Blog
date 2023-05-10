@@ -63,6 +63,7 @@ function BlogPostPage(props) {
         )}
       </Seo>
 
+        <Comment />
       <BlogPostItem
         frontMatter={frontMatter}
         assets={assets}
@@ -70,7 +71,6 @@ function BlogPostPage(props) {
         isBlogPostPage>
         <BlogPostContents />
       </BlogPostItem>
-        <Comment />
 
 
       {(nextItem || prevItem) && (

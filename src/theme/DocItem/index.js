@@ -93,9 +93,10 @@ export default function DocItem(props) {
               <DocItemFooter {...props} />
             </article>
 
+            <Comment /> {/* swizzled */}
             <DocPaginator metadata={metadata} />
           </div>
-          <Comment /> {/* swizzled */}
+
         </div>
         {renderTocDesktop && (
           <div className="col col--3">
