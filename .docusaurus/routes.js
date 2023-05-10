@@ -4,165 +4,130 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/',
-    component: ComponentCreator('/','deb'),
+    path: '/tech-blog/',
+    component: ComponentCreator('/tech-blog/','cf4'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug','3d6'),
+    path: '/tech-blog/blog',
+    component: ComponentCreator('/tech-blog/blog','d34'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config','914'),
+    path: '/tech-blog/blog/archive',
+    component: ComponentCreator('/tech-blog/blog/archive','78e'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content','c28'),
+    path: '/tech-blog/blog/first-blog-post',
+    component: ComponentCreator('/tech-blog/blog/first-blog-post','124'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData','3cf'),
+    path: '/tech-blog/blog/long-blog-post',
+    component: ComponentCreator('/tech-blog/blog/long-blog-post','4c1'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata','31b'),
+    path: '/tech-blog/blog/mdx-blog-post',
+    component: ComponentCreator('/tech-blog/blog/mdx-blog-post','8ac'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry','0da'),
+    path: '/tech-blog/blog/tags',
+    component: ComponentCreator('/tech-blog/blog/tags','893'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes','244'),
+    path: '/tech-blog/blog/tags/docusaurus',
+    component: ComponentCreator('/tech-blog/blog/tags/docusaurus','551'),
     exact: true
   },
   {
-    path: '/blog',
-    component: ComponentCreator('/blog','520'),
+    path: '/tech-blog/blog/tags/facebook',
+    component: ComponentCreator('/tech-blog/blog/tags/facebook','bd9'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive','f4c'),
+    path: '/tech-blog/blog/tags/hello',
+    component: ComponentCreator('/tech-blog/blog/tags/hello','0a6'),
     exact: true
   },
   {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post','6c7'),
+    path: '/tech-blog/blog/tags/hola',
+    component: ComponentCreator('/tech-blog/blog/tags/hola','248'),
     exact: true
   },
   {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post','f06'),
+    path: '/tech-blog/blog/welcome',
+    component: ComponentCreator('/tech-blog/blog/welcome','f90'),
     exact: true
   },
   {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post','bee'),
+    path: '/tech-blog/docs/tags',
+    component: ComponentCreator('/tech-blog/docs/tags','0ed'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags','e13'),
+    path: '/tech-blog/markdown-page',
+    component: ComponentCreator('/tech-blog/markdown-page','b92'),
     exact: true
   },
   {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus','ddf'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook','ede'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello','4c2'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola','752'),
-    exact: true
-  },
-  {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome','bfa'),
-    exact: true
-  },
-  {
-    path: '/docs/tags',
-    component: ComponentCreator('/docs/tags','0cc'),
-    exact: true
-  },
-  {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page','be1'),
-    exact: true
-  },
-  {
-    path: '/docs',
-    component: ComponentCreator('/docs','87d'),
+    path: '/tech-blog/docs',
+    component: ComponentCreator('/tech-blog/docs','e76'),
     routes: [
       {
-        path: '/docs/intro',
-        component: ComponentCreator('/docs/intro','aed'),
+        path: '/tech-blog/docs/intro',
+        component: ComponentCreator('/tech-blog/docs/intro','4d6'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/congratulations',
-        component: ComponentCreator('/docs/tutorial-basics/congratulations','793'),
+        path: '/tech-blog/docs/tutorial-basics/congratulations',
+        component: ComponentCreator('/tech-blog/docs/tutorial-basics/congratulations','565'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-blog-post',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-blog-post','68e'),
+        path: '/tech-blog/docs/tutorial-basics/create-a-blog-post',
+        component: ComponentCreator('/tech-blog/docs/tutorial-basics/create-a-blog-post','8d2'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-document',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-document','c2d'),
+        path: '/tech-blog/docs/tutorial-basics/create-a-document',
+        component: ComponentCreator('/tech-blog/docs/tutorial-basics/create-a-document','528'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/create-a-page',
-        component: ComponentCreator('/docs/tutorial-basics/create-a-page','f44'),
+        path: '/tech-blog/docs/tutorial-basics/create-a-page',
+        component: ComponentCreator('/tech-blog/docs/tutorial-basics/create-a-page','816'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/deploy-your-site',
-        component: ComponentCreator('/docs/tutorial-basics/deploy-your-site','e46'),
+        path: '/tech-blog/docs/tutorial-basics/deploy-your-site',
+        component: ComponentCreator('/tech-blog/docs/tutorial-basics/deploy-your-site','f10'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/markdown-features',
-        component: ComponentCreator('/docs/tutorial-basics/markdown-features','4b7'),
+        path: '/tech-blog/docs/tutorial-basics/markdown-features',
+        component: ComponentCreator('/tech-blog/docs/tutorial-basics/markdown-features','af6'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-extras/manage-docs-versions',
-        component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions','fdd'),
+        path: '/tech-blog/docs/tutorial-extras/manage-docs-versions',
+        component: ComponentCreator('/tech-blog/docs/tutorial-extras/manage-docs-versions','bb9'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-extras/translate-your-site',
-        component: ComponentCreator('/docs/tutorial-extras/translate-your-site','2d7'),
+        path: '/tech-blog/docs/tutorial-extras/translate-your-site',
+        component: ComponentCreator('/tech-blog/docs/tutorial-extras/translate-your-site','2c8'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }

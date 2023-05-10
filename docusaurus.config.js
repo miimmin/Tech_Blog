@@ -47,6 +47,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           src: 'img/logo.svg',
         },
         items: [
+          { to: '/docs/dev/', label: '개발', position: 'left' },
+          { to: '/docs/books/', label: '책', position: 'left' },
+
           {
             type: 'doc',
             docId: 'intro',
@@ -67,6 +70,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           {
             title: 'Docs',
             items: [
+              {
+                href: 'https://github.com/uhgenie7/uhgenie7.github.io',
+                label: 'GitHub',
+                position: 'right',
+              },
+
               {
                 label: 'Tutorial',
                 to: '/docs/intro',

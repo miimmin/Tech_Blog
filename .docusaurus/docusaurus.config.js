@@ -2,7 +2,7 @@ export default {
   "title": "My Site",
   "tagline": "Dinosaurs are cool",
   "url": "https://miimmin.github.io",
-  "baseUrl": "/",
+  "baseUrl": "/tech-blog/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
