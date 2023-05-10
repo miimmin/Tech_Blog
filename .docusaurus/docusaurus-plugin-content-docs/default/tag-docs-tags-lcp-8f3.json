@@ -1,0 +1,13 @@
+{
+  "name": "LCP",
+  "permalink": "/docs/tags/lcp",
+  "docs": [
+    {
+      "id": "dev/cs/lcp/index",
+      "title": "LCP",
+      "description": "Largest Contentful Paint 알아보기",
+      "permalink": "/docs/dev/cs/lcp/index"
+    }
+  ],
+  "allTagsPath": "/docs/tags"
+}

@@ -7,7 +7,7 @@
   "source": "@site/docs/dev/index.md",
   "sourceDirName": "dev",
   "slug": "/dev/",
-  "permalink": "/tech-blog/docs/dev/",
+  "permalink": "/docs/dev/",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/index.md",
   "tags": [],
   "version": "current",
@@ -20,6 +20,6 @@
   "sidebar": "dev",
   "next": {
     "title": "NextJS 프로젝트 최적화 하기",
-    "permalink": "/tech-blog/docs/dev/react/nextjs-optimization/index"
+    "permalink": "/docs/dev/react/nextjs-optimization/index"
   }
 }
