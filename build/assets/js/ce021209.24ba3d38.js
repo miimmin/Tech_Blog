@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktechnical_blog=self.webpackChunktechnical_blog||[]).push([[4585],{4528:e=>{e.exports=JSON.parse('{"name":"web-vital","permalink":"/docs/tags/web-vital","docs":[{"id":"dev/cs/lcp/index","title":"LCP","description":"Largest Contentful Paint \uc54c\uc544\ubcf4\uae30","permalink":"/docs/dev/cs/lcp/index"}],"allTagsPath":"/docs/tags"}')}}]);

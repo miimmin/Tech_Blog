@@ -7,24 +7,24 @@
   "source": "@site/docs/dev/git/sync-repository.md",
   "sourceDirName": "dev/git",
   "slug": "/dev/git/sync-repository",
-  "permalink": "/docs/dev/git/sync-repository",
+  "permalink": "/tech-blog/docs/dev/git/sync-repository",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/git/sync-repository.md",
   "tags": [
     {
       "label": "git",
-      "permalink": "/docs/tags/git"
+      "permalink": "/tech-blog/docs/tags/git"
     },
     {
       "label": "fork",
-      "permalink": "/docs/tags/fork"
+      "permalink": "/tech-blog/docs/tags/fork"
     },
     {
       "label": "gitlab",
-      "permalink": "/docs/tags/gitlab"
+      "permalink": "/tech-blog/docs/tags/gitlab"
     },
     {
       "label": "github",
-      "permalink": "/docs/tags/github"
+      "permalink": "/tech-blog/docs/tags/github"
     }
   ],
   "version": "current",
@@ -44,10 +44,10 @@
   "sidebar": "dev",
   "previous": {
     "title": "LCP",
-    "permalink": "/docs/dev/cs/lcp/index"
+    "permalink": "/tech-blog/docs/dev/cs/lcp/index"
   },
   "next": {
     "title": "현재 작업한 브랜치를 다른 브랜치에 커밋하기",
-    "permalink": "/docs/dev/git/another-branch-push"
+    "permalink": "/tech-blog/docs/dev/git/another-branch-push"
   }
 }

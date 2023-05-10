@@ -7,20 +7,20 @@
   "source": "@site/docs/dev/cs/metrics/index.md",
   "sourceDirName": "dev/cs/metrics",
   "slug": "/dev/cs/metrics/index",
-  "permalink": "/docs/dev/cs/metrics/index",
+  "permalink": "/tech-blog/docs/dev/cs/metrics/index",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/cs/metrics/index.md",
   "tags": [
     {
       "label": "metrics",
-      "permalink": "/docs/tags/metrics"
+      "permalink": "/tech-blog/docs/tags/metrics"
     },
     {
       "label": "성능",
-      "permalink": "/docs/tags/성능"
+      "permalink": "/tech-blog/docs/tags/성능"
     },
     {
       "label": "메트릭",
-      "permalink": "/docs/tags/메트릭"
+      "permalink": "/tech-blog/docs/tags/메트릭"
     }
   ],
   "version": "current",
@@ -39,10 +39,10 @@
   "sidebar": "dev",
   "previous": {
     "title": "Stale While Revalidate",
-    "permalink": "/docs/dev/cs/stale-while-revalidate/index"
+    "permalink": "/tech-blog/docs/dev/cs/stale-while-revalidate/index"
   },
   "next": {
     "title": "LCP",
-    "permalink": "/docs/dev/cs/lcp/index"
+    "permalink": "/tech-blog/docs/dev/cs/lcp/index"
   }
 }

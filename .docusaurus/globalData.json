@@ -1,184 +1,184 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/tech-blog/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/tech-blog/docs",
           "mainDocId": "dev/index",
           "docs": [
             {
               "id": "books/effective-typescript/01",
-              "path": "/docs/books/effective-typescript/01",
+              "path": "/tech-blog/docs/books/effective-typescript/01",
               "sidebar": "books"
             },
             {
               "id": "books/effective-typescript/02",
-              "path": "/docs/books/effective-typescript/02",
+              "path": "/tech-blog/docs/books/effective-typescript/02",
               "sidebar": "books"
             },
             {
               "id": "books/effective-typescript/introduction",
-              "path": "/docs/books/effective-typescript/introduction",
+              "path": "/tech-blog/docs/books/effective-typescript/introduction",
               "sidebar": "books"
             },
             {
               "id": "books/frameworkless-front-end-development/01",
-              "path": "/docs/books/frameworkless-front-end-development/01",
+              "path": "/tech-blog/docs/books/frameworkless-front-end-development/01",
               "sidebar": "books"
             },
             {
               "id": "books/frameworkless-front-end-development/02",
-              "path": "/docs/books/frameworkless-front-end-development/02",
+              "path": "/tech-blog/docs/books/frameworkless-front-end-development/02",
               "sidebar": "books"
             },
             {
               "id": "books/frameworkless-front-end-development/03",
-              "path": "/docs/books/frameworkless-front-end-development/03",
+              "path": "/tech-blog/docs/books/frameworkless-front-end-development/03",
               "sidebar": "books"
             },
             {
               "id": "books/frameworkless-front-end-development/04",
-              "path": "/docs/books/frameworkless-front-end-development/04",
+              "path": "/tech-blog/docs/books/frameworkless-front-end-development/04",
               "sidebar": "books"
             },
             {
               "id": "books/frameworkless-front-end-development/05",
-              "path": "/docs/books/frameworkless-front-end-development/05",
+              "path": "/tech-blog/docs/books/frameworkless-front-end-development/05",
               "sidebar": "books"
             },
             {
               "id": "books/frameworkless-front-end-development/06",
-              "path": "/docs/books/frameworkless-front-end-development/06",
+              "path": "/tech-blog/docs/books/frameworkless-front-end-development/06",
               "sidebar": "books"
             },
             {
               "id": "books/frameworkless-front-end-development/07",
-              "path": "/docs/books/frameworkless-front-end-development/07"
+              "path": "/tech-blog/docs/books/frameworkless-front-end-development/07"
             },
             {
               "id": "books/frameworkless-front-end-development/introduction",
-              "path": "/docs/books/frameworkless-front-end-development/introduction",
+              "path": "/tech-blog/docs/books/frameworkless-front-end-development/introduction",
               "sidebar": "books"
             },
             {
               "id": "books/introduction",
-              "path": "/docs/books/",
+              "path": "/tech-blog/docs/books/",
               "sidebar": "books"
             },
             {
               "id": "books/learning-typescript/01",
-              "path": "/docs/books/learning-typescript/01",
+              "path": "/tech-blog/docs/books/learning-typescript/01",
               "sidebar": "books"
             },
             {
               "id": "books/learning-typescript/02",
-              "path": "/docs/books/learning-typescript/02",
+              "path": "/tech-blog/docs/books/learning-typescript/02",
               "sidebar": "books"
             },
             {
               "id": "books/learning-typescript/introduction",
-              "path": "/docs/books/learning-typescript/introduction",
+              "path": "/tech-blog/docs/books/learning-typescript/introduction",
               "sidebar": "books"
             },
             {
               "id": "dev/cs/lcp/index",
-              "path": "/docs/dev/cs/lcp/index",
+              "path": "/tech-blog/docs/dev/cs/lcp/index",
               "sidebar": "dev"
             },
             {
               "id": "dev/cs/metrics/index",
-              "path": "/docs/dev/cs/metrics/index",
+              "path": "/tech-blog/docs/dev/cs/metrics/index",
               "sidebar": "dev"
             },
             {
               "id": "dev/cs/stale-while-revalidate/index",
-              "path": "/docs/dev/cs/stale-while-revalidate/index",
+              "path": "/tech-blog/docs/dev/cs/stale-while-revalidate/index",
               "sidebar": "dev"
             },
             {
               "id": "dev/git/another-branch-push",
-              "path": "/docs/dev/git/another-branch-push",
+              "path": "/tech-blog/docs/dev/git/another-branch-push",
               "sidebar": "dev"
             },
             {
               "id": "dev/git/sync-repository",
-              "path": "/docs/dev/git/sync-repository",
+              "path": "/tech-blog/docs/dev/git/sync-repository",
               "sidebar": "dev"
             },
             {
               "id": "dev/git/trunk-based-development",
-              "path": "/docs/dev/git/trunk-based-development",
+              "path": "/tech-blog/docs/dev/git/trunk-based-development",
               "sidebar": "dev"
             },
             {
               "id": "dev/htmlcss/scrollbar-gutter/index",
-              "path": "/docs/dev/htmlcss/scrollbar-gutter/index",
+              "path": "/tech-blog/docs/dev/htmlcss/scrollbar-gutter/index",
               "sidebar": "dev"
             },
             {
               "id": "dev/index",
-              "path": "/docs/dev/",
+              "path": "/tech-blog/docs/dev/",
               "sidebar": "dev"
             },
             {
               "id": "dev/jsts/variables/index",
-              "path": "/docs/dev/jsts/variables/index",
+              "path": "/tech-blog/docs/dev/jsts/variables/index",
               "sidebar": "dev"
             },
             {
               "id": "dev/php/avocadoedition-light-add-emoticon/index",
-              "path": "/docs/dev/php/avocadoedition-light-add-emoticon/index",
+              "path": "/tech-blog/docs/dev/php/avocadoedition-light-add-emoticon/index",
               "sidebar": "dev"
             },
             {
               "id": "dev/react/hook/index",
-              "path": "/docs/dev/react/hook/index",
+              "path": "/tech-blog/docs/dev/react/hook/index",
               "sidebar": "dev"
             },
             {
               "id": "dev/react/nextjs-optimization/index",
-              "path": "/docs/dev/react/nextjs-optimization/index",
+              "path": "/tech-blog/docs/dev/react/nextjs-optimization/index",
               "sidebar": "dev"
             },
             {
               "id": "intro",
-              "path": "/docs/intro"
+              "path": "/tech-blog/docs/intro"
             },
             {
               "id": "tutorial-basics/congratulations",
-              "path": "/docs/tutorial-basics/congratulations"
+              "path": "/tech-blog/docs/tutorial-basics/congratulations"
             },
             {
               "id": "tutorial-basics/create-a-blog-post",
-              "path": "/docs/tutorial-basics/create-a-blog-post"
+              "path": "/tech-blog/docs/tutorial-basics/create-a-blog-post"
             },
             {
               "id": "tutorial-basics/create-a-document",
-              "path": "/docs/tutorial-basics/create-a-document"
+              "path": "/tech-blog/docs/tutorial-basics/create-a-document"
             },
             {
               "id": "tutorial-basics/create-a-page",
-              "path": "/docs/tutorial-basics/create-a-page"
+              "path": "/tech-blog/docs/tutorial-basics/create-a-page"
             },
             {
               "id": "tutorial-basics/deploy-your-site",
-              "path": "/docs/tutorial-basics/deploy-your-site"
+              "path": "/tech-blog/docs/tutorial-basics/deploy-your-site"
             },
             {
               "id": "tutorial-basics/markdown-features",
-              "path": "/docs/tutorial-basics/markdown-features"
+              "path": "/tech-blog/docs/tutorial-basics/markdown-features"
             },
             {
               "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions"
+              "path": "/tech-blog/docs/tutorial-extras/manage-docs-versions"
             },
             {
               "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site"
+              "path": "/tech-blog/docs/tutorial-extras/translate-your-site"
             }
           ]
         }

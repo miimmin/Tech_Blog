@@ -7,7 +7,7 @@
   "source": "@site/docs/books/frameworkless-front-end-development/04.md",
   "sourceDirName": "books/frameworkless-front-end-development",
   "slug": "/books/frameworkless-front-end-development/04",
-  "permalink": "/docs/books/frameworkless-front-end-development/04",
+  "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/04",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/frameworkless-front-end-development/04.md",
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "books",
   "previous": {
     "title": "03 DOM 이벤트 관리",
-    "permalink": "/docs/books/frameworkless-front-end-development/03"
+    "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/03"
   },
   "next": {
     "title": "05 HTTP 요청",
-    "permalink": "/docs/books/frameworkless-front-end-development/05"
+    "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/05"
   }
 }
