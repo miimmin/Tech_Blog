@@ -1,5 +1,5 @@
 export default {
-  "title": "My Site",
+  "title": "상민!",
   "tagline": "Dinosaurs are cool",
   "url": "https://miimmin.github.io",
   "baseUrl": "/tech-blog/",
@@ -28,7 +28,7 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "My Site",
+      "title": "상민!",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/chick.svg"
@@ -50,7 +50,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/miimmin",
           "label": "GitHub",
           "position": "right"
         }
