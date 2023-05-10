@@ -9,6 +9,41 @@ export default [
     exact: true
   },
   {
+    path: '/tech-blog/__docusaurus/debug',
+    component: ComponentCreator('/tech-blog/__docusaurus/debug','858'),
+    exact: true
+  },
+  {
+    path: '/tech-blog/__docusaurus/debug/config',
+    component: ComponentCreator('/tech-blog/__docusaurus/debug/config','762'),
+    exact: true
+  },
+  {
+    path: '/tech-blog/__docusaurus/debug/content',
+    component: ComponentCreator('/tech-blog/__docusaurus/debug/content','98d'),
+    exact: true
+  },
+  {
+    path: '/tech-blog/__docusaurus/debug/globalData',
+    component: ComponentCreator('/tech-blog/__docusaurus/debug/globalData','c5e'),
+    exact: true
+  },
+  {
+    path: '/tech-blog/__docusaurus/debug/metadata',
+    component: ComponentCreator('/tech-blog/__docusaurus/debug/metadata','0b7'),
+    exact: true
+  },
+  {
+    path: '/tech-blog/__docusaurus/debug/registry',
+    component: ComponentCreator('/tech-blog/__docusaurus/debug/registry','b5d'),
+    exact: true
+  },
+  {
+    path: '/tech-blog/__docusaurus/debug/routes',
+    component: ComponentCreator('/tech-blog/__docusaurus/debug/routes','8bb'),
+    exact: true
+  },
+  {
     path: '/tech-blog/blog',
     component: ComponentCreator('/tech-blog/blog','d34'),
     exact: true

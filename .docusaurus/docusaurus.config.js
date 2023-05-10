@@ -5,7 +5,7 @@ export default {
   "baseUrl": "/tech-blog/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
-  "favicon": "img/favicon.ico",
+  "favicon": "img/chick.ico",
   "organizationName": "miimmin",
   "projectName": "tech-blog",
   "presets": [
@@ -28,10 +28,10 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "My Site",
+      "title": "상민!",
       "logo": {
         "alt": "My Site Logo",
-        "src": "img/logo.svg"
+        "src": "img/chick.png"
       },
       "items": [
         {
