@@ -64,30 +64,16 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "href": "https://github.com/uhgenie7/uhgenie7.github.io",
-              "label": "GitHub",
-              "position": "right"
+              "label": "개발",
+              "to": "/docs/dev/"
             },
             {
-              "label": "Tutorial",
-              "to": "/docs/intro"
-            }
-          ]
-        },
-        {
-          "title": "Community",
-          "items": [
-            {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
+              "label": "책",
+              "to": "/docs/books/"
             },
             {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "label": "기록",
+              "to": "/blog"
             }
           ]
         },
@@ -95,17 +81,13 @@ export default {
           "title": "More",
           "items": [
             {
-              "label": "Blog",
-              "to": "/blog"
-            },
-            {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/miimmin"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2023 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2023 Genie's Dev Blog, Inc. Built with Docusaurus."
     },
     "prism": {
       "theme": {
