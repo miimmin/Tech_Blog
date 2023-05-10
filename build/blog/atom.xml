@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://miimmin.github.io/tech-blog/blog"/>
     <subtitle>My Site Blog</subtitle>
-    <icon>https://miimmin.github.io/tech-blog/img/chick.ico</icon>
+    <icon>https://miimmin.github.io/tech-blog/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
