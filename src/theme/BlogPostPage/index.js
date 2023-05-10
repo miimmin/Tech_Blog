@@ -10,6 +10,7 @@ import BlogLayout from '@theme/BlogLayout';
 import BlogPostItem from '@theme/BlogPostItem';
 import BlogPostPaginator from '@theme/BlogPostPaginator';
 import {ThemeClassNames} from '@docusaurus/theme-common';
+import Comment from "../../components/Comment";
 
 function BlogPostPage(props) {
   const {content: BlogPostContents, sidebar} = props;
@@ -69,6 +70,8 @@ function BlogPostPage(props) {
         isBlogPostPage>
         <BlogPostContents />
       </BlogPostItem>
+        <Comment />
+
 
       {(nextItem || prevItem) && (
         <BlogPostPaginator nextItem={nextItem} prevItem={prevItem} />

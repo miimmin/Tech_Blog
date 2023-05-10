@@ -16,6 +16,9 @@ import TOCCollapsible from '@theme/TOCCollapsible';
 import {MainHeading} from '@theme/Heading';
 import styles from './styles.module.css';
 import {ThemeClassNames} from '@docusaurus/theme-common';
+import Comment from "../../components/Comment";
+
+
 export default function DocItem(props) {
   const {content: DocContent, versionMetadata} = props;
   const {metadata, frontMatter} = DocContent;
@@ -92,6 +95,7 @@ export default function DocItem(props) {
 
             <DocPaginator metadata={metadata} />
           </div>
+          <Comment /> {/* swizzled */}
         </div>
         {renderTocDesktop && (
           <div className="col col--3">
