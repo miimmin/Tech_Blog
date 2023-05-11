@@ -7,12 +7,12 @@
   "source": "@site/docs/dev/react/hook/index.md",
   "sourceDirName": "dev/react/hook",
   "slug": "/dev/react/hook/index",
-  "permalink": "/tech-blog/docs/dev/react/hook/index",
+  "permalink": "/Tech-Blog/docs/dev/react/hook/index",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/react/hook/index.md",
   "tags": [
     {
       "label": "hook",
-      "permalink": "/tech-blog/docs/tags/hook"
+      "permalink": "/Tech-Blog/docs/tags/hook"
     }
   ],
   "version": "current",
@@ -29,10 +29,10 @@
   "sidebar": "dev",
   "previous": {
     "title": "NextJS 프로젝트 최적화 하기",
-    "permalink": "/tech-blog/docs/dev/react/nextjs-optimization/index"
+    "permalink": "/Tech-Blog/docs/dev/react/nextjs-optimization/index"
   },
   "next": {
     "title": "Block scoped variables",
-    "permalink": "/tech-blog/docs/dev/jsts/variables/index"
+    "permalink": "/Tech-Blog/docs/dev/jsts/variables/index"
   }
 }

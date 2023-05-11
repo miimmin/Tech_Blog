@@ -2,18 +2,18 @@ export default {
   "title": "상민!",
   "tagline": "Dinosaurs are cool",
   "url": "https://miimmin.github.io",
-  "baseUrl": "/tech-blog/",
+  "baseUrl": "/Tech-Blog/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
-  "favicon": "img/chick.ico",
+  "favicon": "img/mon.ico",
   "organizationName": "miimmin",
-  "projectName": "Tech_Blog",
+  "projectName": "Tech-Blog",
   "presets": [
     [
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/Users/sleeplessinwhat/Desktop/밈민/Tech_Blog/sidebars.js",
+          "sidebarPath": "/Users/sleeplessinwhat/Desktop/밈민/Tech-Blog/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/"
         },
         "blog": {
@@ -21,7 +21,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/"
         },
         "theme": {
-          "customCss": "/Users/sleeplessinwhat/Desktop/밈민/Tech_Blog/src/css/custom.css"
+          "customCss": "/Users/sleeplessinwhat/Desktop/밈민/Tech-Blog/src/css/custom.css"
         }
       }
     ]
@@ -31,7 +31,8 @@ export default {
       "title": "상민!",
       "logo": {
         "alt": "My Site Logo",
-        "src": "img/chick.png"
+        "srcDark": "img/dfairy.png",
+        "src": "img/sfairy.png"
       },
       "items": [
         {

@@ -7,16 +7,16 @@
   "source": "@site/docs/dev/php/avocadoedition-light-add-emoticon/index.md",
   "sourceDirName": "dev/php/avocadoedition-light-add-emoticon",
   "slug": "/dev/php/avocadoedition-light-add-emoticon/index",
-  "permalink": "/tech-blog/docs/dev/php/avocadoedition-light-add-emoticon/index",
+  "permalink": "/Tech-Blog/docs/dev/php/avocadoedition-light-add-emoticon/index",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/php/avocadoedition-light-add-emoticon/index.md",
   "tags": [
     {
       "label": "아보카도 에디션 라이트",
-      "permalink": "/tech-blog/docs/tags/아보카도-에디션-라이트"
+      "permalink": "/Tech-Blog/docs/tags/아보카도-에디션-라이트"
     },
     {
       "label": "이모티콘",
-      "permalink": "/tech-blog/docs/tags/이모티콘"
+      "permalink": "/Tech-Blog/docs/tags/이모티콘"
     }
   ],
   "version": "current",
@@ -34,6 +34,6 @@
   "sidebar": "dev",
   "previous": {
     "title": "TBD 브랜치 전략",
-    "permalink": "/tech-blog/docs/dev/git/trunk-based-development"
+    "permalink": "/Tech-Blog/docs/dev/git/trunk-based-development"
   }
 }

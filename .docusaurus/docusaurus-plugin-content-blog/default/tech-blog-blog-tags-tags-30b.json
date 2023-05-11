@@ -1,0 +1,30 @@
+{
+  "/Tech-Blog/blog/tags/facebook": {
+    "allTagsPath": "/Tech-Blog/blog/tags",
+    "slug": "/Tech-Blog/blog/tags/facebook",
+    "name": "facebook",
+    "count": 1,
+    "permalink": "/Tech-Blog/blog/tags/facebook"
+  },
+  "/Tech-Blog/blog/tags/hello": {
+    "allTagsPath": "/Tech-Blog/blog/tags",
+    "slug": "/Tech-Blog/blog/tags/hello",
+    "name": "hello",
+    "count": 2,
+    "permalink": "/Tech-Blog/blog/tags/hello"
+  },
+  "/Tech-Blog/blog/tags/docusaurus": {
+    "allTagsPath": "/Tech-Blog/blog/tags",
+    "slug": "/Tech-Blog/blog/tags/docusaurus",
+    "name": "docusaurus",
+    "count": 4,
+    "permalink": "/Tech-Blog/blog/tags/docusaurus"
+  },
+  "/Tech-Blog/blog/tags/hola": {
+    "allTagsPath": "/Tech-Blog/blog/tags",
+    "slug": "/Tech-Blog/blog/tags/hola",
+    "name": "hola",
+    "count": 1,
+    "permalink": "/Tech-Blog/blog/tags/hola"
+  }
+}

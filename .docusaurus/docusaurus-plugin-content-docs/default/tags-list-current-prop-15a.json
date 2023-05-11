@@ -1,147 +1,147 @@
 [
   {
     "name": "LCP",
-    "permalink": "/tech-blog/docs/tags/lcp",
+    "permalink": "/Tech-Blog/docs/tags/lcp",
     "count": 1
   },
   {
     "name": "web-vital",
-    "permalink": "/tech-blog/docs/tags/web-vital",
+    "permalink": "/Tech-Blog/docs/tags/web-vital",
     "count": 1
   },
   {
     "name": "메트릭",
-    "permalink": "/tech-blog/docs/tags/메트릭",
+    "permalink": "/Tech-Blog/docs/tags/메트릭",
     "count": 2
   },
   {
     "name": "metrics",
-    "permalink": "/tech-blog/docs/tags/metrics",
+    "permalink": "/Tech-Blog/docs/tags/metrics",
     "count": 1
   },
   {
     "name": "성능",
-    "permalink": "/tech-blog/docs/tags/성능",
+    "permalink": "/Tech-Blog/docs/tags/성능",
     "count": 1
   },
   {
     "name": "stale-while-revalidate",
-    "permalink": "/tech-blog/docs/tags/stale-while-revalidate",
+    "permalink": "/Tech-Blog/docs/tags/stale-while-revalidate",
     "count": 1
   },
   {
     "name": "cache",
-    "permalink": "/tech-blog/docs/tags/cache",
+    "permalink": "/Tech-Blog/docs/tags/cache",
     "count": 1
   },
   {
     "name": "github",
-    "permalink": "/tech-blog/docs/tags/github",
+    "permalink": "/Tech-Blog/docs/tags/github",
     "count": 2
   },
   {
     "name": "branch",
-    "permalink": "/tech-blog/docs/tags/branch",
+    "permalink": "/Tech-Blog/docs/tags/branch",
     "count": 1
   },
   {
     "name": "git",
-    "permalink": "/tech-blog/docs/tags/git",
+    "permalink": "/Tech-Blog/docs/tags/git",
     "count": 2
   },
   {
     "name": "fork",
-    "permalink": "/tech-blog/docs/tags/fork",
+    "permalink": "/Tech-Blog/docs/tags/fork",
     "count": 1
   },
   {
     "name": "gitlab",
-    "permalink": "/tech-blog/docs/tags/gitlab",
+    "permalink": "/Tech-Blog/docs/tags/gitlab",
     "count": 1
   },
   {
     "name": "TBD",
-    "permalink": "/tech-blog/docs/tags/tbd",
+    "permalink": "/Tech-Blog/docs/tags/tbd",
     "count": 1
   },
   {
     "name": "trunk-based-development",
-    "permalink": "/tech-blog/docs/tags/trunk-based-development",
+    "permalink": "/Tech-Blog/docs/tags/trunk-based-development",
     "count": 1
   },
   {
     "name": "브랜치 전략",
-    "permalink": "/tech-blog/docs/tags/브랜치-전략",
+    "permalink": "/Tech-Blog/docs/tags/브랜치-전략",
     "count": 1
   },
   {
     "name": "css",
-    "permalink": "/tech-blog/docs/tags/css",
+    "permalink": "/Tech-Blog/docs/tags/css",
     "count": 1
   },
   {
     "name": "scrollbar-gutter",
-    "permalink": "/tech-blog/docs/tags/scrollbar-gutter",
+    "permalink": "/Tech-Blog/docs/tags/scrollbar-gutter",
     "count": 1
   },
   {
     "name": "let",
-    "permalink": "/tech-blog/docs/tags/let",
+    "permalink": "/Tech-Blog/docs/tags/let",
     "count": 1
   },
   {
     "name": "const",
-    "permalink": "/tech-blog/docs/tags/const",
+    "permalink": "/Tech-Blog/docs/tags/const",
     "count": 1
   },
   {
     "name": "variables",
-    "permalink": "/tech-blog/docs/tags/variables",
+    "permalink": "/Tech-Blog/docs/tags/variables",
     "count": 1
   },
   {
     "name": "상수",
-    "permalink": "/tech-blog/docs/tags/상수",
+    "permalink": "/Tech-Blog/docs/tags/상수",
     "count": 1
   },
   {
     "name": "변수",
-    "permalink": "/tech-blog/docs/tags/변수",
+    "permalink": "/Tech-Blog/docs/tags/변수",
     "count": 1
   },
   {
     "name": "object-freeze",
-    "permalink": "/tech-blog/docs/tags/object-freeze",
+    "permalink": "/Tech-Blog/docs/tags/object-freeze",
     "count": 1
   },
   {
     "name": "deep-copy",
-    "permalink": "/tech-blog/docs/tags/deep-copy",
+    "permalink": "/Tech-Blog/docs/tags/deep-copy",
     "count": 1
   },
   {
     "name": "아보카도 에디션 라이트",
-    "permalink": "/tech-blog/docs/tags/아보카도-에디션-라이트",
+    "permalink": "/Tech-Blog/docs/tags/아보카도-에디션-라이트",
     "count": 1
   },
   {
     "name": "이모티콘",
-    "permalink": "/tech-blog/docs/tags/이모티콘",
+    "permalink": "/Tech-Blog/docs/tags/이모티콘",
     "count": 1
   },
   {
     "name": "hook",
-    "permalink": "/tech-blog/docs/tags/hook",
+    "permalink": "/Tech-Blog/docs/tags/hook",
     "count": 1
   },
   {
     "name": "최적화",
-    "permalink": "/tech-blog/docs/tags/최적화",
+    "permalink": "/Tech-Blog/docs/tags/최적화",
     "count": 1
   },
   {
     "name": "nextjs",
-    "permalink": "/tech-blog/docs/tags/nextjs",
+    "permalink": "/Tech-Blog/docs/tags/nextjs",
     "count": 1
   }
 ]

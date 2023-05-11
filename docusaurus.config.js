@@ -10,7 +10,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   baseUrl: '/Tech-Blog/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/chick.ico',
+  favicon: 'img/mon.ico',
   organizationName: 'miimmin', // Usually your GitHub org/user name.
   projectName: 'Tech-Blog', // Usually your repo name.
 
@@ -45,7 +45,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         title: '상민!',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/chick.png',
+          srcDark: 'img/dfairy.png',
+          src: 'img/sfairy.png',
         },
         items: [
           { to: '/docs/dev/', label: '개발', position: 'left' },

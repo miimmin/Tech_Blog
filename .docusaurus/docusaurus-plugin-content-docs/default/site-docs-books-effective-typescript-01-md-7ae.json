@@ -7,7 +7,7 @@
   "source": "@site/docs/books/effective-typescript/01.md",
   "sourceDirName": "books/effective-typescript",
   "slug": "/books/effective-typescript/01",
-  "permalink": "/tech-blog/docs/books/effective-typescript/01",
+  "permalink": "/Tech-Blog/docs/books/effective-typescript/01",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/effective-typescript/01.md",
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "books",
   "previous": {
     "title": "책 소개",
-    "permalink": "/tech-blog/docs/books/effective-typescript/introduction"
+    "permalink": "/Tech-Blog/docs/books/effective-typescript/introduction"
   },
   "next": {
     "title": "02 타입스크립트의 타입 시스템",
-    "permalink": "/tech-blog/docs/books/effective-typescript/02"
+    "permalink": "/Tech-Blog/docs/books/effective-typescript/02"
   }
 }

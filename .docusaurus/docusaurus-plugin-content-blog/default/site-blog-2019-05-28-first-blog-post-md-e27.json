@@ -1,5 +1,5 @@
 {
-  "permalink": "/tech-blog/blog/first-blog-post",
+  "permalink": "/Tech-Blog/blog/first-blog-post",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2019-05-28-first-blog-post.md",
   "source": "@site/blog/2019-05-28-first-blog-post.md",
   "title": "First Blog Post",
@@ -9,11 +9,11 @@
   "tags": [
     {
       "label": "hola",
-      "permalink": "/tech-blog/blog/tags/hola"
+      "permalink": "/Tech-Blog/blog/tags/hola"
     },
     {
       "label": "docusaurus",
-      "permalink": "/tech-blog/blog/tags/docusaurus"
+      "permalink": "/Tech-Blog/blog/tags/docusaurus"
     }
   ],
   "readingTime": 0.12,
@@ -29,6 +29,6 @@
   ],
   "prevItem": {
     "title": "Long Blog Post",
-    "permalink": "/tech-blog/blog/long-blog-post"
+    "permalink": "/Tech-Blog/blog/long-blog-post"
   }
 }

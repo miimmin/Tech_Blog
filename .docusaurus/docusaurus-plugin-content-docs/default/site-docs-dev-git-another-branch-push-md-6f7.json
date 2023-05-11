@@ -7,16 +7,16 @@
   "source": "@site/docs/dev/git/another-branch-push.md",
   "sourceDirName": "dev/git",
   "slug": "/dev/git/another-branch-push",
-  "permalink": "/tech-blog/docs/dev/git/another-branch-push",
+  "permalink": "/Tech-Blog/docs/dev/git/another-branch-push",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/git/another-branch-push.md",
   "tags": [
     {
       "label": "github",
-      "permalink": "/tech-blog/docs/tags/github"
+      "permalink": "/Tech-Blog/docs/tags/github"
     },
     {
       "label": "branch",
-      "permalink": "/tech-blog/docs/tags/branch"
+      "permalink": "/Tech-Blog/docs/tags/branch"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "dev",
   "previous": {
     "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
-    "permalink": "/tech-blog/docs/dev/git/sync-repository"
+    "permalink": "/Tech-Blog/docs/dev/git/sync-repository"
   },
   "next": {
     "title": "TBD 브랜치 전략",
-    "permalink": "/tech-blog/docs/dev/git/trunk-based-development"
+    "permalink": "/Tech-Blog/docs/dev/git/trunk-based-development"
   }
 }

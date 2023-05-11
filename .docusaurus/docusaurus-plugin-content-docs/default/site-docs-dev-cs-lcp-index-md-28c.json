@@ -7,20 +7,20 @@
   "source": "@site/docs/dev/cs/lcp/index.md",
   "sourceDirName": "dev/cs/lcp",
   "slug": "/dev/cs/lcp/index",
-  "permalink": "/tech-blog/docs/dev/cs/lcp/index",
+  "permalink": "/Tech-Blog/docs/dev/cs/lcp/index",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/cs/lcp/index.md",
   "tags": [
     {
       "label": "LCP",
-      "permalink": "/tech-blog/docs/tags/lcp"
+      "permalink": "/Tech-Blog/docs/tags/lcp"
     },
     {
       "label": "web-vital",
-      "permalink": "/tech-blog/docs/tags/web-vital"
+      "permalink": "/Tech-Blog/docs/tags/web-vital"
     },
     {
       "label": "메트릭",
-      "permalink": "/tech-blog/docs/tags/메트릭"
+      "permalink": "/Tech-Blog/docs/tags/메트릭"
     }
   ],
   "version": "current",
@@ -39,10 +39,10 @@
   "sidebar": "dev",
   "previous": {
     "title": "메트릭",
-    "permalink": "/tech-blog/docs/dev/cs/metrics/index"
+    "permalink": "/Tech-Blog/docs/dev/cs/metrics/index"
   },
   "next": {
     "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
-    "permalink": "/tech-blog/docs/dev/git/sync-repository"
+    "permalink": "/Tech-Blog/docs/dev/git/sync-repository"
   }
 }

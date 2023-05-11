@@ -7,16 +7,16 @@
   "source": "@site/docs/dev/cs/stale-while-revalidate/index.md",
   "sourceDirName": "dev/cs/stale-while-revalidate",
   "slug": "/dev/cs/stale-while-revalidate/index",
-  "permalink": "/tech-blog/docs/dev/cs/stale-while-revalidate/index",
+  "permalink": "/Tech-Blog/docs/dev/cs/stale-while-revalidate/index",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/cs/stale-while-revalidate/index.md",
   "tags": [
     {
       "label": "stale-while-revalidate",
-      "permalink": "/tech-blog/docs/tags/stale-while-revalidate"
+      "permalink": "/Tech-Blog/docs/tags/stale-while-revalidate"
     },
     {
       "label": "cache",
-      "permalink": "/tech-blog/docs/tags/cache"
+      "permalink": "/Tech-Blog/docs/tags/cache"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "dev",
   "previous": {
     "title": "scrollbar-gutter",
-    "permalink": "/tech-blog/docs/dev/htmlcss/scrollbar-gutter/index"
+    "permalink": "/Tech-Blog/docs/dev/htmlcss/scrollbar-gutter/index"
   },
   "next": {
     "title": "메트릭",
-    "permalink": "/tech-blog/docs/dev/cs/metrics/index"
+    "permalink": "/Tech-Blog/docs/dev/cs/metrics/index"
   }
 }

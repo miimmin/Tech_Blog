@@ -7,36 +7,36 @@
   "source": "@site/docs/dev/jsts/variables/index.md",
   "sourceDirName": "dev/jsts/variables",
   "slug": "/dev/jsts/variables/index",
-  "permalink": "/tech-blog/docs/dev/jsts/variables/index",
+  "permalink": "/Tech-Blog/docs/dev/jsts/variables/index",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/jsts/variables/index.md",
   "tags": [
     {
       "label": "let",
-      "permalink": "/tech-blog/docs/tags/let"
+      "permalink": "/Tech-Blog/docs/tags/let"
     },
     {
       "label": "const",
-      "permalink": "/tech-blog/docs/tags/const"
+      "permalink": "/Tech-Blog/docs/tags/const"
     },
     {
       "label": "variables",
-      "permalink": "/tech-blog/docs/tags/variables"
+      "permalink": "/Tech-Blog/docs/tags/variables"
     },
     {
       "label": "상수",
-      "permalink": "/tech-blog/docs/tags/상수"
+      "permalink": "/Tech-Blog/docs/tags/상수"
     },
     {
       "label": "변수",
-      "permalink": "/tech-blog/docs/tags/변수"
+      "permalink": "/Tech-Blog/docs/tags/변수"
     },
     {
       "label": "object-freeze",
-      "permalink": "/tech-blog/docs/tags/object-freeze"
+      "permalink": "/Tech-Blog/docs/tags/object-freeze"
     },
     {
       "label": "deep-copy",
-      "permalink": "/tech-blog/docs/tags/deep-copy"
+      "permalink": "/Tech-Blog/docs/tags/deep-copy"
     }
   ],
   "version": "current",
@@ -59,10 +59,10 @@
   "sidebar": "dev",
   "previous": {
     "title": "React Hook 정리",
-    "permalink": "/tech-blog/docs/dev/react/hook/index"
+    "permalink": "/Tech-Blog/docs/dev/react/hook/index"
   },
   "next": {
     "title": "scrollbar-gutter",
-    "permalink": "/tech-blog/docs/dev/htmlcss/scrollbar-gutter/index"
+    "permalink": "/Tech-Blog/docs/dev/htmlcss/scrollbar-gutter/index"
   }
 }

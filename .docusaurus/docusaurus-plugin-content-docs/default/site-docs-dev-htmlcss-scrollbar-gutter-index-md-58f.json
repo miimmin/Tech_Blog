@@ -7,16 +7,16 @@
   "source": "@site/docs/dev/htmlcss/scrollbar-gutter/index.md",
   "sourceDirName": "dev/htmlcss/scrollbar-gutter",
   "slug": "/dev/htmlcss/scrollbar-gutter/index",
-  "permalink": "/tech-blog/docs/dev/htmlcss/scrollbar-gutter/index",
+  "permalink": "/Tech-Blog/docs/dev/htmlcss/scrollbar-gutter/index",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/htmlcss/scrollbar-gutter/index.md",
   "tags": [
     {
       "label": "css",
-      "permalink": "/tech-blog/docs/tags/css"
+      "permalink": "/Tech-Blog/docs/tags/css"
     },
     {
       "label": "scrollbar-gutter",
-      "permalink": "/tech-blog/docs/tags/scrollbar-gutter"
+      "permalink": "/Tech-Blog/docs/tags/scrollbar-gutter"
     }
   ],
   "version": "current",
@@ -34,10 +34,10 @@
   "sidebar": "dev",
   "previous": {
     "title": "Block scoped variables",
-    "permalink": "/tech-blog/docs/dev/jsts/variables/index"
+    "permalink": "/Tech-Blog/docs/dev/jsts/variables/index"
   },
   "next": {
     "title": "Stale While Revalidate",
-    "permalink": "/tech-blog/docs/dev/cs/stale-while-revalidate/index"
+    "permalink": "/Tech-Blog/docs/dev/cs/stale-while-revalidate/index"
   }
 }

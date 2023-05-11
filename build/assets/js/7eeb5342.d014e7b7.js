@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktechnical_blog=self.webpackChunktechnical_blog||[]).push([[6191],{6048:l=>{l.exports=JSON.parse('{"allTagsPath":"/tech-blog/blog/tags","slug":"/tech-blog/blog/tags/hello","name":"hello","count":2,"permalink":"/tech-blog/blog/tags/hello"}')}}]);
