@@ -12,7 +12,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/chick.ico',
   organizationName: 'miimmin', // Usually your GitHub org/user name.
-  projectName: 'tech-blog', // Usually your repo name.
+  projectName: 'Tech_Blog', // Usually your repo name.
 
   presets: [
     [
@@ -30,6 +30,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           editUrl:
             'https://github.com/facebook/docusaurus/edit/main/website/blog/',
         },
+        // themes: ['@docusaurus/theme-classic', '@docusaurus/theme-live-codeblock'],
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
