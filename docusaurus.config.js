@@ -7,12 +7,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   title: '상민!',
   tagline: 'Dinosaurs are cool',
   url: 'https://miimmin.github.io',
-  baseUrl: '/tech-blog/',
+  baseUrl: '/Tech-Blog/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/chick.ico',
   organizationName: 'miimmin', // Usually your GitHub org/user name.
-  projectName: 'Tech_Blog', // Usually your repo name.
+  projectName: 'Tech-Blog', // Usually your repo name.
 
   presets: [
     [

@@ -7,13 +7,13 @@ export default {
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/chick.ico",
   "organizationName": "miimmin",
-  "projectName": "tech-blog",
+  "projectName": "Tech_Blog",
   "presets": [
     [
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/Users/sleeplessinwhat/Desktop/밈민/tech-blog/sidebars.js",
+          "sidebarPath": "/Users/sleeplessinwhat/Desktop/밈민/Tech_Blog/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/"
         },
         "blog": {
@@ -21,7 +21,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/"
         },
         "theme": {
-          "customCss": "/Users/sleeplessinwhat/Desktop/밈민/tech-blog/src/css/custom.css"
+          "customCss": "/Users/sleeplessinwhat/Desktop/밈민/Tech_Blog/src/css/custom.css"
         }
       }
     ]
