@@ -44,7 +44,8 @@ const sidebars = {
               label: '관계대수',
               items: [
                   'cs/database/sql/relational-algebra/RelationAlgebra',
-                'cs/database/sql/relational-algebra/RelatAlgeOperator'
+                'cs/database/sql/relational-algebra/RelatAlgeOperator',
+                'cs/database/sql/relational-algebra/SQLvsRA'
               ]
             },
           ]

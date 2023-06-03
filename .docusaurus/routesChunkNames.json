@@ -249,7 +249,7 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---tech-blog-markdown-page-393-268"
   },
-  "/Tech-Blog/docs-005": {
+  "/Tech-Blog/docs-37f": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---tech-blog-docs-935-5c7"
   },
@@ -324,6 +324,10 @@
   "/Tech-Blog/docs/cs/database/sql/relational-algebra/RelationAlgebra-79c": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---tech-blog-docs-cs-database-sql-relational-algebra-relation-algebra-44-e-43b"
+  },
+  "/Tech-Blog/docs/cs/database/sql/relational-algebra/SQLvsRA-f7e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---tech-blog-docs-cs-database-sql-relational-algebra-sq-lvs-ra-66-a-98b"
   },
   "/Tech-Blog/docs/cs/database/sql/SQL-f01": {
     "component": "component---theme-doc-item-178-a40",

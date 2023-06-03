@@ -44,6 +44,11 @@
                     "type": "link",
                     "label": "관계대수의 8대 연산자",
                     "href": "/Tech-Blog/docs/cs/database/sql/relational-algebra/RelatAlgeOperator"
+                  },
+                  {
+                    "type": "link",
+                    "label": "관계대수 vs SQL",
+                    "href": "/Tech-Blog/docs/cs/database/sql/relational-algebra/SQLvsRA"
                   }
                 ],
                 "collapsible": true,

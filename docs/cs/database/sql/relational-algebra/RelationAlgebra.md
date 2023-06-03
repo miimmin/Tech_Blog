@@ -28,7 +28,7 @@
 
 ### 🥚 관계대수
 
-- 연산자들의 집합
+- [연산자들](./RelatAlgeOperator.md) 의 집합
     - 일반집합 연산자 (Set Operation)
     - 순수관계 연산자 (Relational Operation)
 - [SQL](../SQL.md)의 이론적 기초 (링크)

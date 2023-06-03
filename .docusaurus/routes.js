@@ -255,7 +255,7 @@ export default [
   },
   {
     path: '/Tech-Blog/docs',
-    component: ComponentCreator('/Tech-Blog/docs','005'),
+    component: ComponentCreator('/Tech-Blog/docs','37f'),
     routes: [
       {
         path: '/Tech-Blog/docs/books/',
@@ -361,6 +361,12 @@ export default [
       {
         path: '/Tech-Blog/docs/cs/database/sql/relational-algebra/RelationAlgebra',
         component: ComponentCreator('/Tech-Blog/docs/cs/database/sql/relational-algebra/RelationAlgebra','79c'),
+        exact: true,
+        'sidebar': "cs"
+      },
+      {
+        path: '/Tech-Blog/docs/cs/database/sql/relational-algebra/SQLvsRA',
+        component: ComponentCreator('/Tech-Blog/docs/cs/database/sql/relational-algebra/SQLvsRA','f7e'),
         exact: true,
         'sidebar': "cs"
       },

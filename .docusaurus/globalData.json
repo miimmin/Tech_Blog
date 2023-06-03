@@ -95,6 +95,11 @@
               "sidebar": "cs"
             },
             {
+              "id": "cs/database/sql/relational-algebra/SQLvsRA",
+              "path": "/Tech-Blog/docs/cs/database/sql/relational-algebra/SQLvsRA",
+              "sidebar": "cs"
+            },
+            {
               "id": "cs/database/sql/SQL",
               "path": "/Tech-Blog/docs/cs/database/sql/SQL",
               "sidebar": "cs"
