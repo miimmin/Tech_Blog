@@ -1,0 +1,24 @@
+{
+  "unversionedId": "cs/database/rdbms/Key",
+  "id": "cs/database/rdbms/Key",
+  "isDocsHomePage": false,
+  "title": "Key",
+  "description": "🐣 키??",
+  "source": "@site/docs/cs/database/rdbms/Key.md",
+  "sourceDirName": "cs/database/rdbms",
+  "slug": "/cs/database/rdbms/Key",
+  "permalink": "/Tech-Blog/docs/cs/database/rdbms/Key",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/rdbms/Key.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "cs",
+  "previous": {
+    "title": "관계대수 vs SQL",
+    "permalink": "/Tech-Blog/docs/cs/database/sql/relational-algebra/SQLvsRA"
+  },
+  "next": {
+    "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
+    "permalink": "/Tech-Blog/docs/cs/git/sync-repository"
+  }
+}

@@ -255,7 +255,7 @@ export default [
   },
   {
     path: '/Tech-Blog/docs',
-    component: ComponentCreator('/Tech-Blog/docs','37f'),
+    component: ComponentCreator('/Tech-Blog/docs','0df'),
     routes: [
       {
         path: '/Tech-Blog/docs/books/',
@@ -349,6 +349,12 @@ export default [
       {
         path: '/Tech-Blog/docs/cs/',
         component: ComponentCreator('/Tech-Blog/docs/cs/','19b'),
+        exact: true,
+        'sidebar': "cs"
+      },
+      {
+        path: '/Tech-Blog/docs/cs/database/rdbms/Key',
+        component: ComponentCreator('/Tech-Blog/docs/cs/database/rdbms/Key','dd1'),
         exact: true,
         'sidebar': "cs"
       },

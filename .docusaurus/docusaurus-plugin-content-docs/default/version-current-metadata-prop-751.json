@@ -57,6 +57,19 @@
             ],
             "collapsible": true,
             "collapsed": true
+          },
+          {
+            "type": "category",
+            "label": "관계형 데이터베이스",
+            "items": [
+              {
+                "type": "link",
+                "label": "Key",
+                "href": "/Tech-Blog/docs/cs/database/rdbms/Key"
+              }
+            ],
+            "collapsible": true,
+            "collapsed": true
           }
         ],
         "collapsible": true,
