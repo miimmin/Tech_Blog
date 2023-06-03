@@ -26,6 +26,19 @@
             "type": "link",
             "label": "DDL DML DCL TCL",
             "href": "/Tech-Blog/docs/cs/database/sql/SQLCommands"
+          },
+          {
+            "type": "category",
+            "label": "관계대수",
+            "items": [
+              {
+                "type": "link",
+                "label": "관계대수",
+                "href": "/Tech-Blog/docs/cs/database/sql/relational-algebra/RelationAlgebra"
+              }
+            ],
+            "collapsible": true,
+            "collapsed": true
           }
         ],
         "collapsible": true,

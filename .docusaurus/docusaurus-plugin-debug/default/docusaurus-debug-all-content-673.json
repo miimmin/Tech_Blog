@@ -35,6 +35,18 @@
                   {
                     "type": "doc",
                     "id": "cs/database/sql/SQLCommands"
+                  },
+                  {
+                    "type": "category",
+                    "label": "관계대수",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "cs/database/sql/relational-algebra/RelationAlgebra"
+                      }
+                    ],
+                    "collapsible": true,
+                    "collapsed": true
                   }
                 ],
                 "collapsible": true,
@@ -665,6 +677,30 @@
               }
             },
             {
+              "unversionedId": "cs/database/sql/relational-algebra/RelationAlgebra",
+              "id": "cs/database/sql/relational-algebra/RelationAlgebra",
+              "isDocsHomePage": false,
+              "title": "관계대수",
+              "description": "🐣 관계대수란 무엇인가요?",
+              "source": "@site/docs/cs/database/sql/relational-algebra/RelationAlgebra.md",
+              "sourceDirName": "cs/database/sql/relational-algebra",
+              "slug": "/cs/database/sql/relational-algebra/RelationAlgebra",
+              "permalink": "/Tech-Blog/docs/cs/database/sql/relational-algebra/RelationAlgebra",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/sql/relational-algebra/RelationAlgebra.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "cs",
+              "previous": {
+                "title": "DDL DML DCL TCL",
+                "permalink": "/Tech-Blog/docs/cs/database/sql/SQLCommands"
+              },
+              "next": {
+                "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
+                "permalink": "/Tech-Blog/docs/cs/git/sync-repository"
+              }
+            },
+            {
               "unversionedId": "cs/database/sql/SQL",
               "id": "cs/database/sql/SQL",
               "isDocsHomePage": false,
@@ -708,8 +744,8 @@
                 "permalink": "/Tech-Blog/docs/cs/database/sql/SQL"
               },
               "next": {
-                "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
-                "permalink": "/Tech-Blog/docs/cs/git/sync-repository"
+                "title": "관계대수",
+                "permalink": "/Tech-Blog/docs/cs/database/sql/relational-algebra/RelationAlgebra"
               }
             },
             {
@@ -800,8 +836,8 @@
               },
               "sidebar": "cs",
               "previous": {
-                "title": "DDL DML DCL TCL",
-                "permalink": "/Tech-Blog/docs/cs/database/sql/SQLCommands"
+                "title": "관계대수",
+                "permalink": "/Tech-Blog/docs/cs/database/sql/relational-algebra/RelationAlgebra"
               },
               "next": {
                 "title": "현재 작업한 브랜치를 다른 브랜치에 커밋하기",

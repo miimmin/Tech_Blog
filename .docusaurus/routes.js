@@ -104,6 +104,46 @@ export default [
     exact: true
   },
   {
+    path: '/Tech-Blog/docs/tags/메트릭',
+    component: ComponentCreator('/Tech-Blog/docs/tags/메트릭','38f'),
+    exact: true
+  },
+  {
+    path: '/Tech-Blog/docs/tags/변수',
+    component: ComponentCreator('/Tech-Blog/docs/tags/변수','b4e'),
+    exact: true
+  },
+  {
+    path: '/Tech-Blog/docs/tags/브랜치-전략',
+    component: ComponentCreator('/Tech-Blog/docs/tags/브랜치-전략','1ad'),
+    exact: true
+  },
+  {
+    path: '/Tech-Blog/docs/tags/상수',
+    component: ComponentCreator('/Tech-Blog/docs/tags/상수','f02'),
+    exact: true
+  },
+  {
+    path: '/Tech-Blog/docs/tags/성능',
+    component: ComponentCreator('/Tech-Blog/docs/tags/성능','225'),
+    exact: true
+  },
+  {
+    path: '/Tech-Blog/docs/tags/아보카도-에디션-라이트',
+    component: ComponentCreator('/Tech-Blog/docs/tags/아보카도-에디션-라이트','5e8'),
+    exact: true
+  },
+  {
+    path: '/Tech-Blog/docs/tags/이모티콘',
+    component: ComponentCreator('/Tech-Blog/docs/tags/이모티콘','f82'),
+    exact: true
+  },
+  {
+    path: '/Tech-Blog/docs/tags/최적화',
+    component: ComponentCreator('/Tech-Blog/docs/tags/최적화','b49'),
+    exact: true
+  },
+  {
     path: '/Tech-Blog/docs/tags/branch',
     component: ComponentCreator('/Tech-Blog/docs/tags/branch','ca1'),
     exact: true
@@ -209,53 +249,13 @@ export default [
     exact: true
   },
   {
-    path: '/Tech-Blog/docs/tags/메트릭',
-    component: ComponentCreator('/Tech-Blog/docs/tags/메트릭','38f'),
-    exact: true
-  },
-  {
-    path: '/Tech-Blog/docs/tags/변수',
-    component: ComponentCreator('/Tech-Blog/docs/tags/변수','b4e'),
-    exact: true
-  },
-  {
-    path: '/Tech-Blog/docs/tags/브랜치-전략',
-    component: ComponentCreator('/Tech-Blog/docs/tags/브랜치-전략','1ad'),
-    exact: true
-  },
-  {
-    path: '/Tech-Blog/docs/tags/상수',
-    component: ComponentCreator('/Tech-Blog/docs/tags/상수','f02'),
-    exact: true
-  },
-  {
-    path: '/Tech-Blog/docs/tags/성능',
-    component: ComponentCreator('/Tech-Blog/docs/tags/성능','225'),
-    exact: true
-  },
-  {
-    path: '/Tech-Blog/docs/tags/아보카도-에디션-라이트',
-    component: ComponentCreator('/Tech-Blog/docs/tags/아보카도-에디션-라이트','5e8'),
-    exact: true
-  },
-  {
-    path: '/Tech-Blog/docs/tags/이모티콘',
-    component: ComponentCreator('/Tech-Blog/docs/tags/이모티콘','f82'),
-    exact: true
-  },
-  {
-    path: '/Tech-Blog/docs/tags/최적화',
-    component: ComponentCreator('/Tech-Blog/docs/tags/최적화','b49'),
-    exact: true
-  },
-  {
     path: '/Tech-Blog/markdown-page',
     component: ComponentCreator('/Tech-Blog/markdown-page','43f'),
     exact: true
   },
   {
     path: '/Tech-Blog/docs',
-    component: ComponentCreator('/Tech-Blog/docs','93e'),
+    component: ComponentCreator('/Tech-Blog/docs','cc5'),
     routes: [
       {
         path: '/Tech-Blog/docs/books/',
@@ -349,6 +349,12 @@ export default [
       {
         path: '/Tech-Blog/docs/cs/',
         component: ComponentCreator('/Tech-Blog/docs/cs/','19b'),
+        exact: true,
+        'sidebar': "cs"
+      },
+      {
+        path: '/Tech-Blog/docs/cs/database/sql/relational-algebra/RelationAlgebra',
+        component: ComponentCreator('/Tech-Blog/docs/cs/database/sql/relational-algebra/RelationAlgebra','79c'),
         exact: true,
         'sidebar': "cs"
       },
