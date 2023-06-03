@@ -1,0 +1,24 @@
+{
+  "unversionedId": "cs/database/SQL",
+  "id": "cs/database/SQL",
+  "isDocsHomePage": false,
+  "title": "SQL",
+  "description": "🐣 SQL 이 뭔가요?",
+  "source": "@site/docs/cs/database/SQL.md",
+  "sourceDirName": "cs/database",
+  "slug": "/cs/database/SQL",
+  "permalink": "/Tech-Blog/docs/cs/database/SQL",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/SQL.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "cs",
+  "previous": {
+    "title": "개발 이야기",
+    "permalink": "/Tech-Blog/docs/cs/"
+  },
+  "next": {
+    "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
+    "permalink": "/Tech-Blog/docs/cs/git/sync-repository"
+  }
+}

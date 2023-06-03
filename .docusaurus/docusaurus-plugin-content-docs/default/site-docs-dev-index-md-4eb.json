@@ -11,10 +11,10 @@
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/index.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
+  "sidebarPosition": 2,
   "frontMatter": {
     "title": "개발 이야기",
-    "sidebar_position": 1,
+    "sidebar_position": 2,
     "slug": "/dev/"
   },
   "sidebar": "dev",

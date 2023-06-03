@@ -1,0 +1,49 @@
+{
+  "unversionedId": "cs/git/trunk-based-development",
+  "id": "cs/git/trunk-based-development",
+  "isDocsHomePage": false,
+  "title": "TBD 브랜치 전략",
+  "description": "trunk-based-development 전략에 대해 알아보자",
+  "source": "@site/docs/cs/git/trunk-based-development.md",
+  "sourceDirName": "cs/git",
+  "slug": "/cs/git/trunk-based-development",
+  "permalink": "/Tech-Blog/docs/cs/git/trunk-based-development",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/git/trunk-based-development.md",
+  "tags": [
+    {
+      "label": "git",
+      "permalink": "/Tech-Blog/docs/tags/git"
+    },
+    {
+      "label": "TBD",
+      "permalink": "/Tech-Blog/docs/tags/tbd"
+    },
+    {
+      "label": "trunk-based-development",
+      "permalink": "/Tech-Blog/docs/tags/trunk-based-development"
+    },
+    {
+      "label": "브랜치 전략",
+      "permalink": "/Tech-Blog/docs/tags/브랜치-전략"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "TBD 브랜치 전략",
+    "description": "trunk-based-development 전략에 대해 알아보자",
+    "tags": [
+      "git",
+      "TBD",
+      "trunk-based-development",
+      "브랜치 전략"
+    ],
+    "last_update": {
+      "date": "2022-12-12"
+    }
+  },
+  "sidebar": "cs",
+  "previous": {
+    "title": "현재 작업한 브랜치를 다른 브랜치에 커밋하기",
+    "permalink": "/Tech-Blog/docs/cs/git/another-branch-push"
+  }
+}

@@ -11,10 +11,10 @@
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/introduction.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 2,
+  "sidebarPosition": 3,
   "frontMatter": {
     "title": "책 목록",
-    "sidebar_position": 2,
+    "sidebar_position": 3,
     "slug": "/books/",
     "last_update": {
       "date": "2022-10-19"

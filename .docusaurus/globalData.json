@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/Tech-Blog/docs",
-          "mainDocId": "dev/index",
+          "mainDocId": "cs/index",
           "docs": [
             {
               "id": "books/effective-typescript/01",
@@ -83,6 +83,36 @@
               "id": "books/learning-typescript/introduction",
               "path": "/Tech-Blog/docs/books/learning-typescript/introduction",
               "sidebar": "books"
+            },
+            {
+              "id": "cs/database/sql/SQL",
+              "path": "/Tech-Blog/docs/cs/database/sql/SQL",
+              "sidebar": "cs"
+            },
+            {
+              "id": "cs/database/sql/SQLCommands",
+              "path": "/Tech-Blog/docs/cs/database/sql/SQLCommands",
+              "sidebar": "cs"
+            },
+            {
+              "id": "cs/git/another-branch-push",
+              "path": "/Tech-Blog/docs/cs/git/another-branch-push",
+              "sidebar": "cs"
+            },
+            {
+              "id": "cs/git/sync-repository",
+              "path": "/Tech-Blog/docs/cs/git/sync-repository",
+              "sidebar": "cs"
+            },
+            {
+              "id": "cs/git/trunk-based-development",
+              "path": "/Tech-Blog/docs/cs/git/trunk-based-development",
+              "sidebar": "cs"
+            },
+            {
+              "id": "cs/index",
+              "path": "/Tech-Blog/docs/cs/",
+              "sidebar": "cs"
             },
             {
               "id": "dev/cs/lcp/index",

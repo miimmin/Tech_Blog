@@ -1,5 +1,45 @@
 [
   {
+    "name": "github",
+    "permalink": "/Tech-Blog/docs/tags/github",
+    "count": 4
+  },
+  {
+    "name": "branch",
+    "permalink": "/Tech-Blog/docs/tags/branch",
+    "count": 2
+  },
+  {
+    "name": "git",
+    "permalink": "/Tech-Blog/docs/tags/git",
+    "count": 4
+  },
+  {
+    "name": "fork",
+    "permalink": "/Tech-Blog/docs/tags/fork",
+    "count": 2
+  },
+  {
+    "name": "gitlab",
+    "permalink": "/Tech-Blog/docs/tags/gitlab",
+    "count": 2
+  },
+  {
+    "name": "TBD",
+    "permalink": "/Tech-Blog/docs/tags/tbd",
+    "count": 2
+  },
+  {
+    "name": "trunk-based-development",
+    "permalink": "/Tech-Blog/docs/tags/trunk-based-development",
+    "count": 2
+  },
+  {
+    "name": "브랜치 전략",
+    "permalink": "/Tech-Blog/docs/tags/브랜치-전략",
+    "count": 2
+  },
+  {
     "name": "LCP",
     "permalink": "/Tech-Blog/docs/tags/lcp",
     "count": 1
@@ -32,46 +72,6 @@
   {
     "name": "cache",
     "permalink": "/Tech-Blog/docs/tags/cache",
-    "count": 1
-  },
-  {
-    "name": "github",
-    "permalink": "/Tech-Blog/docs/tags/github",
-    "count": 2
-  },
-  {
-    "name": "branch",
-    "permalink": "/Tech-Blog/docs/tags/branch",
-    "count": 1
-  },
-  {
-    "name": "git",
-    "permalink": "/Tech-Blog/docs/tags/git",
-    "count": 2
-  },
-  {
-    "name": "fork",
-    "permalink": "/Tech-Blog/docs/tags/fork",
-    "count": 1
-  },
-  {
-    "name": "gitlab",
-    "permalink": "/Tech-Blog/docs/tags/gitlab",
-    "count": 1
-  },
-  {
-    "name": "TBD",
-    "permalink": "/Tech-Blog/docs/tags/tbd",
-    "count": 1
-  },
-  {
-    "name": "trunk-based-development",
-    "permalink": "/Tech-Blog/docs/tags/trunk-based-development",
-    "count": 1
-  },
-  {
-    "name": "브랜치 전략",
-    "permalink": "/Tech-Blog/docs/tags/브랜치-전략",
     "count": 1
   },
   {

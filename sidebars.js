@@ -26,6 +26,25 @@ const sidebars = {
     },
   ],
    */
+
+  cs: [
+      'cs/index',
+    {
+      type: 'category',
+      label: 'Database',
+      items: ['cs/database/sql/SQL', 'cs/database/sql/SQLCommands'],
+    },
+    {
+      type: 'category',
+      label: 'Git',
+      items: [
+        'cs/git/sync-repository',
+        'cs/git/another-branch-push',
+        'cs/git/trunk-based-development',
+      ],
+    },
+  ],
+
   dev: [
     'dev/index',
     {

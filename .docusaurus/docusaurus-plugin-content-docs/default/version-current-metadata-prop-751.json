@@ -7,6 +7,54 @@
   "className": "docs-version-current",
   "isLast": true,
   "docsSidebars": {
+    "cs": [
+      {
+        "type": "link",
+        "label": "개발 이야기",
+        "href": "/Tech-Blog/docs/cs/"
+      },
+      {
+        "type": "category",
+        "label": "Database",
+        "items": [
+          {
+            "type": "link",
+            "label": "SQL",
+            "href": "/Tech-Blog/docs/cs/database/sql/SQL"
+          },
+          {
+            "type": "link",
+            "label": "DDL DML DCL TCL",
+            "href": "/Tech-Blog/docs/cs/database/sql/SQLCommands"
+          }
+        ],
+        "collapsible": true,
+        "collapsed": true
+      },
+      {
+        "type": "category",
+        "label": "Git",
+        "items": [
+          {
+            "type": "link",
+            "label": "Fork 한 Repository를 원본 Repository와 동기화하기",
+            "href": "/Tech-Blog/docs/cs/git/sync-repository"
+          },
+          {
+            "type": "link",
+            "label": "현재 작업한 브랜치를 다른 브랜치에 커밋하기",
+            "href": "/Tech-Blog/docs/cs/git/another-branch-push"
+          },
+          {
+            "type": "link",
+            "label": "TBD 브랜치 전략",
+            "href": "/Tech-Blog/docs/cs/git/trunk-based-development"
+          }
+        ],
+        "collapsible": true,
+        "collapsed": true
+      }
+    ],
     "dev": [
       {
         "type": "link",

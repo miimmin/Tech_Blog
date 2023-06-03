@@ -1,0 +1,53 @@
+{
+  "unversionedId": "cs/git/sync-repository",
+  "id": "cs/git/sync-repository",
+  "isDocsHomePage": false,
+  "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
+  "description": "sync fork 하는 방법을 알아봅시다",
+  "source": "@site/docs/cs/git/sync-repository.md",
+  "sourceDirName": "cs/git",
+  "slug": "/cs/git/sync-repository",
+  "permalink": "/Tech-Blog/docs/cs/git/sync-repository",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/git/sync-repository.md",
+  "tags": [
+    {
+      "label": "git",
+      "permalink": "/Tech-Blog/docs/tags/git"
+    },
+    {
+      "label": "fork",
+      "permalink": "/Tech-Blog/docs/tags/fork"
+    },
+    {
+      "label": "gitlab",
+      "permalink": "/Tech-Blog/docs/tags/gitlab"
+    },
+    {
+      "label": "github",
+      "permalink": "/Tech-Blog/docs/tags/github"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
+    "description": "sync fork 하는 방법을 알아봅시다",
+    "tags": [
+      "git",
+      "fork",
+      "gitlab",
+      "github"
+    ],
+    "last_update": {
+      "date": "2022-10-13"
+    }
+  },
+  "sidebar": "cs",
+  "previous": {
+    "title": "DDL DML DCL TCL",
+    "permalink": "/Tech-Blog/docs/cs/database/sql/SQLCommands"
+  },
+  "next": {
+    "title": "현재 작업한 브랜치를 다른 브랜치에 커밋하기",
+    "permalink": "/Tech-Blog/docs/cs/git/another-branch-push"
+  }
+}

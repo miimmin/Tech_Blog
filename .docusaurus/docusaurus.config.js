@@ -13,7 +13,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/Users/sleeplessinwhat/Desktop/밈민/Tech-Blog/sidebars.js",
+          "sidebarPath": "/Users/sleeplessinwhat/밈민/Tech-Blog/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/"
         },
         "blog": {
@@ -21,7 +21,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/"
         },
         "theme": {
-          "customCss": "/Users/sleeplessinwhat/Desktop/밈민/Tech-Blog/src/css/custom.css"
+          "customCss": "/Users/sleeplessinwhat/밈민/Tech-Blog/src/css/custom.css"
         }
       }
     ]
@@ -35,6 +35,11 @@ export default {
         "src": "img/sfairy.png"
       },
       "items": [
+        {
+          "to": "/docs/cs/",
+          "label": "CS",
+          "position": "left"
+        },
         {
           "to": "/docs/dev/",
           "label": "개발",
@@ -65,6 +70,10 @@ export default {
           "title": "Docs",
           "items": [
             {
+              "label": "CS",
+              "to": "/docs/cs/"
+            },
+            {
               "label": "개발",
               "to": "/docs/dev/"
             },
@@ -88,7 +97,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2023 Genie's Dev Blog, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2023  miimmin's Dev Blog, Inc. Built with Docusaurus."
     },
     "prism": {
       "theme": {

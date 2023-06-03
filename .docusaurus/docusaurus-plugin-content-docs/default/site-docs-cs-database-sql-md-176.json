@@ -1,0 +1,15 @@
+{
+  "unversionedId": "CS/Database/SQL",
+  "id": "CS/Database/SQL",
+  "isDocsHomePage": false,
+  "title": "블로그",
+  "description": "🐣 SQL 이 뭔가요?",
+  "source": "@site/docs/CS/Database/SQL.md",
+  "sourceDirName": "CS/Database",
+  "slug": "/CS/Database/SQL",
+  "permalink": "/Tech-Blog/docs/CS/Database/SQL",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/CS/Database/SQL.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

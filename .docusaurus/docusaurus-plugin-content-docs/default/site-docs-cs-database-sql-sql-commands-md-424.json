@@ -1,0 +1,24 @@
+{
+  "unversionedId": "cs/database/sql/SQLCommands",
+  "id": "cs/database/sql/SQLCommands",
+  "isDocsHomePage": false,
+  "title": "DDL DML DCL TCL",
+  "description": "🐣 DDL DML DCL TCL 이 뭔가요?",
+  "source": "@site/docs/cs/database/sql/SQLCommands.md",
+  "sourceDirName": "cs/database/sql",
+  "slug": "/cs/database/sql/SQLCommands",
+  "permalink": "/Tech-Blog/docs/cs/database/sql/SQLCommands",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/sql/SQLCommands.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "cs",
+  "previous": {
+    "title": "SQL",
+    "permalink": "/Tech-Blog/docs/cs/database/sql/SQL"
+  },
+  "next": {
+    "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
+    "permalink": "/Tech-Blog/docs/cs/git/sync-repository"
+  }
+}

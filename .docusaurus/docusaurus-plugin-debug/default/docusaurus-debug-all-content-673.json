@@ -14,11 +14,53 @@
           "versionClassName": "docs-version-current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/sleeplessinwhat/Desktop/밈민/Tech-Blog/sidebars.js",
-          "contentPath": "/Users/sleeplessinwhat/Desktop/밈민/Tech-Blog/docs",
-          "contentPathLocalized": "/Users/sleeplessinwhat/Desktop/밈민/Tech-Blog/i18n/en/docusaurus-plugin-content-docs/current",
-          "mainDocId": "dev/index",
+          "sidebarFilePath": "/Users/sleeplessinwhat/밈민/Tech-Blog/sidebars.js",
+          "contentPath": "/Users/sleeplessinwhat/밈민/Tech-Blog/docs",
+          "contentPathLocalized": "/Users/sleeplessinwhat/밈민/Tech-Blog/i18n/en/docusaurus-plugin-content-docs/current",
+          "mainDocId": "cs/index",
           "sidebars": {
+            "cs": [
+              {
+                "type": "doc",
+                "id": "cs/index"
+              },
+              {
+                "type": "category",
+                "label": "Database",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "cs/database/sql/SQL"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "cs/database/sql/SQLCommands"
+                  }
+                ],
+                "collapsible": true,
+                "collapsed": true
+              },
+              {
+                "type": "category",
+                "label": "Git",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "cs/git/sync-repository"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "cs/git/another-branch-push"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "cs/git/trunk-based-development"
+                  }
+                ],
+                "collapsible": true,
+                "collapsed": true
+              }
+            ],
             "dev": [
               {
                 "type": "doc",
@@ -523,10 +565,10 @@
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/introduction.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 2,
+              "sidebarPosition": 3,
               "frontMatter": {
                 "title": "책 목록",
-                "sidebar_position": 2,
+                "sidebar_position": 3,
                 "slug": "/books/",
                 "last_update": {
                   "date": "2022-10-19"
@@ -620,6 +662,224 @@
               "next": {
                 "title": "01 개념",
                 "permalink": "/Tech-Blog/docs/books/learning-typescript/01"
+              }
+            },
+            {
+              "unversionedId": "cs/database/sql/SQL",
+              "id": "cs/database/sql/SQL",
+              "isDocsHomePage": false,
+              "title": "SQL",
+              "description": "🐣 SQL 이 뭔가요?",
+              "source": "@site/docs/cs/database/sql/SQL.md",
+              "sourceDirName": "cs/database/sql",
+              "slug": "/cs/database/sql/SQL",
+              "permalink": "/Tech-Blog/docs/cs/database/sql/SQL",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/sql/SQL.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "cs",
+              "previous": {
+                "title": "개발 이야기",
+                "permalink": "/Tech-Blog/docs/cs/"
+              },
+              "next": {
+                "title": "DDL DML DCL TCL",
+                "permalink": "/Tech-Blog/docs/cs/database/sql/SQLCommands"
+              }
+            },
+            {
+              "unversionedId": "cs/database/sql/SQLCommands",
+              "id": "cs/database/sql/SQLCommands",
+              "isDocsHomePage": false,
+              "title": "DDL DML DCL TCL",
+              "description": "🐣 DDL DML DCL TCL 이 뭔가요?",
+              "source": "@site/docs/cs/database/sql/SQLCommands.md",
+              "sourceDirName": "cs/database/sql",
+              "slug": "/cs/database/sql/SQLCommands",
+              "permalink": "/Tech-Blog/docs/cs/database/sql/SQLCommands",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/sql/SQLCommands.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "cs",
+              "previous": {
+                "title": "SQL",
+                "permalink": "/Tech-Blog/docs/cs/database/sql/SQL"
+              },
+              "next": {
+                "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
+                "permalink": "/Tech-Blog/docs/cs/git/sync-repository"
+              }
+            },
+            {
+              "unversionedId": "cs/git/another-branch-push",
+              "id": "cs/git/another-branch-push",
+              "isDocsHomePage": false,
+              "title": "현재 작업한 브랜치를 다른 브랜치에 커밋하기",
+              "description": "다른 브랜치에서 작업하고 있었을 때 다른 브랜치에 push 하기",
+              "source": "@site/docs/cs/git/another-branch-push.md",
+              "sourceDirName": "cs/git",
+              "slug": "/cs/git/another-branch-push",
+              "permalink": "/Tech-Blog/docs/cs/git/another-branch-push",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/git/another-branch-push.md",
+              "tags": [
+                {
+                  "label": "github",
+                  "permalink": "/Tech-Blog/docs/tags/github"
+                },
+                {
+                  "label": "branch",
+                  "permalink": "/Tech-Blog/docs/tags/branch"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "title": "현재 작업한 브랜치를 다른 브랜치에 커밋하기",
+                "description": "다른 브랜치에서 작업하고 있었을 때 다른 브랜치에 push 하기",
+                "tags": [
+                  "github",
+                  "branch"
+                ],
+                "last_update": {
+                  "date": "2022-10-30"
+                }
+              },
+              "sidebar": "cs",
+              "previous": {
+                "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
+                "permalink": "/Tech-Blog/docs/cs/git/sync-repository"
+              },
+              "next": {
+                "title": "TBD 브랜치 전략",
+                "permalink": "/Tech-Blog/docs/cs/git/trunk-based-development"
+              }
+            },
+            {
+              "unversionedId": "cs/git/sync-repository",
+              "id": "cs/git/sync-repository",
+              "isDocsHomePage": false,
+              "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
+              "description": "sync fork 하는 방법을 알아봅시다",
+              "source": "@site/docs/cs/git/sync-repository.md",
+              "sourceDirName": "cs/git",
+              "slug": "/cs/git/sync-repository",
+              "permalink": "/Tech-Blog/docs/cs/git/sync-repository",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/git/sync-repository.md",
+              "tags": [
+                {
+                  "label": "git",
+                  "permalink": "/Tech-Blog/docs/tags/git"
+                },
+                {
+                  "label": "fork",
+                  "permalink": "/Tech-Blog/docs/tags/fork"
+                },
+                {
+                  "label": "gitlab",
+                  "permalink": "/Tech-Blog/docs/tags/gitlab"
+                },
+                {
+                  "label": "github",
+                  "permalink": "/Tech-Blog/docs/tags/github"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
+                "description": "sync fork 하는 방법을 알아봅시다",
+                "tags": [
+                  "git",
+                  "fork",
+                  "gitlab",
+                  "github"
+                ],
+                "last_update": {
+                  "date": "2022-10-13"
+                }
+              },
+              "sidebar": "cs",
+              "previous": {
+                "title": "DDL DML DCL TCL",
+                "permalink": "/Tech-Blog/docs/cs/database/sql/SQLCommands"
+              },
+              "next": {
+                "title": "현재 작업한 브랜치를 다른 브랜치에 커밋하기",
+                "permalink": "/Tech-Blog/docs/cs/git/another-branch-push"
+              }
+            },
+            {
+              "unversionedId": "cs/git/trunk-based-development",
+              "id": "cs/git/trunk-based-development",
+              "isDocsHomePage": false,
+              "title": "TBD 브랜치 전략",
+              "description": "trunk-based-development 전략에 대해 알아보자",
+              "source": "@site/docs/cs/git/trunk-based-development.md",
+              "sourceDirName": "cs/git",
+              "slug": "/cs/git/trunk-based-development",
+              "permalink": "/Tech-Blog/docs/cs/git/trunk-based-development",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/git/trunk-based-development.md",
+              "tags": [
+                {
+                  "label": "git",
+                  "permalink": "/Tech-Blog/docs/tags/git"
+                },
+                {
+                  "label": "TBD",
+                  "permalink": "/Tech-Blog/docs/tags/tbd"
+                },
+                {
+                  "label": "trunk-based-development",
+                  "permalink": "/Tech-Blog/docs/tags/trunk-based-development"
+                },
+                {
+                  "label": "브랜치 전략",
+                  "permalink": "/Tech-Blog/docs/tags/브랜치-전략"
+                }
+              ],
+              "version": "current",
+              "frontMatter": {
+                "title": "TBD 브랜치 전략",
+                "description": "trunk-based-development 전략에 대해 알아보자",
+                "tags": [
+                  "git",
+                  "TBD",
+                  "trunk-based-development",
+                  "브랜치 전략"
+                ],
+                "last_update": {
+                  "date": "2022-12-12"
+                }
+              },
+              "sidebar": "cs",
+              "previous": {
+                "title": "현재 작업한 브랜치를 다른 브랜치에 커밋하기",
+                "permalink": "/Tech-Blog/docs/cs/git/another-branch-push"
+              }
+            },
+            {
+              "unversionedId": "cs/index",
+              "id": "cs/index",
+              "isDocsHomePage": false,
+              "title": "개발 이야기",
+              "description": "개발을 이야기 합니다.",
+              "source": "@site/docs/cs/index.md",
+              "sourceDirName": "cs",
+              "slug": "/cs/",
+              "permalink": "/Tech-Blog/docs/cs/",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "title": "개발 이야기",
+                "sidebar_position": 1,
+                "slug": "/cs/"
+              },
+              "sidebar": "cs",
+              "next": {
+                "title": "SQL",
+                "permalink": "/Tech-Blog/docs/cs/database/sql/SQL"
               }
             },
             {
@@ -966,10 +1226,10 @@
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/index.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 1,
+              "sidebarPosition": 2,
               "frontMatter": {
                 "title": "개발 이야기",
-                "sidebar_position": 1,
+                "sidebar_position": 2,
                 "slug": "/dev/"
               },
               "sidebar": "dev",

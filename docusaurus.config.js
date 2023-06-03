@@ -49,6 +49,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           src: 'img/sfairy.png',
         },
         items: [
+          { to: '/docs/cs/', label: 'CS', position: 'left' },
           { to: '/docs/dev/', label: '개발', position: 'left' },
           { to: '/docs/books/', label: '책', position: 'left' },
 
@@ -66,6 +67,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           {
             title: 'Docs',
             items: [
+              {
+                label: 'CS',
+                to: '/docs/cs/',
+              },
               {
                 label: '개발',
                 to: '/docs/dev/',
@@ -90,7 +95,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Genie's Dev Blog, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()}  miimmin's Dev Blog, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
