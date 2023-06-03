@@ -129,38 +129,6 @@
     "component": "component---theme-doc-tags-list-page-372-89e",
     "tags": "tags---tech-blog-docs-tags-559-070"
   },
-  "/Tech-Blog/docs/tags/메트릭-38f": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-메트릭-24-e-d4f"
-  },
-  "/Tech-Blog/docs/tags/변수-b4e": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-변수-94-f-0fe"
-  },
-  "/Tech-Blog/docs/tags/브랜치-전략-1ad": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-브랜치-전략-1-cc-253"
-  },
-  "/Tech-Blog/docs/tags/상수-f02": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-상수-10-c-8cb"
-  },
-  "/Tech-Blog/docs/tags/성능-225": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-성능-5-d-9-616"
-  },
-  "/Tech-Blog/docs/tags/아보카도-에디션-라이트-5e8": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-아보카도-에디션-라이트-14-c-549"
-  },
-  "/Tech-Blog/docs/tags/이모티콘-f82": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-이모티콘-96-f-d5c"
-  },
-  "/Tech-Blog/docs/tags/최적화-b49": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---tech-blog-docs-tags-최적화e-6-f-f7c"
-  },
   "/Tech-Blog/docs/tags/branch-ca1": {
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
     "tag": "tag---tech-blog-docs-tags-branch-7-b-5-99d"
@@ -245,11 +213,43 @@
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
     "tag": "tag---tech-blog-docs-tags-web-vital-753-3d8"
   },
+  "/Tech-Blog/docs/tags/메트릭-38f": {
+    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---tech-blog-docs-tags-메트릭-24-e-d4f"
+  },
+  "/Tech-Blog/docs/tags/변수-b4e": {
+    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---tech-blog-docs-tags-변수-94-f-0fe"
+  },
+  "/Tech-Blog/docs/tags/브랜치-전략-1ad": {
+    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---tech-blog-docs-tags-브랜치-전략-1-cc-253"
+  },
+  "/Tech-Blog/docs/tags/상수-f02": {
+    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---tech-blog-docs-tags-상수-10-c-8cb"
+  },
+  "/Tech-Blog/docs/tags/성능-225": {
+    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---tech-blog-docs-tags-성능-5-d-9-616"
+  },
+  "/Tech-Blog/docs/tags/아보카도-에디션-라이트-5e8": {
+    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---tech-blog-docs-tags-아보카도-에디션-라이트-14-c-549"
+  },
+  "/Tech-Blog/docs/tags/이모티콘-f82": {
+    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---tech-blog-docs-tags-이모티콘-96-f-d5c"
+  },
+  "/Tech-Blog/docs/tags/최적화-b49": {
+    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---tech-blog-docs-tags-최적화e-6-f-f7c"
+  },
   "/Tech-Blog/markdown-page-43f": {
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---tech-blog-markdown-page-393-268"
   },
-  "/Tech-Blog/docs-cc5": {
+  "/Tech-Blog/docs-005": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---tech-blog-docs-935-5c7"
   },
@@ -316,6 +316,10 @@
   "/Tech-Blog/docs/cs/-19b": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---tech-blog-docs-cs-8-ae-6c0"
+  },
+  "/Tech-Blog/docs/cs/database/sql/relational-algebra/RelatAlgeOperator-464": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---tech-blog-docs-cs-database-sql-relational-algebra-relat-alge-operator-75-c-68a"
   },
   "/Tech-Blog/docs/cs/database/sql/relational-algebra/RelationAlgebra-79c": {
     "component": "component---theme-doc-item-178-a40",

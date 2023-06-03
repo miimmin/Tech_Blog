@@ -43,8 +43,8 @@
   },
   "sidebar": "cs",
   "previous": {
-    "title": "관계대수",
-    "permalink": "/Tech-Blog/docs/cs/database/sql/relational-algebra/RelationAlgebra"
+    "title": "관계대수의 8대 연산자",
+    "permalink": "/Tech-Blog/docs/cs/database/sql/relational-algebra/RelatAlgeOperator"
   },
   "next": {
     "title": "현재 작업한 브랜치를 다른 브랜치에 커밋하기",

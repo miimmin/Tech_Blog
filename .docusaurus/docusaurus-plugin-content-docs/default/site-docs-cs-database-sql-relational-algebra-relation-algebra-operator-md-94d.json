@@ -1,0 +1,15 @@
+{
+  "unversionedId": "cs/database/sql/relational-algebra/RelationAlgebraOperator",
+  "id": "cs/database/sql/relational-algebra/RelationAlgebraOperator",
+  "isDocsHomePage": false,
+  "title": "RelationAlgebraOperator",
+  "description": "",
+  "source": "@site/docs/cs/database/sql/relational-algebra/RelationAlgebraOperator.md",
+  "sourceDirName": "cs/database/sql/relational-algebra",
+  "slug": "/cs/database/sql/relational-algebra/RelationAlgebraOperator",
+  "permalink": "/Tech-Blog/docs/cs/database/sql/relational-algebra/RelationAlgebraOperator",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/sql/relational-algebra/RelationAlgebraOperator.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

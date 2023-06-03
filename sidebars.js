@@ -33,16 +33,21 @@ const sidebars = {
       type: 'category',
       label: 'Database',
       items: [
-        'cs/database/sql/SQL',
-        'cs/database/sql/SQLCommands',
         {
           type: 'category',
-          label: '관계대수',
-          // link: {
-          //   type: 'doc',
-          //   id: 'cs/database/sql/relational-algebra/RelationAlgebra'
-          // },
-          items: ['cs/database/sql/relational-algebra/RelationAlgebra']
+          label: 'SQL',
+          items: [
+            'cs/database/sql/SQL',
+            'cs/database/sql/SQLCommands',
+            {
+              type: 'category',
+              label: '관계대수',
+              items: [
+                  'cs/database/sql/relational-algebra/RelationAlgebra',
+                'cs/database/sql/relational-algebra/RelatAlgeOperator'
+              ]
+            },
+          ]
         },
       ]
     },

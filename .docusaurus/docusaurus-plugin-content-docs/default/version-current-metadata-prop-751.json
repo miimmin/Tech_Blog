@@ -18,23 +18,36 @@
         "label": "Database",
         "items": [
           {
-            "type": "link",
-            "label": "SQL",
-            "href": "/Tech-Blog/docs/cs/database/sql/SQL"
-          },
-          {
-            "type": "link",
-            "label": "DDL DML DCL TCL",
-            "href": "/Tech-Blog/docs/cs/database/sql/SQLCommands"
-          },
-          {
             "type": "category",
-            "label": "관계대수",
+            "label": "SQL",
             "items": [
               {
                 "type": "link",
+                "label": "SQL",
+                "href": "/Tech-Blog/docs/cs/database/sql/SQL"
+              },
+              {
+                "type": "link",
+                "label": "DDL DML DCL TCL",
+                "href": "/Tech-Blog/docs/cs/database/sql/SQLCommands"
+              },
+              {
+                "type": "category",
                 "label": "관계대수",
-                "href": "/Tech-Blog/docs/cs/database/sql/relational-algebra/RelationAlgebra"
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "관계대수",
+                    "href": "/Tech-Blog/docs/cs/database/sql/relational-algebra/RelationAlgebra"
+                  },
+                  {
+                    "type": "link",
+                    "label": "관계대수의 8대 연산자",
+                    "href": "/Tech-Blog/docs/cs/database/sql/relational-algebra/RelatAlgeOperator"
+                  }
+                ],
+                "collapsible": true,
+                "collapsed": true
               }
             ],
             "collapsible": true,

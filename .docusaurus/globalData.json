@@ -85,6 +85,11 @@
               "sidebar": "books"
             },
             {
+              "id": "cs/database/sql/relational-algebra/RelatAlgeOperator",
+              "path": "/Tech-Blog/docs/cs/database/sql/relational-algebra/RelatAlgeOperator",
+              "sidebar": "cs"
+            },
+            {
               "id": "cs/database/sql/relational-algebra/RelationAlgebra",
               "path": "/Tech-Blog/docs/cs/database/sql/relational-algebra/RelationAlgebra",
               "sidebar": "cs"

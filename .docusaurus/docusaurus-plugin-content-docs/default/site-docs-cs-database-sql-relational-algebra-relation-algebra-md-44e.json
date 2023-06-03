@@ -18,7 +18,7 @@
     "permalink": "/Tech-Blog/docs/cs/database/sql/SQLCommands"
   },
   "next": {
-    "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
-    "permalink": "/Tech-Blog/docs/cs/git/sync-repository"
+    "title": "관계대수의 8대 연산자",
+    "permalink": "/Tech-Blog/docs/cs/database/sql/relational-algebra/RelatAlgeOperator"
   }
 }
