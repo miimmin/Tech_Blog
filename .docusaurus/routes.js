@@ -255,7 +255,7 @@ export default [
   },
   {
     path: '/Tech-Blog/docs',
-    component: ComponentCreator('/Tech-Blog/docs','0df'),
+    component: ComponentCreator('/Tech-Blog/docs','bcc'),
     routes: [
       {
         path: '/Tech-Blog/docs/books/',
@@ -349,6 +349,12 @@ export default [
       {
         path: '/Tech-Blog/docs/cs/',
         component: ComponentCreator('/Tech-Blog/docs/cs/','19b'),
+        exact: true,
+        'sidebar': "cs"
+      },
+      {
+        path: '/Tech-Blog/docs/cs/database/rdbms/Integrity',
+        component: ComponentCreator('/Tech-Blog/docs/cs/database/rdbms/Integrity','4e9'),
         exact: true,
         'sidebar': "cs"
       },

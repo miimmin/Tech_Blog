@@ -55,6 +55,7 @@ const sidebars = {
           label: '관계형 데이터베이스',
           items: [
             'cs/database/rdbms/Key',
+            'cs/database/rdbms/Integrity',
           ]
         },
       ]

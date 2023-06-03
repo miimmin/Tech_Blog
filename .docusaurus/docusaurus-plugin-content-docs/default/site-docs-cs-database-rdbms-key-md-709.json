@@ -18,7 +18,7 @@
     "permalink": "/Tech-Blog/docs/cs/database/sql/relational-algebra/SQLvsRA"
   },
   "next": {
-    "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
-    "permalink": "/Tech-Blog/docs/cs/git/sync-repository"
+    "title": "무결성",
+    "permalink": "/Tech-Blog/docs/cs/database/rdbms/Integrity"
   }
 }

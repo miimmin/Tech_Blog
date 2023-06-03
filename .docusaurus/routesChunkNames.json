@@ -249,7 +249,7 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---tech-blog-markdown-page-393-268"
   },
-  "/Tech-Blog/docs-0df": {
+  "/Tech-Blog/docs-bcc": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---tech-blog-docs-935-5c7"
   },
@@ -316,6 +316,10 @@
   "/Tech-Blog/docs/cs/-19b": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---tech-blog-docs-cs-8-ae-6c0"
+  },
+  "/Tech-Blog/docs/cs/database/rdbms/Integrity-4e9": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---tech-blog-docs-cs-database-rdbms-integritye-46-d24"
   },
   "/Tech-Blog/docs/cs/database/rdbms/Key-dd1": {
     "component": "component---theme-doc-item-178-a40",

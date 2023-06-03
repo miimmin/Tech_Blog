@@ -43,8 +43,8 @@
   },
   "sidebar": "cs",
   "previous": {
-    "title": "Key",
-    "permalink": "/Tech-Blog/docs/cs/database/rdbms/Key"
+    "title": "무결성",
+    "permalink": "/Tech-Blog/docs/cs/database/rdbms/Integrity"
   },
   "next": {
     "title": "현재 작업한 브랜치를 다른 브랜치에 커밋하기",

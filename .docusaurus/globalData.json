@@ -85,6 +85,11 @@
               "sidebar": "books"
             },
             {
+              "id": "cs/database/rdbms/Integrity",
+              "path": "/Tech-Blog/docs/cs/database/rdbms/Integrity",
+              "sidebar": "cs"
+            },
+            {
               "id": "cs/database/rdbms/Key",
               "path": "/Tech-Blog/docs/cs/database/rdbms/Key",
               "sidebar": "cs"

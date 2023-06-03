@@ -66,6 +66,11 @@
                 "type": "link",
                 "label": "Key",
                 "href": "/Tech-Blog/docs/cs/database/rdbms/Key"
+              },
+              {
+                "type": "link",
+                "label": "무결성",
+                "href": "/Tech-Blog/docs/cs/database/rdbms/Integrity"
               }
             ],
             "collapsible": true,

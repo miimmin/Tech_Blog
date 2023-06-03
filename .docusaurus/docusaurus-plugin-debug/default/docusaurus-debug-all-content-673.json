@@ -71,6 +71,10 @@
                       {
                         "type": "doc",
                         "id": "cs/database/rdbms/Key"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "cs/database/rdbms/Integrity"
                       }
                     ],
                     "collapsible": true,
@@ -705,6 +709,30 @@
               }
             },
             {
+              "unversionedId": "cs/database/rdbms/Integrity",
+              "id": "cs/database/rdbms/Integrity",
+              "isDocsHomePage": false,
+              "title": "무결성",
+              "description": "🐣 데이터 무결성?",
+              "source": "@site/docs/cs/database/rdbms/Integrity.md",
+              "sourceDirName": "cs/database/rdbms",
+              "slug": "/cs/database/rdbms/Integrity",
+              "permalink": "/Tech-Blog/docs/cs/database/rdbms/Integrity",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/rdbms/Integrity.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "cs",
+              "previous": {
+                "title": "Key",
+                "permalink": "/Tech-Blog/docs/cs/database/rdbms/Key"
+              },
+              "next": {
+                "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
+                "permalink": "/Tech-Blog/docs/cs/git/sync-repository"
+              }
+            },
+            {
               "unversionedId": "cs/database/rdbms/Key",
               "id": "cs/database/rdbms/Key",
               "isDocsHomePage": false,
@@ -724,8 +752,8 @@
                 "permalink": "/Tech-Blog/docs/cs/database/sql/relational-algebra/SQLvsRA"
               },
               "next": {
-                "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
-                "permalink": "/Tech-Blog/docs/cs/git/sync-repository"
+                "title": "무결성",
+                "permalink": "/Tech-Blog/docs/cs/database/rdbms/Integrity"
               }
             },
             {
@@ -936,8 +964,8 @@
               },
               "sidebar": "cs",
               "previous": {
-                "title": "Key",
-                "permalink": "/Tech-Blog/docs/cs/database/rdbms/Key"
+                "title": "무결성",
+                "permalink": "/Tech-Blog/docs/cs/database/rdbms/Integrity"
               },
               "next": {
                 "title": "현재 작업한 브랜치를 다른 브랜치에 커밋하기",
