@@ -255,7 +255,7 @@ export default [
   },
   {
     path: '/Tech-Blog/docs',
-    component: ComponentCreator('/Tech-Blog/docs','f62'),
+    component: ComponentCreator('/Tech-Blog/docs','846'),
     routes: [
       {
         path: '/Tech-Blog/docs/books/',
@@ -355,6 +355,12 @@ export default [
       {
         path: '/Tech-Blog/docs/cs/database/Index',
         component: ComponentCreator('/Tech-Blog/docs/cs/database/Index','07b'),
+        exact: true,
+        'sidebar': "cs"
+      },
+      {
+        path: '/Tech-Blog/docs/cs/database/normalization/Normalization',
+        component: ComponentCreator('/Tech-Blog/docs/cs/database/normalization/Normalization','9ee'),
         exact: true,
         'sidebar': "cs"
       },

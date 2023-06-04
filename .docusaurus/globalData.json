@@ -90,6 +90,11 @@
               "sidebar": "cs"
             },
             {
+              "id": "cs/database/normalization/Normalization",
+              "path": "/Tech-Blog/docs/cs/database/normalization/Normalization",
+              "sidebar": "cs"
+            },
+            {
               "id": "cs/database/rdbms/Integrity",
               "path": "/Tech-Blog/docs/cs/database/rdbms/Integrity",
               "sidebar": "cs"

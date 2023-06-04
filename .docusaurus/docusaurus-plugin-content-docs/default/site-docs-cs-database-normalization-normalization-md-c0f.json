@@ -1,0 +1,24 @@
+{
+  "unversionedId": "cs/database/normalization/Normalization",
+  "id": "cs/database/normalization/Normalization",
+  "isDocsHomePage": false,
+  "title": "정규화",
+  "description": "🐣 정규화??",
+  "source": "@site/docs/cs/database/normalization/Normalization.md",
+  "sourceDirName": "cs/database/normalization",
+  "slug": "/cs/database/normalization/Normalization",
+  "permalink": "/Tech-Blog/docs/cs/database/normalization/Normalization",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/normalization/Normalization.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "cs",
+  "previous": {
+    "title": "인덱스",
+    "permalink": "/Tech-Blog/docs/cs/database/Index"
+  },
+  "next": {
+    "title": "락",
+    "permalink": "/Tech-Blog/docs/cs/database/transaction/Lock"
+  }
+}

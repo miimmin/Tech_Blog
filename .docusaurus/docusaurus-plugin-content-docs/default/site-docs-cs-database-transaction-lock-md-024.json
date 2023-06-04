@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "cs",
   "previous": {
-    "title": "인덱스",
-    "permalink": "/Tech-Blog/docs/cs/database/Index"
+    "title": "정규화",
+    "permalink": "/Tech-Blog/docs/cs/database/normalization/Normalization"
   },
   "next": {
     "title": "Fork 한 Repository를 원본 Repository와 동기화하기",

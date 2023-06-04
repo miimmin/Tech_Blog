@@ -18,7 +18,7 @@
     "permalink": "/Tech-Blog/docs/cs/database/rdbms/Integrity"
   },
   "next": {
-    "title": "락",
-    "permalink": "/Tech-Blog/docs/cs/database/transaction/Lock"
+    "title": "정규화",
+    "permalink": "/Tech-Blog/docs/cs/database/normalization/Normalization"
   }
 }

@@ -83,6 +83,19 @@
           },
           {
             "type": "category",
+            "label": "정규화",
+            "items": [
+              {
+                "type": "link",
+                "label": "정규화",
+                "href": "/Tech-Blog/docs/cs/database/normalization/Normalization"
+              }
+            ],
+            "collapsible": true,
+            "collapsed": true
+          },
+          {
+            "type": "category",
             "label": "트랜잭션, 동시성제어, 회복",
             "items": [
               {
