@@ -9,6 +9,7 @@ RDBMS에서 데이터를 관리하는 언어 (데이터베이스용 프로그래
 3. (DCL) 데이터 제어 ex. 객체 권한, DB 접근 권한, 트랜잭션 명시 등
 4. (TCL) 트랜잭션 제어
 :::
+
 ![sqlCommand](img/sqlCommand.png)
 ---
 <br/>

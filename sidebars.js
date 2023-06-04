@@ -58,6 +58,14 @@ const sidebars = {
             'cs/database/rdbms/Integrity',
           ]
         },
+        'cs/database/Index',
+        {
+          type: 'category',
+          label: '트랜잭션, 동시성제어, 회복',
+          items: [
+              'cs/database/transaction/Lock'
+          ]
+        },
       ]
     },
     {

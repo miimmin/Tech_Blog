@@ -1,0 +1,24 @@
+{
+  "unversionedId": "cs/database/sql/Index",
+  "id": "cs/database/sql/Index",
+  "isDocsHomePage": false,
+  "title": "인덱스",
+  "description": "🐣 인덱스란??",
+  "source": "@site/docs/cs/database/sql/Index.md",
+  "sourceDirName": "cs/database/sql",
+  "slug": "/cs/database/sql/Index",
+  "permalink": "/Tech-Blog/docs/cs/database/sql/Index",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/sql/Index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "cs",
+  "previous": {
+    "title": "관계대수 vs SQL",
+    "permalink": "/Tech-Blog/docs/cs/database/sql/relational-algebra/SQLvsRA"
+  },
+  "next": {
+    "title": "Key",
+    "permalink": "/Tech-Blog/docs/cs/database/rdbms/Key"
+  }
+}

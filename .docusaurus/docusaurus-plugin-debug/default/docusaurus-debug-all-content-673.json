@@ -79,6 +79,22 @@
                     ],
                     "collapsible": true,
                     "collapsed": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "cs/database/Index"
+                  },
+                  {
+                    "type": "category",
+                    "label": "트랜잭션, 동시성제어, 회복",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "cs/database/transaction/Lock"
+                      }
+                    ],
+                    "collapsible": true,
+                    "collapsed": true
                   }
                 ],
                 "collapsible": true,
@@ -709,6 +725,30 @@
               }
             },
             {
+              "unversionedId": "cs/database/Index",
+              "id": "cs/database/Index",
+              "isDocsHomePage": false,
+              "title": "인덱스",
+              "description": "🐣 인덱스란??",
+              "source": "@site/docs/cs/database/Index.md",
+              "sourceDirName": "cs/database",
+              "slug": "/cs/database/Index",
+              "permalink": "/Tech-Blog/docs/cs/database/Index",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/Index.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "cs",
+              "previous": {
+                "title": "무결성",
+                "permalink": "/Tech-Blog/docs/cs/database/rdbms/Integrity"
+              },
+              "next": {
+                "title": "락",
+                "permalink": "/Tech-Blog/docs/cs/database/transaction/Lock"
+              }
+            },
+            {
               "unversionedId": "cs/database/rdbms/Integrity",
               "id": "cs/database/rdbms/Integrity",
               "isDocsHomePage": false,
@@ -728,8 +768,8 @@
                 "permalink": "/Tech-Blog/docs/cs/database/rdbms/Key"
               },
               "next": {
-                "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
-                "permalink": "/Tech-Blog/docs/cs/git/sync-repository"
+                "title": "인덱스",
+                "permalink": "/Tech-Blog/docs/cs/database/Index"
               }
             },
             {
@@ -877,6 +917,30 @@
               }
             },
             {
+              "unversionedId": "cs/database/transaction/Lock",
+              "id": "cs/database/transaction/Lock",
+              "isDocsHomePage": false,
+              "title": "락",
+              "description": "🐣 락??",
+              "source": "@site/docs/cs/database/transaction/Lock.md",
+              "sourceDirName": "cs/database/transaction",
+              "slug": "/cs/database/transaction/Lock",
+              "permalink": "/Tech-Blog/docs/cs/database/transaction/Lock",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/transaction/Lock.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "cs",
+              "previous": {
+                "title": "인덱스",
+                "permalink": "/Tech-Blog/docs/cs/database/Index"
+              },
+              "next": {
+                "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
+                "permalink": "/Tech-Blog/docs/cs/git/sync-repository"
+              }
+            },
+            {
               "unversionedId": "cs/git/another-branch-push",
               "id": "cs/git/another-branch-push",
               "isDocsHomePage": false,
@@ -964,8 +1028,8 @@
               },
               "sidebar": "cs",
               "previous": {
-                "title": "무결성",
-                "permalink": "/Tech-Blog/docs/cs/database/rdbms/Integrity"
+                "title": "락",
+                "permalink": "/Tech-Blog/docs/cs/database/transaction/Lock"
               },
               "next": {
                 "title": "현재 작업한 브랜치를 다른 브랜치에 커밋하기",

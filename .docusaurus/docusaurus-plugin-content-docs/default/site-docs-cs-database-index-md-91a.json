@@ -1,0 +1,24 @@
+{
+  "unversionedId": "cs/database/Index",
+  "id": "cs/database/Index",
+  "isDocsHomePage": false,
+  "title": "인덱스",
+  "description": "🐣 인덱스란??",
+  "source": "@site/docs/cs/database/Index.md",
+  "sourceDirName": "cs/database",
+  "slug": "/cs/database/Index",
+  "permalink": "/Tech-Blog/docs/cs/database/Index",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/Index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "cs",
+  "previous": {
+    "title": "무결성",
+    "permalink": "/Tech-Blog/docs/cs/database/rdbms/Integrity"
+  },
+  "next": {
+    "title": "락",
+    "permalink": "/Tech-Blog/docs/cs/database/transaction/Lock"
+  }
+}

@@ -75,6 +75,24 @@
             ],
             "collapsible": true,
             "collapsed": true
+          },
+          {
+            "type": "link",
+            "label": "인덱스",
+            "href": "/Tech-Blog/docs/cs/database/Index"
+          },
+          {
+            "type": "category",
+            "label": "트랜잭션, 동시성제어, 회복",
+            "items": [
+              {
+                "type": "link",
+                "label": "락",
+                "href": "/Tech-Blog/docs/cs/database/transaction/Lock"
+              }
+            ],
+            "collapsible": true,
+            "collapsed": true
           }
         ],
         "collapsible": true,
