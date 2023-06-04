@@ -18,7 +18,7 @@
     "permalink": "/Tech-Blog/docs/cs/database/Index"
   },
   "next": {
-    "title": "락",
-    "permalink": "/Tech-Blog/docs/cs/database/transaction/Lock"
+    "title": "비정규화 (반정규화)",
+    "permalink": "/Tech-Blog/docs/cs/database/normalization/DeNormalization"
   }
 }

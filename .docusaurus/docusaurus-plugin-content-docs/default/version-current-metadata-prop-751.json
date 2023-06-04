@@ -89,6 +89,11 @@
                 "type": "link",
                 "label": "정규화",
                 "href": "/Tech-Blog/docs/cs/database/normalization/Normalization"
+              },
+              {
+                "type": "link",
+                "label": "비정규화 (반정규화)",
+                "href": "/Tech-Blog/docs/cs/database/normalization/DeNormalization"
               }
             ],
             "collapsible": true,

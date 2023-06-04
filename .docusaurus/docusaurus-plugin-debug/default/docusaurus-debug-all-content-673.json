@@ -91,6 +91,10 @@
                       {
                         "type": "doc",
                         "id": "cs/database/normalization/Normalization"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "cs/database/normalization/DeNormalization"
                       }
                     ],
                     "collapsible": true,
@@ -761,6 +765,30 @@
               }
             },
             {
+              "unversionedId": "cs/database/normalization/DeNormalization",
+              "id": "cs/database/normalization/DeNormalization",
+              "isDocsHomePage": false,
+              "title": "비정규화 (반정규화)",
+              "description": "🐣 비정규화 (반정규화, De-Normalization) ??",
+              "source": "@site/docs/cs/database/normalization/DeNormalization.md",
+              "sourceDirName": "cs/database/normalization",
+              "slug": "/cs/database/normalization/DeNormalization",
+              "permalink": "/Tech-Blog/docs/cs/database/normalization/DeNormalization",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/normalization/DeNormalization.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "cs",
+              "previous": {
+                "title": "정규화",
+                "permalink": "/Tech-Blog/docs/cs/database/normalization/Normalization"
+              },
+              "next": {
+                "title": "락",
+                "permalink": "/Tech-Blog/docs/cs/database/transaction/Lock"
+              }
+            },
+            {
               "unversionedId": "cs/database/normalization/Normalization",
               "id": "cs/database/normalization/Normalization",
               "isDocsHomePage": false,
@@ -780,8 +808,8 @@
                 "permalink": "/Tech-Blog/docs/cs/database/Index"
               },
               "next": {
-                "title": "락",
-                "permalink": "/Tech-Blog/docs/cs/database/transaction/Lock"
+                "title": "비정규화 (반정규화)",
+                "permalink": "/Tech-Blog/docs/cs/database/normalization/DeNormalization"
               }
             },
             {
@@ -968,8 +996,8 @@
               "frontMatter": {},
               "sidebar": "cs",
               "previous": {
-                "title": "정규화",
-                "permalink": "/Tech-Blog/docs/cs/database/normalization/Normalization"
+                "title": "비정규화 (반정규화)",
+                "permalink": "/Tech-Blog/docs/cs/database/normalization/DeNormalization"
               },
               "next": {
                 "title": "Fork 한 Repository를 원본 Repository와 동기화하기",

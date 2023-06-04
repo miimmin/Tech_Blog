@@ -63,7 +63,8 @@ const sidebars = {
           type: 'category',
           label: '정규화',
           items: [
-            'cs/database/normalization/Normalization'
+            'cs/database/normalization/Normalization',
+            'cs/database/normalization/DeNormalization',
           ]
         },
         {

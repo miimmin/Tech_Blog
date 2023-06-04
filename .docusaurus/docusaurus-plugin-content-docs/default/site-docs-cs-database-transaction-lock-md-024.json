@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "cs",
   "previous": {
-    "title": "정규화",
-    "permalink": "/Tech-Blog/docs/cs/database/normalization/Normalization"
+    "title": "비정규화 (반정규화)",
+    "permalink": "/Tech-Blog/docs/cs/database/normalization/DeNormalization"
   },
   "next": {
     "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
