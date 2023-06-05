@@ -18,7 +18,7 @@
     "permalink": "/Tech-Blog/docs/cs/database/transaction/Lock"
   },
   "next": {
-    "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
-    "permalink": "/Tech-Blog/docs/cs/git/sync-repository"
+    "title": "Lock Escalation",
+    "permalink": "/Tech-Blog/docs/cs/database/transaction/LockEscalation"
   }
 }

@@ -255,7 +255,7 @@ export default [
   },
   {
     path: '/Tech-Blog/docs',
-    component: ComponentCreator('/Tech-Blog/docs','ff5'),
+    component: ComponentCreator('/Tech-Blog/docs','ae4'),
     routes: [
       {
         path: '/Tech-Blog/docs/books/',
@@ -353,12 +353,6 @@ export default [
         'sidebar': "cs"
       },
       {
-        path: '/Tech-Blog/docs/cs/database/Index',
-        component: ComponentCreator('/Tech-Blog/docs/cs/database/Index','07b'),
-        exact: true,
-        'sidebar': "cs"
-      },
-      {
         path: '/Tech-Blog/docs/cs/database/normalization/DeNormalization',
         component: ComponentCreator('/Tech-Blog/docs/cs/database/normalization/DeNormalization','35e'),
         exact: true,
@@ -379,6 +373,18 @@ export default [
       {
         path: '/Tech-Blog/docs/cs/database/rdbms/Key',
         component: ComponentCreator('/Tech-Blog/docs/cs/database/rdbms/Key','dd1'),
+        exact: true,
+        'sidebar': "cs"
+      },
+      {
+        path: '/Tech-Blog/docs/cs/database/sql-advanced/Index',
+        component: ComponentCreator('/Tech-Blog/docs/cs/database/sql-advanced/Index','25a'),
+        exact: true,
+        'sidebar': "cs"
+      },
+      {
+        path: '/Tech-Blog/docs/cs/database/sql-advanced/IndexDataStructure',
+        component: ComponentCreator('/Tech-Blog/docs/cs/database/sql-advanced/IndexDataStructure','878'),
         exact: true,
         'sidebar': "cs"
       },
@@ -415,6 +421,12 @@ export default [
       {
         path: '/Tech-Blog/docs/cs/database/transaction/Lock',
         component: ComponentCreator('/Tech-Blog/docs/cs/database/transaction/Lock','13e'),
+        exact: true,
+        'sidebar': "cs"
+      },
+      {
+        path: '/Tech-Blog/docs/cs/database/transaction/LockEscalation',
+        component: ComponentCreator('/Tech-Blog/docs/cs/database/transaction/LockEscalation','881'),
         exact: true,
         'sidebar': "cs"
       },

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "cs/database/sql-advanced/IndexDataStructure",
+  "id": "cs/database/sql-advanced/IndexDataStructure",
+  "isDocsHomePage": false,
+  "title": "인덱스의 자료구조",
+  "description": "🐣 인덱스는 내부적으로 어떤 자료구조를 써??",
+  "source": "@site/docs/cs/database/sql-advanced/IndexDataStructure.md",
+  "sourceDirName": "cs/database/sql-advanced",
+  "slug": "/cs/database/sql-advanced/IndexDataStructure",
+  "permalink": "/Tech-Blog/docs/cs/database/sql-advanced/IndexDataStructure",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/sql-advanced/IndexDataStructure.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "cs",
+  "previous": {
+    "title": "인덱스",
+    "permalink": "/Tech-Blog/docs/cs/database/sql-advanced/Index"
+  },
+  "next": {
+    "title": "정규화",
+    "permalink": "/Tech-Blog/docs/cs/database/normalization/Normalization"
+  }
+}

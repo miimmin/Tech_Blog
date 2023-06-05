@@ -77,9 +77,22 @@
             "collapsed": true
           },
           {
-            "type": "link",
-            "label": "인덱스",
-            "href": "/Tech-Blog/docs/cs/database/Index"
+            "type": "category",
+            "label": "SQL 고급",
+            "items": [
+              {
+                "type": "link",
+                "label": "인덱스",
+                "href": "/Tech-Blog/docs/cs/database/sql-advanced/Index"
+              },
+              {
+                "type": "link",
+                "label": "인덱스의 자료구조",
+                "href": "/Tech-Blog/docs/cs/database/sql-advanced/IndexDataStructure"
+              }
+            ],
+            "collapsible": true,
+            "collapsed": true
           },
           {
             "type": "category",
@@ -112,6 +125,11 @@
                 "type": "link",
                 "label": "락으로 발생하는 문제",
                 "href": "/Tech-Blog/docs/cs/database/transaction/LockProblem"
+              },
+              {
+                "type": "link",
+                "label": "Lock Escalation",
+                "href": "/Tech-Blog/docs/cs/database/transaction/LockEscalation"
               }
             ],
             "collapsible": true,

@@ -85,11 +85,6 @@
               "sidebar": "books"
             },
             {
-              "id": "cs/database/Index",
-              "path": "/Tech-Blog/docs/cs/database/Index",
-              "sidebar": "cs"
-            },
-            {
               "id": "cs/database/normalization/DeNormalization",
               "path": "/Tech-Blog/docs/cs/database/normalization/DeNormalization",
               "sidebar": "cs"
@@ -107,6 +102,16 @@
             {
               "id": "cs/database/rdbms/Key",
               "path": "/Tech-Blog/docs/cs/database/rdbms/Key",
+              "sidebar": "cs"
+            },
+            {
+              "id": "cs/database/sql-advanced/Index",
+              "path": "/Tech-Blog/docs/cs/database/sql-advanced/Index",
+              "sidebar": "cs"
+            },
+            {
+              "id": "cs/database/sql-advanced/IndexDataStructure",
+              "path": "/Tech-Blog/docs/cs/database/sql-advanced/IndexDataStructure",
               "sidebar": "cs"
             },
             {
@@ -137,6 +142,11 @@
             {
               "id": "cs/database/transaction/Lock",
               "path": "/Tech-Blog/docs/cs/database/transaction/Lock",
+              "sidebar": "cs"
+            },
+            {
+              "id": "cs/database/transaction/LockEscalation",
+              "path": "/Tech-Blog/docs/cs/database/transaction/LockEscalation",
               "sidebar": "cs"
             },
             {

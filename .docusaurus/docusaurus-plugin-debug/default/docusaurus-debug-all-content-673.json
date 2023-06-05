@@ -81,8 +81,20 @@
                     "collapsed": true
                   },
                   {
-                    "type": "doc",
-                    "id": "cs/database/Index"
+                    "type": "category",
+                    "label": "SQL 고급",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "cs/database/sql-advanced/Index"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "cs/database/sql-advanced/IndexDataStructure"
+                      }
+                    ],
+                    "collapsible": true,
+                    "collapsed": true
                   },
                   {
                     "type": "category",
@@ -111,6 +123,10 @@
                       {
                         "type": "doc",
                         "id": "cs/database/transaction/LockProblem"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "cs/database/transaction/LockEscalation"
                       }
                     ],
                     "collapsible": true,
@@ -745,30 +761,6 @@
               }
             },
             {
-              "unversionedId": "cs/database/Index",
-              "id": "cs/database/Index",
-              "isDocsHomePage": false,
-              "title": "인덱스",
-              "description": "🐣 인덱스란??",
-              "source": "@site/docs/cs/database/Index.md",
-              "sourceDirName": "cs/database",
-              "slug": "/cs/database/Index",
-              "permalink": "/Tech-Blog/docs/cs/database/Index",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/Index.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "cs",
-              "previous": {
-                "title": "무결성",
-                "permalink": "/Tech-Blog/docs/cs/database/rdbms/Integrity"
-              },
-              "next": {
-                "title": "정규화",
-                "permalink": "/Tech-Blog/docs/cs/database/normalization/Normalization"
-              }
-            },
-            {
               "unversionedId": "cs/database/normalization/DeNormalization",
               "id": "cs/database/normalization/DeNormalization",
               "isDocsHomePage": false,
@@ -808,8 +800,8 @@
               "frontMatter": {},
               "sidebar": "cs",
               "previous": {
-                "title": "인덱스",
-                "permalink": "/Tech-Blog/docs/cs/database/Index"
+                "title": "인덱스의 자료구조",
+                "permalink": "/Tech-Blog/docs/cs/database/sql-advanced/IndexDataStructure"
               },
               "next": {
                 "title": "비정규화 (반정규화)",
@@ -837,7 +829,7 @@
               },
               "next": {
                 "title": "인덱스",
-                "permalink": "/Tech-Blog/docs/cs/database/Index"
+                "permalink": "/Tech-Blog/docs/cs/database/sql-advanced/Index"
               }
             },
             {
@@ -862,6 +854,54 @@
               "next": {
                 "title": "무결성",
                 "permalink": "/Tech-Blog/docs/cs/database/rdbms/Integrity"
+              }
+            },
+            {
+              "unversionedId": "cs/database/sql-advanced/Index",
+              "id": "cs/database/sql-advanced/Index",
+              "isDocsHomePage": false,
+              "title": "인덱스",
+              "description": "🐣 인덱스란??",
+              "source": "@site/docs/cs/database/sql-advanced/Index.md",
+              "sourceDirName": "cs/database/sql-advanced",
+              "slug": "/cs/database/sql-advanced/Index",
+              "permalink": "/Tech-Blog/docs/cs/database/sql-advanced/Index",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/sql-advanced/Index.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "cs",
+              "previous": {
+                "title": "무결성",
+                "permalink": "/Tech-Blog/docs/cs/database/rdbms/Integrity"
+              },
+              "next": {
+                "title": "인덱스의 자료구조",
+                "permalink": "/Tech-Blog/docs/cs/database/sql-advanced/IndexDataStructure"
+              }
+            },
+            {
+              "unversionedId": "cs/database/sql-advanced/IndexDataStructure",
+              "id": "cs/database/sql-advanced/IndexDataStructure",
+              "isDocsHomePage": false,
+              "title": "인덱스의 자료구조",
+              "description": "🐣 인덱스는 내부적으로 어떤 자료구조를 써??",
+              "source": "@site/docs/cs/database/sql-advanced/IndexDataStructure.md",
+              "sourceDirName": "cs/database/sql-advanced",
+              "slug": "/cs/database/sql-advanced/IndexDataStructure",
+              "permalink": "/Tech-Blog/docs/cs/database/sql-advanced/IndexDataStructure",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/sql-advanced/IndexDataStructure.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "cs",
+              "previous": {
+                "title": "인덱스",
+                "permalink": "/Tech-Blog/docs/cs/database/sql-advanced/Index"
+              },
+              "next": {
+                "title": "정규화",
+                "permalink": "/Tech-Blog/docs/cs/database/normalization/Normalization"
               }
             },
             {
@@ -1009,6 +1049,30 @@
               }
             },
             {
+              "unversionedId": "cs/database/transaction/LockEscalation",
+              "id": "cs/database/transaction/LockEscalation",
+              "isDocsHomePage": false,
+              "title": "Lock Escalation",
+              "description": "🐣 Lock Escalation",
+              "source": "@site/docs/cs/database/transaction/LockEscalation.md",
+              "sourceDirName": "cs/database/transaction",
+              "slug": "/cs/database/transaction/LockEscalation",
+              "permalink": "/Tech-Blog/docs/cs/database/transaction/LockEscalation",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/transaction/LockEscalation.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "cs",
+              "previous": {
+                "title": "락으로 발생하는 문제",
+                "permalink": "/Tech-Blog/docs/cs/database/transaction/LockProblem"
+              },
+              "next": {
+                "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
+                "permalink": "/Tech-Blog/docs/cs/git/sync-repository"
+              }
+            },
+            {
               "unversionedId": "cs/database/transaction/LockProblem",
               "id": "cs/database/transaction/LockProblem",
               "isDocsHomePage": false,
@@ -1028,8 +1092,8 @@
                 "permalink": "/Tech-Blog/docs/cs/database/transaction/Lock"
               },
               "next": {
-                "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
-                "permalink": "/Tech-Blog/docs/cs/git/sync-repository"
+                "title": "Lock Escalation",
+                "permalink": "/Tech-Blog/docs/cs/database/transaction/LockEscalation"
               }
             },
             {
@@ -1120,8 +1184,8 @@
               },
               "sidebar": "cs",
               "previous": {
-                "title": "락으로 발생하는 문제",
-                "permalink": "/Tech-Blog/docs/cs/database/transaction/LockProblem"
+                "title": "Lock Escalation",
+                "permalink": "/Tech-Blog/docs/cs/database/transaction/LockEscalation"
               },
               "next": {
                 "title": "현재 작업한 브랜치를 다른 브랜치에 커밋하기",

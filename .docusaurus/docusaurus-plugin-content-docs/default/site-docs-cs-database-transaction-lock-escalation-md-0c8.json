@@ -1,0 +1,24 @@
+{
+  "unversionedId": "cs/database/transaction/LockEscalation",
+  "id": "cs/database/transaction/LockEscalation",
+  "isDocsHomePage": false,
+  "title": "Lock Escalation",
+  "description": "🐣 Lock Escalation",
+  "source": "@site/docs/cs/database/transaction/LockEscalation.md",
+  "sourceDirName": "cs/database/transaction",
+  "slug": "/cs/database/transaction/LockEscalation",
+  "permalink": "/Tech-Blog/docs/cs/database/transaction/LockEscalation",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/transaction/LockEscalation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "cs",
+  "previous": {
+    "title": "락으로 발생하는 문제",
+    "permalink": "/Tech-Blog/docs/cs/database/transaction/LockProblem"
+  },
+  "next": {
+    "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
+    "permalink": "/Tech-Blog/docs/cs/git/sync-repository"
+  }
+}

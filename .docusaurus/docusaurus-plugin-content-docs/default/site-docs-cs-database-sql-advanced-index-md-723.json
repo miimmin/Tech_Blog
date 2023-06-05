@@ -1,0 +1,24 @@
+{
+  "unversionedId": "cs/database/sql-advanced/Index",
+  "id": "cs/database/sql-advanced/Index",
+  "isDocsHomePage": false,
+  "title": "인덱스",
+  "description": "🐣 인덱스란??",
+  "source": "@site/docs/cs/database/sql-advanced/Index.md",
+  "sourceDirName": "cs/database/sql-advanced",
+  "slug": "/cs/database/sql-advanced/Index",
+  "permalink": "/Tech-Blog/docs/cs/database/sql-advanced/Index",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/sql-advanced/Index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "cs",
+  "previous": {
+    "title": "무결성",
+    "permalink": "/Tech-Blog/docs/cs/database/rdbms/Integrity"
+  },
+  "next": {
+    "title": "인덱스의 자료구조",
+    "permalink": "/Tech-Blog/docs/cs/database/sql-advanced/IndexDataStructure"
+  }
+}
