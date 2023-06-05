@@ -18,7 +18,7 @@
     "permalink": "/Tech-Blog/docs/cs/database/normalization/DeNormalization"
   },
   "next": {
-    "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
-    "permalink": "/Tech-Blog/docs/cs/git/sync-repository"
+    "title": "락으로 발생하는 문제",
+    "permalink": "/Tech-Blog/docs/cs/database/transaction/LockProblem"
   }
 }

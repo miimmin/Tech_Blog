@@ -249,7 +249,7 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---tech-blog-markdown-page-393-268"
   },
-  "/Tech-Blog/docs-51d": {
+  "/Tech-Blog/docs-ff5": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---tech-blog-docs-935-5c7"
   },
@@ -360,6 +360,10 @@
   "/Tech-Blog/docs/cs/database/transaction/Lock-13e": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---tech-blog-docs-cs-database-transaction-lock-024-556"
+  },
+  "/Tech-Blog/docs/cs/database/transaction/LockProblem-e1e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---tech-blog-docs-cs-database-transaction-lock-problem-6-e-7-659"
   },
   "/Tech-Blog/docs/cs/git/another-branch-push-35a": {
     "component": "component---theme-doc-item-178-a40",

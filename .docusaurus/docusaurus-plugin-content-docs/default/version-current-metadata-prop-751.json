@@ -107,6 +107,11 @@
                 "type": "link",
                 "label": "락",
                 "href": "/Tech-Blog/docs/cs/database/transaction/Lock"
+              },
+              {
+                "type": "link",
+                "label": "락으로 발생하는 문제",
+                "href": "/Tech-Blog/docs/cs/database/transaction/LockProblem"
               }
             ],
             "collapsible": true,

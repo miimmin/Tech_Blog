@@ -43,8 +43,8 @@
   },
   "sidebar": "cs",
   "previous": {
-    "title": "락",
-    "permalink": "/Tech-Blog/docs/cs/database/transaction/Lock"
+    "title": "락으로 발생하는 문제",
+    "permalink": "/Tech-Blog/docs/cs/database/transaction/LockProblem"
   },
   "next": {
     "title": "현재 작업한 브랜치를 다른 브랜치에 커밋하기",

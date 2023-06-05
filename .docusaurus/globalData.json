@@ -140,6 +140,11 @@
               "sidebar": "cs"
             },
             {
+              "id": "cs/database/transaction/LockProblem",
+              "path": "/Tech-Blog/docs/cs/database/transaction/LockProblem",
+              "sidebar": "cs"
+            },
+            {
               "id": "cs/git/another-branch-push",
               "path": "/Tech-Blog/docs/cs/git/another-branch-push",
               "sidebar": "cs"

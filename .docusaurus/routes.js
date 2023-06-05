@@ -255,7 +255,7 @@ export default [
   },
   {
     path: '/Tech-Blog/docs',
-    component: ComponentCreator('/Tech-Blog/docs','51d'),
+    component: ComponentCreator('/Tech-Blog/docs','ff5'),
     routes: [
       {
         path: '/Tech-Blog/docs/books/',
@@ -415,6 +415,12 @@ export default [
       {
         path: '/Tech-Blog/docs/cs/database/transaction/Lock',
         component: ComponentCreator('/Tech-Blog/docs/cs/database/transaction/Lock','13e'),
+        exact: true,
+        'sidebar': "cs"
+      },
+      {
+        path: '/Tech-Blog/docs/cs/database/transaction/LockProblem',
+        component: ComponentCreator('/Tech-Blog/docs/cs/database/transaction/LockProblem','e1e'),
         exact: true,
         'sidebar': "cs"
       },

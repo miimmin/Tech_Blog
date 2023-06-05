@@ -107,6 +107,10 @@
                       {
                         "type": "doc",
                         "id": "cs/database/transaction/Lock"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "cs/database/transaction/LockProblem"
                       }
                     ],
                     "collapsible": true,
@@ -1000,6 +1004,30 @@
                 "permalink": "/Tech-Blog/docs/cs/database/normalization/DeNormalization"
               },
               "next": {
+                "title": "락으로 발생하는 문제",
+                "permalink": "/Tech-Blog/docs/cs/database/transaction/LockProblem"
+              }
+            },
+            {
+              "unversionedId": "cs/database/transaction/LockProblem",
+              "id": "cs/database/transaction/LockProblem",
+              "isDocsHomePage": false,
+              "title": "락으로 발생하는 문제",
+              "description": "🐣 락으로 발생하는 문제",
+              "source": "@site/docs/cs/database/transaction/LockProblem.md",
+              "sourceDirName": "cs/database/transaction",
+              "slug": "/cs/database/transaction/LockProblem",
+              "permalink": "/Tech-Blog/docs/cs/database/transaction/LockProblem",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/transaction/LockProblem.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "cs",
+              "previous": {
+                "title": "락",
+                "permalink": "/Tech-Blog/docs/cs/database/transaction/Lock"
+              },
+              "next": {
                 "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
                 "permalink": "/Tech-Blog/docs/cs/git/sync-repository"
               }
@@ -1092,8 +1120,8 @@
               },
               "sidebar": "cs",
               "previous": {
-                "title": "락",
-                "permalink": "/Tech-Blog/docs/cs/database/transaction/Lock"
+                "title": "락으로 발생하는 문제",
+                "permalink": "/Tech-Blog/docs/cs/database/transaction/LockProblem"
               },
               "next": {
                 "title": "현재 작업한 브랜치를 다른 브랜치에 커밋하기",
