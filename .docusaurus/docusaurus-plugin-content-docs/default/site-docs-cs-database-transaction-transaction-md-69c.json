@@ -1,0 +1,24 @@
+{
+  "unversionedId": "cs/database/transaction/Transaction",
+  "id": "cs/database/transaction/Transaction",
+  "isDocsHomePage": false,
+  "title": "트랜잭션",
+  "description": "---",
+  "source": "@site/docs/cs/database/transaction/Transaction.md",
+  "sourceDirName": "cs/database/transaction",
+  "slug": "/cs/database/transaction/Transaction",
+  "permalink": "/Tech-Blog/docs/cs/database/transaction/Transaction",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/transaction/Transaction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "cs",
+  "previous": {
+    "title": "Lock Escalation",
+    "permalink": "/Tech-Blog/docs/cs/database/transaction/LockEscalation"
+  },
+  "next": {
+    "title": "IsolationProblem",
+    "permalink": "/Tech-Blog/docs/cs/database/transaction/IsolationProblem"
+  }
+}

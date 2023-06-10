@@ -117,19 +117,50 @@
             "label": "트랜잭션, 동시성제어, 회복",
             "items": [
               {
-                "type": "link",
+                "type": "category",
                 "label": "락",
-                "href": "/Tech-Blog/docs/cs/database/transaction/Lock"
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "락",
+                    "href": "/Tech-Blog/docs/cs/database/transaction/Lock"
+                  },
+                  {
+                    "type": "link",
+                    "label": "락으로 발생하는 문제",
+                    "href": "/Tech-Blog/docs/cs/database/transaction/LockProblem"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Lock Escalation",
+                    "href": "/Tech-Blog/docs/cs/database/transaction/LockEscalation"
+                  }
+                ],
+                "collapsible": true,
+                "collapsed": true
               },
               {
-                "type": "link",
-                "label": "락으로 발생하는 문제",
-                "href": "/Tech-Blog/docs/cs/database/transaction/LockProblem"
-              },
-              {
-                "type": "link",
-                "label": "Lock Escalation",
-                "href": "/Tech-Blog/docs/cs/database/transaction/LockEscalation"
+                "type": "category",
+                "label": "트랜잭션",
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "트랜잭션",
+                    "href": "/Tech-Blog/docs/cs/database/transaction/Transaction"
+                  },
+                  {
+                    "type": "link",
+                    "label": "IsolationProblem",
+                    "href": "/Tech-Blog/docs/cs/database/transaction/IsolationProblem"
+                  },
+                  {
+                    "type": "link",
+                    "label": "IsolationLevel",
+                    "href": "/Tech-Blog/docs/cs/database/transaction/IsolationLevel"
+                  }
+                ],
+                "collapsible": true,
+                "collapsed": true
               }
             ],
             "collapsible": true,
@@ -138,141 +169,9 @@
         ],
         "collapsible": true,
         "collapsed": true
-      },
-      {
-        "type": "category",
-        "label": "Git",
-        "items": [
-          {
-            "type": "link",
-            "label": "Fork 한 Repository를 원본 Repository와 동기화하기",
-            "href": "/Tech-Blog/docs/cs/git/sync-repository"
-          },
-          {
-            "type": "link",
-            "label": "현재 작업한 브랜치를 다른 브랜치에 커밋하기",
-            "href": "/Tech-Blog/docs/cs/git/another-branch-push"
-          },
-          {
-            "type": "link",
-            "label": "TBD 브랜치 전략",
-            "href": "/Tech-Blog/docs/cs/git/trunk-based-development"
-          }
-        ],
-        "collapsible": true,
-        "collapsed": true
       }
     ],
-    "dev": [
-      {
-        "type": "link",
-        "label": "개발 이야기",
-        "href": "/Tech-Blog/docs/dev/"
-      },
-      {
-        "type": "category",
-        "label": "React",
-        "items": [
-          {
-            "type": "link",
-            "label": "NextJS 프로젝트 최적화 하기",
-            "href": "/Tech-Blog/docs/dev/react/nextjs-optimization/index"
-          },
-          {
-            "type": "link",
-            "label": "React Hook 정리",
-            "href": "/Tech-Blog/docs/dev/react/hook/index"
-          }
-        ],
-        "collapsible": true,
-        "collapsed": true
-      },
-      {
-        "type": "category",
-        "label": "JS & TS",
-        "items": [
-          {
-            "type": "link",
-            "label": "Block scoped variables",
-            "href": "/Tech-Blog/docs/dev/jsts/variables/index"
-          }
-        ],
-        "collapsible": true,
-        "collapsed": true
-      },
-      {
-        "type": "category",
-        "label": "HTML & CSS",
-        "items": [
-          {
-            "type": "link",
-            "label": "scrollbar-gutter",
-            "href": "/Tech-Blog/docs/dev/htmlcss/scrollbar-gutter/index"
-          }
-        ],
-        "collapsible": true,
-        "collapsed": true
-      },
-      {
-        "type": "category",
-        "label": "CS",
-        "items": [
-          {
-            "type": "link",
-            "label": "Stale While Revalidate",
-            "href": "/Tech-Blog/docs/dev/cs/stale-while-revalidate/index"
-          },
-          {
-            "type": "link",
-            "label": "메트릭",
-            "href": "/Tech-Blog/docs/dev/cs/metrics/index"
-          },
-          {
-            "type": "link",
-            "label": "LCP",
-            "href": "/Tech-Blog/docs/dev/cs/lcp/index"
-          }
-        ],
-        "collapsible": true,
-        "collapsed": true
-      },
-      {
-        "type": "category",
-        "label": "Git",
-        "items": [
-          {
-            "type": "link",
-            "label": "Fork 한 Repository를 원본 Repository와 동기화하기",
-            "href": "/Tech-Blog/docs/dev/git/sync-repository"
-          },
-          {
-            "type": "link",
-            "label": "현재 작업한 브랜치를 다른 브랜치에 커밋하기",
-            "href": "/Tech-Blog/docs/dev/git/another-branch-push"
-          },
-          {
-            "type": "link",
-            "label": "TBD 브랜치 전략",
-            "href": "/Tech-Blog/docs/dev/git/trunk-based-development"
-          }
-        ],
-        "collapsible": true,
-        "collapsed": true
-      },
-      {
-        "type": "category",
-        "label": "PHP",
-        "items": [
-          {
-            "type": "link",
-            "label": "아보카도 에디션 라이트에 이모티콘 기능 추가하기",
-            "href": "/Tech-Blog/docs/dev/php/avocadoedition-light-add-emoticon/index"
-          }
-        ],
-        "collapsible": true,
-        "collapsed": true
-      }
-    ],
+    "dev": [],
     "books": [
       {
         "type": "link",

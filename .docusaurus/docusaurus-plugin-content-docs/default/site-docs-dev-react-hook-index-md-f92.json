@@ -25,14 +25,5 @@
     "last_update": {
       "date": "2023-04-24"
     }
-  },
-  "sidebar": "dev",
-  "previous": {
-    "title": "NextJS 프로젝트 최적화 하기",
-    "permalink": "/Tech-Blog/docs/dev/react/nextjs-optimization/index"
-  },
-  "next": {
-    "title": "Block scoped variables",
-    "permalink": "/Tech-Blog/docs/dev/jsts/variables/index"
   }
 }

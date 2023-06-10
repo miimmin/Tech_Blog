@@ -117,16 +117,44 @@
                     "label": "트랜잭션, 동시성제어, 회복",
                     "items": [
                       {
-                        "type": "doc",
-                        "id": "cs/database/transaction/Lock"
+                        "type": "category",
+                        "label": "락",
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "cs/database/transaction/Lock"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "cs/database/transaction/LockProblem"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "cs/database/transaction/LockEscalation"
+                          }
+                        ],
+                        "collapsible": true,
+                        "collapsed": true
                       },
                       {
-                        "type": "doc",
-                        "id": "cs/database/transaction/LockProblem"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "cs/database/transaction/LockEscalation"
+                        "type": "category",
+                        "label": "트랜잭션",
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "cs/database/transaction/Transaction"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "cs/database/transaction/IsolationProblem"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "cs/database/transaction/IsolationLevel"
+                          }
+                        ],
+                        "collapsible": true,
+                        "collapsed": true
                       }
                     ],
                     "collapsible": true,
@@ -135,126 +163,9 @@
                 ],
                 "collapsible": true,
                 "collapsed": true
-              },
-              {
-                "type": "category",
-                "label": "Git",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "cs/git/sync-repository"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "cs/git/another-branch-push"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "cs/git/trunk-based-development"
-                  }
-                ],
-                "collapsible": true,
-                "collapsed": true
               }
             ],
-            "dev": [
-              {
-                "type": "doc",
-                "id": "dev/index"
-              },
-              {
-                "type": "category",
-                "label": "React",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "dev/react/nextjs-optimization/index"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "dev/react/hook/index"
-                  }
-                ],
-                "collapsible": true,
-                "collapsed": true
-              },
-              {
-                "type": "category",
-                "label": "JS & TS",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "dev/jsts/variables/index"
-                  }
-                ],
-                "collapsible": true,
-                "collapsed": true
-              },
-              {
-                "type": "category",
-                "label": "HTML & CSS",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "dev/htmlcss/scrollbar-gutter/index"
-                  }
-                ],
-                "collapsible": true,
-                "collapsed": true
-              },
-              {
-                "type": "category",
-                "label": "CS",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "dev/cs/stale-while-revalidate/index"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "dev/cs/metrics/index"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "dev/cs/lcp/index"
-                  }
-                ],
-                "collapsible": true,
-                "collapsed": true
-              },
-              {
-                "type": "category",
-                "label": "Git",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "dev/git/sync-repository"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "dev/git/another-branch-push"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "dev/git/trunk-based-development"
-                  }
-                ],
-                "collapsible": true,
-                "collapsed": true
-              },
-              {
-                "type": "category",
-                "label": "PHP",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "dev/php/avocadoedition-light-add-emoticon/index"
-                  }
-                ],
-                "collapsible": true,
-                "collapsed": true
-              }
-            ],
+            "dev": [],
             "books": [
               {
                 "type": "doc",
@@ -1025,6 +936,50 @@
               }
             },
             {
+              "unversionedId": "cs/database/transaction/IsolationLevel",
+              "id": "cs/database/transaction/IsolationLevel",
+              "isDocsHomePage": false,
+              "title": "IsolationLevel",
+              "description": "",
+              "source": "@site/docs/cs/database/transaction/IsolationLevel.md",
+              "sourceDirName": "cs/database/transaction",
+              "slug": "/cs/database/transaction/IsolationLevel",
+              "permalink": "/Tech-Blog/docs/cs/database/transaction/IsolationLevel",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/transaction/IsolationLevel.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "cs",
+              "previous": {
+                "title": "IsolationProblem",
+                "permalink": "/Tech-Blog/docs/cs/database/transaction/IsolationProblem"
+              }
+            },
+            {
+              "unversionedId": "cs/database/transaction/IsolationProblem",
+              "id": "cs/database/transaction/IsolationProblem",
+              "isDocsHomePage": false,
+              "title": "IsolationProblem",
+              "description": "",
+              "source": "@site/docs/cs/database/transaction/IsolationProblem.md",
+              "sourceDirName": "cs/database/transaction",
+              "slug": "/cs/database/transaction/IsolationProblem",
+              "permalink": "/Tech-Blog/docs/cs/database/transaction/IsolationProblem",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/transaction/IsolationProblem.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "cs",
+              "previous": {
+                "title": "트랜잭션",
+                "permalink": "/Tech-Blog/docs/cs/database/transaction/Transaction"
+              },
+              "next": {
+                "title": "IsolationLevel",
+                "permalink": "/Tech-Blog/docs/cs/database/transaction/IsolationLevel"
+              }
+            },
+            {
               "unversionedId": "cs/database/transaction/Lock",
               "id": "cs/database/transaction/Lock",
               "isDocsHomePage": false,
@@ -1068,8 +1023,8 @@
                 "permalink": "/Tech-Blog/docs/cs/database/transaction/LockProblem"
               },
               "next": {
-                "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
-                "permalink": "/Tech-Blog/docs/cs/git/sync-repository"
+                "title": "트랜잭션",
+                "permalink": "/Tech-Blog/docs/cs/database/transaction/Transaction"
               }
             },
             {
@@ -1097,148 +1052,27 @@
               }
             },
             {
-              "unversionedId": "cs/git/another-branch-push",
-              "id": "cs/git/another-branch-push",
+              "unversionedId": "cs/database/transaction/Transaction",
+              "id": "cs/database/transaction/Transaction",
               "isDocsHomePage": false,
-              "title": "현재 작업한 브랜치를 다른 브랜치에 커밋하기",
-              "description": "다른 브랜치에서 작업하고 있었을 때 다른 브랜치에 push 하기",
-              "source": "@site/docs/cs/git/another-branch-push.md",
-              "sourceDirName": "cs/git",
-              "slug": "/cs/git/another-branch-push",
-              "permalink": "/Tech-Blog/docs/cs/git/another-branch-push",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/git/another-branch-push.md",
-              "tags": [
-                {
-                  "label": "github",
-                  "permalink": "/Tech-Blog/docs/tags/github"
-                },
-                {
-                  "label": "branch",
-                  "permalink": "/Tech-Blog/docs/tags/branch"
-                }
-              ],
+              "title": "트랜잭션",
+              "description": "---",
+              "source": "@site/docs/cs/database/transaction/Transaction.md",
+              "sourceDirName": "cs/database/transaction",
+              "slug": "/cs/database/transaction/Transaction",
+              "permalink": "/Tech-Blog/docs/cs/database/transaction/Transaction",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/transaction/Transaction.md",
+              "tags": [],
               "version": "current",
-              "frontMatter": {
-                "title": "현재 작업한 브랜치를 다른 브랜치에 커밋하기",
-                "description": "다른 브랜치에서 작업하고 있었을 때 다른 브랜치에 push 하기",
-                "tags": [
-                  "github",
-                  "branch"
-                ],
-                "last_update": {
-                  "date": "2022-10-30"
-                }
-              },
-              "sidebar": "cs",
-              "previous": {
-                "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
-                "permalink": "/Tech-Blog/docs/cs/git/sync-repository"
-              },
-              "next": {
-                "title": "TBD 브랜치 전략",
-                "permalink": "/Tech-Blog/docs/cs/git/trunk-based-development"
-              }
-            },
-            {
-              "unversionedId": "cs/git/sync-repository",
-              "id": "cs/git/sync-repository",
-              "isDocsHomePage": false,
-              "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
-              "description": "sync fork 하는 방법을 알아봅시다",
-              "source": "@site/docs/cs/git/sync-repository.md",
-              "sourceDirName": "cs/git",
-              "slug": "/cs/git/sync-repository",
-              "permalink": "/Tech-Blog/docs/cs/git/sync-repository",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/git/sync-repository.md",
-              "tags": [
-                {
-                  "label": "git",
-                  "permalink": "/Tech-Blog/docs/tags/git"
-                },
-                {
-                  "label": "fork",
-                  "permalink": "/Tech-Blog/docs/tags/fork"
-                },
-                {
-                  "label": "gitlab",
-                  "permalink": "/Tech-Blog/docs/tags/gitlab"
-                },
-                {
-                  "label": "github",
-                  "permalink": "/Tech-Blog/docs/tags/github"
-                }
-              ],
-              "version": "current",
-              "frontMatter": {
-                "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
-                "description": "sync fork 하는 방법을 알아봅시다",
-                "tags": [
-                  "git",
-                  "fork",
-                  "gitlab",
-                  "github"
-                ],
-                "last_update": {
-                  "date": "2022-10-13"
-                }
-              },
+              "frontMatter": {},
               "sidebar": "cs",
               "previous": {
                 "title": "Lock Escalation",
                 "permalink": "/Tech-Blog/docs/cs/database/transaction/LockEscalation"
               },
               "next": {
-                "title": "현재 작업한 브랜치를 다른 브랜치에 커밋하기",
-                "permalink": "/Tech-Blog/docs/cs/git/another-branch-push"
-              }
-            },
-            {
-              "unversionedId": "cs/git/trunk-based-development",
-              "id": "cs/git/trunk-based-development",
-              "isDocsHomePage": false,
-              "title": "TBD 브랜치 전략",
-              "description": "trunk-based-development 전략에 대해 알아보자",
-              "source": "@site/docs/cs/git/trunk-based-development.md",
-              "sourceDirName": "cs/git",
-              "slug": "/cs/git/trunk-based-development",
-              "permalink": "/Tech-Blog/docs/cs/git/trunk-based-development",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/git/trunk-based-development.md",
-              "tags": [
-                {
-                  "label": "git",
-                  "permalink": "/Tech-Blog/docs/tags/git"
-                },
-                {
-                  "label": "TBD",
-                  "permalink": "/Tech-Blog/docs/tags/tbd"
-                },
-                {
-                  "label": "trunk-based-development",
-                  "permalink": "/Tech-Blog/docs/tags/trunk-based-development"
-                },
-                {
-                  "label": "브랜치 전략",
-                  "permalink": "/Tech-Blog/docs/tags/브랜치-전략"
-                }
-              ],
-              "version": "current",
-              "frontMatter": {
-                "title": "TBD 브랜치 전략",
-                "description": "trunk-based-development 전략에 대해 알아보자",
-                "tags": [
-                  "git",
-                  "TBD",
-                  "trunk-based-development",
-                  "브랜치 전략"
-                ],
-                "last_update": {
-                  "date": "2022-12-12"
-                }
-              },
-              "sidebar": "cs",
-              "previous": {
-                "title": "현재 작업한 브랜치를 다른 브랜치에 커밋하기",
-                "permalink": "/Tech-Blog/docs/cs/git/another-branch-push"
+                "title": "IsolationProblem",
+                "permalink": "/Tech-Blog/docs/cs/database/transaction/IsolationProblem"
               }
             },
             {
@@ -1303,15 +1137,6 @@
                 "last_update": {
                   "date": "2022-10-21T13:00"
                 }
-              },
-              "sidebar": "dev",
-              "previous": {
-                "title": "메트릭",
-                "permalink": "/Tech-Blog/docs/dev/cs/metrics/index"
-              },
-              "next": {
-                "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
-                "permalink": "/Tech-Blog/docs/dev/git/sync-repository"
               }
             },
             {
@@ -1351,15 +1176,6 @@
                 "last_update": {
                   "date": "2022-10-21T10:00"
                 }
-              },
-              "sidebar": "dev",
-              "previous": {
-                "title": "Stale While Revalidate",
-                "permalink": "/Tech-Blog/docs/dev/cs/stale-while-revalidate/index"
-              },
-              "next": {
-                "title": "LCP",
-                "permalink": "/Tech-Blog/docs/dev/cs/lcp/index"
               }
             },
             {
@@ -1394,15 +1210,6 @@
                 "last_update": {
                   "date": "2022-10-12"
                 }
-              },
-              "sidebar": "dev",
-              "previous": {
-                "title": "scrollbar-gutter",
-                "permalink": "/Tech-Blog/docs/dev/htmlcss/scrollbar-gutter/index"
-              },
-              "next": {
-                "title": "메트릭",
-                "permalink": "/Tech-Blog/docs/dev/cs/metrics/index"
               }
             },
             {
@@ -1437,15 +1244,6 @@
                 "last_update": {
                   "date": "2022-10-30"
                 }
-              },
-              "sidebar": "dev",
-              "previous": {
-                "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
-                "permalink": "/Tech-Blog/docs/dev/git/sync-repository"
-              },
-              "next": {
-                "title": "TBD 브랜치 전략",
-                "permalink": "/Tech-Blog/docs/dev/git/trunk-based-development"
               }
             },
             {
@@ -1490,15 +1288,6 @@
                 "last_update": {
                   "date": "2022-10-13"
                 }
-              },
-              "sidebar": "dev",
-              "previous": {
-                "title": "LCP",
-                "permalink": "/Tech-Blog/docs/dev/cs/lcp/index"
-              },
-              "next": {
-                "title": "현재 작업한 브랜치를 다른 브랜치에 커밋하기",
-                "permalink": "/Tech-Blog/docs/dev/git/another-branch-push"
               }
             },
             {
@@ -1543,15 +1332,6 @@
                 "last_update": {
                   "date": "2022-12-12"
                 }
-              },
-              "sidebar": "dev",
-              "previous": {
-                "title": "현재 작업한 브랜치를 다른 브랜치에 커밋하기",
-                "permalink": "/Tech-Blog/docs/dev/git/another-branch-push"
-              },
-              "next": {
-                "title": "아보카도 에디션 라이트에 이모티콘 기능 추가하기",
-                "permalink": "/Tech-Blog/docs/dev/php/avocadoedition-light-add-emoticon/index"
               }
             },
             {
@@ -1586,15 +1366,6 @@
                 "last_update": {
                   "date": "2022-12-02"
                 }
-              },
-              "sidebar": "dev",
-              "previous": {
-                "title": "Block scoped variables",
-                "permalink": "/Tech-Blog/docs/dev/jsts/variables/index"
-              },
-              "next": {
-                "title": "Stale While Revalidate",
-                "permalink": "/Tech-Blog/docs/dev/cs/stale-while-revalidate/index"
               }
             },
             {
@@ -1615,11 +1386,6 @@
                 "title": "개발 이야기",
                 "sidebar_position": 2,
                 "slug": "/dev/"
-              },
-              "sidebar": "dev",
-              "next": {
-                "title": "NextJS 프로젝트 최적화 하기",
-                "permalink": "/Tech-Blog/docs/dev/react/nextjs-optimization/index"
               }
             },
             {
@@ -1679,15 +1445,6 @@
                 "last_update": {
                   "date": "2022-11-07"
                 }
-              },
-              "sidebar": "dev",
-              "previous": {
-                "title": "React Hook 정리",
-                "permalink": "/Tech-Blog/docs/dev/react/hook/index"
-              },
-              "next": {
-                "title": "scrollbar-gutter",
-                "permalink": "/Tech-Blog/docs/dev/htmlcss/scrollbar-gutter/index"
               }
             },
             {
@@ -1722,11 +1479,6 @@
                 "last_update": {
                   "date": "2022-12-05"
                 }
-              },
-              "sidebar": "dev",
-              "previous": {
-                "title": "TBD 브랜치 전략",
-                "permalink": "/Tech-Blog/docs/dev/git/trunk-based-development"
               }
             },
             {
@@ -1756,15 +1508,6 @@
                 "last_update": {
                   "date": "2023-04-24"
                 }
-              },
-              "sidebar": "dev",
-              "previous": {
-                "title": "NextJS 프로젝트 최적화 하기",
-                "permalink": "/Tech-Blog/docs/dev/react/nextjs-optimization/index"
-              },
-              "next": {
-                "title": "Block scoped variables",
-                "permalink": "/Tech-Blog/docs/dev/jsts/variables/index"
               }
             },
             {
@@ -1799,15 +1542,6 @@
                 "last_update": {
                   "date": "2022-10-14"
                 }
-              },
-              "sidebar": "dev",
-              "previous": {
-                "title": "개발 이야기",
-                "permalink": "/Tech-Blog/docs/dev/"
-              },
-              "next": {
-                "title": "React Hook 정리",
-                "permalink": "/Tech-Blog/docs/dev/react/hook/index"
               }
             },
             {

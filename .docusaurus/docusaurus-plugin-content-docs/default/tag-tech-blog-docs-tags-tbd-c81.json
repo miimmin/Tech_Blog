@@ -3,12 +3,6 @@
   "permalink": "/Tech-Blog/docs/tags/tbd",
   "docs": [
     {
-      "id": "cs/git/trunk-based-development",
-      "title": "TBD 브랜치 전략",
-      "description": "trunk-based-development 전략에 대해 알아보자",
-      "permalink": "/Tech-Blog/docs/cs/git/trunk-based-development"
-    },
-    {
       "id": "dev/git/trunk-based-development",
       "title": "TBD 브랜치 전략",
       "description": "trunk-based-development 전략에 대해 알아보자",

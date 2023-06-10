@@ -40,14 +40,5 @@
     "last_update": {
       "date": "2022-10-13"
     }
-  },
-  "sidebar": "dev",
-  "previous": {
-    "title": "LCP",
-    "permalink": "/Tech-Blog/docs/dev/cs/lcp/index"
-  },
-  "next": {
-    "title": "현재 작업한 브랜치를 다른 브랜치에 커밋하기",
-    "permalink": "/Tech-Blog/docs/dev/git/another-branch-push"
   }
 }

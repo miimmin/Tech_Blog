@@ -35,14 +35,5 @@
     "last_update": {
       "date": "2022-10-21T13:00"
     }
-  },
-  "sidebar": "dev",
-  "previous": {
-    "title": "메트릭",
-    "permalink": "/Tech-Blog/docs/dev/cs/metrics/index"
-  },
-  "next": {
-    "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
-    "permalink": "/Tech-Blog/docs/dev/git/sync-repository"
   }
 }

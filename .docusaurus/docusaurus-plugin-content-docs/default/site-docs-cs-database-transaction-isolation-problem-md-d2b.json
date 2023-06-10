@@ -1,0 +1,24 @@
+{
+  "unversionedId": "cs/database/transaction/IsolationProblem",
+  "id": "cs/database/transaction/IsolationProblem",
+  "isDocsHomePage": false,
+  "title": "IsolationProblem",
+  "description": "",
+  "source": "@site/docs/cs/database/transaction/IsolationProblem.md",
+  "sourceDirName": "cs/database/transaction",
+  "slug": "/cs/database/transaction/IsolationProblem",
+  "permalink": "/Tech-Blog/docs/cs/database/transaction/IsolationProblem",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/transaction/IsolationProblem.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "cs",
+  "previous": {
+    "title": "트랜잭션",
+    "permalink": "/Tech-Blog/docs/cs/database/transaction/Transaction"
+  },
+  "next": {
+    "title": "IsolationLevel",
+    "permalink": "/Tech-Blog/docs/cs/database/transaction/IsolationLevel"
+  }
+}

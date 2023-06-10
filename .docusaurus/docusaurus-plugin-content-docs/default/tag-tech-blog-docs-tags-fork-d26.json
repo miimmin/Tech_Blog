@@ -3,12 +3,6 @@
   "permalink": "/Tech-Blog/docs/tags/fork",
   "docs": [
     {
-      "id": "cs/git/sync-repository",
-      "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
-      "description": "sync fork 하는 방법을 알아봅시다",
-      "permalink": "/Tech-Blog/docs/cs/git/sync-repository"
-    },
-    {
       "id": "dev/git/sync-repository",
       "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
       "description": "sync fork 하는 방법을 알아봅시다",

@@ -16,10 +16,5 @@
     "title": "개발 이야기",
     "sidebar_position": 2,
     "slug": "/dev/"
-  },
-  "sidebar": "dev",
-  "next": {
-    "title": "NextJS 프로젝트 최적화 하기",
-    "permalink": "/Tech-Blog/docs/dev/react/nextjs-optimization/index"
   }
 }

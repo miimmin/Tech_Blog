@@ -55,14 +55,5 @@
     "last_update": {
       "date": "2022-11-07"
     }
-  },
-  "sidebar": "dev",
-  "previous": {
-    "title": "React Hook 정리",
-    "permalink": "/Tech-Blog/docs/dev/react/hook/index"
-  },
-  "next": {
-    "title": "scrollbar-gutter",
-    "permalink": "/Tech-Blog/docs/dev/htmlcss/scrollbar-gutter/index"
   }
 }

@@ -30,10 +30,5 @@
     "last_update": {
       "date": "2022-12-05"
     }
-  },
-  "sidebar": "dev",
-  "previous": {
-    "title": "TBD 브랜치 전략",
-    "permalink": "/Tech-Blog/docs/dev/git/trunk-based-development"
   }
 }

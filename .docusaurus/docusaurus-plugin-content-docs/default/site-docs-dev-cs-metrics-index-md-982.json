@@ -35,14 +35,5 @@
     "last_update": {
       "date": "2022-10-21T10:00"
     }
-  },
-  "sidebar": "dev",
-  "previous": {
-    "title": "Stale While Revalidate",
-    "permalink": "/Tech-Blog/docs/dev/cs/stale-while-revalidate/index"
-  },
-  "next": {
-    "title": "LCP",
-    "permalink": "/Tech-Blog/docs/dev/cs/lcp/index"
   }
 }

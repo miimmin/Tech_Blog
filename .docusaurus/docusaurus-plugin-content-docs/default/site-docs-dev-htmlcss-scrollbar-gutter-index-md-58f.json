@@ -30,14 +30,5 @@
     "last_update": {
       "date": "2022-12-02"
     }
-  },
-  "sidebar": "dev",
-  "previous": {
-    "title": "Block scoped variables",
-    "permalink": "/Tech-Blog/docs/dev/jsts/variables/index"
-  },
-  "next": {
-    "title": "Stale While Revalidate",
-    "permalink": "/Tech-Blog/docs/dev/cs/stale-while-revalidate/index"
   }
 }

@@ -34,6 +34,7 @@ Data Definition Language, 데이터 정의어
 | TRUNCATE | 테이블 초기화 |
 - Auto-Commit
     - DDL은 명령어를 입력하는 순간 작업이 즉시반영(Auto-Commit)됨
+    - DROP, TRUNCATE 삭제후 복구 불가
 
 ### 🐣DML??
 
@@ -60,8 +61,13 @@ Data Manipulation Language, 데이터 조작어
         - DML은 `Target 테이블`을 `메모리 버퍼` 위에 올려두고 작업 → 실시간으로 테이블에 반영되지 않는다
     - ###### 그럼 어떻게 반영해?
         - Commit 명령어를 통해 Transaction 을 종료해야 해당 변경사항이 테이블에 반영됨
+    - DELETE 삭제후 복구 가능
 
+### 🥚 SELECT 쿼리 실행순서
+- `FROM` (+ ON, JOIN) - WHERE - GROUP BY - HAVING - `SELECT` (+DISTINCT) - `ORDER BY` - LIMIT
 
+### 🥚 GROUP BY 함수
+- COUNT / MIN / MAX / SUM / AVG
 
 ### 🐣 DCL??
 
@@ -98,22 +104,8 @@ Data Control Language, 데이터 제어어
 :::tip
 Transaction Control Language, 트랜잭션 제어어
 
-- COMMIT / ROLLBACK / SAVEPOINT
+- [COMMIT / ROLLBACK / SAVEPOINT](../transaction/Transaction.md)
 - 트랜잭션 제어
 :::
 
 - 논리적인 작업 단위를 묶어 DML에 의해 조작된 결과를 `트랜잭션` 별로 제어
-
-| COMMIT | 트랜잭션의 작업을 정상처리 |
-| --- | --- |
-| ROLLBACK | 트랜잭션의 작업을 취소, 원복 |
-| SAVEPOINT | 현재의 트랜잭션을 작게 분할 |
-
-- ###### ROLLBACK
-    - 받았던 자원과 Lock을 모두 반환하고 재시작 또는 폐기
-
-- ###### SAVEPOINT
-    - ROLLBACK TO SAVEPOINT
-        - 지정한 곳까지만 롤백
-    - COMMIT 하면, COMMIT 이전에 만든 SAVEPOINT 모두 소멸
-    - 여러 SAVEPOINT 생성가능

@@ -30,14 +30,5 @@
     "last_update": {
       "date": "2022-10-14"
     }
-  },
-  "sidebar": "dev",
-  "previous": {
-    "title": "개발 이야기",
-    "permalink": "/Tech-Blog/docs/dev/"
-  },
-  "next": {
-    "title": "React Hook 정리",
-    "permalink": "/Tech-Blog/docs/dev/react/hook/index"
   }
 }

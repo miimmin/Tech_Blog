@@ -140,6 +140,16 @@
               "sidebar": "cs"
             },
             {
+              "id": "cs/database/transaction/IsolationLevel",
+              "path": "/Tech-Blog/docs/cs/database/transaction/IsolationLevel",
+              "sidebar": "cs"
+            },
+            {
+              "id": "cs/database/transaction/IsolationProblem",
+              "path": "/Tech-Blog/docs/cs/database/transaction/IsolationProblem",
+              "sidebar": "cs"
+            },
+            {
               "id": "cs/database/transaction/Lock",
               "path": "/Tech-Blog/docs/cs/database/transaction/Lock",
               "sidebar": "cs"
@@ -155,18 +165,8 @@
               "sidebar": "cs"
             },
             {
-              "id": "cs/git/another-branch-push",
-              "path": "/Tech-Blog/docs/cs/git/another-branch-push",
-              "sidebar": "cs"
-            },
-            {
-              "id": "cs/git/sync-repository",
-              "path": "/Tech-Blog/docs/cs/git/sync-repository",
-              "sidebar": "cs"
-            },
-            {
-              "id": "cs/git/trunk-based-development",
-              "path": "/Tech-Blog/docs/cs/git/trunk-based-development",
+              "id": "cs/database/transaction/Transaction",
+              "path": "/Tech-Blog/docs/cs/database/transaction/Transaction",
               "sidebar": "cs"
             },
             {
@@ -176,63 +176,51 @@
             },
             {
               "id": "dev/cs/lcp/index",
-              "path": "/Tech-Blog/docs/dev/cs/lcp/index",
-              "sidebar": "dev"
+              "path": "/Tech-Blog/docs/dev/cs/lcp/index"
             },
             {
               "id": "dev/cs/metrics/index",
-              "path": "/Tech-Blog/docs/dev/cs/metrics/index",
-              "sidebar": "dev"
+              "path": "/Tech-Blog/docs/dev/cs/metrics/index"
             },
             {
               "id": "dev/cs/stale-while-revalidate/index",
-              "path": "/Tech-Blog/docs/dev/cs/stale-while-revalidate/index",
-              "sidebar": "dev"
+              "path": "/Tech-Blog/docs/dev/cs/stale-while-revalidate/index"
             },
             {
               "id": "dev/git/another-branch-push",
-              "path": "/Tech-Blog/docs/dev/git/another-branch-push",
-              "sidebar": "dev"
+              "path": "/Tech-Blog/docs/dev/git/another-branch-push"
             },
             {
               "id": "dev/git/sync-repository",
-              "path": "/Tech-Blog/docs/dev/git/sync-repository",
-              "sidebar": "dev"
+              "path": "/Tech-Blog/docs/dev/git/sync-repository"
             },
             {
               "id": "dev/git/trunk-based-development",
-              "path": "/Tech-Blog/docs/dev/git/trunk-based-development",
-              "sidebar": "dev"
+              "path": "/Tech-Blog/docs/dev/git/trunk-based-development"
             },
             {
               "id": "dev/htmlcss/scrollbar-gutter/index",
-              "path": "/Tech-Blog/docs/dev/htmlcss/scrollbar-gutter/index",
-              "sidebar": "dev"
+              "path": "/Tech-Blog/docs/dev/htmlcss/scrollbar-gutter/index"
             },
             {
               "id": "dev/index",
-              "path": "/Tech-Blog/docs/dev/",
-              "sidebar": "dev"
+              "path": "/Tech-Blog/docs/dev/"
             },
             {
               "id": "dev/jsts/variables/index",
-              "path": "/Tech-Blog/docs/dev/jsts/variables/index",
-              "sidebar": "dev"
+              "path": "/Tech-Blog/docs/dev/jsts/variables/index"
             },
             {
               "id": "dev/php/avocadoedition-light-add-emoticon/index",
-              "path": "/Tech-Blog/docs/dev/php/avocadoedition-light-add-emoticon/index",
-              "sidebar": "dev"
+              "path": "/Tech-Blog/docs/dev/php/avocadoedition-light-add-emoticon/index"
             },
             {
               "id": "dev/react/hook/index",
-              "path": "/Tech-Blog/docs/dev/react/hook/index",
-              "sidebar": "dev"
+              "path": "/Tech-Blog/docs/dev/react/hook/index"
             },
             {
               "id": "dev/react/nextjs-optimization/index",
-              "path": "/Tech-Blog/docs/dev/react/nextjs-optimization/index",
-              "sidebar": "dev"
+              "path": "/Tech-Blog/docs/dev/react/nextjs-optimization/index"
             },
             {
               "id": "intro",
