@@ -1,0 +1,19 @@
+{
+  "unversionedId": "resume_ko",
+  "id": "resume_ko",
+  "isDocsHomePage": false,
+  "title": "about",
+  "description": "Last updated: 2022.07.17",
+  "source": "@site/docs/resume_ko.mdx",
+  "sourceDirName": ".",
+  "slug": "/resume_ko",
+  "permalink": "/Tech-Blog/docs/resume_ko",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/resume_ko.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "about",
+    "date": "2022-03-26T13:21:13.000Z",
+    "lang": "ko"
+  }
+}

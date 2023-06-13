@@ -2,10 +2,10 @@ export default {
   "title": "상민!",
   "tagline": "Dinosaurs are cool",
   "url": "https://miimmin.github.io",
-  "baseUrl": "/Tech-Blog/",
+  "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
-  "favicon": "img/mon.ico",
+  "favicon": "img/wink.ico",
   "organizationName": "miimmin",
   "projectName": "Tech-Blog",
   "presets": [
@@ -17,8 +17,8 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/"
         },
         "blog": {
-          "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/"
+          "showReadingTime": false,
+          "editLocalizedFiles": false
         },
         "theme": {
           "customCss": "/Users/sleeplessinwhat/밈민/Tech-Blog/src/css/custom.css"
@@ -31,9 +31,10 @@ export default {
       "title": "상민!",
       "logo": {
         "alt": "My Site Logo",
-        "srcDark": "img/dfairy.png",
-        "src": "img/sfairy.png"
+        "srcDark": "img/wink.png",
+        "src": "img/wink.png"
       },
+      "hideOnScroll": true,
       "items": [
         {
           "to": "/docs/cs/",
@@ -42,17 +43,7 @@ export default {
         },
         {
           "to": "/docs/dev/",
-          "label": "개발",
-          "position": "left"
-        },
-        {
-          "to": "/docs/books/",
-          "label": "책",
-          "position": "left"
-        },
-        {
-          "to": "/blog",
-          "label": "Blog",
+          "label": "DEV",
           "position": "left"
         },
         {
@@ -60,44 +51,12 @@ export default {
           "label": "GitHub",
           "position": "right"
         }
-      ],
-      "hideOnScroll": false
+      ]
     },
     "footer": {
-      "style": "dark",
-      "links": [
-        {
-          "title": "Docs",
-          "items": [
-            {
-              "label": "CS",
-              "to": "/docs/cs/"
-            },
-            {
-              "label": "개발",
-              "to": "/docs/dev/"
-            },
-            {
-              "label": "책",
-              "to": "/docs/books/"
-            },
-            {
-              "label": "기록",
-              "to": "/blog"
-            }
-          ]
-        },
-        {
-          "title": "More",
-          "items": [
-            {
-              "label": "GitHub",
-              "href": "https://github.com/miimmin"
-            }
-          ]
-        }
-      ],
-      "copyright": "Copyright © 2023  miimmin's Dev Blog, Inc. Built with Docusaurus."
+      "style": "light",
+      "copyright": "Copyright © 2023  Sangmin Lee ",
+      "links": []
     },
     "prism": {
       "theme": {
@@ -310,6 +269,21 @@ export default {
     "metadatas": [],
     "hideableSidebar": false
   },
+  "plugins": [
+    [
+      "@docusaurus/plugin-content-blog",
+      {
+        "id": "developer",
+        "routeBasePath": "developer",
+        "path": "developer",
+        "blogTitle": "Developer",
+        "blogSidebarTitle": "Developer DOC",
+        "blogDescription": "에러 해결 기록",
+        "showReadingTime": false,
+        "editLocalizedFiles": false
+      }
+    ]
+  ],
   "baseUrlIssueBanner": true,
   "i18n": {
     "defaultLocale": "en",
@@ -320,7 +294,6 @@ export default {
   },
   "onDuplicateRoutes": "warn",
   "customFields": {},
-  "plugins": [],
   "themes": [],
   "titleDelimiter": "|",
   "noIndex": false

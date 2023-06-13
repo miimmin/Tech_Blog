@@ -7,7 +7,7 @@
   "source": "@site/docs/dev/index.md",
   "sourceDirName": "dev",
   "slug": "/dev/",
-  "permalink": "/Tech-Blog/docs/dev/",
+  "permalink": "/docs/dev/",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/index.md",
   "tags": [],
   "version": "current",

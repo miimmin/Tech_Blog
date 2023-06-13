@@ -4,7 +4,6 @@
       "id": "welcome",
       "metadata": {
         "permalink": "/blog/welcome",
-        "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-08-26-welcome/index.md",
         "source": "@site/blog/2021-08-26-welcome/index.md",
         "title": "Welcome",
         "description": "Docusaurus blogging features are powered by the blog plugin.",
@@ -24,7 +23,6 @@
             "permalink": "/blog/tags/docusaurus"
           }
         ],
-        "readingTime": 0.405,
         "truncated": false,
         "authors": [
           {
@@ -52,7 +50,6 @@
       "id": "mdx-blog-post",
       "metadata": {
         "permalink": "/blog/mdx-blog-post",
-        "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-08-01-mdx-blog-post.mdx",
         "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
         "title": "MDX Blog Post",
         "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
@@ -64,7 +61,6 @@
             "permalink": "/blog/tags/docusaurus"
           }
         ],
-        "readingTime": 0.175,
         "truncated": false,
         "authors": [
           {
@@ -89,7 +85,6 @@
       "id": "long-blog-post",
       "metadata": {
         "permalink": "/blog/long-blog-post",
-        "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2019-05-29-long-blog-post.md",
         "source": "@site/blog/2019-05-29-long-blog-post.md",
         "title": "Long Blog Post",
         "description": "This is the summary of a very long blog post,",
@@ -105,7 +100,6 @@
             "permalink": "/blog/tags/docusaurus"
           }
         ],
-        "readingTime": 2.05,
         "truncated": true,
         "authors": [
           {
@@ -130,7 +124,6 @@
       "id": "first-blog-post",
       "metadata": {
         "permalink": "/blog/first-blog-post",
-        "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2019-05-28-first-blog-post.md",
         "source": "@site/blog/2019-05-28-first-blog-post.md",
         "title": "First Blog Post",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
@@ -146,7 +139,6 @@
             "permalink": "/blog/tags/docusaurus"
           }
         ],
-        "readingTime": 0.12,
         "truncated": false,
         "authors": [
           {

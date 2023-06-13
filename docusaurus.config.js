@@ -7,10 +7,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   title: '상민!',
   tagline: 'Dinosaurs are cool',
   url: 'https://miimmin.github.io',
-  baseUrl: '/Tech-Blog/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/mon.ico',
+  favicon: 'img/wink.ico',
   organizationName: 'miimmin', // Usually your GitHub org/user name.
   projectName: 'Tech-Blog', // Usually your repo name.
 
@@ -25,10 +25,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
         },
         blog: {
-          showReadingTime: true,
+          showReadingTime: false,
+          editLocalizedFiles: false,
+
+
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/main/website/blog/',
         },
         // themes: ['@docusaurus/theme-classic', '@docusaurus/theme-live-codeblock'],
         theme: {
@@ -45,15 +46,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         title: '상민!',
         logo: {
           alt: 'My Site Logo',
-          srcDark: 'img/dfairy.png',
-          src: 'img/sfairy.png',
+          srcDark: 'img/wink.png',
+          src: 'img/wink.png',
         },
+        hideOnScroll: true,
         items: [
-          { to: '/docs/cs/', label: 'CS', position: 'left' },
-          { to: '/docs/dev/', label: '개발', position: 'left' },
-          { to: '/docs/books/', label: '책', position: 'left' },
-
-          {to: '/blog', label: 'Blog', position: 'left'},
+          { to: '/docs/cs/', label: 'CS', position: 'left',},
+          { to: '/docs/dev/', label: 'DEV', position: 'left' },
           {
             href: 'https://github.com/miimmin',
             label: 'GitHub',
@@ -62,44 +61,30 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         ],
       },
       footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'CS',
-                to: '/docs/cs/',
-              },
-              {
-                label: '개발',
-                to: '/docs/dev/',
-              },
-              {
-                label: '책',
-                to: '/docs/books/',
-              },
-              {
-                label: '기록',
-                to: '/blog',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'GitHub',
-                href: 'https://github.com/miimmin',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()}  miimmin's Dev Blog, Inc. Built with Docusaurus.`,
+        style: 'light',
+        copyright: `Copyright © ${new Date().getFullYear()}  Sangmin Lee `,
       },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
     }),
+  plugins: [
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        id: 'developer',
+        routeBasePath: 'developer',
+        path: 'developer',
+        blogTitle: 'Developer',
+        blogSidebarTitle: 'Developer DOC',
+        blogDescription: '에러 해결 기록',
+
+        showReadingTime: false,
+        editLocalizedFiles: false,
+
+
+      },
+    ],
+  ],
 });

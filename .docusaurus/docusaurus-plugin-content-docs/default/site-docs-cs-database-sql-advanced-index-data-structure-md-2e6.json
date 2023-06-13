@@ -7,7 +7,7 @@
   "source": "@site/docs/cs/database/sql-advanced/IndexDataStructure.md",
   "sourceDirName": "cs/database/sql-advanced",
   "slug": "/cs/database/sql-advanced/IndexDataStructure",
-  "permalink": "/Tech-Blog/docs/cs/database/sql-advanced/IndexDataStructure",
+  "permalink": "/docs/cs/database/sql-advanced/IndexDataStructure",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/sql-advanced/IndexDataStructure.md",
   "tags": [],
   "version": "current",
@@ -15,10 +15,10 @@
   "sidebar": "cs",
   "previous": {
     "title": "인덱스",
-    "permalink": "/Tech-Blog/docs/cs/database/sql-advanced/Index"
+    "permalink": "/docs/cs/database/sql-advanced/Index"
   },
   "next": {
     "title": "정규화",
-    "permalink": "/Tech-Blog/docs/cs/database/normalization/Normalization"
+    "permalink": "/docs/cs/database/normalization/Normalization"
   }
 }
