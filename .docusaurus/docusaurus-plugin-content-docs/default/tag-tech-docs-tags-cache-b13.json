@@ -1,0 +1,13 @@
+{
+  "name": "cache",
+  "permalink": "tech/docs/tags/cache",
+  "docs": [
+    {
+      "id": "dev/cs/stale-while-revalidate/index",
+      "title": "Stale While Revalidate",
+      "description": "stale-while-revalidate 이란?",
+      "permalink": "tech/docs/dev/cs/stale-while-revalidate/index"
+    }
+  ],
+  "allTagsPath": "tech/docs/tags"
+}

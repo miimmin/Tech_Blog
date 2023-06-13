@@ -7,7 +7,7 @@
   "source": "@site/docs/cs/database/sql/relational-algebra/RelatAlgeOperator.md",
   "sourceDirName": "cs/database/sql/relational-algebra",
   "slug": "/cs/database/sql/relational-algebra/RelatAlgeOperator",
-  "permalink": "/docs/cs/database/sql/relational-algebra/RelatAlgeOperator",
+  "permalink": "/tech/docs/cs/database/sql/relational-algebra/RelatAlgeOperator",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/sql/relational-algebra/RelatAlgeOperator.md",
   "tags": [],
   "version": "current",
@@ -15,10 +15,10 @@
   "sidebar": "cs",
   "previous": {
     "title": "관계대수",
-    "permalink": "/docs/cs/database/sql/relational-algebra/RelationAlgebra"
+    "permalink": "/tech/docs/cs/database/sql/relational-algebra/RelationAlgebra"
   },
   "next": {
     "title": "관계대수 vs SQL",
-    "permalink": "/docs/cs/database/sql/relational-algebra/SQLvsRA"
+    "permalink": "/tech/docs/cs/database/sql/relational-algebra/SQLvsRA"
   }
 }

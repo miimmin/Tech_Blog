@@ -1,0 +1,18 @@
+{
+  "blogPosts": [
+    {
+      "id": "이상민",
+      "metadata": {
+        "permalink": "tech/developer/Resume",
+        "source": "@site/developer/Resume.mdx",
+        "title": "이상민",
+        "description": "*",
+        "date": "2023-06-12T11:24:09.138Z",
+        "formattedDate": "June 12, 2023",
+        "tags": [],
+        "truncated": false,
+        "authors": []
+      }
+    }
+  ]
+}

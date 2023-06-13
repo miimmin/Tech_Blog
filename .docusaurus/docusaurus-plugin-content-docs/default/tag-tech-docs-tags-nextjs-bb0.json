@@ -1,0 +1,13 @@
+{
+  "name": "nextjs",
+  "permalink": "tech/docs/tags/nextjs",
+  "docs": [
+    {
+      "id": "dev/react/nextjs-optimization/index",
+      "title": "NextJS 프로젝트 최적화 하기",
+      "description": "NextJS가 제공하는 기능으로 최적화합니다",
+      "permalink": "tech/docs/dev/react/nextjs-optimization/index"
+    }
+  ],
+  "allTagsPath": "tech/docs/tags"
+}

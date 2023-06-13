@@ -7,7 +7,7 @@
   "source": "@site/docs/cs/database/normalization/DeNormalization.md",
   "sourceDirName": "cs/database/normalization",
   "slug": "/cs/database/normalization/DeNormalization",
-  "permalink": "/docs/cs/database/normalization/DeNormalization",
+  "permalink": "/tech/docs/cs/database/normalization/DeNormalization",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/normalization/DeNormalization.md",
   "tags": [],
   "version": "current",
@@ -15,10 +15,10 @@
   "sidebar": "cs",
   "previous": {
     "title": "정규화",
-    "permalink": "/docs/cs/database/normalization/Normalization"
+    "permalink": "/tech/docs/cs/database/normalization/Normalization"
   },
   "next": {
     "title": "락",
-    "permalink": "/docs/cs/database/transaction/Lock"
+    "permalink": "/tech/docs/cs/database/transaction/Lock"
   }
 }

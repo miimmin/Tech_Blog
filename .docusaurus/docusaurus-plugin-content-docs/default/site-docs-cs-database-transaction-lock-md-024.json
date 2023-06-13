@@ -7,7 +7,7 @@
   "source": "@site/docs/cs/database/transaction/Lock.md",
   "sourceDirName": "cs/database/transaction",
   "slug": "/cs/database/transaction/Lock",
-  "permalink": "/docs/cs/database/transaction/Lock",
+  "permalink": "/tech/docs/cs/database/transaction/Lock",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/transaction/Lock.md",
   "tags": [],
   "version": "current",
@@ -15,10 +15,10 @@
   "sidebar": "cs",
   "previous": {
     "title": "비정규화 (반정규화)",
-    "permalink": "/docs/cs/database/normalization/DeNormalization"
+    "permalink": "/tech/docs/cs/database/normalization/DeNormalization"
   },
   "next": {
     "title": "락으로 발생하는 문제",
-    "permalink": "/docs/cs/database/transaction/LockProblem"
+    "permalink": "/tech/docs/cs/database/transaction/LockProblem"
   }
 }

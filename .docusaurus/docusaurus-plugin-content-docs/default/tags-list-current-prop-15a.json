@@ -1,147 +1,147 @@
 [
   {
     "name": "LCP",
-    "permalink": "/docs/tags/lcp",
+    "permalink": "/tech/docs/tags/lcp",
     "count": 1
   },
   {
     "name": "web-vital",
-    "permalink": "/docs/tags/web-vital",
+    "permalink": "/tech/docs/tags/web-vital",
     "count": 1
   },
   {
     "name": "메트릭",
-    "permalink": "/docs/tags/메트릭",
+    "permalink": "/tech/docs/tags/메트릭",
     "count": 2
   },
   {
     "name": "metrics",
-    "permalink": "/docs/tags/metrics",
+    "permalink": "/tech/docs/tags/metrics",
     "count": 1
   },
   {
     "name": "성능",
-    "permalink": "/docs/tags/성능",
+    "permalink": "/tech/docs/tags/성능",
     "count": 1
   },
   {
     "name": "stale-while-revalidate",
-    "permalink": "/docs/tags/stale-while-revalidate",
+    "permalink": "/tech/docs/tags/stale-while-revalidate",
     "count": 1
   },
   {
     "name": "cache",
-    "permalink": "/docs/tags/cache",
+    "permalink": "/tech/docs/tags/cache",
     "count": 1
   },
   {
     "name": "github",
-    "permalink": "/docs/tags/github",
+    "permalink": "/tech/docs/tags/github",
     "count": 2
   },
   {
     "name": "branch",
-    "permalink": "/docs/tags/branch",
+    "permalink": "/tech/docs/tags/branch",
     "count": 1
   },
   {
     "name": "git",
-    "permalink": "/docs/tags/git",
+    "permalink": "/tech/docs/tags/git",
     "count": 2
   },
   {
     "name": "fork",
-    "permalink": "/docs/tags/fork",
+    "permalink": "/tech/docs/tags/fork",
     "count": 1
   },
   {
     "name": "gitlab",
-    "permalink": "/docs/tags/gitlab",
+    "permalink": "/tech/docs/tags/gitlab",
     "count": 1
   },
   {
     "name": "TBD",
-    "permalink": "/docs/tags/tbd",
+    "permalink": "/tech/docs/tags/tbd",
     "count": 1
   },
   {
     "name": "trunk-based-development",
-    "permalink": "/docs/tags/trunk-based-development",
+    "permalink": "/tech/docs/tags/trunk-based-development",
     "count": 1
   },
   {
     "name": "브랜치 전략",
-    "permalink": "/docs/tags/브랜치-전략",
+    "permalink": "/tech/docs/tags/브랜치-전략",
     "count": 1
   },
   {
     "name": "css",
-    "permalink": "/docs/tags/css",
+    "permalink": "/tech/docs/tags/css",
     "count": 1
   },
   {
     "name": "scrollbar-gutter",
-    "permalink": "/docs/tags/scrollbar-gutter",
+    "permalink": "/tech/docs/tags/scrollbar-gutter",
     "count": 1
   },
   {
     "name": "let",
-    "permalink": "/docs/tags/let",
+    "permalink": "/tech/docs/tags/let",
     "count": 1
   },
   {
     "name": "const",
-    "permalink": "/docs/tags/const",
+    "permalink": "/tech/docs/tags/const",
     "count": 1
   },
   {
     "name": "variables",
-    "permalink": "/docs/tags/variables",
+    "permalink": "/tech/docs/tags/variables",
     "count": 1
   },
   {
     "name": "상수",
-    "permalink": "/docs/tags/상수",
+    "permalink": "/tech/docs/tags/상수",
     "count": 1
   },
   {
     "name": "변수",
-    "permalink": "/docs/tags/변수",
+    "permalink": "/tech/docs/tags/변수",
     "count": 1
   },
   {
     "name": "object-freeze",
-    "permalink": "/docs/tags/object-freeze",
+    "permalink": "/tech/docs/tags/object-freeze",
     "count": 1
   },
   {
     "name": "deep-copy",
-    "permalink": "/docs/tags/deep-copy",
+    "permalink": "/tech/docs/tags/deep-copy",
     "count": 1
   },
   {
     "name": "아보카도 에디션 라이트",
-    "permalink": "/docs/tags/아보카도-에디션-라이트",
+    "permalink": "/tech/docs/tags/아보카도-에디션-라이트",
     "count": 1
   },
   {
     "name": "이모티콘",
-    "permalink": "/docs/tags/이모티콘",
+    "permalink": "/tech/docs/tags/이모티콘",
     "count": 1
   },
   {
     "name": "hook",
-    "permalink": "/docs/tags/hook",
+    "permalink": "/tech/docs/tags/hook",
     "count": 1
   },
   {
     "name": "최적화",
-    "permalink": "/docs/tags/최적화",
+    "permalink": "/tech/docs/tags/최적화",
     "count": 1
   },
   {
     "name": "nextjs",
-    "permalink": "/docs/tags/nextjs",
+    "permalink": "/tech/docs/tags/nextjs",
     "count": 1
   }
 ]

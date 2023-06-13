@@ -7,16 +7,16 @@
   "source": "@site/docs/dev/git/another-branch-push.md",
   "sourceDirName": "dev/git",
   "slug": "/dev/git/another-branch-push",
-  "permalink": "/docs/dev/git/another-branch-push",
+  "permalink": "/tech/docs/dev/git/another-branch-push",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/git/another-branch-push.md",
   "tags": [
     {
       "label": "github",
-      "permalink": "/docs/tags/github"
+      "permalink": "/tech/docs/tags/github"
     },
     {
       "label": "branch",
-      "permalink": "/docs/tags/branch"
+      "permalink": "/tech/docs/tags/branch"
     }
   ],
   "version": "current",

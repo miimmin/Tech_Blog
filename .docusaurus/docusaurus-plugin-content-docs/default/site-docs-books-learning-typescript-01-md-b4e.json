@@ -7,7 +7,7 @@
   "source": "@site/docs/books/learning-typescript/01.md",
   "sourceDirName": "books/learning-typescript",
   "slug": "/books/learning-typescript/01",
-  "permalink": "/docs/books/learning-typescript/01",
+  "permalink": "/tech/docs/books/learning-typescript/01",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/learning-typescript/01.md",
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "books",
   "previous": {
     "title": "책 소개",
-    "permalink": "/docs/books/learning-typescript/introduction"
+    "permalink": "/tech/docs/books/learning-typescript/introduction"
   },
   "next": {
     "title": "02 특징",
-    "permalink": "/docs/books/learning-typescript/02"
+    "permalink": "/tech/docs/books/learning-typescript/02"
   }
 }

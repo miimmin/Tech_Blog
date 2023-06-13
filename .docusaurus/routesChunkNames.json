@@ -1,491 +1,491 @@
 {
-  "/-deb": {
+  "/tech/-8de": {
     "component": "component---site-src-pages-index-jsc-4-f-f99",
-    "config": "config---5-e-9-4f3"
+    "config": "config---tech-5-e-9-214"
   },
-  "/__docusaurus/debug-3d6": {
+  "/tech/__docusaurus/debug-8f1": {
     "component": "component---theme-debug-config-23-a-2ff"
   },
-  "/__docusaurus/debug/config-914": {
+  "/tech/__docusaurus/debug/config-b3e": {
     "component": "component---theme-debug-config-23-a-2ff"
   },
-  "/__docusaurus/debug/content-c28": {
+  "/tech/__docusaurus/debug/content-f72": {
     "component": "component---theme-debug-contentba-8-ce7",
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+    "allContent": "allContent---tech-docusaurus-debug-content-246-c97"
   },
-  "/__docusaurus/debug/globalData-3cf": {
+  "/tech/__docusaurus/debug/globalData-d06": {
     "component": "component---theme-debug-global-dataede-0fa"
   },
-  "/__docusaurus/debug/metadata-31b": {
+  "/tech/__docusaurus/debug/metadata-47c": {
     "component": "component---theme-debug-site-metadata-68-e-3d4"
   },
-  "/__docusaurus/debug/registry-0da": {
+  "/tech/__docusaurus/debug/registry-ec9": {
     "component": "component---theme-debug-registry-679-501"
   },
-  "/__docusaurus/debug/routes-244": {
+  "/tech/__docusaurus/debug/routes-37c": {
     "component": "component---theme-debug-routes-946-699"
   },
-  "/blog-520": {
+  "/tech/blog-de4": {
     "component": "component---theme-blog-list-pagea-6-a-7ba",
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---tech-blog-814-aea",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---tech-blog-766-6ff"
       },
       {
-        "content": "content---blogf-4-f-cd7"
+        "content": "content---tech-blogf-4-f-a64"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "content---tech-blog-871-7e5"
       },
       {
-        "content": "content---blog-925-e00"
+        "content": "content---tech-blog-925-72f"
       }
     ],
-    "metadata": "metadata---blogb-2-b-df1"
+    "metadata": "metadata---tech-blog-2-bc-ff5"
   },
-  "/blog/archive-f4c": {
+  "/tech/blog/archive-7d2": {
     "component": "component---theme-blog-archive-page-9-e-4-1d8",
-    "archive": "archive---blog-archiveb-2-f-393"
+    "archive": "archive---tech-blog-archive-2-f-4-68b"
   },
-  "/blog/first-blog-post-6c7": {
+  "/tech/blog/first-blog-post-d8b": {
     "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-first-blog-poste-27-4a1"
+    "sidebar": "sidebar---tech-blog-814-aea",
+    "content": "content---tech-blog-first-blog-poste-27-a8e"
   },
-  "/blog/long-blog-post-f06": {
+  "/tech/blog/long-blog-post-e19": {
     "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-long-blog-post-736-bc7"
+    "sidebar": "sidebar---tech-blog-814-aea",
+    "content": "content---tech-blog-long-blog-post-736-ed3"
   },
-  "/blog/mdx-blog-post-bee": {
+  "/tech/blog/mdx-blog-post-fdf": {
     "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-mdx-blog-post-593-37b"
+    "sidebar": "sidebar---tech-blog-814-aea",
+    "content": "content---tech-blog-mdx-blog-post-593-4e7"
   },
-  "/blog/tags-e13": {
+  "/tech/blog/tags-070": {
     "component": "component---theme-blog-tags-list-page-01-a-d0b",
-    "sidebar": "sidebar---blog-814-8ac",
-    "tags": "tags---blog-tagsa-70-da2"
+    "sidebar": "sidebar---tech-blog-814-aea",
+    "tags": "tags---tech-blog-tags-2-ba-7ad"
   },
-  "/blog/tags/docusaurus-ddf": {
+  "/tech/blog/tags/docusaurus-39e": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---tech-blog-814-aea",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---tech-blog-766-6ff"
       },
       {
-        "content": "content---blogf-4-f-cd7"
+        "content": "content---tech-blogf-4-f-a64"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "content---tech-blog-871-7e5"
       },
       {
-        "content": "content---blog-925-e00"
+        "content": "content---tech-blog-925-72f"
       }
     ],
-    "metadata": "metadata---blog-tags-docusaurusa-80-728"
+    "metadata": "metadata---tech-blog-tags-docusaurus-03-a-64a"
   },
-  "/blog/tags/facebook-ede": {
+  "/tech/blog/tags/facebook-be5": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---tech-blog-814-aea",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---tech-blog-766-6ff"
       }
     ],
-    "metadata": "metadata---blog-tags-facebook-031-c52"
+    "metadata": "metadata---tech-blog-tags-facebook-1-f-8-7ec"
   },
-  "/blog/tags/hello-4c2": {
+  "/tech/blog/tags/hello-847": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---tech-blog-814-aea",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---tech-blog-766-6ff"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "content---tech-blog-871-7e5"
       }
     ],
-    "metadata": "metadata---blog-tags-hello-30-a-bed"
+    "metadata": "metadata---tech-blog-tags-hello-732-b04"
   },
-  "/blog/tags/hola-752": {
+  "/tech/blog/tags/hola-d04": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---tech-blog-814-aea",
     "items": [
       {
-        "content": "content---blog-925-e00"
+        "content": "content---tech-blog-925-72f"
       }
     ],
-    "metadata": "metadata---blog-tags-holae-16-18a"
+    "metadata": "metadata---tech-blog-tags-hola-118-8e1"
   },
-  "/blog/welcome-bfa": {
+  "/tech/blog/welcome-822": {
     "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-welcomed-9-f-ffb"
+    "sidebar": "sidebar---tech-blog-814-aea",
+    "content": "content---tech-blog-welcomed-9-f-464"
   },
-  "/developer-931": {
+  "/tech/developer-234": {
     "component": "component---theme-blog-list-pagea-6-a-7ba",
-    "sidebar": "sidebar---developer-140-bea",
+    "sidebar": "sidebar---tech-developer-140-80a",
     "items": [
       {
-        "content": "content---developerd-80-9b1"
+        "content": "content---tech-developerd-80-396"
       }
     ],
-    "metadata": "metadata---developerc-63-3bc"
+    "metadata": "metadata---tech-developer-205-571"
   },
-  "/developer/archive-5ac": {
+  "/tech/developer/archive-289": {
     "component": "component---theme-blog-archive-page-9-e-4-1d8",
-    "archive": "archive---developer-archive-019-c10"
+    "archive": "archive---tech-developer-archivea-15-718"
   },
-  "/developer/Resume-aa3": {
+  "/tech/developer/Resume-76d": {
     "component": "component---theme-blog-post-pageccc-cab",
-    "sidebar": "sidebar---developer-140-bea",
-    "content": "content---developer-resume-6-e-7-feb"
+    "sidebar": "sidebar---tech-developer-140-80a",
+    "content": "content---tech-developer-resume-6-e-7-3d2"
   },
-  "/docs/tags-0cc": {
+  "/tech/docs/tags-302": {
     "component": "component---theme-doc-tags-list-page-372-89e",
-    "tags": "tags---docs-tags-559-5e5"
+    "tags": "tags---tech-docs-tags-559-d90"
   },
-  "/docs/tags/branch-282": {
+  "/tech/docs/tags/branch-56e": {
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-branch-6-b-3-f94"
+    "tag": "tag---tech-docs-tags-branch-366-6c8"
   },
-  "/docs/tags/cache-283": {
+  "/tech/docs/tags/cache-ca3": {
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-cache-1-fd-387"
+    "tag": "tag---tech-docs-tags-cache-264-b77"
   },
-  "/docs/tags/const-fdd": {
+  "/tech/docs/tags/const-c22": {
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-const-9-f-0-4b5"
+    "tag": "tag---tech-docs-tags-const-43-d-6b5"
   },
-  "/docs/tags/css-83f": {
+  "/tech/docs/tags/css-7d0": {
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-css-704-b61"
+    "tag": "tag---tech-docs-tags-css-67-f-126"
   },
-  "/docs/tags/deep-copy-2eb": {
+  "/tech/docs/tags/deep-copy-177": {
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-deep-copy-86-e-f2f"
+    "tag": "tag---tech-docs-tags-deep-copyd-82-8ff"
   },
-  "/docs/tags/fork-dfd": {
+  "/tech/docs/tags/fork-5f0": {
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-forkd-43-3f4"
+    "tag": "tag---tech-docs-tags-fork-003-6e5"
   },
-  "/docs/tags/git-994": {
+  "/tech/docs/tags/git-180": {
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-git-7-b-6-99f"
+    "tag": "tag---tech-docs-tags-gitdd-3-9e3"
   },
-  "/docs/tags/github-326": {
+  "/tech/docs/tags/github-01c": {
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-githubc-17-9df"
+    "tag": "tag---tech-docs-tags-github-490-c96"
   },
-  "/docs/tags/gitlab-dee": {
+  "/tech/docs/tags/gitlab-33e": {
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-gitlabda-8-6fe"
+    "tag": "tag---tech-docs-tags-gitlab-922-59c"
   },
-  "/docs/tags/hook-df2": {
+  "/tech/docs/tags/hook-074": {
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-hookfbf-d26"
+    "tag": "tag---tech-docs-tags-hook-6-c-5-202"
   },
-  "/docs/tags/lcp-cce": {
+  "/tech/docs/tags/lcp-5f9": {
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-lcp-9-f-0-230"
+    "tag": "tag---tech-docs-tags-lcpe-84-038"
   },
-  "/docs/tags/let-02a": {
+  "/tech/docs/tags/let-1e8": {
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-let-522-e92"
+    "tag": "tag---tech-docs-tags-let-60-c-29b"
   },
-  "/docs/tags/metrics-394": {
+  "/tech/docs/tags/metrics-4c4": {
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-metrics-8-f-2-1f7"
+    "tag": "tag---tech-docs-tags-metrics-535-93f"
   },
-  "/docs/tags/nextjs-062": {
+  "/tech/docs/tags/nextjs-53c": {
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-nextjs-752-b0e"
+    "tag": "tag---tech-docs-tags-nextjs-626-fe5"
   },
-  "/docs/tags/object-freeze-5a4": {
+  "/tech/docs/tags/object-freeze-5dd": {
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-object-freezed-2-b-4f6"
+    "tag": "tag---tech-docs-tags-object-freeze-3-f-7-2db"
   },
-  "/docs/tags/scrollbar-gutter-868": {
+  "/tech/docs/tags/scrollbar-gutter-4ff": {
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-scrollbar-gutter-130-fc8"
+    "tag": "tag---tech-docs-tags-scrollbar-gutter-7-f-2-270"
   },
-  "/docs/tags/stale-while-revalidate-84c": {
+  "/tech/docs/tags/stale-while-revalidate-e3b": {
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-stale-while-revalidate-0-b-0-c66"
+    "tag": "tag---tech-docs-tags-stale-while-revalidated-64-c98"
   },
-  "/docs/tags/tbd-14f": {
+  "/tech/docs/tags/tbd-c81": {
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-tbd-3-a-0-fe3"
+    "tag": "tag---tech-docs-tags-tbd-370-9f8"
   },
-  "/docs/tags/trunk-based-development-c95": {
+  "/tech/docs/tags/trunk-based-development-d2f": {
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-trunk-based-developmentbe-7-496"
+    "tag": "tag---tech-docs-tags-trunk-based-developmentaa-6-22e"
   },
-  "/docs/tags/variables-a20": {
+  "/tech/docs/tags/variables-89c": {
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-variables-947-809"
+    "tag": "tag---tech-docs-tags-variablesce-4-87e"
   },
-  "/docs/tags/web-vital-12c": {
+  "/tech/docs/tags/web-vital-bcb": {
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-web-vitalce-0-979"
+    "tag": "tag---tech-docs-tags-web-vitald-11-df5"
   },
-  "/docs/tags/메트릭-072": {
+  "/tech/docs/tags/메트릭-68c": {
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-메트릭-3-c-2-058"
+    "tag": "tag---tech-docs-tags-메트릭-038-fb7"
   },
-  "/docs/tags/변수-9bc": {
+  "/tech/docs/tags/변수-1eb": {
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-변수-502-7d5"
+    "tag": "tag---tech-docs-tags-변수-56-b-6cd"
   },
-  "/docs/tags/브랜치-전략-726": {
+  "/tech/docs/tags/브랜치-전략-3a9": {
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-브랜치-전략-073-9e4"
+    "tag": "tag---tech-docs-tags-브랜치-전략-4-fd-f34"
   },
-  "/docs/tags/상수-014": {
+  "/tech/docs/tags/상수-96e": {
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-상수-001-ba7"
+    "tag": "tag---tech-docs-tags-상수c-3-a-6ea"
   },
-  "/docs/tags/성능-cf1": {
+  "/tech/docs/tags/성능-313": {
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-성능-8-e-3-e1a"
+    "tag": "tag---tech-docs-tags-성능e-99-0ca"
   },
-  "/docs/tags/아보카도-에디션-라이트-e8d": {
+  "/tech/docs/tags/아보카도-에디션-라이트-c2e": {
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-아보카도-에디션-라이트-81-e-923"
+    "tag": "tag---tech-docs-tags-아보카도-에디션-라이트-541-9c8"
   },
-  "/docs/tags/이모티콘-64f": {
+  "/tech/docs/tags/이모티콘-859": {
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-이모티콘d-1-f-0a3"
+    "tag": "tag---tech-docs-tags-이모티콘c-5-c-0a9"
   },
-  "/docs/tags/최적화-889": {
+  "/tech/docs/tags/최적화-985": {
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-최적화fae-832"
+    "tag": "tag---tech-docs-tags-최적화fcc-64c"
   },
-  "/markdown-page-be1": {
+  "/tech/markdown-page-69c": {
     "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---markdown-page-393-028"
+    "content": "content---tech-markdown-page-393-59c"
   },
-  "/docs-43f": {
+  "/tech/docs-fb6": {
     "component": "component---theme-doc-page-1-be-9be",
-    "versionMetadata": "versionMetadata---docs-935-398"
+    "versionMetadata": "versionMetadata---tech-docs-935-253"
   },
-  "/docs/books/-d48": {
+  "/tech/docs/books/-975": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-books-f-54-63a"
+    "content": "content---tech-docs-books-f-54-311"
   },
-  "/docs/books/effective-typescript/01-91c": {
+  "/tech/docs/books/effective-typescript/01-c40": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-books-effective-typescript-017-ae-f3f"
+    "content": "content---tech-docs-books-effective-typescript-017-ae-ddc"
   },
-  "/docs/books/effective-typescript/02-b75": {
+  "/tech/docs/books/effective-typescript/02-97a": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-books-effective-typescript-02809-006"
+    "content": "content---tech-docs-books-effective-typescript-02809-aea"
   },
-  "/docs/books/effective-typescript/introduction-2a7": {
+  "/tech/docs/books/effective-typescript/introduction-ec1": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-books-effective-typescript-introductionfe-7-858"
+    "content": "content---tech-docs-books-effective-typescript-introductionfe-7-40e"
   },
-  "/docs/books/frameworkless-front-end-development/01-8b5": {
+  "/tech/docs/books/frameworkless-front-end-development/01-f8c": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-books-frameworkless-front-end-development-013-e-5-40c"
+    "content": "content---tech-docs-books-frameworkless-front-end-development-013-e-5-9b3"
   },
-  "/docs/books/frameworkless-front-end-development/02-ea8": {
+  "/tech/docs/books/frameworkless-front-end-development/02-169": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-books-frameworkless-front-end-development-02358-67f"
+    "content": "content---tech-docs-books-frameworkless-front-end-development-02358-a11"
   },
-  "/docs/books/frameworkless-front-end-development/03-397": {
+  "/tech/docs/books/frameworkless-front-end-development/03-c7d": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-books-frameworkless-front-end-development-03-fa-7-da8"
+    "content": "content---tech-docs-books-frameworkless-front-end-development-03-fa-7-714"
   },
-  "/docs/books/frameworkless-front-end-development/04-47a": {
+  "/tech/docs/books/frameworkless-front-end-development/04-80e": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-books-frameworkless-front-end-development-041-d-1-887"
+    "content": "content---tech-docs-books-frameworkless-front-end-development-041-d-1-bd8"
   },
-  "/docs/books/frameworkless-front-end-development/05-ca2": {
+  "/tech/docs/books/frameworkless-front-end-development/05-39e": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-books-frameworkless-front-end-development-05-f-16-ec4"
+    "content": "content---tech-docs-books-frameworkless-front-end-development-05-f-16-324"
   },
-  "/docs/books/frameworkless-front-end-development/06-453": {
+  "/tech/docs/books/frameworkless-front-end-development/06-b15": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-books-frameworkless-front-end-development-06-e-44-cff"
+    "content": "content---tech-docs-books-frameworkless-front-end-development-06-e-44-031"
   },
-  "/docs/books/frameworkless-front-end-development/07-bfb": {
+  "/tech/docs/books/frameworkless-front-end-development/07-8cc": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-books-frameworkless-front-end-development-071-de-fa0"
+    "content": "content---tech-docs-books-frameworkless-front-end-development-071-de-0ee"
   },
-  "/docs/books/frameworkless-front-end-development/introduction-ca5": {
+  "/tech/docs/books/frameworkless-front-end-development/introduction-d6d": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-books-frameworkless-front-end-development-introductionaf-2-3f2"
+    "content": "content---tech-docs-books-frameworkless-front-end-development-introductionaf-2-c1a"
   },
-  "/docs/books/learning-typescript/01-bf6": {
+  "/tech/docs/books/learning-typescript/01-ffd": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-books-learning-typescript-01-b-4-e-13f"
+    "content": "content---tech-docs-books-learning-typescript-01-b-4-e-faa"
   },
-  "/docs/books/learning-typescript/02-a68": {
+  "/tech/docs/books/learning-typescript/02-d38": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-books-learning-typescript-02606-c07"
+    "content": "content---tech-docs-books-learning-typescript-02606-0f9"
   },
-  "/docs/books/learning-typescript/introduction-7f9": {
+  "/tech/docs/books/learning-typescript/introduction-5bb": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-books-learning-typescript-introduction-926-1db"
+    "content": "content---tech-docs-books-learning-typescript-introduction-926-8f9"
   },
-  "/docs/cs/-1f3": {
+  "/tech/docs/cs/-7cc": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-cs-8-ae-a12"
+    "content": "content---tech-docs-cs-8-ae-c14"
   },
-  "/docs/cs/database/normalization/DeNormalization-691": {
+  "/tech/docs/cs/database/normalization/DeNormalization-e7f": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-cs-database-normalization-de-normalization-55-a-b89"
+    "content": "content---tech-docs-cs-database-normalization-de-normalization-55-a-5f3"
   },
-  "/docs/cs/database/normalization/Normalization-312": {
+  "/tech/docs/cs/database/normalization/Normalization-88a": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-cs-database-normalization-normalizationc-0-f-af4"
+    "content": "content---tech-docs-cs-database-normalization-normalizationc-0-f-efb"
   },
-  "/docs/cs/database/rdbms/Integrity-2a6": {
+  "/tech/docs/cs/database/rdbms/Integrity-d29": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-cs-database-rdbms-integritye-46-525"
+    "content": "content---tech-docs-cs-database-rdbms-integritye-46-d40"
   },
-  "/docs/cs/database/rdbms/Key-595": {
+  "/tech/docs/cs/database/rdbms/Key-7c4": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-cs-database-rdbms-key-709-f6b"
+    "content": "content---tech-docs-cs-database-rdbms-key-709-a0c"
   },
-  "/docs/cs/database/sql-advanced/Index-b86": {
+  "/tech/docs/cs/database/sql-advanced/Index-a11": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-cs-database-sql-advanced-index-723-855"
+    "content": "content---tech-docs-cs-database-sql-advanced-index-723-720"
   },
-  "/docs/cs/database/sql-advanced/IndexDataStructure-d9b": {
+  "/tech/docs/cs/database/sql-advanced/IndexDataStructure-d29": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-cs-database-sql-advanced-index-data-structure-2-e-6-92c"
+    "content": "content---tech-docs-cs-database-sql-advanced-index-data-structure-2-e-6-82e"
   },
-  "/docs/cs/database/sql/relational-algebra/RelatAlgeOperator-59a": {
+  "/tech/docs/cs/database/sql/relational-algebra/RelatAlgeOperator-ad1": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-cs-database-sql-relational-algebra-relat-alge-operator-75-c-a37"
+    "content": "content---tech-docs-cs-database-sql-relational-algebra-relat-alge-operator-75-c-71d"
   },
-  "/docs/cs/database/sql/relational-algebra/RelationAlgebra-816": {
+  "/tech/docs/cs/database/sql/relational-algebra/RelationAlgebra-098": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-cs-database-sql-relational-algebra-relation-algebra-44-e-4b8"
+    "content": "content---tech-docs-cs-database-sql-relational-algebra-relation-algebra-44-e-dac"
   },
-  "/docs/cs/database/sql/relational-algebra/SQLvsRA-ca7": {
+  "/tech/docs/cs/database/sql/relational-algebra/SQLvsRA-691": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-cs-database-sql-relational-algebra-sq-lvs-ra-66-a-5e7"
+    "content": "content---tech-docs-cs-database-sql-relational-algebra-sq-lvs-ra-66-a-c95"
   },
-  "/docs/cs/database/sql/SQL-a10": {
+  "/tech/docs/cs/database/sql/SQL-53a": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-cs-database-sql-sql-49-b-6ad"
+    "content": "content---tech-docs-cs-database-sql-sql-49-b-a3f"
   },
-  "/docs/cs/database/sql/SQLCommands-cc8": {
+  "/tech/docs/cs/database/sql/SQLCommands-4a8": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-cs-database-sql-sql-commands-424-ded"
+    "content": "content---tech-docs-cs-database-sql-sql-commands-424-768"
   },
-  "/docs/cs/database/transaction/IsolationLevel-df5": {
+  "/tech/docs/cs/database/transaction/IsolationLevel-f31": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-cs-database-transaction-isolation-level-6-c-7-a55"
+    "content": "content---tech-docs-cs-database-transaction-isolation-level-6-c-7-e80"
   },
-  "/docs/cs/database/transaction/IsolationProblem-256": {
+  "/tech/docs/cs/database/transaction/IsolationProblem-b96": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-cs-database-transaction-isolation-problemd-2-b-76b"
+    "content": "content---tech-docs-cs-database-transaction-isolation-problemd-2-b-0a9"
   },
-  "/docs/cs/database/transaction/Lock-444": {
+  "/tech/docs/cs/database/transaction/Lock-806": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-cs-database-transaction-lock-024-2cc"
+    "content": "content---tech-docs-cs-database-transaction-lock-024-de7"
   },
-  "/docs/cs/database/transaction/LockEscalation-b0e": {
+  "/tech/docs/cs/database/transaction/LockEscalation-45a": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-cs-database-transaction-lock-escalation-0-c-8-dba"
+    "content": "content---tech-docs-cs-database-transaction-lock-escalation-0-c-8-6fb"
   },
-  "/docs/cs/database/transaction/LockProblem-560": {
+  "/tech/docs/cs/database/transaction/LockProblem-bc5": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-cs-database-transaction-lock-problem-6-e-7-6d8"
+    "content": "content---tech-docs-cs-database-transaction-lock-problem-6-e-7-c4c"
   },
-  "/docs/cs/database/transaction/Transaction-850": {
+  "/tech/docs/cs/database/transaction/Transaction-c46": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-cs-database-transaction-transaction-69-c-ef1"
+    "content": "content---tech-docs-cs-database-transaction-transaction-69-c-359"
   },
-  "/docs/dev/-340": {
+  "/tech/docs/dev/-d4f": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-4-eb-d13"
+    "content": "content---tech-docs-dev-4-eb-a9d"
   },
-  "/docs/dev/cs/lcp/index-705": {
+  "/tech/docs/dev/cs/lcp/index-f2b": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-cs-lcp-index-28-c-296"
+    "content": "content---tech-docs-dev-cs-lcp-index-28-c-411"
   },
-  "/docs/dev/cs/metrics/index-579": {
+  "/tech/docs/dev/cs/metrics/index-ba9": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-cs-metrics-index-982-ae1"
+    "content": "content---tech-docs-dev-cs-metrics-index-982-c4a"
   },
-  "/docs/dev/cs/stale-while-revalidate/index-0cf": {
+  "/tech/docs/dev/cs/stale-while-revalidate/index-6c2": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-cs-stale-while-revalidate-indexe-7-d-069"
+    "content": "content---tech-docs-dev-cs-stale-while-revalidate-indexe-7-d-47d"
   },
-  "/docs/dev/git/another-branch-push-f57": {
+  "/tech/docs/dev/git/another-branch-push-ba7": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-git-another-branch-push-6-f-7-b8d"
+    "content": "content---tech-docs-dev-git-another-branch-push-6-f-7-b63"
   },
-  "/docs/dev/git/sync-repository-887": {
+  "/tech/docs/dev/git/sync-repository-22c": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-git-sync-repository-1-d-9-bed"
+    "content": "content---tech-docs-dev-git-sync-repository-1-d-9-6e7"
   },
-  "/docs/dev/git/trunk-based-development-95b": {
+  "/tech/docs/dev/git/trunk-based-development-7d1": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-git-trunk-based-development-7-b-1-0e4"
+    "content": "content---tech-docs-dev-git-trunk-based-development-7-b-1-ccb"
   },
-  "/docs/dev/htmlcss/scrollbar-gutter/index-c29": {
+  "/tech/docs/dev/htmlcss/scrollbar-gutter/index-9dc": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-htmlcss-scrollbar-gutter-index-58-f-8c2"
+    "content": "content---tech-docs-dev-htmlcss-scrollbar-gutter-index-58-f-b8a"
   },
-  "/docs/dev/jsts/variables/index-5ac": {
+  "/tech/docs/dev/jsts/variables/index-af5": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-jsts-variables-index-247-662"
+    "content": "content---tech-docs-dev-jsts-variables-index-247-e86"
   },
-  "/docs/dev/php/avocadoedition-light-add-emoticon/index-eef": {
+  "/tech/docs/dev/php/avocadoedition-light-add-emoticon/index-367": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-php-avocadoedition-light-add-emoticon-index-89-a-c52"
+    "content": "content---tech-docs-dev-php-avocadoedition-light-add-emoticon-index-89-a-46a"
   },
-  "/docs/dev/react/hook/index-b38": {
+  "/tech/docs/dev/react/hook/index-9c4": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-react-hook-indexf-92-4c7"
+    "content": "content---tech-docs-dev-react-hook-indexf-92-a34"
   },
-  "/docs/dev/react/nextjs-optimization/index-c94": {
+  "/tech/docs/dev/react/nextjs-optimization/index-6f5": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-dev-react-nextjs-optimization-index-032-430"
+    "content": "content---tech-docs-dev-react-nextjs-optimization-index-032-d1a"
   },
-  "/docs/intro-e84": {
+  "/tech/docs/intro-a9f": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-intro-0-e-3-be1"
+    "content": "content---tech-docs-intro-0-e-3-427"
   },
-  "/docs/tutorial-basics/congratulations-7ef": {
+  "/tech/docs/tutorial-basics/congratulations-685": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-congratulations-822-958"
+    "content": "content---tech-docs-tutorial-basics-congratulations-822-472"
   },
-  "/docs/tutorial-basics/create-a-blog-post-2c8": {
+  "/tech/docs/tutorial-basics/create-a-blog-post-e23": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-blog-post-533-e85"
+    "content": "content---tech-docs-tutorial-basics-create-a-blog-post-533-264"
   },
-  "/docs/tutorial-basics/create-a-document-f0d": {
+  "/tech/docs/tutorial-basics/create-a-document-ab2": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-document-1-e-4-078"
+    "content": "content---tech-docs-tutorial-basics-create-a-document-1-e-4-eb4"
   },
-  "/docs/tutorial-basics/create-a-page-ca5": {
+  "/tech/docs/tutorial-basics/create-a-page-d72": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-page-5-c-8-e19"
+    "content": "content---tech-docs-tutorial-basics-create-a-page-5-c-8-f21"
   },
-  "/docs/tutorial-basics/deploy-your-site-508": {
+  "/tech/docs/tutorial-basics/deploy-your-site-89c": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-deploy-your-sitef-55-a3f"
+    "content": "content---tech-docs-tutorial-basics-deploy-your-sitef-55-47c"
   },
-  "/docs/tutorial-basics/markdown-features-f90": {
+  "/tech/docs/tutorial-basics/markdown-features-960": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-markdown-features-18-c-a79"
+    "content": "content---tech-docs-tutorial-basics-markdown-features-18-c-1b0"
   },
-  "/docs/tutorial-extras/manage-docs-versions-d64": {
+  "/tech/docs/tutorial-extras/manage-docs-versions-c82": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-manage-docs-versionsdff-6d4"
+    "content": "content---tech-docs-tutorial-extras-manage-docs-versionsdff-fee"
   },
-  "/docs/tutorial-extras/translate-your-site-16a": {
+  "/tech/docs/tutorial-extras/translate-your-site-269": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
+    "content": "content---tech-docs-tutorial-extras-translate-your-sitee-44-7a8"
   }
 }

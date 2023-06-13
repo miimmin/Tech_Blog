@@ -7,7 +7,7 @@
   "source": "@site/docs/books/frameworkless-front-end-development/01.md",
   "sourceDirName": "books/frameworkless-front-end-development",
   "slug": "/books/frameworkless-front-end-development/01",
-  "permalink": "/docs/books/frameworkless-front-end-development/01",
+  "permalink": "/tech/docs/books/frameworkless-front-end-development/01",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/frameworkless-front-end-development/01.md",
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "books",
   "previous": {
     "title": "책 소개",
-    "permalink": "/docs/books/frameworkless-front-end-development/introduction"
+    "permalink": "/tech/docs/books/frameworkless-front-end-development/introduction"
   },
   "next": {
     "title": "02 렌더링",
-    "permalink": "/docs/books/frameworkless-front-end-development/02"
+    "permalink": "/tech/docs/books/frameworkless-front-end-development/02"
   }
 }

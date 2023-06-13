@@ -7,7 +7,7 @@
   "source": "@site/docs/cs/database/sql-advanced/Index.md",
   "sourceDirName": "cs/database/sql-advanced",
   "slug": "/cs/database/sql-advanced/Index",
-  "permalink": "/docs/cs/database/sql-advanced/Index",
+  "permalink": "/tech/docs/cs/database/sql-advanced/Index",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/sql-advanced/Index.md",
   "tags": [],
   "version": "current",
@@ -15,10 +15,10 @@
   "sidebar": "cs",
   "previous": {
     "title": "무결성",
-    "permalink": "/docs/cs/database/rdbms/Integrity"
+    "permalink": "/tech/docs/cs/database/rdbms/Integrity"
   },
   "next": {
     "title": "인덱스의 자료구조",
-    "permalink": "/docs/cs/database/sql-advanced/IndexDataStructure"
+    "permalink": "/tech/docs/cs/database/sql-advanced/IndexDataStructure"
   }
 }

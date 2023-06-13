@@ -7,7 +7,7 @@
   "source": "@site/docs/cs/database/transaction/LockEscalation.md",
   "sourceDirName": "cs/database/transaction",
   "slug": "/cs/database/transaction/LockEscalation",
-  "permalink": "/docs/cs/database/transaction/LockEscalation",
+  "permalink": "/tech/docs/cs/database/transaction/LockEscalation",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/transaction/LockEscalation.md",
   "tags": [],
   "version": "current",
@@ -15,10 +15,10 @@
   "sidebar": "cs",
   "previous": {
     "title": "락으로 발생하는 문제",
-    "permalink": "/docs/cs/database/transaction/LockProblem"
+    "permalink": "/tech/docs/cs/database/transaction/LockProblem"
   },
   "next": {
     "title": "트랜잭션",
-    "permalink": "/docs/cs/database/transaction/Transaction"
+    "permalink": "/tech/docs/cs/database/transaction/Transaction"
   }
 }

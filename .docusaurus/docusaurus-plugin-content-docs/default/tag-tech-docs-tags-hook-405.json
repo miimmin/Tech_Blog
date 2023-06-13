@@ -1,0 +1,13 @@
+{
+  "name": "hook",
+  "permalink": "tech/docs/tags/hook",
+  "docs": [
+    {
+      "id": "dev/react/hook/index",
+      "title": "React Hook 정리",
+      "description": "공식문서 읽기",
+      "permalink": "tech/docs/dev/react/hook/index"
+    }
+  ],
+  "allTagsPath": "tech/docs/tags"
+}

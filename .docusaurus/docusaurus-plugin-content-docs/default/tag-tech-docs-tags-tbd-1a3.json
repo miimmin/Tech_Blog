@@ -1,0 +1,13 @@
+{
+  "name": "TBD",
+  "permalink": "tech/docs/tags/tbd",
+  "docs": [
+    {
+      "id": "dev/git/trunk-based-development",
+      "title": "TBD 브랜치 전략",
+      "description": "trunk-based-development 전략에 대해 알아보자",
+      "permalink": "tech/docs/dev/git/trunk-based-development"
+    }
+  ],
+  "allTagsPath": "tech/docs/tags"
+}

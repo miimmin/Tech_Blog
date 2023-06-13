@@ -2,10 +2,10 @@ export default {
   "title": "상민!",
   "tagline": "Dinosaurs are cool",
   "url": "https://miimmin.github.io",
-  "baseUrl": "/",
+  "baseUrl": "/tech/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
-  "favicon": "img/wink.ico",
+  "favicon": "img/melting.ico",
   "organizationName": "miimmin",
   "projectName": "Tech-Blog",
   "presets": [
@@ -31,8 +31,8 @@ export default {
       "title": "상민!",
       "logo": {
         "alt": "My Site Logo",
-        "srcDark": "img/wink.png",
-        "src": "img/wink.png"
+        "srcDark": "img/melting.png",
+        "src": "img/melting.png"
       },
       "hideOnScroll": true,
       "items": [

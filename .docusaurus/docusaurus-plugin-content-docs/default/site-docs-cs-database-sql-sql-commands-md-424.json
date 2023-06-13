@@ -7,7 +7,7 @@
   "source": "@site/docs/cs/database/sql/SQLCommands.md",
   "sourceDirName": "cs/database/sql",
   "slug": "/cs/database/sql/SQLCommands",
-  "permalink": "/docs/cs/database/sql/SQLCommands",
+  "permalink": "/tech/docs/cs/database/sql/SQLCommands",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/sql/SQLCommands.md",
   "tags": [],
   "version": "current",
@@ -15,10 +15,10 @@
   "sidebar": "cs",
   "previous": {
     "title": "SQL",
-    "permalink": "/docs/cs/database/sql/SQL"
+    "permalink": "/tech/docs/cs/database/sql/SQL"
   },
   "next": {
     "title": "관계대수",
-    "permalink": "/docs/cs/database/sql/relational-algebra/RelationAlgebra"
+    "permalink": "/tech/docs/cs/database/sql/relational-algebra/RelationAlgebra"
   }
 }

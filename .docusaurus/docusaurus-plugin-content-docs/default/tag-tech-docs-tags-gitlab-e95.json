@@ -1,0 +1,13 @@
+{
+  "name": "gitlab",
+  "permalink": "tech/docs/tags/gitlab",
+  "docs": [
+    {
+      "id": "dev/git/sync-repository",
+      "title": "Fork 한 Repository를 원본 Repository와 동기화하기",
+      "description": "sync fork 하는 방법을 알아봅시다",
+      "permalink": "tech/docs/dev/git/sync-repository"
+    }
+  ],
+  "allTagsPath": "tech/docs/tags"
+}

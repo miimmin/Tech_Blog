@@ -7,7 +7,7 @@
   "source": "@site/docs/books/introduction.md",
   "sourceDirName": "books",
   "slug": "/books/",
-  "permalink": "/docs/books/",
+  "permalink": "/tech/docs/books/",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/introduction.md",
   "tags": [],
   "version": "current",
@@ -23,6 +23,6 @@
   "sidebar": "books",
   "next": {
     "title": "책 소개",
-    "permalink": "/docs/books/effective-typescript/introduction"
+    "permalink": "/tech/docs/books/effective-typescript/introduction"
   }
 }

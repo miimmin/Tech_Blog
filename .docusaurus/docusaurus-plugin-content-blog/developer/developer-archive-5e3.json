@@ -1,12 +1,12 @@
 {
   "blogPosts": [
     {
-      "id": "Resume",
+      "id": "이상민",
       "metadata": {
         "permalink": "/developer/Resume",
         "source": "@site/developer/Resume.mdx",
-        "title": "Resume",
-        "description": "",
+        "title": "이상민",
+        "description": "*",
         "date": "2023-06-12T11:24:09.138Z",
         "formattedDate": "June 12, 2023",
         "tags": [],

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://miimmin.github.io/developer</id>
+    <title>상민! Blog</title>
+    <updated>2023-06-12T11:24:09.138Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://miimmin.github.io/developer"/>
+    <subtitle>상민! Blog</subtitle>
+    <icon>https://miimmin.github.io/img/wink.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이상민]]></title>
+        <id>이상민</id>
+        <link href="https://miimmin.github.io/developer/Resume"/>
+        <updated>2023-06-12T11:24:09.138Z</updated>
+        <summary type="html"><![CDATA[*]]></summary>
+    </entry>
+</feed>
