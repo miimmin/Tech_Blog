@@ -9,41 +9,6 @@ export default [
     exact: true
   },
   {
-    path: '/tech/__docusaurus/debug',
-    component: ComponentCreator('/tech/__docusaurus/debug','8f1'),
-    exact: true
-  },
-  {
-    path: '/tech/__docusaurus/debug/config',
-    component: ComponentCreator('/tech/__docusaurus/debug/config','b3e'),
-    exact: true
-  },
-  {
-    path: '/tech/__docusaurus/debug/content',
-    component: ComponentCreator('/tech/__docusaurus/debug/content','f72'),
-    exact: true
-  },
-  {
-    path: '/tech/__docusaurus/debug/globalData',
-    component: ComponentCreator('/tech/__docusaurus/debug/globalData','d06'),
-    exact: true
-  },
-  {
-    path: '/tech/__docusaurus/debug/metadata',
-    component: ComponentCreator('/tech/__docusaurus/debug/metadata','47c'),
-    exact: true
-  },
-  {
-    path: '/tech/__docusaurus/debug/registry',
-    component: ComponentCreator('/tech/__docusaurus/debug/registry','ec9'),
-    exact: true
-  },
-  {
-    path: '/tech/__docusaurus/debug/routes',
-    component: ComponentCreator('/tech/__docusaurus/debug/routes','37c'),
-    exact: true
-  },
-  {
     path: '/tech/blog',
     component: ComponentCreator('/tech/blog','de4'),
     exact: true
@@ -116,6 +81,46 @@ export default [
   {
     path: '/tech/docs/tags',
     component: ComponentCreator('/tech/docs/tags','302'),
+    exact: true
+  },
+  {
+    path: '/tech/docs/tags/메트릭',
+    component: ComponentCreator('/tech/docs/tags/메트릭','68c'),
+    exact: true
+  },
+  {
+    path: '/tech/docs/tags/변수',
+    component: ComponentCreator('/tech/docs/tags/변수','1eb'),
+    exact: true
+  },
+  {
+    path: '/tech/docs/tags/브랜치-전략',
+    component: ComponentCreator('/tech/docs/tags/브랜치-전략','3a9'),
+    exact: true
+  },
+  {
+    path: '/tech/docs/tags/상수',
+    component: ComponentCreator('/tech/docs/tags/상수','96e'),
+    exact: true
+  },
+  {
+    path: '/tech/docs/tags/성능',
+    component: ComponentCreator('/tech/docs/tags/성능','313'),
+    exact: true
+  },
+  {
+    path: '/tech/docs/tags/아보카도-에디션-라이트',
+    component: ComponentCreator('/tech/docs/tags/아보카도-에디션-라이트','c2e'),
+    exact: true
+  },
+  {
+    path: '/tech/docs/tags/이모티콘',
+    component: ComponentCreator('/tech/docs/tags/이모티콘','859'),
+    exact: true
+  },
+  {
+    path: '/tech/docs/tags/최적화',
+    component: ComponentCreator('/tech/docs/tags/최적화','985'),
     exact: true
   },
   {
@@ -221,46 +226,6 @@ export default [
   {
     path: '/tech/docs/tags/web-vital',
     component: ComponentCreator('/tech/docs/tags/web-vital','bcb'),
-    exact: true
-  },
-  {
-    path: '/tech/docs/tags/메트릭',
-    component: ComponentCreator('/tech/docs/tags/메트릭','68c'),
-    exact: true
-  },
-  {
-    path: '/tech/docs/tags/변수',
-    component: ComponentCreator('/tech/docs/tags/변수','1eb'),
-    exact: true
-  },
-  {
-    path: '/tech/docs/tags/브랜치-전략',
-    component: ComponentCreator('/tech/docs/tags/브랜치-전략','3a9'),
-    exact: true
-  },
-  {
-    path: '/tech/docs/tags/상수',
-    component: ComponentCreator('/tech/docs/tags/상수','96e'),
-    exact: true
-  },
-  {
-    path: '/tech/docs/tags/성능',
-    component: ComponentCreator('/tech/docs/tags/성능','313'),
-    exact: true
-  },
-  {
-    path: '/tech/docs/tags/아보카도-에디션-라이트',
-    component: ComponentCreator('/tech/docs/tags/아보카도-에디션-라이트','c2e'),
-    exact: true
-  },
-  {
-    path: '/tech/docs/tags/이모티콘',
-    component: ComponentCreator('/tech/docs/tags/이모티콘','859'),
-    exact: true
-  },
-  {
-    path: '/tech/docs/tags/최적화',
-    component: ComponentCreator('/tech/docs/tags/최적화','985'),
     exact: true
   },
   {
