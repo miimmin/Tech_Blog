@@ -1,5 +1,5 @@
 {
-  "permalink": "/tech/blog/welcome",
+  "permalink": "/Tech-Blog/blog/welcome",
   "source": "@site/blog/2021-08-26-welcome/index.md",
   "title": "Welcome",
   "description": "Docusaurus blogging features are powered by the blog plugin.",
@@ -8,15 +8,15 @@
   "tags": [
     {
       "label": "facebook",
-      "permalink": "/tech/blog/tags/facebook"
+      "permalink": "/Tech-Blog/blog/tags/facebook"
     },
     {
       "label": "hello",
-      "permalink": "/tech/blog/tags/hello"
+      "permalink": "/Tech-Blog/blog/tags/hello"
     },
     {
       "label": "docusaurus",
-      "permalink": "/tech/blog/tags/docusaurus"
+      "permalink": "/Tech-Blog/blog/tags/docusaurus"
     }
   ],
   "truncated": false,
@@ -38,6 +38,6 @@
   ],
   "nextItem": {
     "title": "MDX Blog Post",
-    "permalink": "/tech/blog/mdx-blog-post"
+    "permalink": "/Tech-Blog/blog/mdx-blog-post"
   }
 }

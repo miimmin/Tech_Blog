@@ -1,262 +1,262 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/tech/docs",
+      "path": "/Tech-Blog/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/tech/docs",
+          "path": "/Tech-Blog/docs",
           "mainDocId": "cs/index",
           "docs": [
             {
               "id": "books/effective-typescript/01",
-              "path": "/tech/docs/books/effective-typescript/01",
+              "path": "/Tech-Blog/docs/books/effective-typescript/01",
               "sidebar": "books"
             },
             {
               "id": "books/effective-typescript/02",
-              "path": "/tech/docs/books/effective-typescript/02",
+              "path": "/Tech-Blog/docs/books/effective-typescript/02",
               "sidebar": "books"
             },
             {
               "id": "books/effective-typescript/introduction",
-              "path": "/tech/docs/books/effective-typescript/introduction",
+              "path": "/Tech-Blog/docs/books/effective-typescript/introduction",
               "sidebar": "books"
             },
             {
               "id": "books/frameworkless-front-end-development/01",
-              "path": "/tech/docs/books/frameworkless-front-end-development/01",
+              "path": "/Tech-Blog/docs/books/frameworkless-front-end-development/01",
               "sidebar": "books"
             },
             {
               "id": "books/frameworkless-front-end-development/02",
-              "path": "/tech/docs/books/frameworkless-front-end-development/02",
+              "path": "/Tech-Blog/docs/books/frameworkless-front-end-development/02",
               "sidebar": "books"
             },
             {
               "id": "books/frameworkless-front-end-development/03",
-              "path": "/tech/docs/books/frameworkless-front-end-development/03",
+              "path": "/Tech-Blog/docs/books/frameworkless-front-end-development/03",
               "sidebar": "books"
             },
             {
               "id": "books/frameworkless-front-end-development/04",
-              "path": "/tech/docs/books/frameworkless-front-end-development/04",
+              "path": "/Tech-Blog/docs/books/frameworkless-front-end-development/04",
               "sidebar": "books"
             },
             {
               "id": "books/frameworkless-front-end-development/05",
-              "path": "/tech/docs/books/frameworkless-front-end-development/05",
+              "path": "/Tech-Blog/docs/books/frameworkless-front-end-development/05",
               "sidebar": "books"
             },
             {
               "id": "books/frameworkless-front-end-development/06",
-              "path": "/tech/docs/books/frameworkless-front-end-development/06",
+              "path": "/Tech-Blog/docs/books/frameworkless-front-end-development/06",
               "sidebar": "books"
             },
             {
               "id": "books/frameworkless-front-end-development/07",
-              "path": "/tech/docs/books/frameworkless-front-end-development/07"
+              "path": "/Tech-Blog/docs/books/frameworkless-front-end-development/07"
             },
             {
               "id": "books/frameworkless-front-end-development/introduction",
-              "path": "/tech/docs/books/frameworkless-front-end-development/introduction",
+              "path": "/Tech-Blog/docs/books/frameworkless-front-end-development/introduction",
               "sidebar": "books"
             },
             {
               "id": "books/introduction",
-              "path": "/tech/docs/books/",
+              "path": "/Tech-Blog/docs/books/",
               "sidebar": "books"
             },
             {
               "id": "books/learning-typescript/01",
-              "path": "/tech/docs/books/learning-typescript/01",
+              "path": "/Tech-Blog/docs/books/learning-typescript/01",
               "sidebar": "books"
             },
             {
               "id": "books/learning-typescript/02",
-              "path": "/tech/docs/books/learning-typescript/02",
+              "path": "/Tech-Blog/docs/books/learning-typescript/02",
               "sidebar": "books"
             },
             {
               "id": "books/learning-typescript/introduction",
-              "path": "/tech/docs/books/learning-typescript/introduction",
+              "path": "/Tech-Blog/docs/books/learning-typescript/introduction",
               "sidebar": "books"
             },
             {
               "id": "cs/database/normalization/DeNormalization",
-              "path": "/tech/docs/cs/database/normalization/DeNormalization",
+              "path": "/Tech-Blog/docs/cs/database/normalization/DeNormalization",
               "sidebar": "cs"
             },
             {
               "id": "cs/database/normalization/Normalization",
-              "path": "/tech/docs/cs/database/normalization/Normalization",
+              "path": "/Tech-Blog/docs/cs/database/normalization/Normalization",
               "sidebar": "cs"
             },
             {
               "id": "cs/database/rdbms/Integrity",
-              "path": "/tech/docs/cs/database/rdbms/Integrity",
+              "path": "/Tech-Blog/docs/cs/database/rdbms/Integrity",
               "sidebar": "cs"
             },
             {
               "id": "cs/database/rdbms/Key",
-              "path": "/tech/docs/cs/database/rdbms/Key",
+              "path": "/Tech-Blog/docs/cs/database/rdbms/Key",
               "sidebar": "cs"
             },
             {
               "id": "cs/database/sql-advanced/Index",
-              "path": "/tech/docs/cs/database/sql-advanced/Index",
+              "path": "/Tech-Blog/docs/cs/database/sql-advanced/Index",
               "sidebar": "cs"
             },
             {
               "id": "cs/database/sql-advanced/IndexDataStructure",
-              "path": "/tech/docs/cs/database/sql-advanced/IndexDataStructure",
+              "path": "/Tech-Blog/docs/cs/database/sql-advanced/IndexDataStructure",
               "sidebar": "cs"
             },
             {
               "id": "cs/database/sql/relational-algebra/RelatAlgeOperator",
-              "path": "/tech/docs/cs/database/sql/relational-algebra/RelatAlgeOperator",
+              "path": "/Tech-Blog/docs/cs/database/sql/relational-algebra/RelatAlgeOperator",
               "sidebar": "cs"
             },
             {
               "id": "cs/database/sql/relational-algebra/RelationAlgebra",
-              "path": "/tech/docs/cs/database/sql/relational-algebra/RelationAlgebra",
+              "path": "/Tech-Blog/docs/cs/database/sql/relational-algebra/RelationAlgebra",
               "sidebar": "cs"
             },
             {
               "id": "cs/database/sql/relational-algebra/SQLvsRA",
-              "path": "/tech/docs/cs/database/sql/relational-algebra/SQLvsRA",
+              "path": "/Tech-Blog/docs/cs/database/sql/relational-algebra/SQLvsRA",
               "sidebar": "cs"
             },
             {
               "id": "cs/database/sql/SQL",
-              "path": "/tech/docs/cs/database/sql/SQL",
+              "path": "/Tech-Blog/docs/cs/database/sql/SQL",
               "sidebar": "cs"
             },
             {
               "id": "cs/database/sql/SQLCommands",
-              "path": "/tech/docs/cs/database/sql/SQLCommands",
+              "path": "/Tech-Blog/docs/cs/database/sql/SQLCommands",
               "sidebar": "cs"
             },
             {
               "id": "cs/database/transaction/IsolationLevel",
-              "path": "/tech/docs/cs/database/transaction/IsolationLevel",
+              "path": "/Tech-Blog/docs/cs/database/transaction/IsolationLevel",
               "sidebar": "cs"
             },
             {
               "id": "cs/database/transaction/IsolationProblem",
-              "path": "/tech/docs/cs/database/transaction/IsolationProblem",
+              "path": "/Tech-Blog/docs/cs/database/transaction/IsolationProblem",
               "sidebar": "cs"
             },
             {
               "id": "cs/database/transaction/Lock",
-              "path": "/tech/docs/cs/database/transaction/Lock",
+              "path": "/Tech-Blog/docs/cs/database/transaction/Lock",
               "sidebar": "cs"
             },
             {
               "id": "cs/database/transaction/LockEscalation",
-              "path": "/tech/docs/cs/database/transaction/LockEscalation",
+              "path": "/Tech-Blog/docs/cs/database/transaction/LockEscalation",
               "sidebar": "cs"
             },
             {
               "id": "cs/database/transaction/LockProblem",
-              "path": "/tech/docs/cs/database/transaction/LockProblem",
+              "path": "/Tech-Blog/docs/cs/database/transaction/LockProblem",
               "sidebar": "cs"
             },
             {
               "id": "cs/database/transaction/Transaction",
-              "path": "/tech/docs/cs/database/transaction/Transaction",
+              "path": "/Tech-Blog/docs/cs/database/transaction/Transaction",
               "sidebar": "cs"
             },
             {
               "id": "cs/index",
-              "path": "/tech/docs/cs/",
+              "path": "/Tech-Blog/docs/cs/",
               "sidebar": "cs"
             },
             {
               "id": "dev/cs/lcp/index",
-              "path": "/tech/docs/dev/cs/lcp/index"
+              "path": "/Tech-Blog/docs/dev/cs/lcp/index"
             },
             {
               "id": "dev/cs/metrics/index",
-              "path": "/tech/docs/dev/cs/metrics/index"
+              "path": "/Tech-Blog/docs/dev/cs/metrics/index"
             },
             {
               "id": "dev/cs/stale-while-revalidate/index",
-              "path": "/tech/docs/dev/cs/stale-while-revalidate/index"
+              "path": "/Tech-Blog/docs/dev/cs/stale-while-revalidate/index"
             },
             {
               "id": "dev/git/another-branch-push",
-              "path": "/tech/docs/dev/git/another-branch-push"
+              "path": "/Tech-Blog/docs/dev/git/another-branch-push"
             },
             {
               "id": "dev/git/sync-repository",
-              "path": "/tech/docs/dev/git/sync-repository"
+              "path": "/Tech-Blog/docs/dev/git/sync-repository"
             },
             {
               "id": "dev/git/trunk-based-development",
-              "path": "/tech/docs/dev/git/trunk-based-development"
+              "path": "/Tech-Blog/docs/dev/git/trunk-based-development"
             },
             {
               "id": "dev/htmlcss/scrollbar-gutter/index",
-              "path": "/tech/docs/dev/htmlcss/scrollbar-gutter/index"
+              "path": "/Tech-Blog/docs/dev/htmlcss/scrollbar-gutter/index"
             },
             {
               "id": "dev/index",
-              "path": "/tech/docs/dev/"
+              "path": "/Tech-Blog/docs/dev/"
             },
             {
               "id": "dev/jsts/variables/index",
-              "path": "/tech/docs/dev/jsts/variables/index"
+              "path": "/Tech-Blog/docs/dev/jsts/variables/index"
             },
             {
               "id": "dev/php/avocadoedition-light-add-emoticon/index",
-              "path": "/tech/docs/dev/php/avocadoedition-light-add-emoticon/index"
+              "path": "/Tech-Blog/docs/dev/php/avocadoedition-light-add-emoticon/index"
             },
             {
               "id": "dev/react/hook/index",
-              "path": "/tech/docs/dev/react/hook/index"
+              "path": "/Tech-Blog/docs/dev/react/hook/index"
             },
             {
               "id": "dev/react/nextjs-optimization/index",
-              "path": "/tech/docs/dev/react/nextjs-optimization/index"
+              "path": "/Tech-Blog/docs/dev/react/nextjs-optimization/index"
             },
             {
               "id": "intro",
-              "path": "/tech/docs/intro"
+              "path": "/Tech-Blog/docs/intro"
             },
             {
               "id": "tutorial-basics/congratulations",
-              "path": "/tech/docs/tutorial-basics/congratulations"
+              "path": "/Tech-Blog/docs/tutorial-basics/congratulations"
             },
             {
               "id": "tutorial-basics/create-a-blog-post",
-              "path": "/tech/docs/tutorial-basics/create-a-blog-post"
+              "path": "/Tech-Blog/docs/tutorial-basics/create-a-blog-post"
             },
             {
               "id": "tutorial-basics/create-a-document",
-              "path": "/tech/docs/tutorial-basics/create-a-document"
+              "path": "/Tech-Blog/docs/tutorial-basics/create-a-document"
             },
             {
               "id": "tutorial-basics/create-a-page",
-              "path": "/tech/docs/tutorial-basics/create-a-page"
+              "path": "/Tech-Blog/docs/tutorial-basics/create-a-page"
             },
             {
               "id": "tutorial-basics/deploy-your-site",
-              "path": "/tech/docs/tutorial-basics/deploy-your-site"
+              "path": "/Tech-Blog/docs/tutorial-basics/deploy-your-site"
             },
             {
               "id": "tutorial-basics/markdown-features",
-              "path": "/tech/docs/tutorial-basics/markdown-features"
+              "path": "/Tech-Blog/docs/tutorial-basics/markdown-features"
             },
             {
               "id": "tutorial-extras/manage-docs-versions",
-              "path": "/tech/docs/tutorial-extras/manage-docs-versions"
+              "path": "/Tech-Blog/docs/tutorial-extras/manage-docs-versions"
             },
             {
               "id": "tutorial-extras/translate-your-site",
-              "path": "/tech/docs/tutorial-extras/translate-your-site"
+              "path": "/Tech-Blog/docs/tutorial-extras/translate-your-site"
             }
           ]
         }

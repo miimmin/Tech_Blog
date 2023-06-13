@@ -7,16 +7,16 @@
   "source": "@site/docs/dev/react/nextjs-optimization/index.md",
   "sourceDirName": "dev/react/nextjs-optimization",
   "slug": "/dev/react/nextjs-optimization/index",
-  "permalink": "/tech/docs/dev/react/nextjs-optimization/index",
+  "permalink": "/Tech-Blog/docs/dev/react/nextjs-optimization/index",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/react/nextjs-optimization/index.md",
   "tags": [
     {
       "label": "최적화",
-      "permalink": "/tech/docs/tags/최적화"
+      "permalink": "/Tech-Blog/docs/tags/최적화"
     },
     {
       "label": "nextjs",
-      "permalink": "/tech/docs/tags/nextjs"
+      "permalink": "/Tech-Blog/docs/tags/nextjs"
     }
   ],
   "version": "current",

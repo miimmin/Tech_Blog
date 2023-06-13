@@ -7,16 +7,16 @@
   "source": "@site/docs/dev/cs/stale-while-revalidate/index.md",
   "sourceDirName": "dev/cs/stale-while-revalidate",
   "slug": "/dev/cs/stale-while-revalidate/index",
-  "permalink": "/tech/docs/dev/cs/stale-while-revalidate/index",
+  "permalink": "/Tech-Blog/docs/dev/cs/stale-while-revalidate/index",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/cs/stale-while-revalidate/index.md",
   "tags": [
     {
       "label": "stale-while-revalidate",
-      "permalink": "/tech/docs/tags/stale-while-revalidate"
+      "permalink": "/Tech-Blog/docs/tags/stale-while-revalidate"
     },
     {
       "label": "cache",
-      "permalink": "/tech/docs/tags/cache"
+      "permalink": "/Tech-Blog/docs/tags/cache"
     }
   ],
   "version": "current",

@@ -7,7 +7,7 @@
   "source": "@site/docs/books/frameworkless-front-end-development/06.md",
   "sourceDirName": "books/frameworkless-front-end-development",
   "slug": "/books/frameworkless-front-end-development/06",
-  "permalink": "/tech/docs/books/frameworkless-front-end-development/06",
+  "permalink": "/Tech-Blog/docs/books/frameworkless-front-end-development/06",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/frameworkless-front-end-development/06.md",
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "books",
   "previous": {
     "title": "05 HTTP 요청",
-    "permalink": "/tech/docs/books/frameworkless-front-end-development/05"
+    "permalink": "/Tech-Blog/docs/books/frameworkless-front-end-development/05"
   },
   "next": {
     "title": "책 소개",
-    "permalink": "/tech/docs/books/learning-typescript/introduction"
+    "permalink": "/Tech-Blog/docs/books/learning-typescript/introduction"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/cs/database/transaction/IsolationLevel.md",
   "sourceDirName": "cs/database/transaction",
   "slug": "/cs/database/transaction/IsolationLevel",
-  "permalink": "/tech/docs/cs/database/transaction/IsolationLevel",
+  "permalink": "/Tech-Blog/docs/cs/database/transaction/IsolationLevel",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/transaction/IsolationLevel.md",
   "tags": [],
   "version": "current",
@@ -15,6 +15,6 @@
   "sidebar": "cs",
   "previous": {
     "title": "IsolationProblem",
-    "permalink": "/tech/docs/cs/database/transaction/IsolationProblem"
+    "permalink": "/Tech-Blog/docs/cs/database/transaction/IsolationProblem"
   }
 }

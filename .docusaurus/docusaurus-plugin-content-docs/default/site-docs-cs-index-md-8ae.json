@@ -7,7 +7,7 @@
   "source": "@site/docs/cs/index.md",
   "sourceDirName": "cs",
   "slug": "/cs/",
-  "permalink": "/tech/docs/cs/",
+  "permalink": "/Tech-Blog/docs/cs/",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/index.md",
   "tags": [],
   "version": "current",
@@ -20,6 +20,6 @@
   "sidebar": "cs",
   "next": {
     "title": "SQL",
-    "permalink": "/tech/docs/cs/database/sql/SQL"
+    "permalink": "/Tech-Blog/docs/cs/database/sql/SQL"
   }
 }

@@ -2,14 +2,14 @@
 <rss version="2.0">
     <channel>
         <title>상민! Blog</title>
-        <link>https://miimmin.github.io/tech/developer</link>
+        <link>https://miimmin.github.io/Tech-Blog/developer</link>
         <description>상민! Blog</description>
         <lastBuildDate>Mon, 12 Jun 2023 11:24:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[이상민]]></title>
-            <link>https://miimmin.github.io/tech/developer/Resume</link>
+            <link>https://miimmin.github.io/Tech-Blog/developer/Resume</link>
             <guid>이상민</guid>
             <pubDate>Mon, 12 Jun 2023 11:24:09 GMT</pubDate>
             <description><![CDATA[*]]></description>

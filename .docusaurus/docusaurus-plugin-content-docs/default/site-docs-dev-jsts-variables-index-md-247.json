@@ -7,36 +7,36 @@
   "source": "@site/docs/dev/jsts/variables/index.md",
   "sourceDirName": "dev/jsts/variables",
   "slug": "/dev/jsts/variables/index",
-  "permalink": "/tech/docs/dev/jsts/variables/index",
+  "permalink": "/Tech-Blog/docs/dev/jsts/variables/index",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/jsts/variables/index.md",
   "tags": [
     {
       "label": "let",
-      "permalink": "/tech/docs/tags/let"
+      "permalink": "/Tech-Blog/docs/tags/let"
     },
     {
       "label": "const",
-      "permalink": "/tech/docs/tags/const"
+      "permalink": "/Tech-Blog/docs/tags/const"
     },
     {
       "label": "variables",
-      "permalink": "/tech/docs/tags/variables"
+      "permalink": "/Tech-Blog/docs/tags/variables"
     },
     {
       "label": "상수",
-      "permalink": "/tech/docs/tags/상수"
+      "permalink": "/Tech-Blog/docs/tags/상수"
     },
     {
       "label": "변수",
-      "permalink": "/tech/docs/tags/변수"
+      "permalink": "/Tech-Blog/docs/tags/변수"
     },
     {
       "label": "object-freeze",
-      "permalink": "/tech/docs/tags/object-freeze"
+      "permalink": "/Tech-Blog/docs/tags/object-freeze"
     },
     {
       "label": "deep-copy",
-      "permalink": "/tech/docs/tags/deep-copy"
+      "permalink": "/Tech-Blog/docs/tags/deep-copy"
     }
   ],
   "version": "current",

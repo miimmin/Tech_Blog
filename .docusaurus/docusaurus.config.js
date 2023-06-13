@@ -2,7 +2,7 @@ export default {
   "title": "상민!",
   "tagline": "Dinosaurs are cool",
   "url": "https://miimmin.github.io",
-  "baseUrl": "/tech/",
+  "baseUrl": "/Tech-Blog/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/melting.ico",

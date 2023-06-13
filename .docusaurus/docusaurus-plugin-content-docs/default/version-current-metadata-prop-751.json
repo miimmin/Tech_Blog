@@ -11,7 +11,7 @@
       {
         "type": "link",
         "label": "개발 이야기",
-        "href": "/tech/docs/cs/"
+        "href": "/Tech-Blog/docs/cs/"
       },
       {
         "type": "category",
@@ -24,12 +24,12 @@
               {
                 "type": "link",
                 "label": "SQL",
-                "href": "/tech/docs/cs/database/sql/SQL"
+                "href": "/Tech-Blog/docs/cs/database/sql/SQL"
               },
               {
                 "type": "link",
                 "label": "DDL DML DCL TCL",
-                "href": "/tech/docs/cs/database/sql/SQLCommands"
+                "href": "/Tech-Blog/docs/cs/database/sql/SQLCommands"
               },
               {
                 "type": "category",
@@ -38,17 +38,17 @@
                   {
                     "type": "link",
                     "label": "관계대수",
-                    "href": "/tech/docs/cs/database/sql/relational-algebra/RelationAlgebra"
+                    "href": "/Tech-Blog/docs/cs/database/sql/relational-algebra/RelationAlgebra"
                   },
                   {
                     "type": "link",
                     "label": "관계대수의 8대 연산자",
-                    "href": "/tech/docs/cs/database/sql/relational-algebra/RelatAlgeOperator"
+                    "href": "/Tech-Blog/docs/cs/database/sql/relational-algebra/RelatAlgeOperator"
                   },
                   {
                     "type": "link",
                     "label": "관계대수 vs SQL",
-                    "href": "/tech/docs/cs/database/sql/relational-algebra/SQLvsRA"
+                    "href": "/Tech-Blog/docs/cs/database/sql/relational-algebra/SQLvsRA"
                   }
                 ],
                 "collapsible": true,
@@ -65,12 +65,12 @@
               {
                 "type": "link",
                 "label": "Key",
-                "href": "/tech/docs/cs/database/rdbms/Key"
+                "href": "/Tech-Blog/docs/cs/database/rdbms/Key"
               },
               {
                 "type": "link",
                 "label": "무결성",
-                "href": "/tech/docs/cs/database/rdbms/Integrity"
+                "href": "/Tech-Blog/docs/cs/database/rdbms/Integrity"
               }
             ],
             "collapsible": true,
@@ -83,12 +83,12 @@
               {
                 "type": "link",
                 "label": "인덱스",
-                "href": "/tech/docs/cs/database/sql-advanced/Index"
+                "href": "/Tech-Blog/docs/cs/database/sql-advanced/Index"
               },
               {
                 "type": "link",
                 "label": "인덱스의 자료구조",
-                "href": "/tech/docs/cs/database/sql-advanced/IndexDataStructure"
+                "href": "/Tech-Blog/docs/cs/database/sql-advanced/IndexDataStructure"
               }
             ],
             "collapsible": true,
@@ -101,12 +101,12 @@
               {
                 "type": "link",
                 "label": "정규화",
-                "href": "/tech/docs/cs/database/normalization/Normalization"
+                "href": "/Tech-Blog/docs/cs/database/normalization/Normalization"
               },
               {
                 "type": "link",
                 "label": "비정규화 (반정규화)",
-                "href": "/tech/docs/cs/database/normalization/DeNormalization"
+                "href": "/Tech-Blog/docs/cs/database/normalization/DeNormalization"
               }
             ],
             "collapsible": true,
@@ -123,17 +123,17 @@
                   {
                     "type": "link",
                     "label": "락",
-                    "href": "/tech/docs/cs/database/transaction/Lock"
+                    "href": "/Tech-Blog/docs/cs/database/transaction/Lock"
                   },
                   {
                     "type": "link",
                     "label": "락으로 발생하는 문제",
-                    "href": "/tech/docs/cs/database/transaction/LockProblem"
+                    "href": "/Tech-Blog/docs/cs/database/transaction/LockProblem"
                   },
                   {
                     "type": "link",
                     "label": "Lock Escalation",
-                    "href": "/tech/docs/cs/database/transaction/LockEscalation"
+                    "href": "/Tech-Blog/docs/cs/database/transaction/LockEscalation"
                   }
                 ],
                 "collapsible": true,
@@ -146,17 +146,17 @@
                   {
                     "type": "link",
                     "label": "트랜잭션",
-                    "href": "/tech/docs/cs/database/transaction/Transaction"
+                    "href": "/Tech-Blog/docs/cs/database/transaction/Transaction"
                   },
                   {
                     "type": "link",
                     "label": "IsolationProblem",
-                    "href": "/tech/docs/cs/database/transaction/IsolationProblem"
+                    "href": "/Tech-Blog/docs/cs/database/transaction/IsolationProblem"
                   },
                   {
                     "type": "link",
                     "label": "IsolationLevel",
-                    "href": "/tech/docs/cs/database/transaction/IsolationLevel"
+                    "href": "/Tech-Blog/docs/cs/database/transaction/IsolationLevel"
                   }
                 ],
                 "collapsible": true,
@@ -176,7 +176,7 @@
       {
         "type": "link",
         "label": "책 목록",
-        "href": "/tech/docs/books/"
+        "href": "/Tech-Blog/docs/books/"
       },
       {
         "type": "category",
@@ -185,17 +185,17 @@
           {
             "type": "link",
             "label": "책 소개",
-            "href": "/tech/docs/books/effective-typescript/introduction"
+            "href": "/Tech-Blog/docs/books/effective-typescript/introduction"
           },
           {
             "type": "link",
             "label": "01 타입스크립트 알아보기",
-            "href": "/tech/docs/books/effective-typescript/01"
+            "href": "/Tech-Blog/docs/books/effective-typescript/01"
           },
           {
             "type": "link",
             "label": "02 타입스크립트의 타입 시스템",
-            "href": "/tech/docs/books/effective-typescript/02"
+            "href": "/Tech-Blog/docs/books/effective-typescript/02"
           }
         ],
         "collapsible": true,
@@ -208,37 +208,37 @@
           {
             "type": "link",
             "label": "책 소개",
-            "href": "/tech/docs/books/frameworkless-front-end-development/introduction"
+            "href": "/Tech-Blog/docs/books/frameworkless-front-end-development/introduction"
           },
           {
             "type": "link",
             "label": "01 프레임워크에 대한 이야기",
-            "href": "/tech/docs/books/frameworkless-front-end-development/01"
+            "href": "/Tech-Blog/docs/books/frameworkless-front-end-development/01"
           },
           {
             "type": "link",
             "label": "02 렌더링",
-            "href": "/tech/docs/books/frameworkless-front-end-development/02"
+            "href": "/Tech-Blog/docs/books/frameworkless-front-end-development/02"
           },
           {
             "type": "link",
             "label": "03 DOM 이벤트 관리",
-            "href": "/tech/docs/books/frameworkless-front-end-development/03"
+            "href": "/Tech-Blog/docs/books/frameworkless-front-end-development/03"
           },
           {
             "type": "link",
             "label": "04 웹 구성요소",
-            "href": "/tech/docs/books/frameworkless-front-end-development/04"
+            "href": "/Tech-Blog/docs/books/frameworkless-front-end-development/04"
           },
           {
             "type": "link",
             "label": "05 HTTP 요청",
-            "href": "/tech/docs/books/frameworkless-front-end-development/05"
+            "href": "/Tech-Blog/docs/books/frameworkless-front-end-development/05"
           },
           {
             "type": "link",
             "label": "06 라우팅",
-            "href": "/tech/docs/books/frameworkless-front-end-development/06"
+            "href": "/Tech-Blog/docs/books/frameworkless-front-end-development/06"
           }
         ],
         "collapsible": true,
@@ -251,17 +251,17 @@
           {
             "type": "link",
             "label": "책 소개",
-            "href": "/tech/docs/books/learning-typescript/introduction"
+            "href": "/Tech-Blog/docs/books/learning-typescript/introduction"
           },
           {
             "type": "link",
             "label": "01 개념",
-            "href": "/tech/docs/books/learning-typescript/01"
+            "href": "/Tech-Blog/docs/books/learning-typescript/01"
           },
           {
             "type": "link",
             "label": "02 특징",
-            "href": "/tech/docs/books/learning-typescript/02"
+            "href": "/Tech-Blog/docs/books/learning-typescript/02"
           }
         ],
         "collapsible": true,
