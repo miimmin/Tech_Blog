@@ -8,10 +8,9 @@
     <subtitle>상민! Blog</subtitle>
     <icon>https://miimmin.github.io/Tech-Blog/img/melting.ico</icon>
     <entry>
-        <title type="html"><![CDATA[이상민]]></title>
-        <id>이상민</id>
+        <title type="html"><![CDATA[Resume]]></title>
+        <id>Resume</id>
         <link href="https://miimmin.github.io/Tech-Blog/developer/Resume"/>
         <updated>2023-06-12T11:24:09.138Z</updated>
-        <summary type="html"><![CDATA[*]]></summary>
     </entry>
 </feed>

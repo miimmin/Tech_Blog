@@ -8,11 +8,10 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[이상민]]></title>
+            <title><![CDATA[Resume]]></title>
             <link>https://miimmin.github.io/Tech-Blog/developer/Resume</link>
-            <guid>이상민</guid>
+            <guid>Resume</guid>
             <pubDate>Mon, 12 Jun 2023 11:24:09 GMT</pubDate>
-            <description><![CDATA[*]]></description>
         </item>
     </channel>
 </rss>

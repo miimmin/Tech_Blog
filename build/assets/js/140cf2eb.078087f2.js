@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktechnical_blog=self.webpackChunktechnical_blog||[]).push([[9668],{9529:e=>{e.exports=JSON.parse('{"title":"Developer DOC","items":[{"title":"Resume","permalink":"/Tech-Blog/developer/Resume"}]}')}}]);
