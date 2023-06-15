@@ -204,7 +204,23 @@
             },
             {
               "id": "dev/index",
-              "path": "/docs/dev/"
+              "path": "/docs/dev/",
+              "sidebar": "dev"
+            },
+            {
+              "id": "dev/issue/DirtyCheckingPerformance",
+              "path": "/docs/dev/issue/DirtyCheckingPerformance",
+              "sidebar": "dev"
+            },
+            {
+              "id": "dev/issue/MultipleFetchJoin",
+              "path": "/docs/dev/issue/MultipleFetchJoin",
+              "sidebar": "dev"
+            },
+            {
+              "id": "dev/issue/Nplus1",
+              "path": "/docs/dev/issue/Nplus1",
+              "sidebar": "dev"
             },
             {
               "id": "dev/jsts/variables/index",

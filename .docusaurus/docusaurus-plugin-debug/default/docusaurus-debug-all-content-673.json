@@ -14,9 +14,9 @@
           "versionClassName": "docs-version-current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/sleeplessinwhat/밈민/Tech-Blog/sidebars.js",
-          "contentPath": "/Users/sleeplessinwhat/밈민/Tech-Blog/docs",
-          "contentPathLocalized": "/Users/sleeplessinwhat/밈민/Tech-Blog/i18n/ko/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/sleeplessinwhat/miimmin/Tech-Blog/sidebars.js",
+          "contentPath": "/Users/sleeplessinwhat/miimmin/Tech-Blog/docs",
+          "contentPathLocalized": "/Users/sleeplessinwhat/miimmin/Tech-Blog/i18n/ko/docusaurus-plugin-content-docs/current",
           "mainDocId": "cs/index",
           "sidebars": {
             "cs": [
@@ -165,7 +165,39 @@
                 "collapsed": true
               }
             ],
-            "dev": [],
+            "dev": [
+              {
+                "type": "doc",
+                "id": "dev/index"
+              },
+              {
+                "type": "category",
+                "label": "스프링",
+                "items": [],
+                "collapsible": true,
+                "collapsed": true
+              },
+              {
+                "type": "category",
+                "label": "이슈해결",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "dev/issue/Nplus1"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "dev/issue/MultipleFetchJoin"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "dev/issue/DirtyCheckingPerformance"
+                  }
+                ],
+                "collapsible": true,
+                "collapsed": true
+              }
+            ],
             "books": [
               {
                 "type": "doc",
@@ -1386,6 +1418,79 @@
                 "title": "개발 이야기",
                 "sidebar_position": 2,
                 "slug": "/dev/"
+              },
+              "sidebar": "dev",
+              "next": {
+                "title": "Nplus1",
+                "permalink": "/docs/dev/issue/Nplus1"
+              }
+            },
+            {
+              "unversionedId": "dev/issue/DirtyCheckingPerformance",
+              "id": "dev/issue/DirtyCheckingPerformance",
+              "isDocsHomePage": false,
+              "title": "DirtyCheckingPerformance",
+              "description": "",
+              "source": "@site/docs/dev/issue/DirtyCheckingPerformance.md",
+              "sourceDirName": "dev/issue",
+              "slug": "/dev/issue/DirtyCheckingPerformance",
+              "permalink": "/docs/dev/issue/DirtyCheckingPerformance",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/issue/DirtyCheckingPerformance.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "dev",
+              "previous": {
+                "title": "MultipleFetchJoin",
+                "permalink": "/docs/dev/issue/MultipleFetchJoin"
+              }
+            },
+            {
+              "unversionedId": "dev/issue/MultipleFetchJoin",
+              "id": "dev/issue/MultipleFetchJoin",
+              "isDocsHomePage": false,
+              "title": "MultipleFetchJoin",
+              "description": "",
+              "source": "@site/docs/dev/issue/MultipleFetchJoin.md",
+              "sourceDirName": "dev/issue",
+              "slug": "/dev/issue/MultipleFetchJoin",
+              "permalink": "/docs/dev/issue/MultipleFetchJoin",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/issue/MultipleFetchJoin.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "dev",
+              "previous": {
+                "title": "Nplus1",
+                "permalink": "/docs/dev/issue/Nplus1"
+              },
+              "next": {
+                "title": "DirtyCheckingPerformance",
+                "permalink": "/docs/dev/issue/DirtyCheckingPerformance"
+              }
+            },
+            {
+              "unversionedId": "dev/issue/Nplus1",
+              "id": "dev/issue/Nplus1",
+              "isDocsHomePage": false,
+              "title": "Nplus1",
+              "description": "",
+              "source": "@site/docs/dev/issue/Nplus1.md",
+              "sourceDirName": "dev/issue",
+              "slug": "/dev/issue/Nplus1",
+              "permalink": "/docs/dev/issue/Nplus1",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/issue/Nplus1.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "dev",
+              "previous": {
+                "title": "개발 이야기",
+                "permalink": "/docs/dev/"
+              },
+              "next": {
+                "title": "MultipleFetchJoin",
+                "permalink": "/docs/dev/issue/MultipleFetchJoin"
               }
             },
             {

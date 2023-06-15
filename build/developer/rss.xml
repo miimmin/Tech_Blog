@@ -4,14 +4,15 @@
         <title>상민! Blog</title>
         <link>https://miimmin.github.io/developer</link>
         <description>상민! Blog</description>
-        <lastBuildDate>Mon, 12 Jun 2023 11:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Resume]]></title>
+            <title><![CDATA[이상민 Backend Developer]]></title>
             <link>https://miimmin.github.io/developer/Resume</link>
-            <guid>Resume</guid>
-            <pubDate>Mon, 12 Jun 2023 11:24:09 GMT</pubDate>
+            <guid>이상민 Backend Developer</guid>
+            <pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[git    &ensp;]]></description>
         </item>
     </channel>
 </rss>

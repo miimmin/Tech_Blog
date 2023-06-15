@@ -171,7 +171,43 @@
         "collapsed": true
       }
     ],
-    "dev": [],
+    "dev": [
+      {
+        "type": "link",
+        "label": "개발 이야기",
+        "href": "/docs/dev/"
+      },
+      {
+        "type": "category",
+        "label": "스프링",
+        "items": [],
+        "collapsible": true,
+        "collapsed": true
+      },
+      {
+        "type": "category",
+        "label": "이슈해결",
+        "items": [
+          {
+            "type": "link",
+            "label": "Nplus1",
+            "href": "/docs/dev/issue/Nplus1"
+          },
+          {
+            "type": "link",
+            "label": "MultipleFetchJoin",
+            "href": "/docs/dev/issue/MultipleFetchJoin"
+          },
+          {
+            "type": "link",
+            "label": "DirtyCheckingPerformance",
+            "href": "/docs/dev/issue/DirtyCheckingPerformance"
+          }
+        ],
+        "collapsible": true,
+        "collapsed": true
+      }
+    ],
     "books": [
       {
         "type": "link",

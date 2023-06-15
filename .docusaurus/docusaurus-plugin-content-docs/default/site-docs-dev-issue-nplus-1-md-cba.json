@@ -1,0 +1,24 @@
+{
+  "unversionedId": "dev/issue/Nplus1",
+  "id": "dev/issue/Nplus1",
+  "isDocsHomePage": false,
+  "title": "Nplus1",
+  "description": "",
+  "source": "@site/docs/dev/issue/Nplus1.md",
+  "sourceDirName": "dev/issue",
+  "slug": "/dev/issue/Nplus1",
+  "permalink": "/docs/dev/issue/Nplus1",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/issue/Nplus1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "dev",
+  "previous": {
+    "title": "개발 이야기",
+    "permalink": "/docs/dev/"
+  },
+  "next": {
+    "title": "MultipleFetchJoin",
+    "permalink": "/docs/dev/issue/MultipleFetchJoin"
+  }
+}

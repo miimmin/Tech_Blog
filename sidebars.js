@@ -103,12 +103,21 @@ const sidebars = {
   ],
 
   dev: [
-    // 'dev/index',
-    // {
-    //   type: 'category',
-    //   label: 'React',
-    //   items: ['dev/react/nextjs-optimization/index', 'dev/react/hook/index'],
-    // },
+    'dev/index',
+    {
+      type: 'category',
+      label: '스프링',
+      items: []
+    },
+    {
+      type: 'category',
+      label: '이슈해결',
+      items: [
+          'dev/issue/Nplus1',
+          'dev/issue/MultipleFetchJoin',
+          'dev/issue/DirtyCheckingPerformance'
+      ]
+    }
     // {
     //   type: 'category',
     //   label: 'JS & TS',

@@ -16,5 +16,10 @@
     "title": "개발 이야기",
     "sidebar_position": 2,
     "slug": "/dev/"
+  },
+  "sidebar": "dev",
+  "next": {
+    "title": "Nplus1",
+    "permalink": "/docs/dev/issue/Nplus1"
   }
 }

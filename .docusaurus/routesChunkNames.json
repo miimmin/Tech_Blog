@@ -283,7 +283,7 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---markdown-page-393-028"
   },
-  "/docs-43f": {
+  "/docs-835": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
@@ -419,7 +419,7 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-cs-database-transaction-transaction-69-c-ef1"
   },
-  "/docs/dev/-340": {
+  "/docs/dev/-694": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-dev-4-eb-d13"
   },
@@ -450,6 +450,18 @@
   "/docs/dev/htmlcss/scrollbar-gutter/index-c29": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-dev-htmlcss-scrollbar-gutter-index-58-f-8c2"
+  },
+  "/docs/dev/issue/DirtyCheckingPerformance-873": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-dev-issue-dirty-checking-performance-4-ce-5de"
+  },
+  "/docs/dev/issue/MultipleFetchJoin-da4": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-dev-issue-multiple-fetch-join-0-c-3-fa1"
+  },
+  "/docs/dev/issue/Nplus1-803": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-dev-issue-nplus-1-cba-f79"
   },
   "/docs/dev/jsts/variables/index-5ac": {
     "component": "component---theme-doc-item-178-a40",

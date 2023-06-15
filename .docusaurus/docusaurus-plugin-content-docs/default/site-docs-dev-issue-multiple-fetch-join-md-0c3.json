@@ -1,0 +1,24 @@
+{
+  "unversionedId": "dev/issue/MultipleFetchJoin",
+  "id": "dev/issue/MultipleFetchJoin",
+  "isDocsHomePage": false,
+  "title": "MultipleFetchJoin",
+  "description": "",
+  "source": "@site/docs/dev/issue/MultipleFetchJoin.md",
+  "sourceDirName": "dev/issue",
+  "slug": "/dev/issue/MultipleFetchJoin",
+  "permalink": "/docs/dev/issue/MultipleFetchJoin",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/issue/MultipleFetchJoin.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "dev",
+  "previous": {
+    "title": "Nplus1",
+    "permalink": "/docs/dev/issue/Nplus1"
+  },
+  "next": {
+    "title": "DirtyCheckingPerformance",
+    "permalink": "/docs/dev/issue/DirtyCheckingPerformance"
+  }
+}

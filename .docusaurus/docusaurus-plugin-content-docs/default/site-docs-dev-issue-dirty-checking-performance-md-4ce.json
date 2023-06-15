@@ -1,0 +1,20 @@
+{
+  "unversionedId": "dev/issue/DirtyCheckingPerformance",
+  "id": "dev/issue/DirtyCheckingPerformance",
+  "isDocsHomePage": false,
+  "title": "DirtyCheckingPerformance",
+  "description": "",
+  "source": "@site/docs/dev/issue/DirtyCheckingPerformance.md",
+  "sourceDirName": "dev/issue",
+  "slug": "/dev/issue/DirtyCheckingPerformance",
+  "permalink": "/docs/dev/issue/DirtyCheckingPerformance",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/issue/DirtyCheckingPerformance.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "dev",
+  "previous": {
+    "title": "MultipleFetchJoin",
+    "permalink": "/docs/dev/issue/MultipleFetchJoin"
+  }
+}

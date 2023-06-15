@@ -280,7 +280,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','43f'),
+    component: ComponentCreator('/docs','835'),
     routes: [
       {
         path: '/docs/books/',
@@ -481,8 +481,9 @@ export default [
       },
       {
         path: '/docs/dev/',
-        component: ComponentCreator('/docs/dev/','340'),
-        exact: true
+        component: ComponentCreator('/docs/dev/','694'),
+        exact: true,
+        'sidebar': "dev"
       },
       {
         path: '/docs/dev/cs/lcp/index',
@@ -518,6 +519,24 @@ export default [
         path: '/docs/dev/htmlcss/scrollbar-gutter/index',
         component: ComponentCreator('/docs/dev/htmlcss/scrollbar-gutter/index','c29'),
         exact: true
+      },
+      {
+        path: '/docs/dev/issue/DirtyCheckingPerformance',
+        component: ComponentCreator('/docs/dev/issue/DirtyCheckingPerformance','873'),
+        exact: true,
+        'sidebar': "dev"
+      },
+      {
+        path: '/docs/dev/issue/MultipleFetchJoin',
+        component: ComponentCreator('/docs/dev/issue/MultipleFetchJoin','da4'),
+        exact: true,
+        'sidebar': "dev"
+      },
+      {
+        path: '/docs/dev/issue/Nplus1',
+        component: ComponentCreator('/docs/dev/issue/Nplus1','803'),
+        exact: true,
+        'sidebar': "dev"
       },
       {
         path: '/docs/dev/jsts/variables/index',
