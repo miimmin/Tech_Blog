@@ -4,539 +4,584 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/Tech-Blog/',
-    component: ComponentCreator('/Tech-Blog/','288'),
+    path: '/',
+    component: ComponentCreator('/','deb'),
     exact: true
   },
   {
-    path: '/Tech-Blog/blog',
-    component: ComponentCreator('/Tech-Blog/blog','ab8'),
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug','3d6'),
     exact: true
   },
   {
-    path: '/Tech-Blog/blog/archive',
-    component: ComponentCreator('/Tech-Blog/blog/archive','3e0'),
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config','914'),
     exact: true
   },
   {
-    path: '/Tech-Blog/blog/first-blog-post',
-    component: ComponentCreator('/Tech-Blog/blog/first-blog-post','4a6'),
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content','c28'),
     exact: true
   },
   {
-    path: '/Tech-Blog/blog/long-blog-post',
-    component: ComponentCreator('/Tech-Blog/blog/long-blog-post','fc4'),
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData','3cf'),
     exact: true
   },
   {
-    path: '/Tech-Blog/blog/mdx-blog-post',
-    component: ComponentCreator('/Tech-Blog/blog/mdx-blog-post','8bf'),
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata','31b'),
     exact: true
   },
   {
-    path: '/Tech-Blog/blog/tags',
-    component: ComponentCreator('/Tech-Blog/blog/tags','59e'),
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry','0da'),
     exact: true
   },
   {
-    path: '/Tech-Blog/blog/tags/docusaurus',
-    component: ComponentCreator('/Tech-Blog/blog/tags/docusaurus','8ce'),
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes','244'),
     exact: true
   },
   {
-    path: '/Tech-Blog/blog/tags/facebook',
-    component: ComponentCreator('/Tech-Blog/blog/tags/facebook','a79'),
+    path: '/blog',
+    component: ComponentCreator('/blog','520'),
     exact: true
   },
   {
-    path: '/Tech-Blog/blog/tags/hello',
-    component: ComponentCreator('/Tech-Blog/blog/tags/hello','3d5'),
+    path: '/blog/archive',
+    component: ComponentCreator('/blog/archive','f4c'),
     exact: true
   },
   {
-    path: '/Tech-Blog/blog/tags/hola',
-    component: ComponentCreator('/Tech-Blog/blog/tags/hola','e20'),
+    path: '/blog/first-blog-post',
+    component: ComponentCreator('/blog/first-blog-post','6c7'),
     exact: true
   },
   {
-    path: '/Tech-Blog/blog/welcome',
-    component: ComponentCreator('/Tech-Blog/blog/welcome','984'),
+    path: '/blog/long-blog-post',
+    component: ComponentCreator('/blog/long-blog-post','f06'),
     exact: true
   },
   {
-    path: '/Tech-Blog/developer',
-    component: ComponentCreator('/Tech-Blog/developer','c50'),
+    path: '/blog/mdx-blog-post',
+    component: ComponentCreator('/blog/mdx-blog-post','bee'),
     exact: true
   },
   {
-    path: '/Tech-Blog/developer/archive',
-    component: ComponentCreator('/Tech-Blog/developer/archive','a1e'),
+    path: '/blog/tags',
+    component: ComponentCreator('/blog/tags','e13'),
     exact: true
   },
   {
-    path: '/Tech-Blog/developer/Resume',
-    component: ComponentCreator('/Tech-Blog/developer/Resume','01a'),
+    path: '/blog/tags/docusaurus',
+    component: ComponentCreator('/blog/tags/docusaurus','ddf'),
     exact: true
   },
   {
-    path: '/Tech-Blog/docs/tags',
-    component: ComponentCreator('/Tech-Blog/docs/tags','7cc'),
+    path: '/blog/tags/facebook',
+    component: ComponentCreator('/blog/tags/facebook','ede'),
     exact: true
   },
   {
-    path: '/Tech-Blog/docs/tags/메트릭',
-    component: ComponentCreator('/Tech-Blog/docs/tags/메트릭','38f'),
+    path: '/blog/tags/hello',
+    component: ComponentCreator('/blog/tags/hello','4c2'),
     exact: true
   },
   {
-    path: '/Tech-Blog/docs/tags/변수',
-    component: ComponentCreator('/Tech-Blog/docs/tags/변수','b4e'),
+    path: '/blog/tags/hola',
+    component: ComponentCreator('/blog/tags/hola','752'),
     exact: true
   },
   {
-    path: '/Tech-Blog/docs/tags/브랜치-전략',
-    component: ComponentCreator('/Tech-Blog/docs/tags/브랜치-전략','1ad'),
+    path: '/blog/welcome',
+    component: ComponentCreator('/blog/welcome','bfa'),
     exact: true
   },
   {
-    path: '/Tech-Blog/docs/tags/상수',
-    component: ComponentCreator('/Tech-Blog/docs/tags/상수','f02'),
+    path: '/developer',
+    component: ComponentCreator('/developer','931'),
     exact: true
   },
   {
-    path: '/Tech-Blog/docs/tags/성능',
-    component: ComponentCreator('/Tech-Blog/docs/tags/성능','225'),
+    path: '/developer/archive',
+    component: ComponentCreator('/developer/archive','5ac'),
     exact: true
   },
   {
-    path: '/Tech-Blog/docs/tags/아보카도-에디션-라이트',
-    component: ComponentCreator('/Tech-Blog/docs/tags/아보카도-에디션-라이트','5e8'),
+    path: '/developer/Resume',
+    component: ComponentCreator('/developer/Resume','aa3'),
     exact: true
   },
   {
-    path: '/Tech-Blog/docs/tags/이모티콘',
-    component: ComponentCreator('/Tech-Blog/docs/tags/이모티콘','f82'),
+    path: '/developer/tags',
+    component: ComponentCreator('/developer/tags','a77'),
     exact: true
   },
   {
-    path: '/Tech-Blog/docs/tags/최적화',
-    component: ComponentCreator('/Tech-Blog/docs/tags/최적화','b49'),
+    path: '/developer/tags/프리온보딩',
+    component: ComponentCreator('/developer/tags/프리온보딩','aec'),
     exact: true
   },
   {
-    path: '/Tech-Blog/docs/tags/branch',
-    component: ComponentCreator('/Tech-Blog/docs/tags/branch','ca1'),
+    path: '/docs/tags',
+    component: ComponentCreator('/docs/tags','0cc'),
     exact: true
   },
   {
-    path: '/Tech-Blog/docs/tags/cache',
-    component: ComponentCreator('/Tech-Blog/docs/tags/cache','3ee'),
+    path: '/docs/tags/branch',
+    component: ComponentCreator('/docs/tags/branch','282'),
     exact: true
   },
   {
-    path: '/Tech-Blog/docs/tags/const',
-    component: ComponentCreator('/Tech-Blog/docs/tags/const','0d8'),
+    path: '/docs/tags/cache',
+    component: ComponentCreator('/docs/tags/cache','283'),
     exact: true
   },
   {
-    path: '/Tech-Blog/docs/tags/css',
-    component: ComponentCreator('/Tech-Blog/docs/tags/css','fe6'),
+    path: '/docs/tags/const',
+    component: ComponentCreator('/docs/tags/const','fdd'),
     exact: true
   },
   {
-    path: '/Tech-Blog/docs/tags/deep-copy',
-    component: ComponentCreator('/Tech-Blog/docs/tags/deep-copy','571'),
+    path: '/docs/tags/css',
+    component: ComponentCreator('/docs/tags/css','83f'),
     exact: true
   },
   {
-    path: '/Tech-Blog/docs/tags/fork',
-    component: ComponentCreator('/Tech-Blog/docs/tags/fork','d83'),
+    path: '/docs/tags/deep-copy',
+    component: ComponentCreator('/docs/tags/deep-copy','2eb'),
     exact: true
   },
   {
-    path: '/Tech-Blog/docs/tags/git',
-    component: ComponentCreator('/Tech-Blog/docs/tags/git','5c1'),
+    path: '/docs/tags/fork',
+    component: ComponentCreator('/docs/tags/fork','dfd'),
     exact: true
   },
   {
-    path: '/Tech-Blog/docs/tags/github',
-    component: ComponentCreator('/Tech-Blog/docs/tags/github','cc0'),
+    path: '/docs/tags/git',
+    component: ComponentCreator('/docs/tags/git','994'),
     exact: true
   },
   {
-    path: '/Tech-Blog/docs/tags/gitlab',
-    component: ComponentCreator('/Tech-Blog/docs/tags/gitlab','1ad'),
+    path: '/docs/tags/github',
+    component: ComponentCreator('/docs/tags/github','326'),
     exact: true
   },
   {
-    path: '/Tech-Blog/docs/tags/hook',
-    component: ComponentCreator('/Tech-Blog/docs/tags/hook','d39'),
+    path: '/docs/tags/gitlab',
+    component: ComponentCreator('/docs/tags/gitlab','dee'),
     exact: true
   },
   {
-    path: '/Tech-Blog/docs/tags/lcp',
-    component: ComponentCreator('/Tech-Blog/docs/tags/lcp','f31'),
+    path: '/docs/tags/hook',
+    component: ComponentCreator('/docs/tags/hook','df2'),
     exact: true
   },
   {
-    path: '/Tech-Blog/docs/tags/let',
-    component: ComponentCreator('/Tech-Blog/docs/tags/let','923'),
+    path: '/docs/tags/lcp',
+    component: ComponentCreator('/docs/tags/lcp','cce'),
     exact: true
   },
   {
-    path: '/Tech-Blog/docs/tags/metrics',
-    component: ComponentCreator('/Tech-Blog/docs/tags/metrics','a11'),
+    path: '/docs/tags/let',
+    component: ComponentCreator('/docs/tags/let','02a'),
     exact: true
   },
   {
-    path: '/Tech-Blog/docs/tags/nextjs',
-    component: ComponentCreator('/Tech-Blog/docs/tags/nextjs','d4f'),
+    path: '/docs/tags/metrics',
+    component: ComponentCreator('/docs/tags/metrics','394'),
     exact: true
   },
   {
-    path: '/Tech-Blog/docs/tags/object-freeze',
-    component: ComponentCreator('/Tech-Blog/docs/tags/object-freeze','22d'),
+    path: '/docs/tags/nextjs',
+    component: ComponentCreator('/docs/tags/nextjs','062'),
     exact: true
   },
   {
-    path: '/Tech-Blog/docs/tags/scrollbar-gutter',
-    component: ComponentCreator('/Tech-Blog/docs/tags/scrollbar-gutter','417'),
+    path: '/docs/tags/object-freeze',
+    component: ComponentCreator('/docs/tags/object-freeze','5a4'),
     exact: true
   },
   {
-    path: '/Tech-Blog/docs/tags/stale-while-revalidate',
-    component: ComponentCreator('/Tech-Blog/docs/tags/stale-while-revalidate','23e'),
+    path: '/docs/tags/scrollbar-gutter',
+    component: ComponentCreator('/docs/tags/scrollbar-gutter','868'),
     exact: true
   },
   {
-    path: '/Tech-Blog/docs/tags/tbd',
-    component: ComponentCreator('/Tech-Blog/docs/tags/tbd','c4a'),
+    path: '/docs/tags/stale-while-revalidate',
+    component: ComponentCreator('/docs/tags/stale-while-revalidate','84c'),
     exact: true
   },
   {
-    path: '/Tech-Blog/docs/tags/trunk-based-development',
-    component: ComponentCreator('/Tech-Blog/docs/tags/trunk-based-development','a15'),
+    path: '/docs/tags/tbd',
+    component: ComponentCreator('/docs/tags/tbd','14f'),
     exact: true
   },
   {
-    path: '/Tech-Blog/docs/tags/variables',
-    component: ComponentCreator('/Tech-Blog/docs/tags/variables','5e7'),
+    path: '/docs/tags/trunk-based-development',
+    component: ComponentCreator('/docs/tags/trunk-based-development','c95'),
     exact: true
   },
   {
-    path: '/Tech-Blog/docs/tags/web-vital',
-    component: ComponentCreator('/Tech-Blog/docs/tags/web-vital','388'),
+    path: '/docs/tags/variables',
+    component: ComponentCreator('/docs/tags/variables','a20'),
     exact: true
   },
   {
-    path: '/Tech-Blog/markdown-page',
-    component: ComponentCreator('/Tech-Blog/markdown-page','43f'),
+    path: '/docs/tags/web-vital',
+    component: ComponentCreator('/docs/tags/web-vital','12c'),
     exact: true
   },
   {
-    path: '/Tech-Blog/docs',
-    component: ComponentCreator('/Tech-Blog/docs','fff'),
+    path: '/docs/tags/메트릭',
+    component: ComponentCreator('/docs/tags/메트릭','072'),
+    exact: true
+  },
+  {
+    path: '/docs/tags/변수',
+    component: ComponentCreator('/docs/tags/변수','9bc'),
+    exact: true
+  },
+  {
+    path: '/docs/tags/브랜치-전략',
+    component: ComponentCreator('/docs/tags/브랜치-전략','726'),
+    exact: true
+  },
+  {
+    path: '/docs/tags/상수',
+    component: ComponentCreator('/docs/tags/상수','014'),
+    exact: true
+  },
+  {
+    path: '/docs/tags/성능',
+    component: ComponentCreator('/docs/tags/성능','cf1'),
+    exact: true
+  },
+  {
+    path: '/docs/tags/아보카도-에디션-라이트',
+    component: ComponentCreator('/docs/tags/아보카도-에디션-라이트','e8d'),
+    exact: true
+  },
+  {
+    path: '/docs/tags/이모티콘',
+    component: ComponentCreator('/docs/tags/이모티콘','64f'),
+    exact: true
+  },
+  {
+    path: '/docs/tags/최적화',
+    component: ComponentCreator('/docs/tags/최적화','889'),
+    exact: true
+  },
+  {
+    path: '/markdown-page',
+    component: ComponentCreator('/markdown-page','be1'),
+    exact: true
+  },
+  {
+    path: '/docs',
+    component: ComponentCreator('/docs','43f'),
     routes: [
       {
-        path: '/Tech-Blog/docs/books/',
-        component: ComponentCreator('/Tech-Blog/docs/books/','7c3'),
+        path: '/docs/books/',
+        component: ComponentCreator('/docs/books/','d48'),
         exact: true,
         'sidebar': "books"
       },
       {
-        path: '/Tech-Blog/docs/books/effective-typescript/01',
-        component: ComponentCreator('/Tech-Blog/docs/books/effective-typescript/01','23a'),
+        path: '/docs/books/effective-typescript/01',
+        component: ComponentCreator('/docs/books/effective-typescript/01','91c'),
         exact: true,
         'sidebar': "books"
       },
       {
-        path: '/Tech-Blog/docs/books/effective-typescript/02',
-        component: ComponentCreator('/Tech-Blog/docs/books/effective-typescript/02','689'),
+        path: '/docs/books/effective-typescript/02',
+        component: ComponentCreator('/docs/books/effective-typescript/02','b75'),
         exact: true,
         'sidebar': "books"
       },
       {
-        path: '/Tech-Blog/docs/books/effective-typescript/introduction',
-        component: ComponentCreator('/Tech-Blog/docs/books/effective-typescript/introduction','ed6'),
+        path: '/docs/books/effective-typescript/introduction',
+        component: ComponentCreator('/docs/books/effective-typescript/introduction','2a7'),
         exact: true,
         'sidebar': "books"
       },
       {
-        path: '/Tech-Blog/docs/books/frameworkless-front-end-development/01',
-        component: ComponentCreator('/Tech-Blog/docs/books/frameworkless-front-end-development/01','aac'),
+        path: '/docs/books/frameworkless-front-end-development/01',
+        component: ComponentCreator('/docs/books/frameworkless-front-end-development/01','8b5'),
         exact: true,
         'sidebar': "books"
       },
       {
-        path: '/Tech-Blog/docs/books/frameworkless-front-end-development/02',
-        component: ComponentCreator('/Tech-Blog/docs/books/frameworkless-front-end-development/02','284'),
+        path: '/docs/books/frameworkless-front-end-development/02',
+        component: ComponentCreator('/docs/books/frameworkless-front-end-development/02','ea8'),
         exact: true,
         'sidebar': "books"
       },
       {
-        path: '/Tech-Blog/docs/books/frameworkless-front-end-development/03',
-        component: ComponentCreator('/Tech-Blog/docs/books/frameworkless-front-end-development/03','e58'),
+        path: '/docs/books/frameworkless-front-end-development/03',
+        component: ComponentCreator('/docs/books/frameworkless-front-end-development/03','397'),
         exact: true,
         'sidebar': "books"
       },
       {
-        path: '/Tech-Blog/docs/books/frameworkless-front-end-development/04',
-        component: ComponentCreator('/Tech-Blog/docs/books/frameworkless-front-end-development/04','9ec'),
+        path: '/docs/books/frameworkless-front-end-development/04',
+        component: ComponentCreator('/docs/books/frameworkless-front-end-development/04','47a'),
         exact: true,
         'sidebar': "books"
       },
       {
-        path: '/Tech-Blog/docs/books/frameworkless-front-end-development/05',
-        component: ComponentCreator('/Tech-Blog/docs/books/frameworkless-front-end-development/05','1bb'),
+        path: '/docs/books/frameworkless-front-end-development/05',
+        component: ComponentCreator('/docs/books/frameworkless-front-end-development/05','ca2'),
         exact: true,
         'sidebar': "books"
       },
       {
-        path: '/Tech-Blog/docs/books/frameworkless-front-end-development/06',
-        component: ComponentCreator('/Tech-Blog/docs/books/frameworkless-front-end-development/06','d6a'),
+        path: '/docs/books/frameworkless-front-end-development/06',
+        component: ComponentCreator('/docs/books/frameworkless-front-end-development/06','453'),
         exact: true,
         'sidebar': "books"
       },
       {
-        path: '/Tech-Blog/docs/books/frameworkless-front-end-development/07',
-        component: ComponentCreator('/Tech-Blog/docs/books/frameworkless-front-end-development/07','528'),
+        path: '/docs/books/frameworkless-front-end-development/07',
+        component: ComponentCreator('/docs/books/frameworkless-front-end-development/07','bfb'),
         exact: true
       },
       {
-        path: '/Tech-Blog/docs/books/frameworkless-front-end-development/introduction',
-        component: ComponentCreator('/Tech-Blog/docs/books/frameworkless-front-end-development/introduction','332'),
+        path: '/docs/books/frameworkless-front-end-development/introduction',
+        component: ComponentCreator('/docs/books/frameworkless-front-end-development/introduction','ca5'),
         exact: true,
         'sidebar': "books"
       },
       {
-        path: '/Tech-Blog/docs/books/learning-typescript/01',
-        component: ComponentCreator('/Tech-Blog/docs/books/learning-typescript/01','fd6'),
+        path: '/docs/books/learning-typescript/01',
+        component: ComponentCreator('/docs/books/learning-typescript/01','bf6'),
         exact: true,
         'sidebar': "books"
       },
       {
-        path: '/Tech-Blog/docs/books/learning-typescript/02',
-        component: ComponentCreator('/Tech-Blog/docs/books/learning-typescript/02','2fd'),
+        path: '/docs/books/learning-typescript/02',
+        component: ComponentCreator('/docs/books/learning-typescript/02','a68'),
         exact: true,
         'sidebar': "books"
       },
       {
-        path: '/Tech-Blog/docs/books/learning-typescript/introduction',
-        component: ComponentCreator('/Tech-Blog/docs/books/learning-typescript/introduction','da6'),
+        path: '/docs/books/learning-typescript/introduction',
+        component: ComponentCreator('/docs/books/learning-typescript/introduction','7f9'),
         exact: true,
         'sidebar': "books"
       },
       {
-        path: '/Tech-Blog/docs/cs/',
-        component: ComponentCreator('/Tech-Blog/docs/cs/','19b'),
+        path: '/docs/cs/',
+        component: ComponentCreator('/docs/cs/','1f3'),
         exact: true,
         'sidebar': "cs"
       },
       {
-        path: '/Tech-Blog/docs/cs/database/normalization/DeNormalization',
-        component: ComponentCreator('/Tech-Blog/docs/cs/database/normalization/DeNormalization','35e'),
+        path: '/docs/cs/database/normalization/DeNormalization',
+        component: ComponentCreator('/docs/cs/database/normalization/DeNormalization','691'),
         exact: true,
         'sidebar': "cs"
       },
       {
-        path: '/Tech-Blog/docs/cs/database/normalization/Normalization',
-        component: ComponentCreator('/Tech-Blog/docs/cs/database/normalization/Normalization','9ee'),
+        path: '/docs/cs/database/normalization/Normalization',
+        component: ComponentCreator('/docs/cs/database/normalization/Normalization','312'),
         exact: true,
         'sidebar': "cs"
       },
       {
-        path: '/Tech-Blog/docs/cs/database/rdbms/Integrity',
-        component: ComponentCreator('/Tech-Blog/docs/cs/database/rdbms/Integrity','4e9'),
+        path: '/docs/cs/database/rdbms/Integrity',
+        component: ComponentCreator('/docs/cs/database/rdbms/Integrity','2a6'),
         exact: true,
         'sidebar': "cs"
       },
       {
-        path: '/Tech-Blog/docs/cs/database/rdbms/Key',
-        component: ComponentCreator('/Tech-Blog/docs/cs/database/rdbms/Key','dd1'),
+        path: '/docs/cs/database/rdbms/Key',
+        component: ComponentCreator('/docs/cs/database/rdbms/Key','595'),
         exact: true,
         'sidebar': "cs"
       },
       {
-        path: '/Tech-Blog/docs/cs/database/sql-advanced/Index',
-        component: ComponentCreator('/Tech-Blog/docs/cs/database/sql-advanced/Index','25a'),
+        path: '/docs/cs/database/sql-advanced/Index',
+        component: ComponentCreator('/docs/cs/database/sql-advanced/Index','b86'),
         exact: true,
         'sidebar': "cs"
       },
       {
-        path: '/Tech-Blog/docs/cs/database/sql-advanced/IndexDataStructure',
-        component: ComponentCreator('/Tech-Blog/docs/cs/database/sql-advanced/IndexDataStructure','878'),
+        path: '/docs/cs/database/sql-advanced/IndexDataStructure',
+        component: ComponentCreator('/docs/cs/database/sql-advanced/IndexDataStructure','d9b'),
         exact: true,
         'sidebar': "cs"
       },
       {
-        path: '/Tech-Blog/docs/cs/database/sql/relational-algebra/RelatAlgeOperator',
-        component: ComponentCreator('/Tech-Blog/docs/cs/database/sql/relational-algebra/RelatAlgeOperator','464'),
+        path: '/docs/cs/database/sql/relational-algebra/RelatAlgeOperator',
+        component: ComponentCreator('/docs/cs/database/sql/relational-algebra/RelatAlgeOperator','59a'),
         exact: true,
         'sidebar': "cs"
       },
       {
-        path: '/Tech-Blog/docs/cs/database/sql/relational-algebra/RelationAlgebra',
-        component: ComponentCreator('/Tech-Blog/docs/cs/database/sql/relational-algebra/RelationAlgebra','79c'),
+        path: '/docs/cs/database/sql/relational-algebra/RelationAlgebra',
+        component: ComponentCreator('/docs/cs/database/sql/relational-algebra/RelationAlgebra','816'),
         exact: true,
         'sidebar': "cs"
       },
       {
-        path: '/Tech-Blog/docs/cs/database/sql/relational-algebra/SQLvsRA',
-        component: ComponentCreator('/Tech-Blog/docs/cs/database/sql/relational-algebra/SQLvsRA','f7e'),
+        path: '/docs/cs/database/sql/relational-algebra/SQLvsRA',
+        component: ComponentCreator('/docs/cs/database/sql/relational-algebra/SQLvsRA','ca7'),
         exact: true,
         'sidebar': "cs"
       },
       {
-        path: '/Tech-Blog/docs/cs/database/sql/SQL',
-        component: ComponentCreator('/Tech-Blog/docs/cs/database/sql/SQL','f01'),
+        path: '/docs/cs/database/sql/SQL',
+        component: ComponentCreator('/docs/cs/database/sql/SQL','a10'),
         exact: true,
         'sidebar': "cs"
       },
       {
-        path: '/Tech-Blog/docs/cs/database/sql/SQLCommands',
-        component: ComponentCreator('/Tech-Blog/docs/cs/database/sql/SQLCommands','83f'),
+        path: '/docs/cs/database/sql/SQLCommands',
+        component: ComponentCreator('/docs/cs/database/sql/SQLCommands','cc8'),
         exact: true,
         'sidebar': "cs"
       },
       {
-        path: '/Tech-Blog/docs/cs/database/transaction/IsolationLevel',
-        component: ComponentCreator('/Tech-Blog/docs/cs/database/transaction/IsolationLevel','e9d'),
+        path: '/docs/cs/database/transaction/IsolationLevel',
+        component: ComponentCreator('/docs/cs/database/transaction/IsolationLevel','df5'),
         exact: true,
         'sidebar': "cs"
       },
       {
-        path: '/Tech-Blog/docs/cs/database/transaction/IsolationProblem',
-        component: ComponentCreator('/Tech-Blog/docs/cs/database/transaction/IsolationProblem','7ee'),
+        path: '/docs/cs/database/transaction/IsolationProblem',
+        component: ComponentCreator('/docs/cs/database/transaction/IsolationProblem','256'),
         exact: true,
         'sidebar': "cs"
       },
       {
-        path: '/Tech-Blog/docs/cs/database/transaction/Lock',
-        component: ComponentCreator('/Tech-Blog/docs/cs/database/transaction/Lock','13e'),
+        path: '/docs/cs/database/transaction/Lock',
+        component: ComponentCreator('/docs/cs/database/transaction/Lock','444'),
         exact: true,
         'sidebar': "cs"
       },
       {
-        path: '/Tech-Blog/docs/cs/database/transaction/LockEscalation',
-        component: ComponentCreator('/Tech-Blog/docs/cs/database/transaction/LockEscalation','881'),
+        path: '/docs/cs/database/transaction/LockEscalation',
+        component: ComponentCreator('/docs/cs/database/transaction/LockEscalation','b0e'),
         exact: true,
         'sidebar': "cs"
       },
       {
-        path: '/Tech-Blog/docs/cs/database/transaction/LockProblem',
-        component: ComponentCreator('/Tech-Blog/docs/cs/database/transaction/LockProblem','e1e'),
+        path: '/docs/cs/database/transaction/LockProblem',
+        component: ComponentCreator('/docs/cs/database/transaction/LockProblem','560'),
         exact: true,
         'sidebar': "cs"
       },
       {
-        path: '/Tech-Blog/docs/cs/database/transaction/Transaction',
-        component: ComponentCreator('/Tech-Blog/docs/cs/database/transaction/Transaction','dfe'),
+        path: '/docs/cs/database/transaction/Transaction',
+        component: ComponentCreator('/docs/cs/database/transaction/Transaction','850'),
         exact: true,
         'sidebar': "cs"
       },
       {
-        path: '/Tech-Blog/docs/dev/',
-        component: ComponentCreator('/Tech-Blog/docs/dev/','cd5'),
+        path: '/docs/dev/',
+        component: ComponentCreator('/docs/dev/','340'),
         exact: true
       },
       {
-        path: '/Tech-Blog/docs/dev/cs/lcp/index',
-        component: ComponentCreator('/Tech-Blog/docs/dev/cs/lcp/index','97f'),
+        path: '/docs/dev/cs/lcp/index',
+        component: ComponentCreator('/docs/dev/cs/lcp/index','705'),
         exact: true
       },
       {
-        path: '/Tech-Blog/docs/dev/cs/metrics/index',
-        component: ComponentCreator('/Tech-Blog/docs/dev/cs/metrics/index','ed8'),
+        path: '/docs/dev/cs/metrics/index',
+        component: ComponentCreator('/docs/dev/cs/metrics/index','579'),
         exact: true
       },
       {
-        path: '/Tech-Blog/docs/dev/cs/stale-while-revalidate/index',
-        component: ComponentCreator('/Tech-Blog/docs/dev/cs/stale-while-revalidate/index','ff1'),
+        path: '/docs/dev/cs/stale-while-revalidate/index',
+        component: ComponentCreator('/docs/dev/cs/stale-while-revalidate/index','0cf'),
         exact: true
       },
       {
-        path: '/Tech-Blog/docs/dev/git/another-branch-push',
-        component: ComponentCreator('/Tech-Blog/docs/dev/git/another-branch-push','43b'),
+        path: '/docs/dev/git/another-branch-push',
+        component: ComponentCreator('/docs/dev/git/another-branch-push','f57'),
         exact: true
       },
       {
-        path: '/Tech-Blog/docs/dev/git/sync-repository',
-        component: ComponentCreator('/Tech-Blog/docs/dev/git/sync-repository','e22'),
+        path: '/docs/dev/git/sync-repository',
+        component: ComponentCreator('/docs/dev/git/sync-repository','887'),
         exact: true
       },
       {
-        path: '/Tech-Blog/docs/dev/git/trunk-based-development',
-        component: ComponentCreator('/Tech-Blog/docs/dev/git/trunk-based-development','d91'),
+        path: '/docs/dev/git/trunk-based-development',
+        component: ComponentCreator('/docs/dev/git/trunk-based-development','95b'),
         exact: true
       },
       {
-        path: '/Tech-Blog/docs/dev/htmlcss/scrollbar-gutter/index',
-        component: ComponentCreator('/Tech-Blog/docs/dev/htmlcss/scrollbar-gutter/index','253'),
+        path: '/docs/dev/htmlcss/scrollbar-gutter/index',
+        component: ComponentCreator('/docs/dev/htmlcss/scrollbar-gutter/index','c29'),
         exact: true
       },
       {
-        path: '/Tech-Blog/docs/dev/jsts/variables/index',
-        component: ComponentCreator('/Tech-Blog/docs/dev/jsts/variables/index','7d2'),
+        path: '/docs/dev/jsts/variables/index',
+        component: ComponentCreator('/docs/dev/jsts/variables/index','5ac'),
         exact: true
       },
       {
-        path: '/Tech-Blog/docs/dev/php/avocadoedition-light-add-emoticon/index',
-        component: ComponentCreator('/Tech-Blog/docs/dev/php/avocadoedition-light-add-emoticon/index','2ac'),
+        path: '/docs/dev/php/avocadoedition-light-add-emoticon/index',
+        component: ComponentCreator('/docs/dev/php/avocadoedition-light-add-emoticon/index','eef'),
         exact: true
       },
       {
-        path: '/Tech-Blog/docs/dev/react/hook/index',
-        component: ComponentCreator('/Tech-Blog/docs/dev/react/hook/index','03b'),
+        path: '/docs/dev/react/hook/index',
+        component: ComponentCreator('/docs/dev/react/hook/index','b38'),
         exact: true
       },
       {
-        path: '/Tech-Blog/docs/dev/react/nextjs-optimization/index',
-        component: ComponentCreator('/Tech-Blog/docs/dev/react/nextjs-optimization/index','29a'),
+        path: '/docs/dev/react/nextjs-optimization/index',
+        component: ComponentCreator('/docs/dev/react/nextjs-optimization/index','c94'),
         exact: true
       },
       {
-        path: '/Tech-Blog/docs/intro',
-        component: ComponentCreator('/Tech-Blog/docs/intro','b80'),
+        path: '/docs/intro',
+        component: ComponentCreator('/docs/intro','e84'),
         exact: true
       },
       {
-        path: '/Tech-Blog/docs/tutorial-basics/congratulations',
-        component: ComponentCreator('/Tech-Blog/docs/tutorial-basics/congratulations','6a9'),
+        path: '/docs/tutorial-basics/congratulations',
+        component: ComponentCreator('/docs/tutorial-basics/congratulations','7ef'),
         exact: true
       },
       {
-        path: '/Tech-Blog/docs/tutorial-basics/create-a-blog-post',
-        component: ComponentCreator('/Tech-Blog/docs/tutorial-basics/create-a-blog-post','713'),
+        path: '/docs/tutorial-basics/create-a-blog-post',
+        component: ComponentCreator('/docs/tutorial-basics/create-a-blog-post','2c8'),
         exact: true
       },
       {
-        path: '/Tech-Blog/docs/tutorial-basics/create-a-document',
-        component: ComponentCreator('/Tech-Blog/docs/tutorial-basics/create-a-document','697'),
+        path: '/docs/tutorial-basics/create-a-document',
+        component: ComponentCreator('/docs/tutorial-basics/create-a-document','f0d'),
         exact: true
       },
       {
-        path: '/Tech-Blog/docs/tutorial-basics/create-a-page',
-        component: ComponentCreator('/Tech-Blog/docs/tutorial-basics/create-a-page','1fb'),
+        path: '/docs/tutorial-basics/create-a-page',
+        component: ComponentCreator('/docs/tutorial-basics/create-a-page','ca5'),
         exact: true
       },
       {
-        path: '/Tech-Blog/docs/tutorial-basics/deploy-your-site',
-        component: ComponentCreator('/Tech-Blog/docs/tutorial-basics/deploy-your-site','80b'),
+        path: '/docs/tutorial-basics/deploy-your-site',
+        component: ComponentCreator('/docs/tutorial-basics/deploy-your-site','508'),
         exact: true
       },
       {
-        path: '/Tech-Blog/docs/tutorial-basics/markdown-features',
-        component: ComponentCreator('/Tech-Blog/docs/tutorial-basics/markdown-features','d9d'),
+        path: '/docs/tutorial-basics/markdown-features',
+        component: ComponentCreator('/docs/tutorial-basics/markdown-features','f90'),
         exact: true
       },
       {
-        path: '/Tech-Blog/docs/tutorial-extras/manage-docs-versions',
-        component: ComponentCreator('/Tech-Blog/docs/tutorial-extras/manage-docs-versions','eed'),
+        path: '/docs/tutorial-extras/manage-docs-versions',
+        component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions','d64'),
         exact: true
       },
       {
-        path: '/Tech-Blog/docs/tutorial-extras/translate-your-site',
-        component: ComponentCreator('/Tech-Blog/docs/tutorial-extras/translate-your-site','c58'),
+        path: '/docs/tutorial-extras/translate-your-site',
+        component: ComponentCreator('/docs/tutorial-extras/translate-your-site','16a'),
         exact: true
       }
     ]

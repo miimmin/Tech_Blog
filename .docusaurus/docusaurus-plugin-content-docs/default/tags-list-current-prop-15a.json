@@ -1,147 +1,147 @@
 [
   {
     "name": "LCP",
-    "permalink": "/Tech-Blog/docs/tags/lcp",
+    "permalink": "/docs/tags/lcp",
     "count": 1
   },
   {
     "name": "web-vital",
-    "permalink": "/Tech-Blog/docs/tags/web-vital",
+    "permalink": "/docs/tags/web-vital",
     "count": 1
   },
   {
     "name": "메트릭",
-    "permalink": "/Tech-Blog/docs/tags/메트릭",
+    "permalink": "/docs/tags/메트릭",
     "count": 2
   },
   {
     "name": "metrics",
-    "permalink": "/Tech-Blog/docs/tags/metrics",
+    "permalink": "/docs/tags/metrics",
     "count": 1
   },
   {
     "name": "성능",
-    "permalink": "/Tech-Blog/docs/tags/성능",
+    "permalink": "/docs/tags/성능",
     "count": 1
   },
   {
     "name": "stale-while-revalidate",
-    "permalink": "/Tech-Blog/docs/tags/stale-while-revalidate",
+    "permalink": "/docs/tags/stale-while-revalidate",
     "count": 1
   },
   {
     "name": "cache",
-    "permalink": "/Tech-Blog/docs/tags/cache",
+    "permalink": "/docs/tags/cache",
     "count": 1
   },
   {
     "name": "github",
-    "permalink": "/Tech-Blog/docs/tags/github",
+    "permalink": "/docs/tags/github",
     "count": 2
   },
   {
     "name": "branch",
-    "permalink": "/Tech-Blog/docs/tags/branch",
+    "permalink": "/docs/tags/branch",
     "count": 1
   },
   {
     "name": "git",
-    "permalink": "/Tech-Blog/docs/tags/git",
+    "permalink": "/docs/tags/git",
     "count": 2
   },
   {
     "name": "fork",
-    "permalink": "/Tech-Blog/docs/tags/fork",
+    "permalink": "/docs/tags/fork",
     "count": 1
   },
   {
     "name": "gitlab",
-    "permalink": "/Tech-Blog/docs/tags/gitlab",
+    "permalink": "/docs/tags/gitlab",
     "count": 1
   },
   {
     "name": "TBD",
-    "permalink": "/Tech-Blog/docs/tags/tbd",
+    "permalink": "/docs/tags/tbd",
     "count": 1
   },
   {
     "name": "trunk-based-development",
-    "permalink": "/Tech-Blog/docs/tags/trunk-based-development",
+    "permalink": "/docs/tags/trunk-based-development",
     "count": 1
   },
   {
     "name": "브랜치 전략",
-    "permalink": "/Tech-Blog/docs/tags/브랜치-전략",
+    "permalink": "/docs/tags/브랜치-전략",
     "count": 1
   },
   {
     "name": "css",
-    "permalink": "/Tech-Blog/docs/tags/css",
+    "permalink": "/docs/tags/css",
     "count": 1
   },
   {
     "name": "scrollbar-gutter",
-    "permalink": "/Tech-Blog/docs/tags/scrollbar-gutter",
+    "permalink": "/docs/tags/scrollbar-gutter",
     "count": 1
   },
   {
     "name": "let",
-    "permalink": "/Tech-Blog/docs/tags/let",
+    "permalink": "/docs/tags/let",
     "count": 1
   },
   {
     "name": "const",
-    "permalink": "/Tech-Blog/docs/tags/const",
+    "permalink": "/docs/tags/const",
     "count": 1
   },
   {
     "name": "variables",
-    "permalink": "/Tech-Blog/docs/tags/variables",
+    "permalink": "/docs/tags/variables",
     "count": 1
   },
   {
     "name": "상수",
-    "permalink": "/Tech-Blog/docs/tags/상수",
+    "permalink": "/docs/tags/상수",
     "count": 1
   },
   {
     "name": "변수",
-    "permalink": "/Tech-Blog/docs/tags/변수",
+    "permalink": "/docs/tags/변수",
     "count": 1
   },
   {
     "name": "object-freeze",
-    "permalink": "/Tech-Blog/docs/tags/object-freeze",
+    "permalink": "/docs/tags/object-freeze",
     "count": 1
   },
   {
     "name": "deep-copy",
-    "permalink": "/Tech-Blog/docs/tags/deep-copy",
+    "permalink": "/docs/tags/deep-copy",
     "count": 1
   },
   {
     "name": "아보카도 에디션 라이트",
-    "permalink": "/Tech-Blog/docs/tags/아보카도-에디션-라이트",
+    "permalink": "/docs/tags/아보카도-에디션-라이트",
     "count": 1
   },
   {
     "name": "이모티콘",
-    "permalink": "/Tech-Blog/docs/tags/이모티콘",
+    "permalink": "/docs/tags/이모티콘",
     "count": 1
   },
   {
     "name": "hook",
-    "permalink": "/Tech-Blog/docs/tags/hook",
+    "permalink": "/docs/tags/hook",
     "count": 1
   },
   {
     "name": "최적화",
-    "permalink": "/Tech-Blog/docs/tags/최적화",
+    "permalink": "/docs/tags/최적화",
     "count": 1
   },
   {
     "name": "nextjs",
-    "permalink": "/Tech-Blog/docs/tags/nextjs",
+    "permalink": "/docs/tags/nextjs",
     "count": 1
   }
 ]

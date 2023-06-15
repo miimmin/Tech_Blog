@@ -7,7 +7,7 @@
   "source": "@site/docs/books/frameworkless-front-end-development/05.md",
   "sourceDirName": "books/frameworkless-front-end-development",
   "slug": "/books/frameworkless-front-end-development/05",
-  "permalink": "/Tech-Blog/docs/books/frameworkless-front-end-development/05",
+  "permalink": "/docs/books/frameworkless-front-end-development/05",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/frameworkless-front-end-development/05.md",
   "tags": [],
   "version": "current",
@@ -20,10 +20,10 @@
   "sidebar": "books",
   "previous": {
     "title": "04 웹 구성요소",
-    "permalink": "/Tech-Blog/docs/books/frameworkless-front-end-development/04"
+    "permalink": "/docs/books/frameworkless-front-end-development/04"
   },
   "next": {
     "title": "06 라우팅",
-    "permalink": "/Tech-Blog/docs/books/frameworkless-front-end-development/06"
+    "permalink": "/docs/books/frameworkless-front-end-development/06"
   }
 }

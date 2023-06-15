@@ -1,11 +1,16 @@
 {
-  "permalink": "/Tech-Blog/developer/Resume",
+  "permalink": "/developer/Resume",
   "source": "@site/developer/Resume.mdx",
-  "title": "Resume",
-  "description": "",
-  "date": "2023-06-12T11:24:09.138Z",
-  "formattedDate": "June 12, 2023",
-  "tags": [],
+  "title": "이상민 Backend Developer",
+  "description": "git    &ensp;",
+  "date": "2023-06-01T00:00:00.000Z",
+  "formattedDate": "2023년 6월 1일",
+  "tags": [
+    {
+      "label": "프리온보딩",
+      "permalink": "/developer/tags/프리온보딩"
+    }
+  ],
   "truncated": false,
   "authors": []
 }

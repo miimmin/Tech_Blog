@@ -2,14 +2,14 @@
 <rss version="2.0">
     <channel>
         <title>상민! Blog</title>
-        <link>https://miimmin.github.io/Tech-Blog/developer</link>
+        <link>https://miimmin.github.io/developer</link>
         <description>상민! Blog</description>
         <lastBuildDate>Mon, 12 Jun 2023 11:24:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Resume]]></title>
-            <link>https://miimmin.github.io/Tech-Blog/developer/Resume</link>
+            <link>https://miimmin.github.io/developer/Resume</link>
             <guid>Resume</guid>
             <pubDate>Mon, 12 Jun 2023 11:24:09 GMT</pubDate>
         </item>

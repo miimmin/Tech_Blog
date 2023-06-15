@@ -2,12 +2,19 @@ export default {
   "title": "상민!",
   "tagline": "Dinosaurs are cool",
   "url": "https://miimmin.github.io",
-  "baseUrl": "/Tech-Blog/",
+  "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/melting.ico",
   "organizationName": "miimmin",
   "projectName": "Tech-Blog",
+  "i18n": {
+    "defaultLocale": "ko",
+    "locales": [
+      "ko"
+    ],
+    "localeConfigs": {}
+  },
   "presets": [
     [
       "@docusaurus/preset-classic",
@@ -285,13 +292,6 @@ export default {
     ]
   ],
   "baseUrlIssueBanner": true,
-  "i18n": {
-    "defaultLocale": "en",
-    "locales": [
-      "en"
-    ],
-    "localeConfigs": {}
-  },
   "onDuplicateRoutes": "warn",
   "customFields": {},
   "themes": [],

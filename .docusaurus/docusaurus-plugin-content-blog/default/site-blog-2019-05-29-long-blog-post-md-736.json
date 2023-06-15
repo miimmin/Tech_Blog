@@ -1,18 +1,18 @@
 {
-  "permalink": "/Tech-Blog/blog/long-blog-post",
+  "permalink": "/blog/long-blog-post",
   "source": "@site/blog/2019-05-29-long-blog-post.md",
   "title": "Long Blog Post",
   "description": "This is the summary of a very long blog post,",
   "date": "2019-05-29T00:00:00.000Z",
-  "formattedDate": "May 29, 2019",
+  "formattedDate": "2019년 5월 29일",
   "tags": [
     {
       "label": "hello",
-      "permalink": "/Tech-Blog/blog/tags/hello"
+      "permalink": "/blog/tags/hello"
     },
     {
       "label": "docusaurus",
-      "permalink": "/Tech-Blog/blog/tags/docusaurus"
+      "permalink": "/blog/tags/docusaurus"
     }
   ],
   "truncated": true,
@@ -27,10 +27,10 @@
   ],
   "prevItem": {
     "title": "MDX Blog Post",
-    "permalink": "/Tech-Blog/blog/mdx-blog-post"
+    "permalink": "/blog/mdx-blog-post"
   },
   "nextItem": {
     "title": "First Blog Post",
-    "permalink": "/Tech-Blog/blog/first-blog-post"
+    "permalink": "/blog/first-blog-post"
   }
 }

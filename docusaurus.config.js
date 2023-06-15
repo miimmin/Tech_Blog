@@ -13,7 +13,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   favicon: 'img/melting.ico',
   organizationName: 'miimmin', // Usually your GitHub org/user name.
   projectName: 'Tech-Blog', // Usually your repo name.
-
+  i18n: {
+    defaultLocale: 'ko',
+    locales: ['ko'],
+  },
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -27,7 +30,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         blog: {
           showReadingTime: false,
           editLocalizedFiles: false,
-
 
           // Please change this to your repo.
         },
@@ -67,6 +69,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+        // additionalLanguages: ['powershell'],
       },
     }),
   plugins: [

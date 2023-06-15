@@ -1,14 +1,14 @@
 {
-  "permalink": "/Tech-Blog/blog/mdx-blog-post",
+  "permalink": "/blog/mdx-blog-post",
   "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
   "title": "MDX Blog Post",
   "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
   "date": "2021-08-01T00:00:00.000Z",
-  "formattedDate": "August 1, 2021",
+  "formattedDate": "2021년 8월 1일",
   "tags": [
     {
       "label": "docusaurus",
-      "permalink": "/Tech-Blog/blog/tags/docusaurus"
+      "permalink": "/blog/tags/docusaurus"
     }
   ],
   "truncated": false,
@@ -23,10 +23,10 @@
   ],
   "prevItem": {
     "title": "Welcome",
-    "permalink": "/Tech-Blog/blog/welcome"
+    "permalink": "/blog/welcome"
   },
   "nextItem": {
     "title": "Long Blog Post",
-    "permalink": "/Tech-Blog/blog/long-blog-post"
+    "permalink": "/blog/long-blog-post"
   }
 }
