@@ -38,6 +38,28 @@
         "prevItem": {
           "title": "이상민 Backend Developer",
           "permalink": "/developer/Resume"
+        },
+        "nextItem": {
+          "title": "이상민 Backend Developer",
+          "permalink": "/developer/Sangmin"
+        }
+      }
+    },
+    {
+      "id": "이상민 Backend Developer",
+      "metadata": {
+        "permalink": "/developer/Sangmin",
+        "source": "@site/developer/Sangmin.mdx",
+        "title": "이상민 Backend Developer",
+        "description": "git    &ensp;",
+        "date": "2023-06-01T00:00:00.000Z",
+        "formattedDate": "2023년 6월 1일",
+        "tags": [],
+        "truncated": false,
+        "authors": [],
+        "prevItem": {
+          "title": "이상민 Backend Developer",
+          "permalink": "/developer/Resume_REF"
         }
       }
     }

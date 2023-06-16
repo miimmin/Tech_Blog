@@ -3,16 +3,16 @@
   "permalink": "/docs/tags/메트릭",
   "docs": [
     {
-      "id": "dev/cs/lcp/index",
-      "title": "LCP",
-      "description": "Largest Contentful Paint 알아보기",
-      "permalink": "/docs/dev/cs/lcp/index"
-    },
-    {
       "id": "dev/cs/metrics/index",
       "title": "메트릭",
       "description": "성능 및 사용자 경험 측정",
       "permalink": "/docs/dev/cs/metrics/index"
+    },
+    {
+      "id": "dev/cs/lcp/index",
+      "title": "LCP",
+      "description": "Largest Contentful Paint 알아보기",
+      "permalink": "/docs/dev/cs/lcp/index"
     }
   ],
   "allTagsPath": "/docs/tags"

@@ -100,7 +100,7 @@ export default [
   },
   {
     path: '/developer',
-    component: ComponentCreator('/developer','b81'),
+    component: ComponentCreator('/developer','ad4'),
     exact: true
   },
   {
@@ -116,6 +116,11 @@ export default [
   {
     path: '/developer/Resume_REF',
     component: ComponentCreator('/developer/Resume_REF','281'),
+    exact: true
+  },
+  {
+    path: '/developer/Sangmin',
+    component: ComponentCreator('/developer/Sangmin','1d8'),
     exact: true
   },
   {
