@@ -5,12 +5,11 @@
   "description": "git    &ensp;",
   "date": "2023-06-01T00:00:00.000Z",
   "formattedDate": "2023년 6월 1일",
-  "tags": [
-    {
-      "label": "프리온보딩",
-      "permalink": "/developer/tags/프리온보딩"
-    }
-  ],
+  "tags": [],
   "truncated": false,
-  "authors": []
+  "authors": [],
+  "nextItem": {
+    "title": "이상민 Backend Developer",
+    "permalink": "/developer/Resume_REF"
+  }
 }

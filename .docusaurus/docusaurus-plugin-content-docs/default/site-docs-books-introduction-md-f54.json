@@ -19,10 +19,5 @@
     "last_update": {
       "date": "2022-10-19"
     }
-  },
-  "sidebar": "books",
-  "next": {
-    "title": "책 소개",
-    "permalink": "/docs/books/effective-typescript/introduction"
   }
 }

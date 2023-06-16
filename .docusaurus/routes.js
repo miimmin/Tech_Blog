@@ -100,7 +100,7 @@ export default [
   },
   {
     path: '/developer',
-    component: ComponentCreator('/developer','931'),
+    component: ComponentCreator('/developer','b81'),
     exact: true
   },
   {
@@ -114,13 +114,18 @@ export default [
     exact: true
   },
   {
+    path: '/developer/Resume_REF',
+    component: ComponentCreator('/developer/Resume_REF','281'),
+    exact: true
+  },
+  {
     path: '/developer/tags',
     component: ComponentCreator('/developer/tags','a77'),
     exact: true
   },
   {
     path: '/developer/tags/프리온보딩',
-    component: ComponentCreator('/developer/tags/프리온보딩','aec'),
+    component: ComponentCreator('/developer/tags/프리온보딩','449'),
     exact: true
   },
   {
@@ -280,67 +285,57 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','835'),
+    component: ComponentCreator('/docs','337'),
     routes: [
       {
         path: '/docs/books/',
-        component: ComponentCreator('/docs/books/','d48'),
-        exact: true,
-        'sidebar': "books"
+        component: ComponentCreator('/docs/books/','44d'),
+        exact: true
       },
       {
         path: '/docs/books/effective-typescript/01',
-        component: ComponentCreator('/docs/books/effective-typescript/01','91c'),
-        exact: true,
-        'sidebar': "books"
+        component: ComponentCreator('/docs/books/effective-typescript/01','2d8'),
+        exact: true
       },
       {
         path: '/docs/books/effective-typescript/02',
-        component: ComponentCreator('/docs/books/effective-typescript/02','b75'),
-        exact: true,
-        'sidebar': "books"
+        component: ComponentCreator('/docs/books/effective-typescript/02','a53'),
+        exact: true
       },
       {
         path: '/docs/books/effective-typescript/introduction',
-        component: ComponentCreator('/docs/books/effective-typescript/introduction','2a7'),
-        exact: true,
-        'sidebar': "books"
+        component: ComponentCreator('/docs/books/effective-typescript/introduction','267'),
+        exact: true
       },
       {
         path: '/docs/books/frameworkless-front-end-development/01',
-        component: ComponentCreator('/docs/books/frameworkless-front-end-development/01','8b5'),
-        exact: true,
-        'sidebar': "books"
+        component: ComponentCreator('/docs/books/frameworkless-front-end-development/01','975'),
+        exact: true
       },
       {
         path: '/docs/books/frameworkless-front-end-development/02',
-        component: ComponentCreator('/docs/books/frameworkless-front-end-development/02','ea8'),
-        exact: true,
-        'sidebar': "books"
+        component: ComponentCreator('/docs/books/frameworkless-front-end-development/02','912'),
+        exact: true
       },
       {
         path: '/docs/books/frameworkless-front-end-development/03',
-        component: ComponentCreator('/docs/books/frameworkless-front-end-development/03','397'),
-        exact: true,
-        'sidebar': "books"
+        component: ComponentCreator('/docs/books/frameworkless-front-end-development/03','1e4'),
+        exact: true
       },
       {
         path: '/docs/books/frameworkless-front-end-development/04',
-        component: ComponentCreator('/docs/books/frameworkless-front-end-development/04','47a'),
-        exact: true,
-        'sidebar': "books"
+        component: ComponentCreator('/docs/books/frameworkless-front-end-development/04','7e6'),
+        exact: true
       },
       {
         path: '/docs/books/frameworkless-front-end-development/05',
-        component: ComponentCreator('/docs/books/frameworkless-front-end-development/05','ca2'),
-        exact: true,
-        'sidebar': "books"
+        component: ComponentCreator('/docs/books/frameworkless-front-end-development/05','ef5'),
+        exact: true
       },
       {
         path: '/docs/books/frameworkless-front-end-development/06',
-        component: ComponentCreator('/docs/books/frameworkless-front-end-development/06','453'),
-        exact: true,
-        'sidebar': "books"
+        component: ComponentCreator('/docs/books/frameworkless-front-end-development/06','cf5'),
+        exact: true
       },
       {
         path: '/docs/books/frameworkless-front-end-development/07',
@@ -349,27 +344,23 @@ export default [
       },
       {
         path: '/docs/books/frameworkless-front-end-development/introduction',
-        component: ComponentCreator('/docs/books/frameworkless-front-end-development/introduction','ca5'),
-        exact: true,
-        'sidebar': "books"
+        component: ComponentCreator('/docs/books/frameworkless-front-end-development/introduction','32d'),
+        exact: true
       },
       {
         path: '/docs/books/learning-typescript/01',
-        component: ComponentCreator('/docs/books/learning-typescript/01','bf6'),
-        exact: true,
-        'sidebar': "books"
+        component: ComponentCreator('/docs/books/learning-typescript/01','b53'),
+        exact: true
       },
       {
         path: '/docs/books/learning-typescript/02',
-        component: ComponentCreator('/docs/books/learning-typescript/02','a68'),
-        exact: true,
-        'sidebar': "books"
+        component: ComponentCreator('/docs/books/learning-typescript/02','172'),
+        exact: true
       },
       {
         path: '/docs/books/learning-typescript/introduction',
-        component: ComponentCreator('/docs/books/learning-typescript/introduction','7f9'),
-        exact: true,
-        'sidebar': "books"
+        component: ComponentCreator('/docs/books/learning-typescript/introduction','bdc'),
+        exact: true
       },
       {
         path: '/docs/cs/',

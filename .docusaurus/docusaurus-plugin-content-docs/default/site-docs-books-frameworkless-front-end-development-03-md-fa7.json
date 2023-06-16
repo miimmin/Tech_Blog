@@ -16,14 +16,5 @@
     "last_update": {
       "date": "2022-10-25"
     }
-  },
-  "sidebar": "books",
-  "previous": {
-    "title": "02 렌더링",
-    "permalink": "/docs/books/frameworkless-front-end-development/02"
-  },
-  "next": {
-    "title": "04 웹 구성요소",
-    "permalink": "/docs/books/frameworkless-front-end-development/04"
   }
 }

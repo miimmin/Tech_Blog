@@ -16,14 +16,5 @@
     "last_update": {
       "date": "2022-11-02"
     }
-  },
-  "sidebar": "books",
-  "previous": {
-    "title": "03 DOM 이벤트 관리",
-    "permalink": "/docs/books/frameworkless-front-end-development/03"
-  },
-  "next": {
-    "title": "05 HTTP 요청",
-    "permalink": "/docs/books/frameworkless-front-end-development/05"
   }
 }

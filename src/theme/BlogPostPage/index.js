@@ -11,6 +11,8 @@ import BlogPostItem from '@theme/BlogPostItem';
 import BlogPostPaginator from '@theme/BlogPostPaginator';
 import {ThemeClassNames} from '@docusaurus/theme-common';
 import Comment from "../../components/Comment";
+import styles from './styles.module.css';
+
 
 function BlogPostPage(props) {
   const {content: BlogPostContents, sidebar} = props;
@@ -30,12 +32,14 @@ function BlogPostPage(props) {
     <BlogLayout
       wrapperClassName={ThemeClassNames.wrapper.blogPages}
       pageClassName={ThemeClassNames.page.blogPostPage}
-      sidebar={sidebar}
-      toc={
-        !hideTableOfContents && BlogPostContents.toc
-          ? BlogPostContents.toc
-          : undefined
-      }
+      // sidebar={sidebar}
+      sidebar={undefined}
+      toc = {undefined}
+      // toc={
+      //   !hideTableOfContents && BlogPostContents.toc
+      //     ? BlogPostContents.toc
+      //     : undefined
+      // }
     >
       <Seo // TODO refactor needed: it's a bit annoying but Seo MUST be inside BlogLayout
         // otherwise  default image (set by BlogLayout) would shadow the custom blog post image
@@ -65,6 +69,8 @@ function BlogPostPage(props) {
         )}
       </Seo>
 
+      <outter className={styles.outer}>
+        <inner className={styles.inner}>
       <BlogPostItem
         frontMatter={frontMatter}
         assets={assets}
@@ -72,14 +78,16 @@ function BlogPostPage(props) {
         isBlogPostPage>
         <BlogPostContents />
       </BlogPostItem>
+      </inner>
+      </outter>
 
 
         {/*<Comment />*/}
 
 
-      {(nextItem || prevItem) && (
-        <BlogPostPaginator nextItem={nextItem} prevItem={prevItem} />
-      )}
+      {/*{(nextItem || prevItem) && (*/}
+      {/*  <BlogPostPaginator nextItem={nextItem} prevItem={prevItem} />*/}
+      {/*)}*/}
     </BlogLayout>
   );
 }

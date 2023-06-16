@@ -16,14 +16,5 @@
     "last_update": {
       "date": "2022-11-02"
     }
-  },
-  "sidebar": "books",
-  "previous": {
-    "title": "04 웹 구성요소",
-    "permalink": "/docs/books/frameworkless-front-end-development/04"
-  },
-  "next": {
-    "title": "06 라우팅",
-    "permalink": "/docs/books/frameworkless-front-end-development/06"
   }
 }

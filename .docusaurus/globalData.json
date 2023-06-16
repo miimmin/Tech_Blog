@@ -12,48 +12,39 @@
           "docs": [
             {
               "id": "books/effective-typescript/01",
-              "path": "/docs/books/effective-typescript/01",
-              "sidebar": "books"
+              "path": "/docs/books/effective-typescript/01"
             },
             {
               "id": "books/effective-typescript/02",
-              "path": "/docs/books/effective-typescript/02",
-              "sidebar": "books"
+              "path": "/docs/books/effective-typescript/02"
             },
             {
               "id": "books/effective-typescript/introduction",
-              "path": "/docs/books/effective-typescript/introduction",
-              "sidebar": "books"
+              "path": "/docs/books/effective-typescript/introduction"
             },
             {
               "id": "books/frameworkless-front-end-development/01",
-              "path": "/docs/books/frameworkless-front-end-development/01",
-              "sidebar": "books"
+              "path": "/docs/books/frameworkless-front-end-development/01"
             },
             {
               "id": "books/frameworkless-front-end-development/02",
-              "path": "/docs/books/frameworkless-front-end-development/02",
-              "sidebar": "books"
+              "path": "/docs/books/frameworkless-front-end-development/02"
             },
             {
               "id": "books/frameworkless-front-end-development/03",
-              "path": "/docs/books/frameworkless-front-end-development/03",
-              "sidebar": "books"
+              "path": "/docs/books/frameworkless-front-end-development/03"
             },
             {
               "id": "books/frameworkless-front-end-development/04",
-              "path": "/docs/books/frameworkless-front-end-development/04",
-              "sidebar": "books"
+              "path": "/docs/books/frameworkless-front-end-development/04"
             },
             {
               "id": "books/frameworkless-front-end-development/05",
-              "path": "/docs/books/frameworkless-front-end-development/05",
-              "sidebar": "books"
+              "path": "/docs/books/frameworkless-front-end-development/05"
             },
             {
               "id": "books/frameworkless-front-end-development/06",
-              "path": "/docs/books/frameworkless-front-end-development/06",
-              "sidebar": "books"
+              "path": "/docs/books/frameworkless-front-end-development/06"
             },
             {
               "id": "books/frameworkless-front-end-development/07",
@@ -61,28 +52,23 @@
             },
             {
               "id": "books/frameworkless-front-end-development/introduction",
-              "path": "/docs/books/frameworkless-front-end-development/introduction",
-              "sidebar": "books"
+              "path": "/docs/books/frameworkless-front-end-development/introduction"
             },
             {
               "id": "books/introduction",
-              "path": "/docs/books/",
-              "sidebar": "books"
+              "path": "/docs/books/"
             },
             {
               "id": "books/learning-typescript/01",
-              "path": "/docs/books/learning-typescript/01",
-              "sidebar": "books"
+              "path": "/docs/books/learning-typescript/01"
             },
             {
               "id": "books/learning-typescript/02",
-              "path": "/docs/books/learning-typescript/02",
-              "sidebar": "books"
+              "path": "/docs/books/learning-typescript/02"
             },
             {
               "id": "books/learning-typescript/introduction",
-              "path": "/docs/books/learning-typescript/introduction",
-              "sidebar": "books"
+              "path": "/docs/books/learning-typescript/introduction"
             },
             {
               "id": "cs/database/normalization/DeNormalization",

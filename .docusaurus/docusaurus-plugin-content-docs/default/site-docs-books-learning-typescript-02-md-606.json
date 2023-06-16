@@ -17,10 +17,5 @@
       "date": "2023-04-06"
     },
     "draft": true
-  },
-  "sidebar": "books",
-  "previous": {
-    "title": "01 개념",
-    "permalink": "/docs/books/learning-typescript/01"
   }
 }

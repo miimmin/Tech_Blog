@@ -16,14 +16,5 @@
     "last_update": {
       "date": "2022-11-03"
     }
-  },
-  "sidebar": "books",
-  "previous": {
-    "title": "책 목록",
-    "permalink": "/docs/books/"
-  },
-  "next": {
-    "title": "01 타입스크립트 알아보기",
-    "permalink": "/docs/books/effective-typescript/01"
   }
 }

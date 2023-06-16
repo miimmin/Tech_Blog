@@ -17,14 +17,5 @@
       "date": "2022-11-09"
     },
     "draft": true
-  },
-  "sidebar": "books",
-  "previous": {
-    "title": "01 타입스크립트 알아보기",
-    "permalink": "/docs/books/effective-typescript/01"
-  },
-  "next": {
-    "title": "책 소개",
-    "permalink": "/docs/books/frameworkless-front-end-development/introduction"
   }
 }

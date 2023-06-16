@@ -16,14 +16,5 @@
     "last_update": {
       "date": "2022-10-19"
     }
-  },
-  "sidebar": "books",
-  "previous": {
-    "title": "02 타입스크립트의 타입 시스템",
-    "permalink": "/docs/books/effective-typescript/02"
-  },
-  "next": {
-    "title": "01 프레임워크에 대한 이야기",
-    "permalink": "/docs/books/frameworkless-front-end-development/01"
   }
 }

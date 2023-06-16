@@ -16,14 +16,5 @@
     "last_update": {
       "date": "2022-11-03"
     }
-  },
-  "sidebar": "books",
-  "previous": {
-    "title": "05 HTTP 요청",
-    "permalink": "/docs/books/frameworkless-front-end-development/05"
-  },
-  "next": {
-    "title": "책 소개",
-    "permalink": "/docs/books/learning-typescript/introduction"
   }
 }

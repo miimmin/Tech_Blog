@@ -16,14 +16,5 @@
     "last_update": {
       "date": "2023-04-03"
     }
-  },
-  "sidebar": "books",
-  "previous": {
-    "title": "책 소개",
-    "permalink": "/docs/books/learning-typescript/introduction"
-  },
-  "next": {
-    "title": "02 특징",
-    "permalink": "/docs/books/learning-typescript/02"
   }
 }

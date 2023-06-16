@@ -16,14 +16,5 @@
     "last_update": {
       "date": "2023-03-24"
     }
-  },
-  "sidebar": "books",
-  "previous": {
-    "title": "06 라우팅",
-    "permalink": "/docs/books/frameworkless-front-end-development/06"
-  },
-  "next": {
-    "title": "01 개념",
-    "permalink": "/docs/books/learning-typescript/01"
   }
 }

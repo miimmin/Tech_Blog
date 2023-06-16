@@ -16,14 +16,5 @@
     "last_update": {
       "date": "2022-10-24"
     }
-  },
-  "sidebar": "books",
-  "previous": {
-    "title": "01 프레임워크에 대한 이야기",
-    "permalink": "/docs/books/frameworkless-front-end-development/01"
-  },
-  "next": {
-    "title": "03 DOM 이벤트 관리",
-    "permalink": "/docs/books/frameworkless-front-end-development/03"
   }
 }

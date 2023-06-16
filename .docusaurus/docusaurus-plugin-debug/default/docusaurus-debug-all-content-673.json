@@ -197,88 +197,6 @@
                 "collapsible": true,
                 "collapsed": true
               }
-            ],
-            "books": [
-              {
-                "type": "doc",
-                "id": "books/introduction"
-              },
-              {
-                "type": "category",
-                "label": "이펙티브 타입스크립트",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "books/effective-typescript/introduction"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "books/effective-typescript/01"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "books/effective-typescript/02"
-                  }
-                ],
-                "collapsible": true,
-                "collapsed": true
-              },
-              {
-                "type": "category",
-                "label": "프레임워크 없는 프론트엔드 개발",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "books/frameworkless-front-end-development/introduction"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "books/frameworkless-front-end-development/01"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "books/frameworkless-front-end-development/02"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "books/frameworkless-front-end-development/03"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "books/frameworkless-front-end-development/04"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "books/frameworkless-front-end-development/05"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "books/frameworkless-front-end-development/06"
-                  }
-                ],
-                "collapsible": true,
-                "collapsed": true
-              },
-              {
-                "type": "category",
-                "label": "러닝 타입스크립트",
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "books/learning-typescript/introduction"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "books/learning-typescript/01"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "books/learning-typescript/02"
-                  }
-                ],
-                "collapsible": true,
-                "collapsed": true
-              }
             ]
           },
           "docs": [
@@ -300,15 +218,6 @@
                 "last_update": {
                   "date": "2022-11-03"
                 }
-              },
-              "sidebar": "books",
-              "previous": {
-                "title": "책 소개",
-                "permalink": "/docs/books/effective-typescript/introduction"
-              },
-              "next": {
-                "title": "02 타입스크립트의 타입 시스템",
-                "permalink": "/docs/books/effective-typescript/02"
               }
             },
             {
@@ -330,15 +239,6 @@
                   "date": "2022-11-09"
                 },
                 "draft": true
-              },
-              "sidebar": "books",
-              "previous": {
-                "title": "01 타입스크립트 알아보기",
-                "permalink": "/docs/books/effective-typescript/01"
-              },
-              "next": {
-                "title": "책 소개",
-                "permalink": "/docs/books/frameworkless-front-end-development/introduction"
               }
             },
             {
@@ -359,15 +259,6 @@
                 "last_update": {
                   "date": "2022-11-03"
                 }
-              },
-              "sidebar": "books",
-              "previous": {
-                "title": "책 목록",
-                "permalink": "/docs/books/"
-              },
-              "next": {
-                "title": "01 타입스크립트 알아보기",
-                "permalink": "/docs/books/effective-typescript/01"
               }
             },
             {
@@ -388,15 +279,6 @@
                 "last_update": {
                   "date": "2022-10-19"
                 }
-              },
-              "sidebar": "books",
-              "previous": {
-                "title": "책 소개",
-                "permalink": "/docs/books/frameworkless-front-end-development/introduction"
-              },
-              "next": {
-                "title": "02 렌더링",
-                "permalink": "/docs/books/frameworkless-front-end-development/02"
               }
             },
             {
@@ -417,15 +299,6 @@
                 "last_update": {
                   "date": "2022-10-24"
                 }
-              },
-              "sidebar": "books",
-              "previous": {
-                "title": "01 프레임워크에 대한 이야기",
-                "permalink": "/docs/books/frameworkless-front-end-development/01"
-              },
-              "next": {
-                "title": "03 DOM 이벤트 관리",
-                "permalink": "/docs/books/frameworkless-front-end-development/03"
               }
             },
             {
@@ -446,15 +319,6 @@
                 "last_update": {
                   "date": "2022-10-25"
                 }
-              },
-              "sidebar": "books",
-              "previous": {
-                "title": "02 렌더링",
-                "permalink": "/docs/books/frameworkless-front-end-development/02"
-              },
-              "next": {
-                "title": "04 웹 구성요소",
-                "permalink": "/docs/books/frameworkless-front-end-development/04"
               }
             },
             {
@@ -475,15 +339,6 @@
                 "last_update": {
                   "date": "2022-11-02"
                 }
-              },
-              "sidebar": "books",
-              "previous": {
-                "title": "03 DOM 이벤트 관리",
-                "permalink": "/docs/books/frameworkless-front-end-development/03"
-              },
-              "next": {
-                "title": "05 HTTP 요청",
-                "permalink": "/docs/books/frameworkless-front-end-development/05"
               }
             },
             {
@@ -504,15 +359,6 @@
                 "last_update": {
                   "date": "2022-11-02"
                 }
-              },
-              "sidebar": "books",
-              "previous": {
-                "title": "04 웹 구성요소",
-                "permalink": "/docs/books/frameworkless-front-end-development/04"
-              },
-              "next": {
-                "title": "06 라우팅",
-                "permalink": "/docs/books/frameworkless-front-end-development/06"
               }
             },
             {
@@ -533,15 +379,6 @@
                 "last_update": {
                   "date": "2022-11-03"
                 }
-              },
-              "sidebar": "books",
-              "previous": {
-                "title": "05 HTTP 요청",
-                "permalink": "/docs/books/frameworkless-front-end-development/05"
-              },
-              "next": {
-                "title": "책 소개",
-                "permalink": "/docs/books/learning-typescript/introduction"
               }
             },
             {
@@ -580,15 +417,6 @@
                 "last_update": {
                   "date": "2022-10-19"
                 }
-              },
-              "sidebar": "books",
-              "previous": {
-                "title": "02 타입스크립트의 타입 시스템",
-                "permalink": "/docs/books/effective-typescript/02"
-              },
-              "next": {
-                "title": "01 프레임워크에 대한 이야기",
-                "permalink": "/docs/books/frameworkless-front-end-development/01"
               }
             },
             {
@@ -612,11 +440,6 @@
                 "last_update": {
                   "date": "2022-10-19"
                 }
-              },
-              "sidebar": "books",
-              "next": {
-                "title": "책 소개",
-                "permalink": "/docs/books/effective-typescript/introduction"
               }
             },
             {
@@ -637,15 +460,6 @@
                 "last_update": {
                   "date": "2023-04-03"
                 }
-              },
-              "sidebar": "books",
-              "previous": {
-                "title": "책 소개",
-                "permalink": "/docs/books/learning-typescript/introduction"
-              },
-              "next": {
-                "title": "02 특징",
-                "permalink": "/docs/books/learning-typescript/02"
               }
             },
             {
@@ -667,11 +481,6 @@
                   "date": "2023-04-06"
                 },
                 "draft": true
-              },
-              "sidebar": "books",
-              "previous": {
-                "title": "01 개념",
-                "permalink": "/docs/books/learning-typescript/01"
               }
             },
             {
@@ -692,15 +501,6 @@
                 "last_update": {
                   "date": "2023-03-24"
                 }
-              },
-              "sidebar": "books",
-              "previous": {
-                "title": "06 라우팅",
-                "permalink": "/docs/books/frameworkless-front-end-development/06"
-              },
-              "next": {
-                "title": "01 개념",
-                "permalink": "/docs/books/learning-typescript/01"
               }
             },
             {
@@ -2045,6 +1845,24 @@
             "description": "git    &ensp;",
             "date": "2023-06-01T00:00:00.000Z",
             "formattedDate": "2023년 6월 1일",
+            "tags": [],
+            "truncated": false,
+            "authors": [],
+            "nextItem": {
+              "title": "이상민 Backend Developer",
+              "permalink": "/developer/Resume_REF"
+            }
+          }
+        },
+        {
+          "id": "이상민 Backend Developer",
+          "metadata": {
+            "permalink": "/developer/Resume_REF",
+            "source": "@site/developer/Resume_REF.mdx",
+            "title": "이상민 Backend Developer",
+            "description": "git    &ensp;",
+            "date": "2023-06-01T00:00:00.000Z",
+            "formattedDate": "2023년 6월 1일",
             "tags": [
               {
                 "label": "프리온보딩",
@@ -2052,7 +1870,11 @@
               }
             ],
             "truncated": false,
-            "authors": []
+            "authors": [],
+            "prevItem": {
+              "title": "이상민 Backend Developer",
+              "permalink": "/developer/Resume"
+            }
           }
         }
       ],
@@ -2063,13 +1885,14 @@
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
-            "totalCount": 1,
+            "totalCount": 2,
             "previousPage": null,
             "nextPage": null,
             "blogDescription": "에러 해결 기록",
             "blogTitle": "Developer"
           },
           "items": [
+            "이상민 Backend Developer",
             "이상민 Backend Developer"
           ]
         }
