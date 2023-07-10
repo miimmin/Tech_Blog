@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktechnical_blog=self.webpackChunktechnical_blog||[]).push([[3224],{5028:e=>{e.exports=JSON.parse('{"name":"LCP","permalink":"/docs/tags/lcp","docs":[{"id":"dev/cs/lcp/index","title":"LCP","description":"Largest Contentful Paint \uc54c\uc544\ubcf4\uae30","permalink":"/docs/dev/cs/lcp/index"}],"allTagsPath":"/docs/tags"}')}}]);
