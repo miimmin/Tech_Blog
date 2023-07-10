@@ -1,12 +1,12 @@
 {
-  "defaultLocale": "ko",
+  "defaultLocale": "en",
   "locales": [
-    "ko"
+    "en"
   ],
-  "currentLocale": "ko",
+  "currentLocale": "en",
   "localeConfigs": {
-    "ko": {
-      "label": "한국어",
+    "en": {
+      "label": "English",
       "direction": "ltr"
     }
   }

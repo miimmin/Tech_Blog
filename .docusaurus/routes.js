@@ -65,7 +65,7 @@ export default [
   },
   {
     path: '/tech-blog/developer',
-    component: ComponentCreator('/tech-blog/developer','15f'),
+    component: ComponentCreator('/tech-blog/developer','791'),
     exact: true
   },
   {
@@ -95,7 +95,7 @@ export default [
   },
   {
     path: '/tech-blog/developer/tags/프리온보딩',
-    component: ComponentCreator('/tech-blog/developer/tags/프리온보딩','8bf'),
+    component: ComponentCreator('/tech-blog/developer/tags/프리온보딩','ab7'),
     exact: true
   },
   {
