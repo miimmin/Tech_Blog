@@ -7,7 +7,7 @@
   "source": "@site/docs/books/effective-typescript/introduction.md",
   "sourceDirName": "books/effective-typescript",
   "slug": "/books/effective-typescript/introduction",
-  "permalink": "/tech-blog/docs/books/effective-typescript/introduction",
+  "permalink": "/docs/books/effective-typescript/introduction",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/effective-typescript/introduction.md",
   "tags": [],
   "version": "current",

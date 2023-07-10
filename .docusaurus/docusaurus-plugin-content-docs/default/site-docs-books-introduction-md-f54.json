@@ -7,7 +7,7 @@
   "source": "@site/docs/books/introduction.md",
   "sourceDirName": "books",
   "slug": "/books/",
-  "permalink": "/tech-blog/docs/books/",
+  "permalink": "/docs/books/",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/introduction.md",
   "tags": [],
   "version": "current",

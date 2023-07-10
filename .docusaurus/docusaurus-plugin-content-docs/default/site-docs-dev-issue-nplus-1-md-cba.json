@@ -7,7 +7,7 @@
   "source": "@site/docs/dev/issue/Nplus1.md",
   "sourceDirName": "dev/issue",
   "slug": "/dev/issue/Nplus1",
-  "permalink": "/tech-blog/docs/dev/issue/Nplus1",
+  "permalink": "/docs/dev/issue/Nplus1",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/issue/Nplus1.md",
   "tags": [],
   "version": "current",
@@ -15,10 +15,10 @@
   "sidebar": "dev",
   "previous": {
     "title": "개발 이야기",
-    "permalink": "/tech-blog/docs/dev/"
+    "permalink": "/docs/dev/"
   },
   "next": {
     "title": "MultipleFetchJoin",
-    "permalink": "/tech-blog/docs/dev/issue/MultipleFetchJoin"
+    "permalink": "/docs/dev/issue/MultipleFetchJoin"
   }
 }

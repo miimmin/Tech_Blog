@@ -7,7 +7,7 @@
   "source": "@site/docs/dev/issue/MultipleFetchJoin.md",
   "sourceDirName": "dev/issue",
   "slug": "/dev/issue/MultipleFetchJoin",
-  "permalink": "/tech-blog/docs/dev/issue/MultipleFetchJoin",
+  "permalink": "/docs/dev/issue/MultipleFetchJoin",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/issue/MultipleFetchJoin.md",
   "tags": [],
   "version": "current",
@@ -15,10 +15,10 @@
   "sidebar": "dev",
   "previous": {
     "title": "Nplus1",
-    "permalink": "/tech-blog/docs/dev/issue/Nplus1"
+    "permalink": "/docs/dev/issue/Nplus1"
   },
   "next": {
     "title": "DirtyCheckingPerformance",
-    "permalink": "/tech-blog/docs/dev/issue/DirtyCheckingPerformance"
+    "permalink": "/docs/dev/issue/DirtyCheckingPerformance"
   }
 }

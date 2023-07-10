@@ -7,7 +7,7 @@
   "source": "@site/docs/cs/database/rdbms/Integrity.md",
   "sourceDirName": "cs/database/rdbms",
   "slug": "/cs/database/rdbms/Integrity",
-  "permalink": "/tech-blog/docs/cs/database/rdbms/Integrity",
+  "permalink": "/docs/cs/database/rdbms/Integrity",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/rdbms/Integrity.md",
   "tags": [],
   "version": "current",
@@ -15,10 +15,10 @@
   "sidebar": "cs",
   "previous": {
     "title": "Key",
-    "permalink": "/tech-blog/docs/cs/database/rdbms/Key"
+    "permalink": "/docs/cs/database/rdbms/Key"
   },
   "next": {
     "title": "인덱스",
-    "permalink": "/tech-blog/docs/cs/database/sql-advanced/Index"
+    "permalink": "/docs/cs/database/sql-advanced/Index"
   }
 }

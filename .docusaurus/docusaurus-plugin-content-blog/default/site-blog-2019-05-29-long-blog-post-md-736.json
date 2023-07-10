@@ -1,5 +1,5 @@
 {
-  "permalink": "/tech-blog/blog/long-blog-post",
+  "permalink": "/blog/long-blog-post",
   "source": "@site/blog/2019-05-29-long-blog-post.md",
   "title": "Long Blog Post",
   "description": "This is the summary of a very long blog post,",
@@ -8,11 +8,11 @@
   "tags": [
     {
       "label": "hello",
-      "permalink": "/tech-blog/blog/tags/hello"
+      "permalink": "/blog/tags/hello"
     },
     {
       "label": "docusaurus",
-      "permalink": "/tech-blog/blog/tags/docusaurus"
+      "permalink": "/blog/tags/docusaurus"
     }
   ],
   "truncated": true,
@@ -27,10 +27,10 @@
   ],
   "prevItem": {
     "title": "MDX Blog Post",
-    "permalink": "/tech-blog/blog/mdx-blog-post"
+    "permalink": "/blog/mdx-blog-post"
   },
   "nextItem": {
     "title": "First Blog Post",
-    "permalink": "/tech-blog/blog/first-blog-post"
+    "permalink": "/blog/first-blog-post"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/dev/issue/DirtyCheckingPerformance.md",
   "sourceDirName": "dev/issue",
   "slug": "/dev/issue/DirtyCheckingPerformance",
-  "permalink": "/tech-blog/docs/dev/issue/DirtyCheckingPerformance",
+  "permalink": "/docs/dev/issue/DirtyCheckingPerformance",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/issue/DirtyCheckingPerformance.md",
   "tags": [],
   "version": "current",
@@ -15,6 +15,6 @@
   "sidebar": "dev",
   "previous": {
     "title": "MultipleFetchJoin",
-    "permalink": "/tech-blog/docs/dev/issue/MultipleFetchJoin"
+    "permalink": "/docs/dev/issue/MultipleFetchJoin"
   }
 }

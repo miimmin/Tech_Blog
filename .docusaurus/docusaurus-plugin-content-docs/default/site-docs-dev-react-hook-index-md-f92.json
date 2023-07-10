@@ -7,12 +7,12 @@
   "source": "@site/docs/dev/react/hook/index.md",
   "sourceDirName": "dev/react/hook",
   "slug": "/dev/react/hook/index",
-  "permalink": "/tech-blog/docs/dev/react/hook/index",
+  "permalink": "/docs/dev/react/hook/index",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/react/hook/index.md",
   "tags": [
     {
       "label": "hook",
-      "permalink": "/tech-blog/docs/tags/hook"
+      "permalink": "/docs/tags/hook"
     }
   ],
   "version": "current",

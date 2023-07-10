@@ -7,7 +7,7 @@
   "source": "@site/docs/cs/database/transaction/Transaction.md",
   "sourceDirName": "cs/database/transaction",
   "slug": "/cs/database/transaction/Transaction",
-  "permalink": "/tech-blog/docs/cs/database/transaction/Transaction",
+  "permalink": "/docs/cs/database/transaction/Transaction",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/transaction/Transaction.md",
   "tags": [],
   "version": "current",
@@ -15,10 +15,10 @@
   "sidebar": "cs",
   "previous": {
     "title": "Lock Escalation",
-    "permalink": "/tech-blog/docs/cs/database/transaction/LockEscalation"
+    "permalink": "/docs/cs/database/transaction/LockEscalation"
   },
   "next": {
     "title": "IsolationProblem",
-    "permalink": "/tech-blog/docs/cs/database/transaction/IsolationProblem"
+    "permalink": "/docs/cs/database/transaction/IsolationProblem"
   }
 }

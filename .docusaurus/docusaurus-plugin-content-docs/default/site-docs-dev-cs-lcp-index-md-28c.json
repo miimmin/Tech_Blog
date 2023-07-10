@@ -7,20 +7,20 @@
   "source": "@site/docs/dev/cs/lcp/index.md",
   "sourceDirName": "dev/cs/lcp",
   "slug": "/dev/cs/lcp/index",
-  "permalink": "/tech-blog/docs/dev/cs/lcp/index",
+  "permalink": "/docs/dev/cs/lcp/index",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/cs/lcp/index.md",
   "tags": [
     {
       "label": "LCP",
-      "permalink": "/tech-blog/docs/tags/lcp"
+      "permalink": "/docs/tags/lcp"
     },
     {
       "label": "web-vital",
-      "permalink": "/tech-blog/docs/tags/web-vital"
+      "permalink": "/docs/tags/web-vital"
     },
     {
       "label": "메트릭",
-      "permalink": "/tech-blog/docs/tags/메트릭"
+      "permalink": "/docs/tags/메트릭"
     }
   ],
   "version": "current",

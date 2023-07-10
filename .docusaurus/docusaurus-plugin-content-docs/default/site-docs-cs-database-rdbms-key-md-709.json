@@ -7,7 +7,7 @@
   "source": "@site/docs/cs/database/rdbms/Key.md",
   "sourceDirName": "cs/database/rdbms",
   "slug": "/cs/database/rdbms/Key",
-  "permalink": "/tech-blog/docs/cs/database/rdbms/Key",
+  "permalink": "/docs/cs/database/rdbms/Key",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/rdbms/Key.md",
   "tags": [],
   "version": "current",
@@ -15,10 +15,10 @@
   "sidebar": "cs",
   "previous": {
     "title": "관계대수 vs SQL",
-    "permalink": "/tech-blog/docs/cs/database/sql/relational-algebra/SQLvsRA"
+    "permalink": "/docs/cs/database/sql/relational-algebra/SQLvsRA"
   },
   "next": {
     "title": "무결성",
-    "permalink": "/tech-blog/docs/cs/database/rdbms/Integrity"
+    "permalink": "/docs/cs/database/rdbms/Integrity"
   }
 }
