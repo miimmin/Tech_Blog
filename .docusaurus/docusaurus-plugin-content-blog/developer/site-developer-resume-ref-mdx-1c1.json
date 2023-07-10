@@ -1,5 +1,5 @@
 {
-  "permalink": "/developer/Resume_REF",
+  "permalink": "/tech-blog/developer/Resume_REF",
   "source": "@site/developer/Resume_REF.mdx",
   "title": "이상민 Backend Developer",
   "description": "git    &ensp;",
@@ -8,17 +8,17 @@
   "tags": [
     {
       "label": "프리온보딩",
-      "permalink": "/developer/tags/프리온보딩"
+      "permalink": "/tech-blog/developer/tags/프리온보딩"
     }
   ],
   "truncated": false,
   "authors": [],
   "prevItem": {
     "title": "이상민 Backend Developer",
-    "permalink": "/developer/Resume"
+    "permalink": "/tech-blog/developer/Resume"
   },
   "nextItem": {
     "title": "이상민 Backend Developer",
-    "permalink": "/developer/Sangmin"
+    "permalink": "/tech-blog/developer/Sangmin"
   }
 }

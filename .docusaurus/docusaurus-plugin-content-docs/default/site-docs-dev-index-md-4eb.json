@@ -7,7 +7,7 @@
   "source": "@site/docs/dev/index.md",
   "sourceDirName": "dev",
   "slug": "/dev/",
-  "permalink": "/docs/dev/",
+  "permalink": "/tech-blog/docs/dev/",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/index.md",
   "tags": [],
   "version": "current",
@@ -20,6 +20,6 @@
   "sidebar": "dev",
   "next": {
     "title": "Nplus1",
-    "permalink": "/docs/dev/issue/Nplus1"
+    "permalink": "/tech-blog/docs/dev/issue/Nplus1"
   }
 }

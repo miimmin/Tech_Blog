@@ -7,7 +7,7 @@
   "source": "@site/docs/cs/database/normalization/Normalization.md",
   "sourceDirName": "cs/database/normalization",
   "slug": "/cs/database/normalization/Normalization",
-  "permalink": "/docs/cs/database/normalization/Normalization",
+  "permalink": "/tech-blog/docs/cs/database/normalization/Normalization",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/normalization/Normalization.md",
   "tags": [],
   "version": "current",
@@ -15,10 +15,10 @@
   "sidebar": "cs",
   "previous": {
     "title": "인덱스의 자료구조",
-    "permalink": "/docs/cs/database/sql-advanced/IndexDataStructure"
+    "permalink": "/tech-blog/docs/cs/database/sql-advanced/IndexDataStructure"
   },
   "next": {
     "title": "비정규화 (반정규화)",
-    "permalink": "/docs/cs/database/normalization/DeNormalization"
+    "permalink": "/tech-blog/docs/cs/database/normalization/DeNormalization"
   }
 }

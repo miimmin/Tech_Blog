@@ -7,7 +7,7 @@
   "source": "@site/docs/cs/database/sql/relational-algebra/SQLvsRA.md",
   "sourceDirName": "cs/database/sql/relational-algebra",
   "slug": "/cs/database/sql/relational-algebra/SQLvsRA",
-  "permalink": "/docs/cs/database/sql/relational-algebra/SQLvsRA",
+  "permalink": "/tech-blog/docs/cs/database/sql/relational-algebra/SQLvsRA",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/sql/relational-algebra/SQLvsRA.md",
   "tags": [],
   "version": "current",
@@ -15,10 +15,10 @@
   "sidebar": "cs",
   "previous": {
     "title": "관계대수의 8대 연산자",
-    "permalink": "/docs/cs/database/sql/relational-algebra/RelatAlgeOperator"
+    "permalink": "/tech-blog/docs/cs/database/sql/relational-algebra/RelatAlgeOperator"
   },
   "next": {
     "title": "Key",
-    "permalink": "/docs/cs/database/rdbms/Key"
+    "permalink": "/tech-blog/docs/cs/database/rdbms/Key"
   }
 }

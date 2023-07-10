@@ -7,24 +7,24 @@
   "source": "@site/docs/dev/git/sync-repository.md",
   "sourceDirName": "dev/git",
   "slug": "/dev/git/sync-repository",
-  "permalink": "/docs/dev/git/sync-repository",
+  "permalink": "/tech-blog/docs/dev/git/sync-repository",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/git/sync-repository.md",
   "tags": [
     {
       "label": "git",
-      "permalink": "/docs/tags/git"
+      "permalink": "/tech-blog/docs/tags/git"
     },
     {
       "label": "fork",
-      "permalink": "/docs/tags/fork"
+      "permalink": "/tech-blog/docs/tags/fork"
     },
     {
       "label": "gitlab",
-      "permalink": "/docs/tags/gitlab"
+      "permalink": "/tech-blog/docs/tags/gitlab"
     },
     {
       "label": "github",
-      "permalink": "/docs/tags/github"
+      "permalink": "/tech-blog/docs/tags/github"
     }
   ],
   "version": "current",

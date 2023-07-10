@@ -1,5 +1,5 @@
 {
-  "permalink": "/developer/Resume",
+  "permalink": "/tech-blog/developer/Resume",
   "source": "@site/developer/Resume.mdx",
   "title": "이상민 Backend Developer",
   "description": "git    &ensp;",
@@ -10,6 +10,6 @@
   "authors": [],
   "nextItem": {
     "title": "이상민 Backend Developer",
-    "permalink": "/developer/Resume_REF"
+    "permalink": "/tech-blog/developer/Resume_REF"
   }
 }

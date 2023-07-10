@@ -7,24 +7,24 @@
   "source": "@site/docs/dev/git/trunk-based-development.md",
   "sourceDirName": "dev/git",
   "slug": "/dev/git/trunk-based-development",
-  "permalink": "/docs/dev/git/trunk-based-development",
+  "permalink": "/tech-blog/docs/dev/git/trunk-based-development",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/git/trunk-based-development.md",
   "tags": [
     {
       "label": "git",
-      "permalink": "/docs/tags/git"
+      "permalink": "/tech-blog/docs/tags/git"
     },
     {
       "label": "TBD",
-      "permalink": "/docs/tags/tbd"
+      "permalink": "/tech-blog/docs/tags/tbd"
     },
     {
       "label": "trunk-based-development",
-      "permalink": "/docs/tags/trunk-based-development"
+      "permalink": "/tech-blog/docs/tags/trunk-based-development"
     },
     {
       "label": "브랜치 전략",
-      "permalink": "/docs/tags/브랜치-전략"
+      "permalink": "/tech-blog/docs/tags/브랜치-전략"
     }
   ],
   "version": "current",
