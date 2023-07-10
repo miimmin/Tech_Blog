@@ -14,9 +14,9 @@
           "versionClassName": "docs-version-current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/sleeplessinwhat/miimmin/Tech-Blog/sidebars.js",
-          "contentPath": "/Users/sleeplessinwhat/miimmin/Tech-Blog/docs",
-          "contentPathLocalized": "/Users/sleeplessinwhat/miimmin/Tech-Blog/i18n/ko/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/sleeplessinwhat/miimmin/miimmin.github.io/sidebars.js",
+          "contentPath": "/Users/sleeplessinwhat/miimmin/miimmin.github.io/docs",
+          "contentPathLocalized": "/Users/sleeplessinwhat/miimmin/miimmin.github.io/i18n/ko/docusaurus-plugin-content-docs/current",
           "mainDocId": "cs/index",
           "sidebars": {
             "cs": [

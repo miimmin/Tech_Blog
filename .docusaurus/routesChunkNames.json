@@ -179,6 +179,38 @@
     "component": "component---theme-doc-tags-list-page-372-89e",
     "tags": "tags---docs-tags-559-5e5"
   },
+  "/docs/tags/메트릭-072": {
+    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-메트릭-3-c-2-058"
+  },
+  "/docs/tags/변수-9bc": {
+    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-변수-502-7d5"
+  },
+  "/docs/tags/브랜치-전략-726": {
+    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-브랜치-전략-073-9e4"
+  },
+  "/docs/tags/상수-014": {
+    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-상수-001-ba7"
+  },
+  "/docs/tags/성능-cf1": {
+    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-성능-8-e-3-e1a"
+  },
+  "/docs/tags/아보카도-에디션-라이트-e8d": {
+    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-아보카도-에디션-라이트-81-e-923"
+  },
+  "/docs/tags/이모티콘-64f": {
+    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-이모티콘d-1-f-0a3"
+  },
+  "/docs/tags/최적화-889": {
+    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-최적화fae-832"
+  },
   "/docs/tags/branch-282": {
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
     "tag": "tag---docs-tags-branch-6-b-3-f94"
@@ -262,38 +294,6 @@
   "/docs/tags/web-vital-12c": {
     "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
     "tag": "tag---docs-tags-web-vitalce-0-979"
-  },
-  "/docs/tags/메트릭-072": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-메트릭-3-c-2-058"
-  },
-  "/docs/tags/변수-9bc": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-변수-502-7d5"
-  },
-  "/docs/tags/브랜치-전략-726": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-브랜치-전략-073-9e4"
-  },
-  "/docs/tags/상수-014": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-상수-001-ba7"
-  },
-  "/docs/tags/성능-cf1": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-성능-8-e-3-e1a"
-  },
-  "/docs/tags/아보카도-에디션-라이트-e8d": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-아보카도-에디션-라이트-81-e-923"
-  },
-  "/docs/tags/이모티콘-64f": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-이모티콘d-1-f-0a3"
-  },
-  "/docs/tags/최적화-889": {
-    "component": "component---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "tag": "tag---docs-tags-최적화fae-832"
   },
   "/markdown-page-be1": {
     "component": "component---theme-mdx-page-1-f-3-b90",

@@ -139,6 +139,46 @@ export default [
     exact: true
   },
   {
+    path: '/docs/tags/메트릭',
+    component: ComponentCreator('/docs/tags/메트릭','072'),
+    exact: true
+  },
+  {
+    path: '/docs/tags/변수',
+    component: ComponentCreator('/docs/tags/변수','9bc'),
+    exact: true
+  },
+  {
+    path: '/docs/tags/브랜치-전략',
+    component: ComponentCreator('/docs/tags/브랜치-전략','726'),
+    exact: true
+  },
+  {
+    path: '/docs/tags/상수',
+    component: ComponentCreator('/docs/tags/상수','014'),
+    exact: true
+  },
+  {
+    path: '/docs/tags/성능',
+    component: ComponentCreator('/docs/tags/성능','cf1'),
+    exact: true
+  },
+  {
+    path: '/docs/tags/아보카도-에디션-라이트',
+    component: ComponentCreator('/docs/tags/아보카도-에디션-라이트','e8d'),
+    exact: true
+  },
+  {
+    path: '/docs/tags/이모티콘',
+    component: ComponentCreator('/docs/tags/이모티콘','64f'),
+    exact: true
+  },
+  {
+    path: '/docs/tags/최적화',
+    component: ComponentCreator('/docs/tags/최적화','889'),
+    exact: true
+  },
+  {
     path: '/docs/tags/branch',
     component: ComponentCreator('/docs/tags/branch','282'),
     exact: true
@@ -241,46 +281,6 @@ export default [
   {
     path: '/docs/tags/web-vital',
     component: ComponentCreator('/docs/tags/web-vital','12c'),
-    exact: true
-  },
-  {
-    path: '/docs/tags/메트릭',
-    component: ComponentCreator('/docs/tags/메트릭','072'),
-    exact: true
-  },
-  {
-    path: '/docs/tags/변수',
-    component: ComponentCreator('/docs/tags/변수','9bc'),
-    exact: true
-  },
-  {
-    path: '/docs/tags/브랜치-전략',
-    component: ComponentCreator('/docs/tags/브랜치-전략','726'),
-    exact: true
-  },
-  {
-    path: '/docs/tags/상수',
-    component: ComponentCreator('/docs/tags/상수','014'),
-    exact: true
-  },
-  {
-    path: '/docs/tags/성능',
-    component: ComponentCreator('/docs/tags/성능','cf1'),
-    exact: true
-  },
-  {
-    path: '/docs/tags/아보카도-에디션-라이트',
-    component: ComponentCreator('/docs/tags/아보카도-에디션-라이트','e8d'),
-    exact: true
-  },
-  {
-    path: '/docs/tags/이모티콘',
-    component: ComponentCreator('/docs/tags/이모티콘','64f'),
-    exact: true
-  },
-  {
-    path: '/docs/tags/최적화',
-    component: ComponentCreator('/docs/tags/최적화','889'),
     exact: true
   },
   {

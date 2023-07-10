@@ -20,7 +20,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/Users/sleeplessinwhat/miimmin/Tech-Blog/sidebars.js",
+          "sidebarPath": "/Users/sleeplessinwhat/miimmin/miimmin.github.io/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/"
         },
         "blog": {
@@ -28,7 +28,7 @@ export default {
           "editLocalizedFiles": false
         },
         "theme": {
-          "customCss": "/Users/sleeplessinwhat/miimmin/Tech-Blog/src/css/custom.css"
+          "customCss": "/Users/sleeplessinwhat/miimmin/miimmin.github.io/src/css/custom.css"
         }
       }
     ]
