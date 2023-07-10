@@ -5,8 +5,8 @@
         {
           "versionName": "current",
           "versionLabel": "Next",
-          "versionPath": "/docs",
-          "tagsPath": "/docs/tags",
+          "versionPath": "/tech-blog/docs",
+          "tagsPath": "/tech-blog/docs/tags",
           "versionEditUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs",
           "versionEditUrlLocalized": "https://github.com/facebook/docusaurus/edit/main/website/i18n/ko/docusaurus-plugin-content-docs/current",
           "versionBanner": null,
@@ -14,9 +14,9 @@
           "versionClassName": "docs-version-current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/sleeplessinwhat/miimmin/miimmin.github.io/sidebars.js",
-          "contentPath": "/Users/sleeplessinwhat/miimmin/miimmin.github.io/docs",
-          "contentPathLocalized": "/Users/sleeplessinwhat/miimmin/miimmin.github.io/i18n/ko/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/sleeplessinwhat/miimmin/tech-blog/sidebars.js",
+          "contentPath": "/Users/sleeplessinwhat/miimmin/tech-blog/docs",
+          "contentPathLocalized": "/Users/sleeplessinwhat/miimmin/tech-blog/i18n/ko/docusaurus-plugin-content-docs/current",
           "mainDocId": "cs/index",
           "sidebars": {
             "cs": [
@@ -209,7 +209,7 @@
               "source": "@site/docs/books/effective-typescript/01.md",
               "sourceDirName": "books/effective-typescript",
               "slug": "/books/effective-typescript/01",
-              "permalink": "/docs/books/effective-typescript/01",
+              "permalink": "/tech-blog/docs/books/effective-typescript/01",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/effective-typescript/01.md",
               "tags": [],
               "version": "current",
@@ -229,7 +229,7 @@
               "source": "@site/docs/books/effective-typescript/02.md",
               "sourceDirName": "books/effective-typescript",
               "slug": "/books/effective-typescript/02",
-              "permalink": "/docs/books/effective-typescript/02",
+              "permalink": "/tech-blog/docs/books/effective-typescript/02",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/effective-typescript/02.md",
               "tags": [],
               "version": "current",
@@ -250,7 +250,7 @@
               "source": "@site/docs/books/effective-typescript/introduction.md",
               "sourceDirName": "books/effective-typescript",
               "slug": "/books/effective-typescript/introduction",
-              "permalink": "/docs/books/effective-typescript/introduction",
+              "permalink": "/tech-blog/docs/books/effective-typescript/introduction",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/effective-typescript/introduction.md",
               "tags": [],
               "version": "current",
@@ -270,7 +270,7 @@
               "source": "@site/docs/books/frameworkless-front-end-development/01.md",
               "sourceDirName": "books/frameworkless-front-end-development",
               "slug": "/books/frameworkless-front-end-development/01",
-              "permalink": "/docs/books/frameworkless-front-end-development/01",
+              "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/01",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/frameworkless-front-end-development/01.md",
               "tags": [],
               "version": "current",
@@ -290,7 +290,7 @@
               "source": "@site/docs/books/frameworkless-front-end-development/02.md",
               "sourceDirName": "books/frameworkless-front-end-development",
               "slug": "/books/frameworkless-front-end-development/02",
-              "permalink": "/docs/books/frameworkless-front-end-development/02",
+              "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/02",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/frameworkless-front-end-development/02.md",
               "tags": [],
               "version": "current",
@@ -310,7 +310,7 @@
               "source": "@site/docs/books/frameworkless-front-end-development/03.md",
               "sourceDirName": "books/frameworkless-front-end-development",
               "slug": "/books/frameworkless-front-end-development/03",
-              "permalink": "/docs/books/frameworkless-front-end-development/03",
+              "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/03",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/frameworkless-front-end-development/03.md",
               "tags": [],
               "version": "current",
@@ -330,7 +330,7 @@
               "source": "@site/docs/books/frameworkless-front-end-development/04.md",
               "sourceDirName": "books/frameworkless-front-end-development",
               "slug": "/books/frameworkless-front-end-development/04",
-              "permalink": "/docs/books/frameworkless-front-end-development/04",
+              "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/04",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/frameworkless-front-end-development/04.md",
               "tags": [],
               "version": "current",
@@ -350,7 +350,7 @@
               "source": "@site/docs/books/frameworkless-front-end-development/05.md",
               "sourceDirName": "books/frameworkless-front-end-development",
               "slug": "/books/frameworkless-front-end-development/05",
-              "permalink": "/docs/books/frameworkless-front-end-development/05",
+              "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/05",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/frameworkless-front-end-development/05.md",
               "tags": [],
               "version": "current",
@@ -370,7 +370,7 @@
               "source": "@site/docs/books/frameworkless-front-end-development/06.md",
               "sourceDirName": "books/frameworkless-front-end-development",
               "slug": "/books/frameworkless-front-end-development/06",
-              "permalink": "/docs/books/frameworkless-front-end-development/06",
+              "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/06",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/frameworkless-front-end-development/06.md",
               "tags": [],
               "version": "current",
@@ -390,7 +390,7 @@
               "source": "@site/docs/books/frameworkless-front-end-development/07.md",
               "sourceDirName": "books/frameworkless-front-end-development",
               "slug": "/books/frameworkless-front-end-development/07",
-              "permalink": "/docs/books/frameworkless-front-end-development/07",
+              "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/07",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/frameworkless-front-end-development/07.md",
               "tags": [],
               "version": "current",
@@ -408,7 +408,7 @@
               "source": "@site/docs/books/frameworkless-front-end-development/introduction.md",
               "sourceDirName": "books/frameworkless-front-end-development",
               "slug": "/books/frameworkless-front-end-development/introduction",
-              "permalink": "/docs/books/frameworkless-front-end-development/introduction",
+              "permalink": "/tech-blog/docs/books/frameworkless-front-end-development/introduction",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/frameworkless-front-end-development/introduction.md",
               "tags": [],
               "version": "current",
@@ -428,7 +428,7 @@
               "source": "@site/docs/books/introduction.md",
               "sourceDirName": "books",
               "slug": "/books/",
-              "permalink": "/docs/books/",
+              "permalink": "/tech-blog/docs/books/",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/introduction.md",
               "tags": [],
               "version": "current",
@@ -451,7 +451,7 @@
               "source": "@site/docs/books/learning-typescript/01.md",
               "sourceDirName": "books/learning-typescript",
               "slug": "/books/learning-typescript/01",
-              "permalink": "/docs/books/learning-typescript/01",
+              "permalink": "/tech-blog/docs/books/learning-typescript/01",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/learning-typescript/01.md",
               "tags": [],
               "version": "current",
@@ -471,7 +471,7 @@
               "source": "@site/docs/books/learning-typescript/02.md",
               "sourceDirName": "books/learning-typescript",
               "slug": "/books/learning-typescript/02",
-              "permalink": "/docs/books/learning-typescript/02",
+              "permalink": "/tech-blog/docs/books/learning-typescript/02",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/learning-typescript/02.md",
               "tags": [],
               "version": "current",
@@ -492,7 +492,7 @@
               "source": "@site/docs/books/learning-typescript/introduction.md",
               "sourceDirName": "books/learning-typescript",
               "slug": "/books/learning-typescript/introduction",
-              "permalink": "/docs/books/learning-typescript/introduction",
+              "permalink": "/tech-blog/docs/books/learning-typescript/introduction",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/books/learning-typescript/introduction.md",
               "tags": [],
               "version": "current",
@@ -512,7 +512,7 @@
               "source": "@site/docs/cs/database/normalization/DeNormalization.md",
               "sourceDirName": "cs/database/normalization",
               "slug": "/cs/database/normalization/DeNormalization",
-              "permalink": "/docs/cs/database/normalization/DeNormalization",
+              "permalink": "/tech-blog/docs/cs/database/normalization/DeNormalization",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/normalization/DeNormalization.md",
               "tags": [],
               "version": "current",
@@ -520,11 +520,11 @@
               "sidebar": "cs",
               "previous": {
                 "title": "정규화",
-                "permalink": "/docs/cs/database/normalization/Normalization"
+                "permalink": "/tech-blog/docs/cs/database/normalization/Normalization"
               },
               "next": {
                 "title": "락",
-                "permalink": "/docs/cs/database/transaction/Lock"
+                "permalink": "/tech-blog/docs/cs/database/transaction/Lock"
               }
             },
             {
@@ -536,7 +536,7 @@
               "source": "@site/docs/cs/database/normalization/Normalization.md",
               "sourceDirName": "cs/database/normalization",
               "slug": "/cs/database/normalization/Normalization",
-              "permalink": "/docs/cs/database/normalization/Normalization",
+              "permalink": "/tech-blog/docs/cs/database/normalization/Normalization",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/normalization/Normalization.md",
               "tags": [],
               "version": "current",
@@ -544,11 +544,11 @@
               "sidebar": "cs",
               "previous": {
                 "title": "인덱스의 자료구조",
-                "permalink": "/docs/cs/database/sql-advanced/IndexDataStructure"
+                "permalink": "/tech-blog/docs/cs/database/sql-advanced/IndexDataStructure"
               },
               "next": {
                 "title": "비정규화 (반정규화)",
-                "permalink": "/docs/cs/database/normalization/DeNormalization"
+                "permalink": "/tech-blog/docs/cs/database/normalization/DeNormalization"
               }
             },
             {
@@ -560,7 +560,7 @@
               "source": "@site/docs/cs/database/rdbms/Integrity.md",
               "sourceDirName": "cs/database/rdbms",
               "slug": "/cs/database/rdbms/Integrity",
-              "permalink": "/docs/cs/database/rdbms/Integrity",
+              "permalink": "/tech-blog/docs/cs/database/rdbms/Integrity",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/rdbms/Integrity.md",
               "tags": [],
               "version": "current",
@@ -568,11 +568,11 @@
               "sidebar": "cs",
               "previous": {
                 "title": "Key",
-                "permalink": "/docs/cs/database/rdbms/Key"
+                "permalink": "/tech-blog/docs/cs/database/rdbms/Key"
               },
               "next": {
                 "title": "인덱스",
-                "permalink": "/docs/cs/database/sql-advanced/Index"
+                "permalink": "/tech-blog/docs/cs/database/sql-advanced/Index"
               }
             },
             {
@@ -584,7 +584,7 @@
               "source": "@site/docs/cs/database/rdbms/Key.md",
               "sourceDirName": "cs/database/rdbms",
               "slug": "/cs/database/rdbms/Key",
-              "permalink": "/docs/cs/database/rdbms/Key",
+              "permalink": "/tech-blog/docs/cs/database/rdbms/Key",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/rdbms/Key.md",
               "tags": [],
               "version": "current",
@@ -592,11 +592,11 @@
               "sidebar": "cs",
               "previous": {
                 "title": "관계대수 vs SQL",
-                "permalink": "/docs/cs/database/sql/relational-algebra/SQLvsRA"
+                "permalink": "/tech-blog/docs/cs/database/sql/relational-algebra/SQLvsRA"
               },
               "next": {
                 "title": "무결성",
-                "permalink": "/docs/cs/database/rdbms/Integrity"
+                "permalink": "/tech-blog/docs/cs/database/rdbms/Integrity"
               }
             },
             {
@@ -608,7 +608,7 @@
               "source": "@site/docs/cs/database/sql-advanced/Index.md",
               "sourceDirName": "cs/database/sql-advanced",
               "slug": "/cs/database/sql-advanced/Index",
-              "permalink": "/docs/cs/database/sql-advanced/Index",
+              "permalink": "/tech-blog/docs/cs/database/sql-advanced/Index",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/sql-advanced/Index.md",
               "tags": [],
               "version": "current",
@@ -616,11 +616,11 @@
               "sidebar": "cs",
               "previous": {
                 "title": "무결성",
-                "permalink": "/docs/cs/database/rdbms/Integrity"
+                "permalink": "/tech-blog/docs/cs/database/rdbms/Integrity"
               },
               "next": {
                 "title": "인덱스의 자료구조",
-                "permalink": "/docs/cs/database/sql-advanced/IndexDataStructure"
+                "permalink": "/tech-blog/docs/cs/database/sql-advanced/IndexDataStructure"
               }
             },
             {
@@ -632,7 +632,7 @@
               "source": "@site/docs/cs/database/sql-advanced/IndexDataStructure.md",
               "sourceDirName": "cs/database/sql-advanced",
               "slug": "/cs/database/sql-advanced/IndexDataStructure",
-              "permalink": "/docs/cs/database/sql-advanced/IndexDataStructure",
+              "permalink": "/tech-blog/docs/cs/database/sql-advanced/IndexDataStructure",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/sql-advanced/IndexDataStructure.md",
               "tags": [],
               "version": "current",
@@ -640,11 +640,11 @@
               "sidebar": "cs",
               "previous": {
                 "title": "인덱스",
-                "permalink": "/docs/cs/database/sql-advanced/Index"
+                "permalink": "/tech-blog/docs/cs/database/sql-advanced/Index"
               },
               "next": {
                 "title": "정규화",
-                "permalink": "/docs/cs/database/normalization/Normalization"
+                "permalink": "/tech-blog/docs/cs/database/normalization/Normalization"
               }
             },
             {
@@ -656,7 +656,7 @@
               "source": "@site/docs/cs/database/sql/relational-algebra/RelatAlgeOperator.md",
               "sourceDirName": "cs/database/sql/relational-algebra",
               "slug": "/cs/database/sql/relational-algebra/RelatAlgeOperator",
-              "permalink": "/docs/cs/database/sql/relational-algebra/RelatAlgeOperator",
+              "permalink": "/tech-blog/docs/cs/database/sql/relational-algebra/RelatAlgeOperator",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/sql/relational-algebra/RelatAlgeOperator.md",
               "tags": [],
               "version": "current",
@@ -664,11 +664,11 @@
               "sidebar": "cs",
               "previous": {
                 "title": "관계대수",
-                "permalink": "/docs/cs/database/sql/relational-algebra/RelationAlgebra"
+                "permalink": "/tech-blog/docs/cs/database/sql/relational-algebra/RelationAlgebra"
               },
               "next": {
                 "title": "관계대수 vs SQL",
-                "permalink": "/docs/cs/database/sql/relational-algebra/SQLvsRA"
+                "permalink": "/tech-blog/docs/cs/database/sql/relational-algebra/SQLvsRA"
               }
             },
             {
@@ -680,7 +680,7 @@
               "source": "@site/docs/cs/database/sql/relational-algebra/RelationAlgebra.md",
               "sourceDirName": "cs/database/sql/relational-algebra",
               "slug": "/cs/database/sql/relational-algebra/RelationAlgebra",
-              "permalink": "/docs/cs/database/sql/relational-algebra/RelationAlgebra",
+              "permalink": "/tech-blog/docs/cs/database/sql/relational-algebra/RelationAlgebra",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/sql/relational-algebra/RelationAlgebra.md",
               "tags": [],
               "version": "current",
@@ -688,11 +688,11 @@
               "sidebar": "cs",
               "previous": {
                 "title": "DDL DML DCL TCL",
-                "permalink": "/docs/cs/database/sql/SQLCommands"
+                "permalink": "/tech-blog/docs/cs/database/sql/SQLCommands"
               },
               "next": {
                 "title": "관계대수의 8대 연산자",
-                "permalink": "/docs/cs/database/sql/relational-algebra/RelatAlgeOperator"
+                "permalink": "/tech-blog/docs/cs/database/sql/relational-algebra/RelatAlgeOperator"
               }
             },
             {
@@ -704,7 +704,7 @@
               "source": "@site/docs/cs/database/sql/relational-algebra/SQLvsRA.md",
               "sourceDirName": "cs/database/sql/relational-algebra",
               "slug": "/cs/database/sql/relational-algebra/SQLvsRA",
-              "permalink": "/docs/cs/database/sql/relational-algebra/SQLvsRA",
+              "permalink": "/tech-blog/docs/cs/database/sql/relational-algebra/SQLvsRA",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/sql/relational-algebra/SQLvsRA.md",
               "tags": [],
               "version": "current",
@@ -712,11 +712,11 @@
               "sidebar": "cs",
               "previous": {
                 "title": "관계대수의 8대 연산자",
-                "permalink": "/docs/cs/database/sql/relational-algebra/RelatAlgeOperator"
+                "permalink": "/tech-blog/docs/cs/database/sql/relational-algebra/RelatAlgeOperator"
               },
               "next": {
                 "title": "Key",
-                "permalink": "/docs/cs/database/rdbms/Key"
+                "permalink": "/tech-blog/docs/cs/database/rdbms/Key"
               }
             },
             {
@@ -728,7 +728,7 @@
               "source": "@site/docs/cs/database/sql/SQL.md",
               "sourceDirName": "cs/database/sql",
               "slug": "/cs/database/sql/SQL",
-              "permalink": "/docs/cs/database/sql/SQL",
+              "permalink": "/tech-blog/docs/cs/database/sql/SQL",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/sql/SQL.md",
               "tags": [],
               "version": "current",
@@ -736,11 +736,11 @@
               "sidebar": "cs",
               "previous": {
                 "title": "개발 이야기",
-                "permalink": "/docs/cs/"
+                "permalink": "/tech-blog/docs/cs/"
               },
               "next": {
                 "title": "DDL DML DCL TCL",
-                "permalink": "/docs/cs/database/sql/SQLCommands"
+                "permalink": "/tech-blog/docs/cs/database/sql/SQLCommands"
               }
             },
             {
@@ -752,7 +752,7 @@
               "source": "@site/docs/cs/database/sql/SQLCommands.md",
               "sourceDirName": "cs/database/sql",
               "slug": "/cs/database/sql/SQLCommands",
-              "permalink": "/docs/cs/database/sql/SQLCommands",
+              "permalink": "/tech-blog/docs/cs/database/sql/SQLCommands",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/sql/SQLCommands.md",
               "tags": [],
               "version": "current",
@@ -760,11 +760,11 @@
               "sidebar": "cs",
               "previous": {
                 "title": "SQL",
-                "permalink": "/docs/cs/database/sql/SQL"
+                "permalink": "/tech-blog/docs/cs/database/sql/SQL"
               },
               "next": {
                 "title": "관계대수",
-                "permalink": "/docs/cs/database/sql/relational-algebra/RelationAlgebra"
+                "permalink": "/tech-blog/docs/cs/database/sql/relational-algebra/RelationAlgebra"
               }
             },
             {
@@ -776,7 +776,7 @@
               "source": "@site/docs/cs/database/transaction/IsolationLevel.md",
               "sourceDirName": "cs/database/transaction",
               "slug": "/cs/database/transaction/IsolationLevel",
-              "permalink": "/docs/cs/database/transaction/IsolationLevel",
+              "permalink": "/tech-blog/docs/cs/database/transaction/IsolationLevel",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/transaction/IsolationLevel.md",
               "tags": [],
               "version": "current",
@@ -784,7 +784,7 @@
               "sidebar": "cs",
               "previous": {
                 "title": "IsolationProblem",
-                "permalink": "/docs/cs/database/transaction/IsolationProblem"
+                "permalink": "/tech-blog/docs/cs/database/transaction/IsolationProblem"
               }
             },
             {
@@ -796,7 +796,7 @@
               "source": "@site/docs/cs/database/transaction/IsolationProblem.md",
               "sourceDirName": "cs/database/transaction",
               "slug": "/cs/database/transaction/IsolationProblem",
-              "permalink": "/docs/cs/database/transaction/IsolationProblem",
+              "permalink": "/tech-blog/docs/cs/database/transaction/IsolationProblem",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/transaction/IsolationProblem.md",
               "tags": [],
               "version": "current",
@@ -804,11 +804,11 @@
               "sidebar": "cs",
               "previous": {
                 "title": "트랜잭션",
-                "permalink": "/docs/cs/database/transaction/Transaction"
+                "permalink": "/tech-blog/docs/cs/database/transaction/Transaction"
               },
               "next": {
                 "title": "IsolationLevel",
-                "permalink": "/docs/cs/database/transaction/IsolationLevel"
+                "permalink": "/tech-blog/docs/cs/database/transaction/IsolationLevel"
               }
             },
             {
@@ -820,7 +820,7 @@
               "source": "@site/docs/cs/database/transaction/Lock.md",
               "sourceDirName": "cs/database/transaction",
               "slug": "/cs/database/transaction/Lock",
-              "permalink": "/docs/cs/database/transaction/Lock",
+              "permalink": "/tech-blog/docs/cs/database/transaction/Lock",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/transaction/Lock.md",
               "tags": [],
               "version": "current",
@@ -828,11 +828,11 @@
               "sidebar": "cs",
               "previous": {
                 "title": "비정규화 (반정규화)",
-                "permalink": "/docs/cs/database/normalization/DeNormalization"
+                "permalink": "/tech-blog/docs/cs/database/normalization/DeNormalization"
               },
               "next": {
                 "title": "락으로 발생하는 문제",
-                "permalink": "/docs/cs/database/transaction/LockProblem"
+                "permalink": "/tech-blog/docs/cs/database/transaction/LockProblem"
               }
             },
             {
@@ -844,7 +844,7 @@
               "source": "@site/docs/cs/database/transaction/LockEscalation.md",
               "sourceDirName": "cs/database/transaction",
               "slug": "/cs/database/transaction/LockEscalation",
-              "permalink": "/docs/cs/database/transaction/LockEscalation",
+              "permalink": "/tech-blog/docs/cs/database/transaction/LockEscalation",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/transaction/LockEscalation.md",
               "tags": [],
               "version": "current",
@@ -852,11 +852,11 @@
               "sidebar": "cs",
               "previous": {
                 "title": "락으로 발생하는 문제",
-                "permalink": "/docs/cs/database/transaction/LockProblem"
+                "permalink": "/tech-blog/docs/cs/database/transaction/LockProblem"
               },
               "next": {
                 "title": "트랜잭션",
-                "permalink": "/docs/cs/database/transaction/Transaction"
+                "permalink": "/tech-blog/docs/cs/database/transaction/Transaction"
               }
             },
             {
@@ -868,7 +868,7 @@
               "source": "@site/docs/cs/database/transaction/LockProblem.md",
               "sourceDirName": "cs/database/transaction",
               "slug": "/cs/database/transaction/LockProblem",
-              "permalink": "/docs/cs/database/transaction/LockProblem",
+              "permalink": "/tech-blog/docs/cs/database/transaction/LockProblem",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/transaction/LockProblem.md",
               "tags": [],
               "version": "current",
@@ -876,11 +876,11 @@
               "sidebar": "cs",
               "previous": {
                 "title": "락",
-                "permalink": "/docs/cs/database/transaction/Lock"
+                "permalink": "/tech-blog/docs/cs/database/transaction/Lock"
               },
               "next": {
                 "title": "Lock Escalation",
-                "permalink": "/docs/cs/database/transaction/LockEscalation"
+                "permalink": "/tech-blog/docs/cs/database/transaction/LockEscalation"
               }
             },
             {
@@ -892,7 +892,7 @@
               "source": "@site/docs/cs/database/transaction/Transaction.md",
               "sourceDirName": "cs/database/transaction",
               "slug": "/cs/database/transaction/Transaction",
-              "permalink": "/docs/cs/database/transaction/Transaction",
+              "permalink": "/tech-blog/docs/cs/database/transaction/Transaction",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/transaction/Transaction.md",
               "tags": [],
               "version": "current",
@@ -900,11 +900,11 @@
               "sidebar": "cs",
               "previous": {
                 "title": "Lock Escalation",
-                "permalink": "/docs/cs/database/transaction/LockEscalation"
+                "permalink": "/tech-blog/docs/cs/database/transaction/LockEscalation"
               },
               "next": {
                 "title": "IsolationProblem",
-                "permalink": "/docs/cs/database/transaction/IsolationProblem"
+                "permalink": "/tech-blog/docs/cs/database/transaction/IsolationProblem"
               }
             },
             {
@@ -916,7 +916,7 @@
               "source": "@site/docs/cs/index.md",
               "sourceDirName": "cs",
               "slug": "/cs/",
-              "permalink": "/docs/cs/",
+              "permalink": "/tech-blog/docs/cs/",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/index.md",
               "tags": [],
               "version": "current",
@@ -929,7 +929,7 @@
               "sidebar": "cs",
               "next": {
                 "title": "SQL",
-                "permalink": "/docs/cs/database/sql/SQL"
+                "permalink": "/tech-blog/docs/cs/database/sql/SQL"
               }
             },
             {
@@ -941,20 +941,20 @@
               "source": "@site/docs/dev/cs/lcp/index.md",
               "sourceDirName": "dev/cs/lcp",
               "slug": "/dev/cs/lcp/index",
-              "permalink": "/docs/dev/cs/lcp/index",
+              "permalink": "/tech-blog/docs/dev/cs/lcp/index",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/cs/lcp/index.md",
               "tags": [
                 {
                   "label": "LCP",
-                  "permalink": "/docs/tags/lcp"
+                  "permalink": "/tech-blog/docs/tags/lcp"
                 },
                 {
                   "label": "web-vital",
-                  "permalink": "/docs/tags/web-vital"
+                  "permalink": "/tech-blog/docs/tags/web-vital"
                 },
                 {
                   "label": "메트릭",
-                  "permalink": "/docs/tags/메트릭"
+                  "permalink": "/tech-blog/docs/tags/메트릭"
                 }
               ],
               "version": "current",
@@ -980,20 +980,20 @@
               "source": "@site/docs/dev/cs/metrics/index.md",
               "sourceDirName": "dev/cs/metrics",
               "slug": "/dev/cs/metrics/index",
-              "permalink": "/docs/dev/cs/metrics/index",
+              "permalink": "/tech-blog/docs/dev/cs/metrics/index",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/cs/metrics/index.md",
               "tags": [
                 {
                   "label": "metrics",
-                  "permalink": "/docs/tags/metrics"
+                  "permalink": "/tech-blog/docs/tags/metrics"
                 },
                 {
                   "label": "성능",
-                  "permalink": "/docs/tags/성능"
+                  "permalink": "/tech-blog/docs/tags/성능"
                 },
                 {
                   "label": "메트릭",
-                  "permalink": "/docs/tags/메트릭"
+                  "permalink": "/tech-blog/docs/tags/메트릭"
                 }
               ],
               "version": "current",
@@ -1019,16 +1019,16 @@
               "source": "@site/docs/dev/cs/stale-while-revalidate/index.md",
               "sourceDirName": "dev/cs/stale-while-revalidate",
               "slug": "/dev/cs/stale-while-revalidate/index",
-              "permalink": "/docs/dev/cs/stale-while-revalidate/index",
+              "permalink": "/tech-blog/docs/dev/cs/stale-while-revalidate/index",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/cs/stale-while-revalidate/index.md",
               "tags": [
                 {
                   "label": "stale-while-revalidate",
-                  "permalink": "/docs/tags/stale-while-revalidate"
+                  "permalink": "/tech-blog/docs/tags/stale-while-revalidate"
                 },
                 {
                   "label": "cache",
-                  "permalink": "/docs/tags/cache"
+                  "permalink": "/tech-blog/docs/tags/cache"
                 }
               ],
               "version": "current",
@@ -1053,16 +1053,16 @@
               "source": "@site/docs/dev/git/another-branch-push.md",
               "sourceDirName": "dev/git",
               "slug": "/dev/git/another-branch-push",
-              "permalink": "/docs/dev/git/another-branch-push",
+              "permalink": "/tech-blog/docs/dev/git/another-branch-push",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/git/another-branch-push.md",
               "tags": [
                 {
                   "label": "github",
-                  "permalink": "/docs/tags/github"
+                  "permalink": "/tech-blog/docs/tags/github"
                 },
                 {
                   "label": "branch",
-                  "permalink": "/docs/tags/branch"
+                  "permalink": "/tech-blog/docs/tags/branch"
                 }
               ],
               "version": "current",
@@ -1087,24 +1087,24 @@
               "source": "@site/docs/dev/git/sync-repository.md",
               "sourceDirName": "dev/git",
               "slug": "/dev/git/sync-repository",
-              "permalink": "/docs/dev/git/sync-repository",
+              "permalink": "/tech-blog/docs/dev/git/sync-repository",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/git/sync-repository.md",
               "tags": [
                 {
                   "label": "git",
-                  "permalink": "/docs/tags/git"
+                  "permalink": "/tech-blog/docs/tags/git"
                 },
                 {
                   "label": "fork",
-                  "permalink": "/docs/tags/fork"
+                  "permalink": "/tech-blog/docs/tags/fork"
                 },
                 {
                   "label": "gitlab",
-                  "permalink": "/docs/tags/gitlab"
+                  "permalink": "/tech-blog/docs/tags/gitlab"
                 },
                 {
                   "label": "github",
-                  "permalink": "/docs/tags/github"
+                  "permalink": "/tech-blog/docs/tags/github"
                 }
               ],
               "version": "current",
@@ -1131,24 +1131,24 @@
               "source": "@site/docs/dev/git/trunk-based-development.md",
               "sourceDirName": "dev/git",
               "slug": "/dev/git/trunk-based-development",
-              "permalink": "/docs/dev/git/trunk-based-development",
+              "permalink": "/tech-blog/docs/dev/git/trunk-based-development",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/git/trunk-based-development.md",
               "tags": [
                 {
                   "label": "git",
-                  "permalink": "/docs/tags/git"
+                  "permalink": "/tech-blog/docs/tags/git"
                 },
                 {
                   "label": "TBD",
-                  "permalink": "/docs/tags/tbd"
+                  "permalink": "/tech-blog/docs/tags/tbd"
                 },
                 {
                   "label": "trunk-based-development",
-                  "permalink": "/docs/tags/trunk-based-development"
+                  "permalink": "/tech-blog/docs/tags/trunk-based-development"
                 },
                 {
                   "label": "브랜치 전략",
-                  "permalink": "/docs/tags/브랜치-전략"
+                  "permalink": "/tech-blog/docs/tags/브랜치-전략"
                 }
               ],
               "version": "current",
@@ -1175,16 +1175,16 @@
               "source": "@site/docs/dev/htmlcss/scrollbar-gutter/index.md",
               "sourceDirName": "dev/htmlcss/scrollbar-gutter",
               "slug": "/dev/htmlcss/scrollbar-gutter/index",
-              "permalink": "/docs/dev/htmlcss/scrollbar-gutter/index",
+              "permalink": "/tech-blog/docs/dev/htmlcss/scrollbar-gutter/index",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/htmlcss/scrollbar-gutter/index.md",
               "tags": [
                 {
                   "label": "css",
-                  "permalink": "/docs/tags/css"
+                  "permalink": "/tech-blog/docs/tags/css"
                 },
                 {
                   "label": "scrollbar-gutter",
-                  "permalink": "/docs/tags/scrollbar-gutter"
+                  "permalink": "/tech-blog/docs/tags/scrollbar-gutter"
                 }
               ],
               "version": "current",
@@ -1209,7 +1209,7 @@
               "source": "@site/docs/dev/index.md",
               "sourceDirName": "dev",
               "slug": "/dev/",
-              "permalink": "/docs/dev/",
+              "permalink": "/tech-blog/docs/dev/",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/index.md",
               "tags": [],
               "version": "current",
@@ -1222,7 +1222,7 @@
               "sidebar": "dev",
               "next": {
                 "title": "Nplus1",
-                "permalink": "/docs/dev/issue/Nplus1"
+                "permalink": "/tech-blog/docs/dev/issue/Nplus1"
               }
             },
             {
@@ -1234,7 +1234,7 @@
               "source": "@site/docs/dev/issue/DirtyCheckingPerformance.md",
               "sourceDirName": "dev/issue",
               "slug": "/dev/issue/DirtyCheckingPerformance",
-              "permalink": "/docs/dev/issue/DirtyCheckingPerformance",
+              "permalink": "/tech-blog/docs/dev/issue/DirtyCheckingPerformance",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/issue/DirtyCheckingPerformance.md",
               "tags": [],
               "version": "current",
@@ -1242,7 +1242,7 @@
               "sidebar": "dev",
               "previous": {
                 "title": "MultipleFetchJoin",
-                "permalink": "/docs/dev/issue/MultipleFetchJoin"
+                "permalink": "/tech-blog/docs/dev/issue/MultipleFetchJoin"
               }
             },
             {
@@ -1254,7 +1254,7 @@
               "source": "@site/docs/dev/issue/MultipleFetchJoin.md",
               "sourceDirName": "dev/issue",
               "slug": "/dev/issue/MultipleFetchJoin",
-              "permalink": "/docs/dev/issue/MultipleFetchJoin",
+              "permalink": "/tech-blog/docs/dev/issue/MultipleFetchJoin",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/issue/MultipleFetchJoin.md",
               "tags": [],
               "version": "current",
@@ -1262,11 +1262,11 @@
               "sidebar": "dev",
               "previous": {
                 "title": "Nplus1",
-                "permalink": "/docs/dev/issue/Nplus1"
+                "permalink": "/tech-blog/docs/dev/issue/Nplus1"
               },
               "next": {
                 "title": "DirtyCheckingPerformance",
-                "permalink": "/docs/dev/issue/DirtyCheckingPerformance"
+                "permalink": "/tech-blog/docs/dev/issue/DirtyCheckingPerformance"
               }
             },
             {
@@ -1278,7 +1278,7 @@
               "source": "@site/docs/dev/issue/Nplus1.md",
               "sourceDirName": "dev/issue",
               "slug": "/dev/issue/Nplus1",
-              "permalink": "/docs/dev/issue/Nplus1",
+              "permalink": "/tech-blog/docs/dev/issue/Nplus1",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/issue/Nplus1.md",
               "tags": [],
               "version": "current",
@@ -1286,11 +1286,11 @@
               "sidebar": "dev",
               "previous": {
                 "title": "개발 이야기",
-                "permalink": "/docs/dev/"
+                "permalink": "/tech-blog/docs/dev/"
               },
               "next": {
                 "title": "MultipleFetchJoin",
-                "permalink": "/docs/dev/issue/MultipleFetchJoin"
+                "permalink": "/tech-blog/docs/dev/issue/MultipleFetchJoin"
               }
             },
             {
@@ -1302,36 +1302,36 @@
               "source": "@site/docs/dev/jsts/variables/index.md",
               "sourceDirName": "dev/jsts/variables",
               "slug": "/dev/jsts/variables/index",
-              "permalink": "/docs/dev/jsts/variables/index",
+              "permalink": "/tech-blog/docs/dev/jsts/variables/index",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/jsts/variables/index.md",
               "tags": [
                 {
                   "label": "let",
-                  "permalink": "/docs/tags/let"
+                  "permalink": "/tech-blog/docs/tags/let"
                 },
                 {
                   "label": "const",
-                  "permalink": "/docs/tags/const"
+                  "permalink": "/tech-blog/docs/tags/const"
                 },
                 {
                   "label": "variables",
-                  "permalink": "/docs/tags/variables"
+                  "permalink": "/tech-blog/docs/tags/variables"
                 },
                 {
                   "label": "상수",
-                  "permalink": "/docs/tags/상수"
+                  "permalink": "/tech-blog/docs/tags/상수"
                 },
                 {
                   "label": "변수",
-                  "permalink": "/docs/tags/변수"
+                  "permalink": "/tech-blog/docs/tags/변수"
                 },
                 {
                   "label": "object-freeze",
-                  "permalink": "/docs/tags/object-freeze"
+                  "permalink": "/tech-blog/docs/tags/object-freeze"
                 },
                 {
                   "label": "deep-copy",
-                  "permalink": "/docs/tags/deep-copy"
+                  "permalink": "/tech-blog/docs/tags/deep-copy"
                 }
               ],
               "version": "current",
@@ -1361,16 +1361,16 @@
               "source": "@site/docs/dev/php/avocadoedition-light-add-emoticon/index.md",
               "sourceDirName": "dev/php/avocadoedition-light-add-emoticon",
               "slug": "/dev/php/avocadoedition-light-add-emoticon/index",
-              "permalink": "/docs/dev/php/avocadoedition-light-add-emoticon/index",
+              "permalink": "/tech-blog/docs/dev/php/avocadoedition-light-add-emoticon/index",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/php/avocadoedition-light-add-emoticon/index.md",
               "tags": [
                 {
                   "label": "아보카도 에디션 라이트",
-                  "permalink": "/docs/tags/아보카도-에디션-라이트"
+                  "permalink": "/tech-blog/docs/tags/아보카도-에디션-라이트"
                 },
                 {
                   "label": "이모티콘",
-                  "permalink": "/docs/tags/이모티콘"
+                  "permalink": "/tech-blog/docs/tags/이모티콘"
                 }
               ],
               "version": "current",
@@ -1395,12 +1395,12 @@
               "source": "@site/docs/dev/react/hook/index.md",
               "sourceDirName": "dev/react/hook",
               "slug": "/dev/react/hook/index",
-              "permalink": "/docs/dev/react/hook/index",
+              "permalink": "/tech-blog/docs/dev/react/hook/index",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/react/hook/index.md",
               "tags": [
                 {
                   "label": "hook",
-                  "permalink": "/docs/tags/hook"
+                  "permalink": "/tech-blog/docs/tags/hook"
                 }
               ],
               "version": "current",
@@ -1424,16 +1424,16 @@
               "source": "@site/docs/dev/react/nextjs-optimization/index.md",
               "sourceDirName": "dev/react/nextjs-optimization",
               "slug": "/dev/react/nextjs-optimization/index",
-              "permalink": "/docs/dev/react/nextjs-optimization/index",
+              "permalink": "/tech-blog/docs/dev/react/nextjs-optimization/index",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/dev/react/nextjs-optimization/index.md",
               "tags": [
                 {
                   "label": "최적화",
-                  "permalink": "/docs/tags/최적화"
+                  "permalink": "/tech-blog/docs/tags/최적화"
                 },
                 {
                   "label": "nextjs",
-                  "permalink": "/docs/tags/nextjs"
+                  "permalink": "/tech-blog/docs/tags/nextjs"
                 }
               ],
               "version": "current",
@@ -1458,7 +1458,7 @@
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/docs/intro",
+              "permalink": "/tech-blog/docs/intro",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/intro.md",
               "tags": [],
               "version": "current",
@@ -1476,7 +1476,7 @@
               "source": "@site/docs/tutorial-basics/congratulations.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/congratulations",
-              "permalink": "/docs/tutorial-basics/congratulations",
+              "permalink": "/tech-blog/docs/tutorial-basics/congratulations",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/congratulations.md",
               "tags": [],
               "version": "current",
@@ -1494,7 +1494,7 @@
               "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/create-a-blog-post",
-              "permalink": "/docs/tutorial-basics/create-a-blog-post",
+              "permalink": "/tech-blog/docs/tutorial-basics/create-a-blog-post",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/create-a-blog-post.md",
               "tags": [],
               "version": "current",
@@ -1512,7 +1512,7 @@
               "source": "@site/docs/tutorial-basics/create-a-document.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/create-a-document",
-              "permalink": "/docs/tutorial-basics/create-a-document",
+              "permalink": "/tech-blog/docs/tutorial-basics/create-a-document",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/create-a-document.md",
               "tags": [],
               "version": "current",
@@ -1530,7 +1530,7 @@
               "source": "@site/docs/tutorial-basics/create-a-page.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/create-a-page",
-              "permalink": "/docs/tutorial-basics/create-a-page",
+              "permalink": "/tech-blog/docs/tutorial-basics/create-a-page",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/create-a-page.md",
               "tags": [],
               "version": "current",
@@ -1548,7 +1548,7 @@
               "source": "@site/docs/tutorial-basics/deploy-your-site.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/deploy-your-site",
-              "permalink": "/docs/tutorial-basics/deploy-your-site",
+              "permalink": "/tech-blog/docs/tutorial-basics/deploy-your-site",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/deploy-your-site.md",
               "tags": [],
               "version": "current",
@@ -1566,7 +1566,7 @@
               "source": "@site/docs/tutorial-basics/markdown-features.mdx",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/markdown-features",
-              "permalink": "/docs/tutorial-basics/markdown-features",
+              "permalink": "/tech-blog/docs/tutorial-basics/markdown-features",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/markdown-features.mdx",
               "tags": [],
               "version": "current",
@@ -1584,7 +1584,7 @@
               "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/manage-docs-versions",
-              "permalink": "/docs/tutorial-extras/manage-docs-versions",
+              "permalink": "/tech-blog/docs/tutorial-extras/manage-docs-versions",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-extras/manage-docs-versions.md",
               "tags": [],
               "version": "current",
@@ -1602,7 +1602,7 @@
               "source": "@site/docs/tutorial-extras/translate-your-site.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/translate-your-site",
-              "permalink": "/docs/tutorial-extras/translate-your-site",
+              "permalink": "/tech-blog/docs/tutorial-extras/translate-your-site",
               "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-extras/translate-your-site.md",
               "tags": [],
               "version": "current",
@@ -1623,7 +1623,7 @@
         {
           "id": "welcome",
           "metadata": {
-            "permalink": "/blog/welcome",
+            "permalink": "/tech-blog/blog/welcome",
             "source": "@site/blog/2021-08-26-welcome/index.md",
             "title": "Welcome",
             "description": "Docusaurus blogging features are powered by the blog plugin.",
@@ -1632,15 +1632,15 @@
             "tags": [
               {
                 "label": "facebook",
-                "permalink": "/blog/tags/facebook"
+                "permalink": "/tech-blog/blog/tags/facebook"
               },
               {
                 "label": "hello",
-                "permalink": "/blog/tags/hello"
+                "permalink": "/tech-blog/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/tech-blog/blog/tags/docusaurus"
               }
             ],
             "truncated": false,
@@ -1662,14 +1662,14 @@
             ],
             "nextItem": {
               "title": "MDX Blog Post",
-              "permalink": "/blog/mdx-blog-post"
+              "permalink": "/tech-blog/blog/mdx-blog-post"
             }
           }
         },
         {
           "id": "mdx-blog-post",
           "metadata": {
-            "permalink": "/blog/mdx-blog-post",
+            "permalink": "/tech-blog/blog/mdx-blog-post",
             "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
             "title": "MDX Blog Post",
             "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
@@ -1678,7 +1678,7 @@
             "tags": [
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/tech-blog/blog/tags/docusaurus"
               }
             ],
             "truncated": false,
@@ -1693,18 +1693,18 @@
             ],
             "prevItem": {
               "title": "Welcome",
-              "permalink": "/blog/welcome"
+              "permalink": "/tech-blog/blog/welcome"
             },
             "nextItem": {
               "title": "Long Blog Post",
-              "permalink": "/blog/long-blog-post"
+              "permalink": "/tech-blog/blog/long-blog-post"
             }
           }
         },
         {
           "id": "long-blog-post",
           "metadata": {
-            "permalink": "/blog/long-blog-post",
+            "permalink": "/tech-blog/blog/long-blog-post",
             "source": "@site/blog/2019-05-29-long-blog-post.md",
             "title": "Long Blog Post",
             "description": "This is the summary of a very long blog post,",
@@ -1713,11 +1713,11 @@
             "tags": [
               {
                 "label": "hello",
-                "permalink": "/blog/tags/hello"
+                "permalink": "/tech-blog/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/tech-blog/blog/tags/docusaurus"
               }
             ],
             "truncated": true,
@@ -1732,18 +1732,18 @@
             ],
             "prevItem": {
               "title": "MDX Blog Post",
-              "permalink": "/blog/mdx-blog-post"
+              "permalink": "/tech-blog/blog/mdx-blog-post"
             },
             "nextItem": {
               "title": "First Blog Post",
-              "permalink": "/blog/first-blog-post"
+              "permalink": "/tech-blog/blog/first-blog-post"
             }
           }
         },
         {
           "id": "first-blog-post",
           "metadata": {
-            "permalink": "/blog/first-blog-post",
+            "permalink": "/tech-blog/blog/first-blog-post",
             "source": "@site/blog/2019-05-28-first-blog-post.md",
             "title": "First Blog Post",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
@@ -1752,11 +1752,11 @@
             "tags": [
               {
                 "label": "hola",
-                "permalink": "/blog/tags/hola"
+                "permalink": "/tech-blog/blog/tags/hola"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/tech-blog/blog/tags/docusaurus"
               }
             ],
             "truncated": false,
@@ -1771,7 +1771,7 @@
             ],
             "prevItem": {
               "title": "Long Blog Post",
-              "permalink": "/blog/long-blog-post"
+              "permalink": "/tech-blog/blog/long-blog-post"
             }
           }
         }
@@ -1779,7 +1779,7 @@
       "blogListPaginated": [
         {
           "metadata": {
-            "permalink": "/blog",
+            "permalink": "/tech-blog/blog",
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
@@ -1798,22 +1798,22 @@
         }
       ],
       "blogTags": {
-        "/blog/tags/facebook": {
+        "/tech-blog/blog/tags/facebook": {
           "name": "facebook",
           "items": [
             "welcome"
           ],
-          "permalink": "/blog/tags/facebook"
+          "permalink": "/tech-blog/blog/tags/facebook"
         },
-        "/blog/tags/hello": {
+        "/tech-blog/blog/tags/hello": {
           "name": "hello",
           "items": [
             "welcome",
             "long-blog-post"
           ],
-          "permalink": "/blog/tags/hello"
+          "permalink": "/tech-blog/blog/tags/hello"
         },
-        "/blog/tags/docusaurus": {
+        "/tech-blog/blog/tags/docusaurus": {
           "name": "docusaurus",
           "items": [
             "welcome",
@@ -1821,17 +1821,17 @@
             "long-blog-post",
             "first-blog-post"
           ],
-          "permalink": "/blog/tags/docusaurus"
+          "permalink": "/tech-blog/blog/tags/docusaurus"
         },
-        "/blog/tags/hola": {
+        "/tech-blog/blog/tags/hola": {
           "name": "hola",
           "items": [
             "first-blog-post"
           ],
-          "permalink": "/blog/tags/hola"
+          "permalink": "/tech-blog/blog/tags/hola"
         }
       },
-      "blogTagsListPath": "/blog/tags"
+      "blogTagsListPath": "/tech-blog/blog/tags"
     },
     "developer": {
       "blogSidebarTitle": "Developer DOC",
@@ -1839,7 +1839,7 @@
         {
           "id": "이상민 Backend Developer",
           "metadata": {
-            "permalink": "/developer/Resume",
+            "permalink": "/tech-blog/developer/Resume",
             "source": "@site/developer/Resume.mdx",
             "title": "이상민 Backend Developer",
             "description": "git    &ensp;",
@@ -1850,14 +1850,14 @@
             "authors": [],
             "nextItem": {
               "title": "이상민 Backend Developer",
-              "permalink": "/developer/Resume_REF"
+              "permalink": "/tech-blog/developer/Resume_REF"
             }
           }
         },
         {
           "id": "이상민 Backend Developer",
           "metadata": {
-            "permalink": "/developer/Resume_REF",
+            "permalink": "/tech-blog/developer/Resume_REF",
             "source": "@site/developer/Resume_REF.mdx",
             "title": "이상민 Backend Developer",
             "description": "git    &ensp;",
@@ -1866,25 +1866,25 @@
             "tags": [
               {
                 "label": "프리온보딩",
-                "permalink": "/developer/tags/프리온보딩"
+                "permalink": "/tech-blog/developer/tags/프리온보딩"
               }
             ],
             "truncated": false,
             "authors": [],
             "prevItem": {
               "title": "이상민 Backend Developer",
-              "permalink": "/developer/Resume"
+              "permalink": "/tech-blog/developer/Resume"
             },
             "nextItem": {
               "title": "이상민 Backend Developer",
-              "permalink": "/developer/Sangmin"
+              "permalink": "/tech-blog/developer/Sangmin"
             }
           }
         },
         {
           "id": "이상민 Backend Developer",
           "metadata": {
-            "permalink": "/developer/Sangmin",
+            "permalink": "/tech-blog/developer/Sangmin",
             "source": "@site/developer/Sangmin.mdx",
             "title": "이상민 Backend Developer",
             "description": "git    &ensp;",
@@ -1895,7 +1895,7 @@
             "authors": [],
             "prevItem": {
               "title": "이상민 Backend Developer",
-              "permalink": "/developer/Resume_REF"
+              "permalink": "/tech-blog/developer/Resume_REF"
             }
           }
         }
@@ -1903,7 +1903,7 @@
       "blogListPaginated": [
         {
           "metadata": {
-            "permalink": "/developer",
+            "permalink": "/tech-blog/developer",
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
@@ -1921,27 +1921,27 @@
         }
       ],
       "blogTags": {
-        "/developer/tags/프리온보딩": {
+        "/tech-blog/developer/tags/프리온보딩": {
           "name": "프리온보딩",
           "items": [
             "이상민 Backend Developer"
           ],
-          "permalink": "/developer/tags/프리온보딩"
+          "permalink": "/tech-blog/developer/tags/프리온보딩"
         }
       },
-      "blogTagsListPath": "/developer/tags"
+      "blogTagsListPath": "/tech-blog/developer/tags"
     }
   },
   "docusaurus-plugin-content-pages": {
     "default": [
       {
         "type": "jsx",
-        "permalink": "/",
+        "permalink": "/tech-blog/",
         "source": "@site/src/pages/index.js"
       },
       {
         "type": "mdx",
-        "permalink": "/markdown-page",
+        "permalink": "/tech-blog/markdown-page",
         "source": "@site/src/pages/markdown-page.md"
       }
     ]

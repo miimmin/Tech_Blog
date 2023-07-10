@@ -1,0 +1,67 @@
+{
+  "blogPosts": [
+    {
+      "id": "이상민 Backend Developer",
+      "metadata": {
+        "permalink": "/tech-blog/developer/Resume",
+        "source": "@site/developer/Resume.mdx",
+        "title": "이상민 Backend Developer",
+        "description": "git    &ensp;",
+        "date": "2023-06-01T00:00:00.000Z",
+        "formattedDate": "2023년 6월 1일",
+        "tags": [],
+        "truncated": false,
+        "authors": [],
+        "nextItem": {
+          "title": "이상민 Backend Developer",
+          "permalink": "/tech-blog/developer/Resume_REF"
+        }
+      }
+    },
+    {
+      "id": "이상민 Backend Developer",
+      "metadata": {
+        "permalink": "/tech-blog/developer/Resume_REF",
+        "source": "@site/developer/Resume_REF.mdx",
+        "title": "이상민 Backend Developer",
+        "description": "git    &ensp;",
+        "date": "2023-06-01T00:00:00.000Z",
+        "formattedDate": "2023년 6월 1일",
+        "tags": [
+          {
+            "label": "프리온보딩",
+            "permalink": "/tech-blog/developer/tags/프리온보딩"
+          }
+        ],
+        "truncated": false,
+        "authors": [],
+        "prevItem": {
+          "title": "이상민 Backend Developer",
+          "permalink": "/tech-blog/developer/Resume"
+        },
+        "nextItem": {
+          "title": "이상민 Backend Developer",
+          "permalink": "/tech-blog/developer/Sangmin"
+        }
+      }
+    },
+    {
+      "id": "이상민 Backend Developer",
+      "metadata": {
+        "permalink": "/tech-blog/developer/Sangmin",
+        "source": "@site/developer/Sangmin.mdx",
+        "title": "이상민 Backend Developer",
+        "description": "git    &ensp;",
+        "date": "2023-06-01T00:00:00.000Z",
+        "formattedDate": "2023년 6월 1일",
+        "tags": [],
+        "truncated": false,
+        "authors": [],
+        "prevItem": {
+          "title": "이상민 Backend Developer",
+          "permalink": "/tech-blog/developer/Resume_REF"
+        }
+      }
+    }
+  ]
+}

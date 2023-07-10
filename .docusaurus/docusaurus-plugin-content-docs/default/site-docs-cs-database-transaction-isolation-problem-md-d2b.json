@@ -7,7 +7,7 @@
   "source": "@site/docs/cs/database/transaction/IsolationProblem.md",
   "sourceDirName": "cs/database/transaction",
   "slug": "/cs/database/transaction/IsolationProblem",
-  "permalink": "/docs/cs/database/transaction/IsolationProblem",
+  "permalink": "/tech-blog/docs/cs/database/transaction/IsolationProblem",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/cs/database/transaction/IsolationProblem.md",
   "tags": [],
   "version": "current",
@@ -15,10 +15,10 @@
   "sidebar": "cs",
   "previous": {
     "title": "트랜잭션",
-    "permalink": "/docs/cs/database/transaction/Transaction"
+    "permalink": "/tech-blog/docs/cs/database/transaction/Transaction"
   },
   "next": {
     "title": "IsolationLevel",
-    "permalink": "/docs/cs/database/transaction/IsolationLevel"
+    "permalink": "/tech-blog/docs/cs/database/transaction/IsolationLevel"
   }
 }

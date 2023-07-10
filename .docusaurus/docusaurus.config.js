@@ -2,12 +2,12 @@ export default {
   "title": "상민!",
   "tagline": "Dinosaurs are cool",
   "url": "https://miimmin.github.io",
-  "baseUrl": "/",
+  "baseUrl": "/tech-blog/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/melting.ico",
   "organizationName": "miimmin",
-  "projectName": "miimmin.github.io",
+  "projectName": "tech-blog",
   "i18n": {
     "defaultLocale": "ko",
     "locales": [
@@ -20,7 +20,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/Users/sleeplessinwhat/miimmin/miimmin.github.io/sidebars.js",
+          "sidebarPath": "/Users/sleeplessinwhat/miimmin/tech-blog/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/"
         },
         "blog": {
@@ -28,7 +28,7 @@ export default {
           "editLocalizedFiles": false
         },
         "theme": {
-          "customCss": "/Users/sleeplessinwhat/miimmin/miimmin.github.io/src/css/custom.css"
+          "customCss": "/Users/sleeplessinwhat/miimmin/tech-blog/src/css/custom.css"
         }
       }
     ]
