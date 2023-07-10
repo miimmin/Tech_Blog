@@ -7,7 +7,7 @@ export default {
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/melting.ico",
   "organizationName": "miimmin",
-  "projectName": "Tech-Blog",
+  "projectName": "miimmin.github.io",
   "i18n": {
     "defaultLocale": "ko",
     "locales": [
