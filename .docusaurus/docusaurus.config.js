@@ -8,6 +8,13 @@ export default {
   "favicon": "img/melting.ico",
   "organizationName": "miimmin",
   "projectName": "tech-blog",
+  "i18n": {
+    "defaultLocale": "ko",
+    "locales": [
+      "ko"
+    ],
+    "localeConfigs": {}
+  },
   "presets": [
     [
       "@docusaurus/preset-classic",
@@ -285,13 +292,6 @@ export default {
     ]
   ],
   "baseUrlIssueBanner": true,
-  "i18n": {
-    "defaultLocale": "en",
-    "locales": [
-      "en"
-    ],
-    "localeConfigs": {}
-  },
   "onDuplicateRoutes": "warn",
   "customFields": {},
   "themes": [],
