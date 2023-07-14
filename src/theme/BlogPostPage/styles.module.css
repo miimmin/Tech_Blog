@@ -27,8 +27,83 @@
 .outer {
     display: flex;
 }
-
 .inner {
-    margin-left: 20%;
-    margin-right: 7%;
+    margin-left: 4%;
+    margin-right: 4%;
 }
+
+/*.inner {*/
+/*    margin-left: 20%;*/
+/*    margin-right: 7%;*/
+/*}*/
+
+/*highlight {*/
+/*    !* inset | offset-x | offset-y | color *!*/
+/*    box-shadow: inset 0 -15px 0 #dbdbff;*/
+/*    !*background: linear-gradient(to top, #dbdbff 40%, transparent 40%);*!*/
+
+/*}*/
+
+highlight {
+    position: relative;
+}
+
+highlight:after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left:  5px;
+    width: 100%;
+    height: 35%;
+    background-color: #dbdbff;
+    z-index: -1;
+    border-radius: 5px;
+}
+
+/*.highlight {*/
+/*    position: relative;*/
+/*}*/
+
+/*highlight:after {*/
+/*    content: '';*/
+/*    display: inline-block;*/
+/*    position: absolute;*/
+/*    height: 12px;*/
+/*    width: 105%;*/
+/*    bottom: 10px;*/
+/*    background-color: #a0daa9;*/
+/*    opacity: 0.5;*/
+/*    left: 0;*/
+/*}*/
+
+highlight2 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    display: inline-block;
+}
+
+highlight2::before {
+    position: absolute;
+    display: inline-block;
+    top: 0;
+    right: -14px;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    content: '';
+}
+
+highlight2::before {
+    background-color: #6e6eff;
+}
+
+
+
+box1 {
+    margin:2em auto;
+    padding:2em;
+    border:solid 2px #A5A19A;
+}
+
+

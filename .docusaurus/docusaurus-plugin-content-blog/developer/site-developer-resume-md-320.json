@@ -1,11 +1,15 @@
 {
-  "permalink": "/developer/Resume",
+  "permalink": "/tech-blog/developer/Resume",
   "source": "@site/developer/Resume.md",
-  "title": "이상민",
-  "description": "저는 ______ 하는 엔지니어입니다.",
+  "title": "이상민 Backend Developer",
+  "description": "git    &ensp;",
   "date": "2023-06-01T00:00:00.000Z",
   "formattedDate": "2023년 6월 1일",
   "tags": [],
   "truncated": false,
-  "authors": []
+  "authors": [],
+  "nextItem": {
+    "title": "이상민 Backend Developer",
+    "permalink": "/tech-blog/developer/Resume_REF"
+  }
 }
