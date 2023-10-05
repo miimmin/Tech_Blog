@@ -4,14 +4,21 @@
         <title>상민! Blog</title>
         <link>https://miimmin.github.io/tech-blog/developer</link>
         <description>상민! Blog</description>
-        <lastBuildDate>Thu, 01 Jun 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 10:54:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[이상민 Backend Developer]]></title>
+            <link>https://miimmin.github.io/tech-blog/developer/Temp</link>
+            <guid>이상민 Backend Developer</guid>
+            <pubDate>Thu, 05 Oct 2023 10:54:11 GMT</pubDate>
+            <description><![CDATA[Introduction]]></description>
+        </item>
+        <item>
+            <title><![CDATA[이상민 Backend Developer]]></title>
             <link>https://miimmin.github.io/tech-blog/developer/Resume</link>
             <guid>이상민 Backend Developer</guid>
-            <pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 10 Jul 2023 10:25:31 GMT</pubDate>
             <description><![CDATA[git    &ensp;]]></description>
         </item>
         <item>
@@ -27,13 +34,6 @@
             <guid>이상민 Backend Developer</guid>
             <pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[git    &ensp;]]></description>
-        </item>
-        <item>
-            <title><![CDATA[이상민 Backend Developer]]></title>
-            <link>https://miimmin.github.io/tech-blog/developer/Temp</link>
-            <guid>이상민 Backend Developer</guid>
-            <pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Introduction]]></description>
         </item>
     </channel>
 </rss>
